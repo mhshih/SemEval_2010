@@ -1,0 +1,43 @@
+
+
+                             SEMEVAL-2010
+			    --------------
+
+  TASK 17: All-words Word Sense Disambiguation on a Specific Domain
+
+			     (WSD-domain)
+
+
+
+Instructions for participation:
+---------------------------------
+
+At test time, the participants will need to tag the marked nouns and
+verbs in the test documents.
+
+The sense inventory is based on WordNet and will include all words,
+multiwords and senses to be used.
+
+The organizers also include some background documents, which the
+participants can use to tune their WSD algorithms.
+
+
+Steps:
+
+   1. join the mailing list
+   2. register in SemEval website
+   3. download the trial data from SemEval website
+   4. download background text 
+   5. get wordnets of respective languages 
+   6. download test data from SemEval website 
+   7. upload results (up to three different system runs) to SemEval website
+   8. write a paper
+
+Check the task website for more details on the above:
+
+ http://xmlgroup.iit.cnr.it/SemEval2010/
+
+We recommend that participants join the task mailing list:
+
+ http://groups.google.com/group/WSD-domain
+

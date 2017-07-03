@@ -1,0 +1,27 @@
+
+
+                             SEMEVAL-2010
+			    --------------
+
+  TASK 17: All-words Word Sense Disambiguation on a Specific Domain
+
+			     (WSD-domain)
+
+
+
+Instructions for participations:
+---------------------------------
+
+At test time, the pariticipants will need to tag the marked nouns, adjectives
+and verbs, including multiword units, in the test documents. 
+
+The sense inventory is based on WordNet and will specify target words, 
+multiwords and senses to be tagged.
+
+The organizers also include some background documents, which the participants 
+can use to tune their WSD algorithms.
+
+We recommend that potential participants join the task mailing list:
+
+ http://groups.google.com/group/WSD-domain
+

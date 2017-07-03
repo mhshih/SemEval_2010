@@ -1,0 +1,8530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE corpus SYSTEM  "all-words.dtd">
+<corpus lang="nl">
+
+<text id="nl1">
+<s>
+Nederlandse
+<head id="nl1.s001.t1.3">editie</head>
+Living
+Planet
+Report
+2008
+</s>
+<s>
+<head id="nl1.s002.t2.1">Inleiding</head>
+</s>
+<s>
+We
+<head id="nl1.s003.t3.3">hebben</head>
+maar
+één
+<head id="nl1.s003.t3.7">aarde</head>
+.
+</s>
+<s>
+Zij
+<head id="nl1.s004.t4.5">kan</head>
+in
+ons
+<head id="nl1.s004.t4.13">onderhoud</head>
+en
+dat
+van
+vele
+<head id="nl1.s004.t4.21">soorten</head>
+dieren
+en
+planten
+voorzien
+,
+maar
+haar
+<head id="nl1.s004.t4.31">capaciteit</head>
+<head id="nl1.s004.t4.32">heeft</head>
+<head id="nl1.s004.t4.33">grenzen</head>
+.
+</s>
+<s>
+Al
+decennia
+lang
+<head id="nl1.s005.t5.7">overvraagt</head>
+de
+<head id="nl1.s005.t5.10">mens</head>
+wereldwijd
+dit
+natuurlijke
+<head id="nl1.s005.t5.15">vermogen</head>
+.
+</s>
+<s>
+Ook
+Nederlanders
+<head id="nl1.s006.t6.5">leven</head>
+op
+een
+te
+grote
+voet
+.
+</s>
+<s>
+Dit
+<head id="nl1.s007.t7.4">heeft</head>
+niet
+alleen
+<head id="nl1.s007.t7.9">consequenties</head>
+voor
+de
+gezondheid
+van
+de
+ecosystemen
+<components>
+	<head id="nl1.s007.t7.20.1" lemma="systeem"/>
+</components>
+op
+<head id="nl1.s007.t7.23">aarde</head>
+,
+maar
+uiteindelijk
+ook
+voor
+ons
+zelf
+.
+</s>
+<s>
+Dit
+<head id="nl1.s008.t8.5">rapport</head>
+<head id="nl1.s008.t8.6">is</head>
+<head id="nl1.s008.t8.9">gebaseerd</head>
+op
+het
+Living
+Planet
+Report
+2008
+van
+het
+internationale
+WWF.1
+Het
+internationale
+<head id="nl1.s008.t8.30">rapport</head>
+<head id="nl1.s008.t8.31">toont</head>
+aan
+dat
+wereldwijd
+de
+soortenrijkdom
+<components>
+	<head id="nl1.s008.t8.39.0" lemma="soort"/>
+	<head id="nl1.s008.t8.39.1" lemma="rijkdom"/>
+</components>
+achteruit
+<head id="nl1.s008.t8.41">gaat</head>
+en
+<head id="nl1.s008.t8.45">laat</head>
+<head id="nl1.s008.t8.46">zien</head>
+hoe
+en
+in
+welke
+mate
+de
+<head id="nl1.s008.t8.60">mens</head>
+het
+regeneratievermogen
+van
+de
+<head id="nl1.s008.t8.68">aarde</head>
+<head id="nl1.s008.t8.69">overvraagt</head>
+.
+</s>
+<s>
+Dit
+Nederlandse
+<head id="nl1.s009.t9.6">rapport</head>
+<head id="nl1.s009.t9.7">bevat</head>
+de
+<head id="nl1.s009.t9.10">hoofdlijnen</head>
+van
+het
+Engelstalige
+internationale
+<head id="nl1.s009.t9.17">rapport</head>
+,
+een
+verduidelijking
+van
+de
+Nederlandse
+<head id="nl1.s009.t9.27">consumptie</head>
+van
+natuurlijke
+hulpbronnen
+maar
+ook
+<head id="nl1.s009.t9.36">voorbeelden</head>
+van
+initiatieven
+die
+een
+<head id="nl1.s009.t9.46">bijdrage</head>
+<head id="nl1.s009.t9.47">leveren</head>
+aan
+het
+verduurzamen
+van
+onze
+<head id="nl1.s009.t9.57">samenleving</head>
+.
+</s>
+<s>
+Ten
+slotte
+<head id="nl1.s010.t10.5">geeft</head>
+het
+<head id="nl1.s010.t10.8">rapport</head>
+aanbevelingen
+voor
+een
+versnelde
+omschakeling
+naar
+duurzaamheid
+.
+</s>
+<s>
+Het
+Living
+Planet
+Report
+<head id="nl1.s011.t11.8">gebruikt</head>
+twee
+<head id="nl1.s011.t11.11">indexen</head>
+.
+</s>
+<s>
+De
+Living
+Planet
+Index2
+,
+ontwikkeld
+door
+de
+Zoological
+Society
+of
+London
+(
+ZSL
+)
+,
+<head id="nl1.s012.t12.26">meet</head>
+de
+<head id="nl1.s012.t12.29">staat</head>
+van
+de
+mondiale
+biodiversiteit
+.
+</s>
+<s>
+De
+<head id="nl1.s013.t13.4">index</head>
+<head id="nl1.s013.t13.5">laat</head>
+<head id="nl1.s013.t13.6">zien</head>
+dat
+de
+biodiversiteit
+de
+afgelopen
+decennia
+fors
+<head id="nl1.s013.t13.13">is</head>
+<head id="nl1.s013.t13.21">afgenomen</head>
+.
+</s>
+<s>
+De
+Ecologische
+Voetafdruk3
+,
+berekend
+door
+het
+global
+Footprint
+Network
+(
+gFN
+)
+,
+<head id="nl1.s014.t14.22">meet</head>
+het
+<head id="nl1.s014.t14.25">beslag</head>
+dat
+de
+menselijke
+<head id="nl1.s014.t14.33">consumptie</head>
+<head id="nl1.s014.t14.34">legt</head>
+op
+het
+regeneratievermogen
+van
+de
+<head id="nl1.s014.t14.44">aarde</head>
+.
+</s>
+<s>
+De
+winning
+en
+<head id="nl1.s015.t15.26">productie</head>
+van
+de
+<head id="nl1.s015.t15.13">goederen</head>
+en
+<head id="nl1.s015.t15.22">diensten</head>
+die
+wij
+consumeren
+veroorzaken
+een
+toenemende
+<head id="nl1.s015.t15.32">schade</head>
+aan
+de
+<head id="nl1.s015.t15.37">natuur</head>
+wereldwijd
+.
+</s>
+<s>
+De
+<head id="nl1.s016.t16.4">trend</head>
+in
+de
+Ecologische
+<head id="nl1.s016.t16.10">Voetafdruk</head>
+<head id="nl1.s016.t16.11">laat</head>
+<head id="nl1.s016.t16.12">zien</head>
+dat
+het
+<head id="nl1.s016.t16.18">verbruik</head>
+van
+de
+natuurlijke
+hulpbronnen
+van
+de
+<head id="nl1.s016.t16.29">aarde</head>
+door
+de
+<head id="nl1.s016.t16.37">mens</head>
+de
+afgelopen
+45
+<head id="nl1.s016.t16.42">jaar</head>
+<head id="nl1.s016.t16.30">is</head>
+<head id="nl1.s016.t16.43">verdubbeld</head>
+.
+</s>
+<s>
+Sinds
+<head id="nl1.s017.t17.7">eind</head>
+<head id="nl1.s017.t17.8">jaren</head>
+tachtig
+<head id="nl1.s017.t17.10">leggen</head>
+we
+jaarlijks
+een
+groter
+<head id="nl1.s017.t17.26">beslag</head>
+op
+de
+natuurlijke
+reproductiecapaciteit
+<components>
+	<head id="nl1.s017.t17.18.0" lemma="reproductie"/>
+	<head id="nl1.s017.t17.18.1" lemma="capaciteit"/>
+</components>
+van
+de
+<head id="nl1.s017.t17.23">aarde</head>
+dan
+zij
+<head id="nl1.s017.t17.33">heeft</head>
+,
+en
+ieder
+<head id="nl1.s017.t17.38">jaar</head>
+<head id="nl1.s017.t17.39">groeit</head>
+dit
+<head id="nl1.s017.t17.42">verschil</head>
+tussen
+<head id="nl1.s017.t17.46">vraag</head>
+en
+<head id="nl1.s017.t17.48">aanbod</head>
+.
+</s>
+<s>
+Dit
+<head id="nl1.s018.t18.7">betekent</head>
+dat
+we
+interen
+op
+de
+<head id="nl1.s018.t18.17">voorraden</head>
+van
+een
+aantal
+essentiële
+hernieuwbare
+natuurlijke
+hulpbronnen
+,
+zoals
+<head id="nl1.s018.t18.31">hout</head>
+,
+<head id="nl1.s018.t18.32">vis</head>
+,
+schoon
+<head id="nl1.s018.t18.35">water</head>
+en
+vruchtbare
+landbouwgrond
+<components>
+	<head id="nl1.s018.t18.39.0" lemma="landbouw"/>
+	<head id="nl1.s018.t18.39.1" lemma="grond"/>
+</components>
+.
+</s>
+<s>
+De
+groeiende
+<head id="nl1.s019.t19.5">vraag</head>
+naar
+natuurlijke
+hulpbronnen
+<head id="nl1.s019.t19.11">kan</head>
+<head id="nl1.s019.t19.14">worden</head>
+<head id="nl1.s019.t19.17">verklaard</head>
+door
+de
+<head id="nl1.s019.t19.23">groei</head>
+van
+de
+wereldbevolking
+en
+de
+<head id="nl1.s019.t19.32">groei</head>
+van
+de
+<head id="nl1.s019.t19.37">consumptie</head>
+per
+<head id="nl1.s019.t19.40">persoon</head>
+.
+</s>
+<s>
+De
+cO2-voetafdruk
+,
+veroorzaakt
+door
+o.a.
+energieverbruik
+<components>
+	<head id="nl1.s020.t20.13.0" lemma="energie"/>
+	<head id="nl1.s020.t20.13.1" lemma="verbruik"/>
+</components>
+,
+<head id="nl1.s020.t20.14">neemt</head>
+een
+aanzienlijk
+<head id="nl1.s020.t20.18">deel</head>
+van
+de
+Ecologische
+Voetafdruk
+wereldwijd
+voor
+haar
+rekening
+.
+</s>
+<s>
+De
+<head id="nl1.s021.t21.4">consumptie</head>
+van
+natuurlijke
+hulpbronnen
+<head id="nl1.s021.t21.10">is</head>
+ongelijk
+<head id="nl1.s021.t21.14">verdeeld</head>
+.
+</s>
+<s>
+Rijke
+<head id="nl1.s022.t22.9">landen</head>
+<head id="nl1.s022.t22.10">hebben</head>
+per
+inwoner
+de
+grootste
+Ecologische
+<head id="nl1.s022.t22.18">Voetafdruk</head>
+en
+de
+Ecologische
+<head id="nl1.s022.t22.24">Voetafdruk</head>
+van
+een
+aantal
+zich
+snel
+ontwikkelende
+<head id="nl1.s022.t22.35">landen</head>
+,
+zoals
+Brazilië
+,
+Rusland
+,
+India
+en
+China
+,
+neemt
+snel
+toe
+.
+</s>
+<s>
+Veel
+<head id="nl1.s023.t23.6">landen</head>
+<head id="nl1.s023.t23.7">zijn</head>
+voor
+hun
+<head id="nl1.s023.t23.12">consumptie</head>
+afhankelijk
+van
+buitenlandse
+ecologische
+productiviteit
+;
+een
+aanzienlijk
+<head id="nl1.s023.t23.25">deel</head>
+van
+de
+mondiale
+<head id="nl1.s023.t23.31">voetafdruk</head>
+<head id="nl1.s023.t23.32">werd</head>
+in
+2005
+veroorzaakt
+door
+verhandelde
+<head id="nl1.s023.t23.44">goederen</head>
+en
+<head id="nl1.s023.t23.48">diensten</head>
+.
+</s>
+<s>
+Nederlandse
+Editie
+</s>
+<s>
+In
+de
+Nederlandse
+<head id="nl1.s025.t25.14">editie</head>
+Living
+Planet
+Report
+<head id="nl1.s025.t25.6">wordt</head>
+,
+naast
+de
+internationale
+<head id="nl1.s025.t25.24">situatie</head>
+,
+ook
+aandacht
+besteed
+aan
+de
+Nederlandse
+Ecologische
+<head id="nl1.s025.t25.34">Voetafdruk</head>
+.
+in
+2005
+<head id="nl1.s025.t25.39">was</head>
+de
+<head id="nl1.s025.t25.42">voetafdruk</head>
+van
+de
+gemiddelde
+Nederlander
+vier
+keer
+zo
+groot
+als
+de
+biocapaciteit
+van
+Nederland
+.
+</s>
+<s>
+De
+biocapaciteit
+<head id="nl1.s026.t26.5">is</head>
+de
+hoeveelheid
+productief
+<head id="nl1.s026.t26.12">land</head>
+en
+productieve
+<head id="nl1.s026.t26.16">zee</head>
+die
+<head id="nl1.s026.t26.27">gebruikt</head>
+<head id="nl1.s026.t26.21">kan</head>
+<head id="nl1.s026.t26.24">worden</head>
+voor
+de
+<head id="nl1.s026.t26.33">productie</head>
+van
+<head id="nl1.s026.t26.36">goederen</head>
+en
+het
+<head id="nl1.s026.t26.40">verwerken</head>
+van
+afval
+.
+</s>
+<s>
+Nederland
+<head id="nl1.s027.t27.4">gebruikt</head>
+voor
+een
+aanzienlijk
+<head id="nl1.s027.t27.10">deel</head>
+van
+haar
+<head id="nl1.s027.t27.15">consumptie</head>
+productiecapaciteit
+<components>
+	<head id="nl1.s027.t27.17.0" lemma="productie"/>
+	<head id="nl1.s027.t27.17.1" lemma="capaciteit"/>
+</components>
+uit
+het
+<head id="nl1.s027.t27.22">buitenland</head>
+en
+<head id="nl1.s027.t27.26">is</head>
+daardoor
+medeverantwoordelijk
+voor
+het
+<head id="nl1.s027.t27.34">verlies</head>
+aan
+<head id="nl1.s027.t27.38">natuur</head>
+elders
+.
+</s>
+<s>
+Belangrijke
+<head id="nl1.s028.t28.9">voorbeelden</head>
+van
+<head id="nl1.s028.t28.13">producten</head>
+die
+Nederland
+importeert
+met
+een
+grote
+negatieve
+impact
+op
+de
+biodiversiteit
+zijn
+soja
+,
+palmolie
+,
+<head id="nl1.s028.t28.37">koffie</head>
+,
+<head id="nl1.s028.t28.38">hout</head>
+,
+<head id="nl1.s028.t28.39">papier</head>
+,
+<head id="nl1.s028.t28.40">garnalen</head>
+en
+<head id="nl1.s028.t28.42">vis</head>
+.
+</s>
+<s>
+Als
+we
+op
+de
+huidige
+<head id="nl1.s029.t29.12">weg</head>
+van
+een
+jaarlijks
+groeiende
+mondiale
+<head id="nl1.s029.t29.21">voetafdruk</head>
+<head id="nl1.s029.t29.22">doorgaan</head>
+,
+<head id="nl1.s029.t29.23">heeft</head>
+de
+<head id="nl1.s029.t29.26">mens</head>
+nog
+vóór
+2040
+twee
+<head id="nl1.s029.t29.33">aardbollen</head>
+nodig
+voor
+haar
+jaarlijkse
+<head id="nl1.s029.t29.41">consumptie</head>
+.
+</s>
+<s>
+Dit
+<head id="nl1.s030.t30.3">is</head>
+een
+niet
+wenselijke
+en
+niet
+realistische
+<head id="nl1.s030.t30.14">weg</head>
+.
+</s>
+<s>
+Dit
+<head id="nl1.s031.t31.7">rapport</head>
+<head id="nl1.s031.t31.8">laat</head>
+<head id="nl1.s031.t31.9">zien</head>
+dat
+duurzame
+<head id="nl1.s031.t31.15">ontwikkeling</head>
+geen
+luxe
+<head id="nl1.s031.t31.19">onderwerp</head>
+<head id="nl1.s031.t31.20">is</head>
+,
+maar
+een
+<head id="nl1.s031.t31.24">onderwerp</head>
+dat
+de
+<head id="nl1.s031.t31.32">kern</head>
+<head id="nl1.s031.t31.29">raakt</head>
+van
+onze
+<head id="nl1.s031.t31.37">samenleving</head>
+;
+het
+<head id="nl1.s031.t31.40">is</head>
+een
+randvoorwaarde
+<components>
+	<head id="nl1.s031.t31.43.1" lemma="voorwaarde"/>
+</components>
+voor
+een
+gezonde
+<head id="nl1.s031.t31.49">economie</head>
+op
+de
+langere
+<head id="nl1.s031.t31.55">termijn</head>
+.
+</s>
+<s>
+Het
+goede
+<head id="nl1.s032.t32.5">nieuws</head>
+<head id="nl1.s032.t32.6">is</head>
+dat
+we
+de
+huidige
+niet-duurzame
+<head id="nl1.s032.t32.18">trend</head>
+nog
+<head id="nl1.s032.t32.11">kunnen</head>
+<head id="nl1.s032.t32.20">keren</head>
+.
+</s>
+<s>
+Er
+<head id="nl1.s033.t33.4">zijn</head>
+voldoende
+<head id="nl1.s033.t33.7">technieken</head>
+,
+op
+de
+langere
+<head id="nl1.s033.t33.13">termijn</head>
+.
+</s>
+<s>
+Het
+goede
+<head id="nl1.s034.t34.5">nieuws</head>
+<head id="nl1.s034.t34.6">is</head>
+dat
+we
+de
+huidige
+niet-duurzame
+<head id="nl1.s034.t34.18">trend</head>
+nog
+<head id="nl1.s034.t34.11">kunnen</head>
+<head id="nl1.s034.t34.20">keren</head>
+.
+</s>
+<s>
+Er
+<head id="nl1.s035.t35.4">zijn</head>
+voldoende
+<head id="nl1.s035.t35.8">technieken</head>
+,
+<head id="nl1.s035.t35.11">alternatieven</head>
+en
+maatregelen
+beschikbaar
+voor
+een
+<head id="nl1.s035.t35.22">ombuiging</head>
+naar
+een
+duurzame
+<head id="nl1.s035.t35.28">samenleving</head>
+.
+</s>
+<s>
+Bovendien
+<head id="nl1.s036.t36.3">is</head>
+de
+internationale
+<head id="nl1.s036.t36.7">gemeenschap</head>
+zich
+in
+toenemende
+mate
+bewust
+van
+de
+noodzaak
+tot
+duurzame
+<head id="nl1.s036.t36.25">ontwikkeling</head>
+.
+</s>
+<s>
+Op
+mondiaal
+,
+Eu-
+en
+nationaal
+<head id="nl1.s037.t37.20">niveau</head>
+<head id="nl1.s037.t37.21">zijn</head>
+doelen
+en
+beleid
+ontwikkeld
+voor
+duurzame
+<head id="nl1.s037.t37.32">ontwikkeling</head>
+,
+zoals
+de
+Millennium
+Development
+goals
+(
+MDgs
+)
+,
+het
+klimaatbeleid
+<components>
+	<head id="nl1.s037.t37.44.0" lemma="klimaat"/>
+</components>
+van
+de
+united
+Nations
+Framework
+convention
+on
+climate
+change
+(
+UNFCCC
+)
+en
+het
+biodiversiteitbeleid
+van
+de
+convention
+on
+Biological
+Diversity
+(
+cBD
+)
+met
+onder
+andere
+de
+zogenoemde
+2010
+Biodiversity
+target
+,
+de
+afspraak
+om
+in
+2010
+een
+significante
+<head id="nl1.s037.t37.99">reductie</head>
+te
+<head id="nl1.s037.t37.100">realiseren</head>
+in
+het
+huidige
+<head id="nl1.s037.t37.106">tempo</head>
+van
+biodiversiteitverlies
+<components>
+	<head id="nl1.s037.t37.109.2" lemma="verlies"/>
+</components>
+.
+</s>
+<s>
+Het
+<head id="nl1.s038.t38.3">wordt</head>
+echter
+steeds
+onwaarschijnlijker
+dat
+alle
+doelen
+<head id="nl1.s038.t38.14">worden</head>
+<head id="nl1.s038.t38.17">gehaald</head>
+.
+</s>
+<s>
+De
+ambities
+voor
+duurzame
+<head id="nl1.s039.t39.9">ontwikkeling</head>
+vergen
+een
+grotere
+inspanning
+en
+meer
+fundamentele
+keuzes
+dan
+tot
+nu
+toe
+<head id="nl1.s039.t39.21">zijn</head>
+<head id="nl1.s039.t39.27">gemaakt</head>
+.
+</s>
+<s>
+Een
+echte
+<head id="nl1.s040.t40.9">ombuiging</head>
+<head id="nl1.s040.t40.10">is</head>
+alleen
+mogelijk
+als
+alle
+maatschappelijke
+actoren
+-
+<head id="nl1.s040.t40.21">overheden</head>
+,
+bedrijfsleven
+,
+maatschappelijke
+<head id="nl1.s040.t40.26">organisaties</head>
+en
+<head id="nl1.s040.t40.28">burgers</head>
+-
+zich
+volledig
+<head id="nl1.s040.t40.33">inzetten</head>
+om
+deze
+duurzame
+<head id="nl1.s040.t40.42">ontwikkeling</head>
+te
+<head id="nl1.s040.t40.43">realiseren</head>
+.
+</s>
+<s>
+Het
+laatste
+hoofdstuk
+besteedt
+aandacht
+aan
+de
+specifieke
+<head id="nl1.s041.t41.13">rol</head>
+die
+Nederland
+hierin
+<head id="nl1.s041.t41.18">kan</head>
+<head id="nl1.s041.t41.23">spelen</head>
+.
+</s>
+<s>
+De
+Living
+Planet
+Index
+<head id="nl1.s042.t42.8">is</head>
+een
+<head id="nl1.s042.t42.11">indicator</head>
+die
+<head id="nl1.s042.t42.19">ontwikkeld</head>
+<head id="nl1.s042.t42.16">is</head>
+om
+de
+<head id="nl1.s042.t42.27">staat</head>
+van
+de
+biodiversiteit
+in
+de
+<head id="nl1.s042.t42.37">wereld</head>
+te
+<head id="nl1.s042.t42.38">meten</head>
+.
+</s>
+<s>
+De
+<head id="nl1.s043.t43.8">index</head>
+<head id="nl1.s043.t43.9">volgt</head>
+<head id="nl1.s043.t43.10">trends</head>
+in
+bijna
+5000
+<head id="nl1.s043.t43.16">populaties</head>
+van
+1686
+verschillende
+<head id="nl1.s043.t43.22">soorten</head>
+zoogdieren
+,
+vogels
+,
+<head id="nl1.s043.t43.26">reptielen</head>
+,
+amfibieën
+en
+vissen
+over
+de
+hele
+<head id="nl1.s043.t43.36">wereld</head>
+.
+</s>
+<s>
+<head id="nl1.s044.t44.3">Veranderingen</head>
+in
+<head id="nl1.s044.t44.6">populaties</head>
+<head id="nl1.s044.t44.7">worden</head>
+<head id="nl1.s044.t44.10">gemeten</head>
+ten
+opzichte
+van
+de
+nulmeting
+<components>
+	<head id="nl1.s044.t44.18.0" lemma="nul"/>
+</components>
+in
+het
+<head id="nl1.s044.t44.23">jaar</head>
+1970
+.
+</s>
+<s>
+De
+<head id="nl1.s045.t45.11">index</head>
+<head id="nl1.s045.t45.12">laat</head>
+op
+mondiaal
+<head id="nl1.s045.t45.17">niveau</head>
+een
+<head id="nl1.s045.t45.20">daling</head>
+van
+bijna
+30%
+<head id="nl1.s045.t45.26">zien</head>
+tussen
+1970
+en
+2005
+(
+fig.1
+)
+.
+in
+tropische
+<head id="nl1.s045.t45.43">zones</head>
+<head id="nl1.s045.t45.44">is</head>
+de
+<head id="nl1.s045.t45.47">daling</head>
+het
+grootst
+,
+de
+algemene
+<head id="nl1.s045.t45.55">index</head>
+<head id="nl1.s045.t45.56">daalde</head>
+hier
+met
+gemiddeld
+50%
+.
+</s>
+<s>
+Het
+Neotropisch
+<head id="nl1.s046.t46.10">gebied</head>
+,
+rondom
+Latijns-
+Amerika
+,
+<head id="nl1.s046.t46.16">kent</head>
+zelfs
+een
+<head id="nl1.s046.t46.20">daling</head>
+van
+76%
+.
+in
+gematigde
+<head id="nl1.s046.t46.40">zones</head>
+daarentegen
+,
+<head id="nl1.s046.t46.25">is</head>
+een
+lichte
+stijging
+van
+gemiddeld
+6%
+<head id="nl1.s046.t46.43">gemeten</head>
+.
+</s>
+<s>
+Het
+betreft
+hier
+de
+<head id="nl1.s047.t47.7">ombuiging</head>
+van
+een
+langdurige
+neerwaartse
+<head id="nl1.s047.t47.14">trend</head>
+.
+</s>
+<s>
+Een
+sterke
+<head id="nl1.s048.t48.5">daling</head>
+<head id="nl1.s048.t48.6">heeft</head>
+hier
+de
+afgelopen
+<head id="nl1.s048.t48.15">eeuwen</head>
+al
+plaatsgevonden
+waardoor
+de
+huidige
+biodoversiteit
+hier
+veel
+lager
+<head id="nl1.s048.t48.25">is</head>
+dan
+in
+tropische
+<head id="nl1.s048.t48.35">gebieden</head>
+.
+</s>
+<s>
+Ook
+voor
+de
+verschillende
+ecosystemen
+<components>
+	<head id="nl1.s049.t49.13.1" lemma="systeem"/>
+</components>
+-
+terrestrisch
+,
+marien
+en
+zoetwater
+-
+<head id="nl1.s049.t49.22">geldt</head>
+een
+mondiale
+<head id="nl1.s049.t49.26">daling</head>
+van
+respectievelijk
+33%
+,
+14%
+en
+35%
+(
+fig
+.
+</s>
+<s>
+4
+,
+5
+en
+6
+)
+.
+</s>
+<s>
+Enkele
+van
+de
+voornaamste
+oorzaken
+hiervoor
+<head id="nl1.s051.t51.14">zijn</head>
+ontbossing
+en
+andere
+<head id="nl1.s051.t51.24">vernietiging</head>
+van
+habitats
+,
+vervuiling
+,
+destructieve
+visserijmethoden
+<components>
+	<head id="nl1.s051.t51.32.1" lemma="methode"/>
+</components>
+en
+overbevissing
+,
+stijging
+van
+de
+zeetemperatuur
+<components>
+	<head id="nl1.s051.t51.43.0" lemma="zee"/>
+	<head id="nl1.s051.t51.43.1" lemma="temperatuur"/>
+</components>
+en
+de
+<head id="nl1.s051.t51.47">aanleg</head>
+van
+<head id="nl1.s051.t51.21">dammen</head>
+.
+</s>
+<s>
+Wanneer
+we
+op
+het
+<head id="nl1.s052.t52.11">niveau</head>
+van
+een
+aantal
+diergroepen
+<components>
+	<head id="nl1.s052.t52.17.1" lemma="groep"/>
+</components>
+<head id="nl1.s052.t52.18">kijken</head>
+,
+dan
+<head id="nl1.s052.t52.21">zien</head>
+we
+een
+<head id="nl1.s052.t52.25">daling</head>
+van
+20%
+bij
+vogels
+en
+19%
+bij
+de
+zoogdieren
+.
+</s>
+<s>
+Voor
+vogels
+<head id="nl1.s053.t53.5">geldt</head>
+in
+het
+bijzonder
+een
+zeer
+sterke
+<head id="nl1.s053.t53.16">daling</head>
+van
+tropische
+en
+mariene
+<head id="nl1.s053.t53.24">soorten</head>
+.
+</s>
+<s>
+Ook
+voor
+zoogdieren
+<head id="nl1.s054.t54.6">is</head>
+de
+<head id="nl1.s054.t54.9">daling</head>
+het
+sterkst
+in
+tropische
+<head id="nl1.s054.t54.18">gebieden</head>
+.
+</s>
+<s>
+Hoewel
+er
+ook
+<head id="nl1.s055.t55.10">populaties</head>
+<head id="nl1.s055.t55.8">zijn</head>
+die
+toegenomen
+<head id="nl1.s055.t55.16">zijn</head>
+in
+de
+gemeten
+<head id="nl1.s055.t55.22">periode</head>
+,
+<head id="nl1.s055.t55.23">laat</head>
+de
+Living
+Planet
+<head id="nl1.s055.t55.29">index</head>
+<head id="nl1.s055.t55.30">zien</head>
+dat
+over
+het
+algemeen
+<head id="nl1.s055.t55.40">soorten</head>
+en
+ecosystemen
+<components>
+	<head id="nl1.s055.t55.42.1" lemma="systeem"/>
+</components>
+wereldwijd
+onder
+<head id="nl1.s055.t55.46">druk</head>
+<head id="nl1.s055.t55.47">staan</head>
+.
+</s>
+<s>
+Dit
+hangt
+samen
+met
+de
+menselijke
+<head id="nl1.s056.t56.10">invloed</head>
+op
+de
+biosfeer
+.
+</s>
+<s>
+Deze
+<head id="nl1.s057.t57.5">invloed</head>
+<head id="nl1.s057.t57.6">is</head>
+te
+<head id="nl1.s057.t57.11">meten</head>
+door
+middel
+van
+de
+tweede
+<head id="nl1.s057.t57.20">index</head>
+:
+de
+Ecologische
+Voetafdruk
+.
+</s>
+<s>
+Daarnaast
+<head id="nl1.s058.t58.3">heeft</head>
+de
+grote
+<head id="nl1.s058.t58.7">beweging</head>
+van
+<head id="nl1.s058.t58.11">mensen</head>
+en
+<head id="nl1.s058.t58.13">goederen</head>
+over
+de
+<head id="nl1.s058.t58.18">wereld</head>
+<head id="nl1.s058.t58.20">consequenties</head>
+voor
+de
+<head id="nl1.s058.t58.25">spreiding</head>
+van
+exoten
+en
+ziekten
+.
+</s>
+<s>
+De
+<head id="nl1.s059.t59.6">voetafdruk</head>
+van
+een
+<head id="nl1.s059.t59.11">land</head>
+<head id="nl1.s059.t59.12">is</head>
+de
+<head id="nl1.s059.t59.15">oppervlakte</head>
+productief
+<head id="nl1.s059.t59.18">land</head>
+en
+productieve
+<head id="nl1.s059.t59.22">zee</head>
+nodig
+voor
+de
+nationale
+<head id="nl1.s059.t59.29">consumptie</head>
+van
+voedsel
+,
+<head id="nl1.s059.t59.34">producten</head>
+en
+<head id="nl1.s059.t59.36">energie</head>
+,
+plus
+<head id="nl1.s059.t59.39">land</head>
+nodig
+voor
+infrastructuur
+en
+de
+verwerking
+van
+afval
+.
+</s>
+<s>
+Omdat
+veel
+<head id="nl1.s060.t60.9">producten</head>
+elders
+op
+de
+<head id="nl1.s060.t60.15">wereld</head>
+<head id="nl1.s060.t60.16">worden</head>
+<head id="nl1.s060.t60.19">gemaakt</head>
+,
+<head id="nl1.s060.t60.20">is</head>
+de
+<head id="nl1.s060.t60.23">voetafdruk</head>
+de
+<head id="nl1.s060.t60.26">som</head>
+van
+al
+die
+<head id="nl1.s060.t60.34">goederen</head>
+en
+<head id="nl1.s060.t60.38">diensten</head>
+,
+ongeacht
+hun
+<head id="nl1.s060.t60.43">land</head>
+van
+herkomst
+.
+</s>
+<s>
+In
+2005
+<head id="nl1.s061.t61.5">hadden</head>
+de
+Verenigde
+Staten
+en
+China
+de
+grootste
+nationale
+<head id="nl1.s061.t61.20">voetafdruk</head>
+.
+</s>
+<s>
+Ieder
+<head id="nl1.s062.t62.3">gebruikten</head>
+zij
+21%
+van
+de
+mondiaal
+beschikbare
+biocapaciteit
+.
+</s>
+<s>
+De
+biocapaciteit
+<head id="nl1.s063.t63.5">is</head>
+niet
+evenredig
+<head id="nl1.s063.t63.10">verdeeld</head>
+in
+de
+<head id="nl1.s063.t63.15">wereld</head>
+.
+</s>
+<s>
+De
+acht
+<head id="nl1.s064.t64.12">landen</head>
+met
+de
+grootste
+biocapaciteit
+<head id="nl1.s064.t64.19">zijn</head>
+de
+VS
+,
+Brazilië
+,
+Rusland
+,
+China
+,
+Canada
+,
+India
+,
+Argentinië
+en
+Australië
+.
+</s>
+<s>
+Ze
+<head id="nl1.s065.t65.3">zijn</head>
+samen
+goed
+voor
+de
+helft
+van
+de
+mondiale
+biocapaciteit
+.
+</s>
+<s>
+Nederland
+<head id="nl1.s066.t66.3">had</head>
+in
+2005
+een
+gemiddelde
+</s>
+<s>
+Ecologische
+<head id="nl1.s067.t67.4">Voetafdruk</head>
+van
+4,4
+gha
+per
+<head id="nl1.s067.t67.12">persoon</head>
+en
+een
+biocapaciteit
+van
+1,1
+gha
+per
+<head id="nl1.s067.t67.24">persoon</head>
+.
+</s>
+<s>
+Hiermee
+<head id="nl1.s068.t68.3">is</head>
+Nederland
+een
+debiteur
+met
+een
+<head id="nl1.s068.t68.12">tekort</head>
+van
+3,3
+gha
+per
+<head id="nl1.s068.t68.20">persoon</head>
+.
+</s>
+<s>
+Het
+aantal
+debiteuren-landen
+<components>
+	<head id="nl1.s069.t69.7.1" lemma="land"/>
+</components>
+,
+met
+een
+<head id="nl1.s069.t69.12">voetafdruk</head>
+die
+hoger
+<head id="nl1.s069.t69.17">is</head>
+dan
+hun
+biocapaciteit
+,
+<head id="nl1.s069.t69.25">is</head>
+groeiende
+.
+</s>
+<s>
+Debiteuren-landen
+<components>
+	<head id="nl1.s070.t70.2.1" lemma="land"/>
+</components>
+<head id="nl1.s070.t70.3">kunnen</head>
+alleen
+hun
+consumptieniveau
+<components>
+	<head id="nl1.s070.t70.9.0" lemma="consumptie"/>
+	<head id="nl1.s070.t70.9.1" lemma="niveau"/>
+</components>
+<head id="nl1.s070.t70.10">handhaven</head>
+als
+ze
+hun
+eigen
+biocapaciteit
+<head id="nl1.s070.t70.20">uitputten</head>
+of
+<head id="nl1.s070.t70.24">producten</head>
+uit
+het
+<head id="nl1.s070.t70.29">buitenland</head>
+importeren
+.
+</s>
+<s>
+De
+meeste
+West-Europese
+<head id="nl1.s071.t71.6">landen</head>
+<head id="nl1.s071.t71.7">zijn</head>
+debiteuren
+.
+</s>
+<s>
+Dit
+<head id="nl1.s072.t72.3">betekent</head>
+dat
+zij
+voor
+een
+groot
+<head id="nl1.s072.t72.15">deel</head>
+van
+hun
+<head id="nl1.s072.t72.20">consumptie</head>
+afhankelijk
+<head id="nl1.s072.t72.8">zijn</head>
+van
+het
+<head id="nl1.s072.t72.26">buitenland</head>
+.
+</s>
+<s>
+Daarnaast
+<head id="nl1.s073.t73.5">zijn</head>
+ook
+de
+Verenigde
+Staten
+,
+China
+en
+India
+debiteuren
+ondanks
+het
+feit
+dat
+zij
+<head id="nl1.s073.t73.26">behoren</head>
+tot
+de
+<head id="nl1.s073.t73.31">landen</head>
+met
+de
+meeste
+biocapaciteit
+(
+fig
+10
+)
+.
+</s>
+<s>
+De
+Ecologische
+Voetafdruk
+</s>
+<s>
+De
+Ecologische
+<head id="nl1.s075.t75.6">Voetafdruk</head>
+<head id="nl1.s075.t75.7">meet</head>
+de
+hoeveelheid
+productief
+<head id="nl1.s075.t75.15">land</head>
+en
+productieve
+<head id="nl1.s075.t75.76">zee</head>
+die
+nodig
+<head id="nl1.s075.t75.21">is</head>
+om
+de
+natuurlijke
+hulpbronnen
+te
+<head id="nl1.s075.t75.31">produceren</head>
+voor
+onze
+<head id="nl1.s075.t75.36">consumptie</head>
+,
+om
+<head id="nl1.s075.t75.45">ruimte</head>
+te
+creëren
+voor
+infrastructuur
+en
+om
+de
+CO2-uitstoot
+-
+veroorzaakt
+door
+energieverbruik
+<components>
+	<head id="nl1.s075.t75.63.0" lemma="energie"/>
+	<head id="nl1.s075.t75.63.1" lemma="verbruik"/>
+</components>
+en
+landgebruik
+-
+en
+afval
+te
+absorberen
+.
+</s>
+<s>
+Dit
+benodigde
+<head id="nl1.s076.t76.10">gebied</head>
+<head id="nl1.s076.t76.11">wordt</head>
+verdeeld
+in
+verschillende
+<head id="nl1.s076.t76.18">soorten</head>
+<head id="nl1.s076.t76.19">gebieden</head>
+,
+namelijk
+weidegebied
+<components>
+	<head id="nl1.s076.t76.23.1" lemma="gebied"/>
+</components>
+,
+akkerland
+<components>
+	<head id="nl1.s076.t76.24.1" lemma="land"/>
+</components>
+,
+visgronden
+<components>
+	<head id="nl1.s076.t76.25.0" lemma="vis"/>
+	<head id="nl1.s076.t76.25.1" lemma="grond"/>
+</components>
+,
+<head id="nl1.s076.t76.26">bos</head>
+en
+<head id="nl1.s076.t76.28">bouwgrond</head>
+.
+</s>
+<s>
+Het
+<head id="nl1.s077.t77.6">gebied</head>
+<head id="nl1.s077.t77.7">wordt</head>
+<head id="nl1.s077.t77.10">berekend</head>
+in
+mondiale
+hectares
+;
+een
+mondiale
+hectare
+<head id="nl1.s077.t77.21">is</head>
+een
+hectare
+met
+een
+wereldwijd
+gemiddelde
+productie-
+en
+absorptiecapaciteit
+.
+</s>
+<s>
+De
+<head id="nl1.s078.t78.4">voetafdruk</head>
+<head id="nl1.s078.t78.5">omvat</head>
+alleen
+die
+<head id="nl1.s078.t78.9">aspecten</head>
+van
+het
+<head id="nl1.s078.t78.14">gebruik</head>
+van
+hulpbronnen
+waarvoor
+de
+<head id="nl1.s078.t78.25">aarde</head>
+een
+regeneratieve
+<head id="nl1.s078.t78.29">capaciteit</head>
+<head id="nl1.s078.t78.30">heeft</head>
+.
+</s>
+<s>
+Zo
+<head id="nl1.s079.t79.2">wordt</head>
+bijvoorbeeld
+vervuiling
+met
+giftige
+<head id="nl1.s079.t79.9">stoffen</head>
+niet
+<head id="nl1.s079.t79.15">meegenomen</head>
+.
+</s>
+<s>
+Omwille
+van
+de
+<head id="nl1.s080.t80.16">consistentie</head>
+in
+methodologie
+<head id="nl1.s080.t80.2">is</head>
+de
+impact
+van
+kernenergie
+<components>
+	<head id="nl1.s080.t80.8.0" lemma="kern"/>
+	<head id="nl1.s080.t80.8.1" lemma="energie"/>
+</components>
+niet
+<head id="nl1.s080.t80.22">meegenomen</head>
+.
+</s>
+<s>
+Dit
+<head id="nl1.s081.t81.7">betekent</head>
+niet
+dat
+er
+geen
+impact
+<head id="nl1.s081.t81.16">is</head>
+,
+maar
+deze
+gemiddelde
+<head id="nl1.s081.t81.21">voetafdruk</head>
+wereldwijd
+gestegen
+tachtig
+de
+biocapaciteitsgrens
+(
+fig
+.
+</s>
+<s>
+2
+en
+8
+)
+en
+<head id="nl1.s082.t82.9">kan</head>
+vooralsnog
+moeilijk
+in
+termen
+van
+biocapaciteit
+<head id="nl1.s082.t82.11">worden</head>
+<head id="nl1.s082.t82.21">uitgedrukt</head>
+.
+</s>
+<s>
+Wanneer
+de
+<head id="nl1.s083.t83.7">voetafdruk</head>
+<head id="nl1.s083.t83.8">wordt</head>
+vergeleken
+met
+de
+biocapaciteit
+<head id="nl1.s083.t83.17">worden</head>
+de
+<head id="nl1.s083.t83.20">behoeften</head>
+van
+andere
+dier-en
+plantensoorten
+<components>
+	<head id="nl1.s083.t83.27.1" lemma="soort"/>
+</components>
+niet
+meegerekend
+.
+</s>
+<s>
+Dat
+<head id="nl1.s084.t84.6">betekent</head>
+dat
+,
+om
+<head id="nl1.s084.t84.16">ruimte</head>
+voor
+de
+<head id="nl1.s084.t84.21">natuur</head>
+te
+<head id="nl1.s084.t84.22">behouden</head>
+de
+Ecologische
+<head id="nl1.s084.t84.25">Voetafdruk</head>
+feitelijk
+altijd
+lager
+<head id="nl1.s084.t84.30">dient</head>
+te
+<head id="nl1.s084.t84.33">zijn</head>
+dan
+de
+biocapaciteit
+.
+</s>
+<s>
+De
+grote
+<head id="nl1.s085.t85.6">uitdaging</head>
+:
+ons
+energiegebruik
+<components>
+	<head id="nl1.s085.t85.9.0" lemma="energie"/>
+	<head id="nl1.s085.t85.9.1" lemma="gebruik"/>
+</components>
+</s>
+<s>
+In
+2005
+<head id="nl1.s086.t86.2">werd</head>
+het
+overgrote
+<head id="nl1.s086.t86.6">deel</head>
+van
+de
+menselijke
+<head id="nl1.s086.t86.12">voetafdruk</head>
+<head id="nl1.s086.t86.18">bepaald</head>
+door
+de
+cO2-voetafdruk
+.
+</s>
+<s>
+De
+cO2-voetafdruk
+<head id="nl1.s087.t87.5">is</head>
+de
+biocapaciteit
+die
+nodig
+<head id="nl1.s087.t87.13">is</head>
+om
+de
+cO2emissies
+van
+fossiele
+brandstoffen
+en
+landgebruik
+<components>
+	<head id="nl1.s087.t87.33.0" lemma="land"/>
+	<head id="nl1.s087.t87.33.1" lemma="gebruik"/>
+</components>
+te
+absorberen
+.
+</s>
+<s>
+De
+mondiale
+CO2-afdruk
+<head id="nl1.s088.t88.10">is</head>
+vertienvoudigd
+sinds
+1961
+.
+uitgaande
+van
+een
+snelle
+mondiale
+economische
+<head id="nl1.s088.t88.27">groei</head>
+en
+een
+<head id="nl1.s088.t88.31">verschuiving</head>
+naar
+een
+<head id="nl1.s088.t88.36">mix</head>
+van
+energiebronnen
+voorspelt
+het
+Intergovernmental
+Panel
+on
+climate
+change
+(
+iPcc
+)
+dat
+de
+jaarlijkse
+cO2-uitstoot
+in
+2050
+bij
+ongewijzigd
+beleid
+meer
+dan
+verdubbeld
+<head id="nl1.s088.t88.60">zal</head>
+<head id="nl1.s088.t88.73">zijn</head>
+ten
+opzichte
+van
+2005
+.
+</s>
+<s>
+De
+cO2emissie
+door
+Nederlandse
+<head id="nl1.s089.t89.9">consumptie</head>
+<head id="nl1.s089.t89.10">is</head>
+in
+de
+afgelopen
+10
+<head id="nl1.s089.t89.19">jaar</head>
+met
+15%
+<head id="nl1.s089.t89.23">gestegen</head>
+.
+</s>
+<s>
+In
+2005
+<head id="nl1.s090.t90.5">was</head>
+de
+energieproductie
+<components>
+	<head id="nl1.s090.t90.8.0" lemma="energie"/>
+	<head id="nl1.s090.t90.8.1" lemma="productie"/>
+</components>
+uit
+fossiele
+brandstof
+mondiaal
+goed
+voor
+45%
+van
+de
+totale
+<head id="nl1.s090.t90.26">voetafdruk</head>
+.
+</s>
+<s>
+Een
+substantiële
+<head id="nl1.s091.t91.5">afname</head>
+van
+de
+cO2-emissie
+<components>
+	<head id="nl1.s091.t91.10.1" lemma="emissie"/>
+</components>
+<head id="nl1.s091.t91.11">is</head>
+essentieel
+om
+een
+gemiddelde
+mondiale
+temperatuurstijging
+<components>
+	<head id="nl1.s091.t91.22.0" lemma="temperatuur"/>
+</components>
+van
+meer
+dan
+2
+<head id="nl1.s091.t91.31">graden</head>
+te
+voorkomen
+.
+</s>
+<s>
+Hiertoe
+<head id="nl1.s092.t92.3">zijn</head>
+drie
+parallelle
+<head id="nl1.s092.t92.7">strategieën</head>
+belangrijk
+:
+</s>
+<s>
+-
+Efficiënter
+energiegebruik
+<components>
+	<head id="nl1.s093.t93.6.0" lemma="energie"/>
+	<head id="nl1.s093.t93.6.1" lemma="gebruik"/>
+</components>
+in
+<head id="nl1.s093.t93.10">industrie</head>
+,
+<head id="nl1.s093.t93.11">huishoudens</head>
+,
+gebouwen
+en
+alle
+<head id="nl1.s093.t93.16">vormen</head>
+van
+<head id="nl1.s093.t93.19">transport</head>
+.
+</s>
+<s>
+-
+Toename
+van
+<head id="nl1.s094.t94.10">energie</head>
+uit
+hernieuwbare
+<head id="nl1.s094.t94.15">bronnen</head>
+,
+zoals
+<head id="nl1.s094.t94.19">wind</head>
+,
+<head id="nl1.s094.t94.20">zon</head>
+,
+hydro-
+en
+warmte-energie
+<components>
+	<head id="nl1.s094.t94.26.0" lemma="warmte"/>
+	<head id="nl1.s094.t94.26.1" lemma="energie"/>
+</components>
+en
+<head id="nl1.s094.t94.37">reductie</head>
+van
+<head id="nl1.s094.t94.30">energie</head>
+uit
+fossiele
+brandstoffen
+.
+</s>
+<s>
+-
+Toepassing
+van
+<head id="nl1.s095.t95.6">methoden</head>
+om
+bij
+energieopwekking
+<components>
+	<head id="nl1.s095.t95.16.0" lemma="energie"/>
+	<head id="nl1.s095.t95.16.1" lemma="opwekking"/>
+</components>
+cO2
+af
+te
+vangen
+en
+op
+te
+<head id="nl1.s095.t95.26">slaan</head>
+.
+</s>
+<s>
+De
+watervoetafdruk
+<components>
+	<head id="nl1.s096.t96.3.0" lemma="water"/>
+</components>
+</s>
+<s>
+Naast
+de
+Ecologische
+<head id="nl1.s097.t97.8">Voetafdruk</head>
+uitgedrukt
+als
+de
+totale
+<head id="nl1.s097.t97.15">som</head>
+van
+benodigd
+productief
+<head id="nl1.s097.t97.21">land</head>
+,
+<head id="nl1.s097.t97.22">zijn</head>
+er
+nog
+andere
+<head id="nl1.s097.t97.27">soorten</head>
+<head id="nl1.s097.t97.28">voetafdrukken</head>
+om
+deelaspecten
+<components>
+	<head id="nl1.s097.t97.34.0" lemma="deel"/>
+	<head id="nl1.s097.t97.34.1" lemma="aspect"/>
+</components>
+te
+<head id="nl1.s097.t97.35">meten</head>
+.
+</s>
+<s>
+De
+watervoetafdruk
+<components>
+	<head id="nl1.s098.t98.5.0" lemma="water"/>
+</components>
+<head id="nl1.s098.t98.7">meet</head>
+het
+totale
+<head id="nl1.s098.t98.11">volume</head>
+<head id="nl1.s098.t98.12">water</head>
+geconsumeerd
+door
+bijvoorbeeld
+een
+individu
+,
+<head id="nl1.s098.t98.22">bedrijf</head>
+of
+<head id="nl1.s098.t98.24">land</head>
+.
+</s>
+<s>
+Op
+landenniveau
+<components>
+	<head id="nl1.s099.t99.5.0" lemma="land"/>
+	<head id="nl1.s099.t99.5.1" lemma="niveau"/>
+</components>
+<head id="nl1.s099.t99.6">meet</head>
+de
+watervoetafdruk
+<components>
+	<head id="nl1.s099.t99.9.0" lemma="water"/>
+</components>
+het
+totale
+<head id="nl1.s099.t99.13">volume</head>
+<head id="nl1.s099.t99.14">water</head>
+dat
+<head id="nl1.s099.t99.22">gebruikt</head>
+<head id="nl1.s099.t99.19">wordt</head>
+om
+<head id="nl1.s099.t99.31">goederen</head>
+en
+<head id="nl1.s099.t99.38">diensten</head>
+voor
+de
+inwoners
+te
+genereren
+.
+</s>
+<s>
+Het
+<head id="nl1.s100.t100.5">bestaat</head>
+dan
+uit
+twee
+componenten
+:
+de
+interne
+<head id="nl1.s100.t100.17">voetafdruk</head>
+voor
+<head id="nl1.s100.t100.23">goederen</head>
+en
+<head id="nl1.s100.t100.46">diensten</head>
+die
+in
+het
+<head id="nl1.s100.t100.35">land</head>
+<head id="nl1.s100.t100.36">geproduceerd</head>
+<head id="nl1.s100.t100.28">worden</head>
+ten
+behoeve
+van
+eigen
+<head id="nl1.s100.t100.44">consumptie</head>
+en
+de
+externe
+<head id="nl1.s100.t100.52">voetafdruk</head>
+die
+nodig
+<head id="nl1.s100.t100.57">is</head>
+voor
+de
+<head id="nl1.s100.t100.64">producten</head>
+die
+geïmporteerd
+<head id="nl1.s100.t100.69">worden</head>
+voor
+eigen
+<head id="nl1.s100.t100.77">consumptie</head>
+.
+</s>
+<s>
+De
+gemiddelde
+mondiale
+watervoetafdruk
+<components>
+	<head id="nl1.s101.t101.7.0" lemma="water"/>
+</components>
+<head id="nl1.s101.t101.8">is</head>
+1243
+m3
+per
+<head id="nl1.s101.t101.16">persoon</head>
+per
+<head id="nl1.s101.t101.19">jaar</head>
+,
+de
+helft
+van
+een
+Olympisch
+<head id="nl1.s101.t101.28">zwembad</head>
+.
+</s>
+<s>
+Hiervan
+<head id="nl1.s102.t102.6">wordt</head>
+afgerond
+68%
+voor
+<head id="nl1.s102.t102.12">landbouw</head>
+gebruikt
+,
+21%
+voor
+de
+<head id="nl1.s102.t102.21">industrie</head>
+en
+10%
+voor
+<head id="nl1.s102.t102.27">huishoudens</head>
+(
+fig
+.
+</s>
+<s>
+12
+)
+)
+.
+</s>
+<s>
+De
+impact
+van
+de
+nationale
+watervoetafdruk
+<components>
+	<head id="nl1.s104.t104.10.0" lemma="water"/>
+</components>
+op
+de
+watervoorraad
+<components>
+	<head id="nl1.s104.t104.15.0" lemma="water"/>
+	<head id="nl1.s104.t104.15.1" lemma="voorraad"/>
+</components>
+<head id="nl1.s104.t104.16">is</head>
+per
+<head id="nl1.s104.t104.20">land</head>
+heel
+verschillend
+.
+</s>
+<s>
+Watertekorten
+<components>
+	<head id="nl1.s105.t105.2.0" lemma="water"/>
+	<head id="nl1.s105.t105.2.1" lemma="tekort"/>
+</components>
+<head id="nl1.s105.t105.3">komen</head>
+echter
+in
+een
+toenemend
+aantal
+<head id="nl1.s105.t105.12">landen</head>
+en
+regio's
+voor
+.
+</s>
+<s>
+Hoewel
+Nederland
+zelf
+niet
+<head id="nl1.s106.t106.10">kampt</head>
+met
+een
+watertekort
+<components>
+	<head id="nl1.s106.t106.15.0" lemma="water"/>
+	<head id="nl1.s106.t106.15.1" lemma="tekort"/>
+</components>
+<head id="nl1.s106.t106.16">is</head>
+het
+externe
+<head id="nl1.s106.t106.20">aandeel</head>
+van
+de
+watervoetafdruk
+<components>
+	<head id="nl1.s106.t106.25.0" lemma="water"/>
+</components>
+per
+<head id="nl1.s106.t106.28">persoon</head>
+een
+van
+de
+grootste
+ter
+<head id="nl1.s106.t106.38">wereld</head>
+:
+1000
+m3
+per
+<head id="nl1.s106.t106.45">jaar</head>
+uit
+buitenlandse
+<head id="nl1.s106.t106.50">bronnen</head>
+op
+een
+totaal
+van
+1200m3
+.
+</s>
+<s>
+Dit
+<head id="nl1.s107.t107.3">betekent</head>
+dat
+Nederland
+door
+de
+<head id="nl1.s107.t107.13">import</head>
+van
+<head id="nl1.s107.t107.16">producten</head>
+indirect
+een
+groot
+beslag
+<head id="nl1.s107.t107.22">legt</head>
+op
+de
+watervoorraden
+<components>
+	<head id="nl1.s107.t107.27.0" lemma="water"/>
+	<head id="nl1.s107.t107.27.1" lemma="voorraad"/>
+</components>
+van
+andere
+<head id="nl1.s107.t107.32">landen</head>
+.
+</s>
+<s>
+BevolkIngsgroeI
+-duurzame
+<head id="nl1.s108.t108.5">handel</head>
+</s>
+<s>
+<head id="nl1.s109.t109.2">Populatie</head>
+en
+<head id="nl1.s109.t109.4">consumptie</head>
+</s>
+<s>
+De
+<head id="nl1.s110.t110.4">voetafdruk</head>
+van
+een
+<head id="nl1.s110.t110.9">land</head>
+<head id="nl1.s110.t110.10">wordt</head>
+<head id="nl1.s110.t110.13">bepaald</head>
+door
+de
+gemiddelde
+<head id="nl1.s110.t110.20">voetafdruk</head>
+per
+inwoner
+en
+het
+aantal
+inwoners
+.
+</s>
+<s>
+Op
+mondiaal
+<head id="nl1.s111.t111.18">niveau</head>
+<head id="nl1.s111.t111.2">zijn</head>
+sinds
+1961
+zowel
+de
+gemiddelde
+<head id="nl1.s111.t111.8">voetafdruk</head>
+als
+de
+<head id="nl1.s111.t111.12">bevolking</head>
+toegenomen
+.
+</s>
+<s>
+Sinds
+1980
+<head id="nl1.s112.t112.2">is</head>
+de
+gemiddelde
+<head id="nl1.s112.t112.6">voetafdruk</head>
+bijna
+gelijk
+<head id="nl1.s112.t112.15">gebleven</head>
+terwijl
+de
+<head id="nl1.s112.t112.21">bevolking</head>
+<head id="nl1.s112.t112.22">is</head>
+<head id="nl1.s112.t112.25">blijven</head>
+<head id="nl1.s112.t112.28">groeien</head>
+.
+</s>
+<s>
+Een
+interessante
+indeling
+<head id="nl1.s113.t113.7">is</head>
+<head id="nl1.s113.t113.10">gemaakt</head>
+door
+de
+Wereldbank
+tussen
+<head id="nl1.s113.t113.19">landen</head>
+met
+een
+laag
+,
+gemiddeld
+en
+hoog
+inkomen
+.
+</s>
+<s>
+Daaruit
+blijkt
+dat
+sinds
+1961
+de
+<head id="nl1.s114.t114.10">bevolking</head>
+in
+alle
+drie
+de
+inkomenscategorieën
+<components>
+	<head id="nl1.s114.t114.19.1" lemma="categorie"/>
+</components>
+<head id="nl1.s114.t114.20">is</head>
+toegenomen
+,
+echter
+niet
+in
+gelijke
+mate
+.
+</s>
+<s>
+Bij
+de
+lage
+inkomenslanden
+<components>
+	<head id="nl1.s115.t115.12.1" lemma="land"/>
+</components>
+<head id="nl1.s115.t115.2">is</head>
+de
+<head id="nl1.s115.t115.5">bevolking</head>
+<head id="nl1.s115.t115.14">verdrievoudigd</head>
+.
+</s>
+<s>
+Als
+gevolg
+hiervan
+<head id="nl1.s116.t116.3">is</head>
+de
+biocapaciteit
+per
+<head id="nl1.s116.t116.9">persoon</head>
+aanzienlijk
+<head id="nl1.s116.t116.17">afgenomen</head>
+,
+waardoor
+<head id="nl1.s116.t116.21">landen</head>
+steeds
+afhankelijker
+<head id="nl1.s116.t116.22">zijn</head>
+<head id="nl1.s116.t116.26">geworden</head>
+van
+<head id="nl1.s116.t116.32">import</head>
+.
+</s>
+<s>
+Omdat
+daar
+vaak
+de
+financiële
+<head id="nl1.s117.t117.13">middelen</head>
+voor
+ontbreken
+<head id="nl1.s117.t117.17">is</head>
+ook
+de
+individuele
+<head id="nl1.s117.t117.23">voetafdruk</head>
+van
+inwoners
+van
+deze
+<head id="nl1.s117.t117.32">landen</head>
+<head id="nl1.s117.t117.33">afgenomen</head>
+.
+in
+<head id="nl1.s117.t117.49">landen</head>
+met
+een
+gemiddeld
+inkomen
+<head id="nl1.s117.t117.35">zijn</head>
+zowel
+de
+<head id="nl1.s117.t117.40">bevolking</head>
+als
+de
+<head id="nl1.s117.t117.44">voetafdruk</head>
+toegenomen
+.
+gemiddeld
+genomen
+<head id="nl1.s117.t117.60">is</head>
+de
+<head id="nl1.s117.t117.63">bevolking</head>
+hier
+<head id="nl1.s117.t117.68">verdubbeld</head>
+terwijl
+de
+<head id="nl1.s117.t117.74">voetafdruk</head>
+per
+<head id="nl1.s117.t117.77">persoon</head>
+met
+21%
+<head id="nl1.s117.t117.78">is</head>
+<head id="nl1.s117.t117.84">gestegen</head>
+.
+</s>
+<s>
+Er
+<head id="nl1.s118.t118.2">is</head>
+hier
+vooral
+een
+grote
+stijging
+van
+vleesconsumptie
+<components>
+	<head id="nl1.s118.t118.10.0" lemma="vlees"/>
+	<head id="nl1.s118.t118.10.1" lemma="consumptie"/>
+</components>
+en
+energieverbruik
+<components>
+	<head id="nl1.s118.t118.12.0" lemma="energie"/>
+	<head id="nl1.s118.t118.12.1" lemma="verbruik"/>
+</components>
+te
+<head id="nl1.s118.t118.20">zien</head>
+.
+</s>
+<s>
+Deze
+inkomensgroep
+<components>
+	<head id="nl1.s119.t119.6.1" lemma="groep"/>
+</components>
+<head id="nl1.s119.t119.7">was</head>
+in
+2005
+,
+met
+zijn
+<head id="nl1.s119.t119.16">voetafdruk</head>
+van
+gemiddelde
+grootte
+en
+het
+grootste
+bevolkingsaantal
+<components>
+	<head id="nl1.s119.t119.26.0" lemma="bevolking"/>
+</components>
+,
+verantwoordelijk
+voor
+39%
+van
+de
+totale
+mondiale
+<head id="nl1.s119.t119.39">voetafdruk</head>
+.
+</s>
+<s>
+Landen
+behorende
+tot
+de
+hoge
+inkomensgroep
+<components>
+	<head id="nl1.s120.t120.12.1" lemma="groep"/>
+</components>
+<head id="nl1.s120.t120.13">zagen</head>
+hun
+individuele
+<head id="nl1.s120.t120.17">voetafdruk</head>
+toenemen
+met
+76%
+sinds
+1961
+,
+waarbij
+de
+cO2-component
+negenmaal
+zo
+groot
+<head id="nl1.s120.t120.39">werd</head>
+.
+</s>
+<s>
+De
+<head id="nl1.s121.t121.4">bevolking</head>
+nam
+in
+deze
+<head id="nl1.s121.t121.10">groep</head>
+<head id="nl1.s121.t121.11">landen</head>
+het
+minst
+toe
+.
+</s>
+<s>
+Deze
+<head id="nl1.s122.t122.5">groep</head>
+<head id="nl1.s122.t122.6">vertegenwoordigt</head>
+15%
+van
+de
+<head id="nl1.s122.t122.13">bevolking</head>
+en
+<head id="nl1.s122.t122.17">is</head>
+verantwoordelijk
+voor
+36%
+van
+de
+mondiale
+<head id="nl1.s122.t122.29">voetafdruk</head>
+.
+</s>
+<s>
+Daarmee
+<head id="nl1.s123.t123.3">is</head>
+de
+totale
+<head id="nl1.s123.t123.7">voetafdruk</head>
+van
+deze
+<head id="nl1.s123.t123.12">groep</head>
+<head id="nl1.s123.t123.13">landen</head>
+2,6
+<head id="nl1.s123.t123.16">maal</head>
+zo
+groot
+als
+die
+van
+de
+lage
+inkomenslanden
+<components>
+	<head id="nl1.s123.t123.30.1" lemma="land"/>
+</components>
+.
+</s>
+<s>
+De
+<head id="nl1.s124.t124.4">vraag</head>
+of
+een
+<head id="nl1.s124.t124.10">land</head>
+een
+ecologisch
+<head id="nl1.s124.t124.14">tekort</head>
+<head id="nl1.s124.t124.15">heeft</head>
+<head id="nl1.s124.t124.16">is</head>
+mede
+afhankelijk
+van
+de
+hoeveelheid
+natuurlijke
+hulpbronnen
+waarover
+het
+binnen
+zijn
+grondgebied
+<components>
+	<head id="nl1.s124.t124.37.0" lemma="grond"/>
+	<head id="nl1.s124.t124.37.1" lemma="gebied"/>
+</components>
+beschikt
+.
+</s>
+<s>
+Kleine
+<head id="nl1.s125.t125.6">landen</head>
+en
+<head id="nl1.s125.t125.15">landen</head>
+met
+een
+ongunstige
+ligging
+<head id="nl1.s125.t125.17">zullen</head>
+dus
+eerder
+een
+ecologische
+<head id="nl1.s125.t125.25">schuld</head>
+<head id="nl1.s125.t125.26">opbouwen</head>
+.
+</s>
+<s>
+Het
+<head id="nl1.s126.t126.5">is</head>
+daarom
+belangrijk
+om
+de
+ecologische
+<head id="nl1.s126.t126.16">schuld</head>
+per
+regio
+te
+<head id="nl1.s126.t126.20">bestuderen</head>
+(
+<head id="nl1.s126.t126.22">zie</head>
+ook
+fig
+.
+</s>
+<s>
+10
+)
+)
+.
+</s>
+<s>
+De
+regio's
+Noord-Amerika
+,
+de
+Europese
+<head id="nl1.s128.t128.15">unie</head>
+(
+Eu
+)
+,
+het
+Midden-Oosten
+,
+centraal-
+Azië
+en
+Zuidoost-Azië
+<head id="nl1.s128.t128.25">hebben</head>
+allemaal
+een
+grotere
+<head id="nl1.s128.t128.29">voetafdruk</head>
+dan
+hun
+biocapaciteit
+.
+</s>
+<s>
+De
+Europese
+<head id="nl1.s129.t129.6">landen</head>
+die
+geen
+<head id="nl1.s129.t129.14">lid</head>
+<head id="nl1.s129.t129.11">zijn</head>
+van
+de
+Eu
+,
+Latijns-Amerika
+en
+het
+caribische
+<head id="nl1.s129.t129.26">gebied</head>
+en
+Afrika
+<head id="nl1.s129.t129.29">hebben</head>
+een
+groter
+<head id="nl1.s129.t129.32">aanbod</head>
+aan
+natuurlijke
+hulpbronnen
+dan
+zij
+<head id="nl1.s129.t129.45">gebruiken</head>
+.
+</s>
+<s>
+De
+<head id="nl1.s130.t130.4">verschillen</head>
+in
+<head id="nl1.s130.t130.10">consumptie</head>
+en
+<head id="nl1.s130.t130.17">spreiding</head>
+van
+natuurlijke
+hulpbronnen
+<head id="nl1.s130.t130.19">brengen</head>
+politieke
+en
+ethische
+<head id="nl1.s130.t130.25">vragen</head>
+met
+zich
+mee
+.
+</s>
+<s>
+Landen
+met
+een
+ecologische
+<head id="nl1.s131.t131.11">schuld</head>
+<head id="nl1.s131.t131.12">lopen</head>
+het
+risico
+om
+in
+toenemende
+mate
+afhankelijk
+te
+<head id="nl1.s131.t131.27">worden</head>
+van
+de
+hulpbronnen
+van
+anderen
+;
+<head id="nl1.s131.t131.40">landen</head>
+met
+een
+<head id="nl1.s131.t131.45">overschot</head>
+aan
+biocapaciteit
+<head id="nl1.s131.t131.49">hebben</head>
+een
+belangrijk
+<head id="nl1.s131.t131.53">voordeel</head>
+in
+een
+<head id="nl1.s131.t131.58">wereld</head>
+van
+toenemende
+schaarste
+.
+</s>
+<s>
+Een
+voortzetting
+van
+de
+<head id="nl1.s132.t132.9">groei</head>
+in
+<head id="nl1.s132.t132.13">bevolking</head>
+en
+individuele
+<head id="nl1.s132.t132.17">voetafdruk</head>
+<head id="nl1.s132.t132.18">is</head>
+niet
+duurzaam
+.
+</s>
+<s>
+Een
+<head id="nl1.s133.t133.4">deel</head>
+van
+de
+<head id="nl1.s133.t133.9">oplossing</head>
+<head id="nl1.s133.t133.10">zit</head>
+in
+het
+efficiënter
+<head id="nl1.s133.t133.17">gebruiken</head>
+van
+natuurlijke
+hulpbronnen
+en
+<head id="nl1.s133.t133.25">diensten</head>
+door
+innovatie
+.
+</s>
+<s>
+Vooral
+de
+hogere
+inkomenslanden
+<components>
+	<head id="nl1.s134.t134.6.1" lemma="land"/>
+</components>
+<head id="nl1.s134.t134.7">kunnen</head>
+veel
+van
+hun
+<head id="nl1.s134.t134.16">technologie</head>
+<head id="nl1.s134.t134.17">overdragen</head>
+aan
+lagere
+inkomenslanden
+<components>
+	<head id="nl1.s134.t134.22.1" lemma="land"/>
+</components>
+.
+</s>
+<s>
+Er
+<head id="nl1.s135.t135.3">liggen</head>
+grote
+<head id="nl1.s135.t135.6">kansen</head>
+op
+het
+gebied
+van
+innovatie
+van
+infrastructuur
+van
+steden
+omdat
+meer
+dan
+de
+helft
+van
+de
+wereldbevolking
+in
+steden
+woont
+.
+</s>
+<s>
+Daarnaast
+<head id="nl1.s136.t136.3">kan</head>
+de
+snelle
+<head id="nl1.s136.t136.7">groei</head>
+van
+de
+<head id="nl1.s136.t136.12">bevolking</head>
+<head id="nl1.s136.t136.15">worden</head>
+<head id="nl1.s136.t136.19">vertraagd</head>
+door
+te
+<head id="nl1.s136.t136.25">investeren</head>
+in
+onderwijs
+,
+<head id="nl1.s136.t136.30">gezondheidszorg</head>
+en
+vrijwillige
+<head id="nl1.s136.t136.34">voorzieningen</head>
+voor
+geboorteregeling
+<components>
+	<head id="nl1.s136.t136.38.0" lemma="geboorte"/>
+	<head id="nl1.s136.t136.38.1" lemma="regeling"/>
+</components>
+in
+ontwikkelingslanden
+.
+</s>
+<s>
+Deze
+maatregelen
+<head id="nl1.s137.t137.7">leiden</head>
+tevens
+tot
+een
+aanzienlijke
+<head id="nl1.s137.t137.15">verbetering</head>
+van
+het
+<head id="nl1.s137.t137.20">welzijn</head>
+van
+vooral
+<head id="nl1.s137.t137.26">meisjes</head>
+en
+<head id="nl1.s137.t137.30">vrouwen</head>
+en
+tot
+kleinere
+,
+gezondere
+en
+beter
+opgeleide
+gezinnen
+in
+arme
+<head id="nl1.s137.t137.47">landen</head>
+.
+</s>
+<s>
+Opkomende
+<head id="nl1.s138.t138.3">economieën</head>
+</s>
+<s>
+in
+2005
+<head id="nl1.s139.t139.11">had</head>
+het
+Noord-Amerikaanse
+continent
+de
+grootste
+<head id="nl1.s139.t139.19">voetafdruk</head>
+(
+9,2
+gha
+;
+330.5
+miljoen
+inwoners
+)
+,
+gevolgd
+door
+de
+Eu
+(
+4,7gha
+;
+487,3
+miljoen
+inwoners
+)
+.
+</s>
+<s>
+De
+rijke
+<head id="nl1.s140.t140.13">landen</head>
+<head id="nl1.s140.t140.14">hebben</head>
+weliswaar
+per
+inwoner
+de
+grootste
+Ecologische
+<head id="nl1.s140.t140.23">Voetafdruk</head>
+,
+maar
+de
+gezamenlijke
+<head id="nl1.s140.t140.29">voetafdruk</head>
+van
+de
+<head id="nl1.s140.t140.34">landen</head>
+uit
+de
+Wereldbank
+<head id="nl1.s140.t140.40">categorie</head>
+met
+de
+middeninkomens
+<head id="nl1.s140.t140.46">heeft</head>
+inmiddels
+die
+van
+de
+rijke
+<head id="nl1.s140.t140.57">landen</head>
+<head id="nl1.s140.t140.58">ingehaald</head>
+.
+in
+deze
+<head id="nl1.s140.t140.64">categorie</head>
+<head id="nl1.s140.t140.65">valt</head>
+bovendien
+een
+aantal
+<head id="nl1.s140.t140.71">landen</head>
+met
+zeer
+snel
+groeiende
+<head id="nl1.s140.t140.80">economieën</head>
+,
+vaak
+de
+BRic
+<head id="nl1.s140.t140.85">landen</head>
+genoemd
+:
+Brazilië
+,
+Rusland
+,
+india
+en
+china
+.
+</s>
+<s>
+Deze
+<head id="nl1.s141.t141.5">landen</head>
+<head id="nl1.s141.t141.6">zullen</head>
+niet
+alleen
+een
+snel
+toenemende
+<head id="nl1.s141.t141.16">voetafdruk</head>
+<head id="nl1.s141.t141.17">kennen</head>
+maar
+ook
+een
+grotere
+<head id="nl1.s141.t141.31">rol</head>
+<head id="nl1.s141.t141.24">gaan</head>
+<head id="nl1.s141.t141.32">spelen</head>
+in
+de
+internationale
+<head id="nl1.s141.t141.38">handel</head>
+.
+</s>
+<s>
+Wereldwijd
+<head id="nl1.s142.t142.3">is</head>
+tussen
+1961
+en
+2005
+de
+<head id="nl1.s142.t142.12">voetafdruk</head>
+van
+geïmporteerde
+<head id="nl1.s142.t142.17">producten</head>
+meer
+dan
+vervijfvoudigd
+.
+</s>
+<s>
+40%
+van
+de
+mondiale
+<head id="nl1.s143.t143.9">voetafdruk</head>
+in
+2005
+<head id="nl1.s143.t143.13">werd</head>
+veroorzaakt
+door
+verhandelde
+<head id="nl1.s143.t143.22">goederen</head>
+en
+<head id="nl1.s143.t143.26">diensten</head>
+.
+</s>
+<s>
+De
+netto
+<head id="nl1.s144.t144.5">import</head>
+<head id="nl1.s144.t144.8">voetafdruk</head>
+van
+de
+Eu
+in
+2005
+<head id="nl1.s144.t144.17">was</head>
+ongeveer
+gelijk
+aan
+18%
+van
+haar
+eigen
+biocapaciteit
+.
+</s>
+<s>
+De
+toenemende
+globalisering
+<head id="nl1.s145.t145.9">kan</head>
+<head id="nl1.s145.t145.12">betekenen</head>
+dat
+<head id="nl1.s145.t145.17">goederen</head>
+op
+de
+<head id="nl1.s145.t145.22">plek</head>
+<head id="nl1.s145.t145.23">worden</head>
+<head id="nl1.s145.t145.26">geproduceerd</head>
+waar
+dit
+ecologisch
+en
+of
+economisch
+gezien
+het
+meest
+efficiënt
+<head id="nl1.s145.t145.38">kan</head>
+.
+</s>
+<s>
+Het
+<head id="nl1.s146.t146.7">betekent</head>
+echter
+vaak
+ook
+dat
+<head id="nl1.s146.t146.14">landen</head>
+hun
+biocapaciteit
+exporteren
+,
+zonder
+rekening
+te
+<head id="nl1.s146.t146.25">houden</head>
+met
+de
+negatieve
+<head id="nl1.s146.t146.31">gevolgen</head>
+op
+sociaal
+,
+milieu-en
+economisch
+<head id="nl1.s146.t146.36">gebied</head>
+in
+het
+producerende
+<head id="nl1.s146.t146.42">land</head>
+.
+</s>
+</text>
+<text id="nl2">
+<s>
+Het
+<head id="nl2.s001.t1.4">product</head>
+'
+biodiversiteit
+'
+</s>
+<s>
+De
+mondiale
+,
+EU-
+en
+Nederlandse
+<head id="nl2.s002.t2.9">handel</head>
+in
+CITES-soorten
+<components>
+	<head id="nl2.s002.t2.12.1" lemma="soort"/>
+</components>
+</s>
+<s>
+1
+Inleiding
+</s>
+<s>
+Van
+3-15
+juni
+2007
+<head id="nl2.s004.t4.2">wordt</head>
+in
+Den
+Haag
+de
+14e
+CITES-conferentie
+<head id="nl2.s004.t4.20">gehouden</head>
+.
+</s>
+<s>
+CITES
+(
+Convention
+on
+International
+Trade
+in
+Endangered
+Species
+of
+Wild
+Fauna
+and
+Flora
+)
+<head id="nl2.s005.t5.21">is</head>
+een
+internationaal
+verdrag
+dat
+de
+grensoverschrijdende
+<head id="nl2.s005.t5.34">handel</head>
+in
+bedreigde
+planten
+en
+dieren
+en
+de
+<head id="nl2.s005.t5.48">producten</head>
+daarvan
+reguleert
+.
+</s>
+<s>
+Het
+verdrag
+<head id="nl2.s006.t6.7">is</head>
+momenteel
+ondertekend
+door
+171
+<head id="nl2.s006.t6.16">landen</head>
+,
+en
+<head id="nl2.s006.t6.20">is</head>
+daarmee
+een
+van
+'s
+werelds
+meest
+breed
+ondertekende
+natuurbeschermingsovereenkomsten
+<components>
+	<head id="nl2.s006.t6.35.0" lemma="natuur"/>
+</components>
+.
+</s>
+<s>
+Illegale
+en
+niet-duurzame
+<head id="nl2.s007.t7.9">handel</head>
+in
+dieren
+,
+planten
+en
+de
+<head id="nl2.s007.t7.17">producten</head>
+daarvan
+<head id="nl2.s007.t7.19">is</head>
+een
+belangrijke
+oorzaak
+van
+de
+achteruitgang
+van
+een
+groot
+aantal
+<head id="nl2.s007.t7.35">soorten</head>
+.
+</s>
+<s>
+Deze
+achteruitgang
+<head id="nl2.s008.t8.6">treft</head>
+bovendien
+miljoenen
+arme
+<head id="nl2.s008.t8.12">mensen</head>
+die
+van
+deze
+<head id="nl2.s008.t8.22">soorten</head>
+afhankelijk
+<head id="nl2.s008.t8.24">zijn</head>
+voor
+hun
+voedsel
+,
+brandstof
+en
+<head id="nl2.s008.t8.37">medicijnen</head>
+.
+</s>
+<s>
+Tropische
+<head id="nl2.s009.t9.4">landen</head>
+<head id="nl2.s009.t9.5">lopen</head>
+door
+illegale
+<head id="nl2.s009.t9.10">uitvoer</head>
+van
+onder
+andere
+<head id="nl2.s009.t9.17">hout</head>
+jaarlijks
+naar
+schatting
+a
+10-15
+miljard
+aan
+inkomsten
+mis
+.
+</s>
+<s>
+Handel
+in
+dieren
+,
+planten
+en
+de
+<head id="nl2.s010.t10.13">producten</head>
+daarvan
+<head id="nl2.s010.t10.15">hoeft</head>
+geen
+<head id="nl2.s010.t10.22">bedreiging</head>
+voor
+deze
+<head id="nl2.s010.t10.27">soorten</head>
+te
+<head id="nl2.s010.t10.28">zijn</head>
+.
+</s>
+<s>
+Een
+duurzame
+en
+legale
+<head id="nl2.s011.t11.8">handel</head>
+<head id="nl2.s011.t11.9">kan</head>
+bovendien
+een
+belangrijke
+<head id="nl2.s011.t11.16">bijdrage</head>
+<head id="nl2.s011.t11.17">leveren</head>
+aan
+de
+inkomsten
+van
+lokale
+<head id="nl2.s011.t11.27">gemeenschappen</head>
+.
+</s>
+<s>
+Zij
+<head id="nl2.s012.t12.3">hebben</head>
+er
+daardoor
+baat
+bij
+om
+de
+planten
+en
+dieren
+en
+hun
+leefgebieden
+<components>
+	<head id="nl2.s012.t12.27.1" lemma="gebied"/>
+</components>
+te
+beschermen
+.
+</s>
+<s>
+De
+27
+lidstaten
+van
+de
+Europese
+Unie
+(
+EU
+)
+<head id="nl2.s013.t13.16">vormen</head>
+een
+van
+de
+grootste
+en
+meest
+diverse
+<head id="nl2.s013.t13.28">markten</head>
+voor
+veel
+van
+de
+30.000
+<head id="nl2.s013.t13.37">soorten</head>
+waarvan
+de
+<head id="nl2.s013.t13.43">handel</head>
+<head id="nl2.s013.t13.44">wordt</head>
+gereguleerd
+door
+CITES
+via
+EU-verordeningen
+en
+-reguleringen
+.
+</s>
+<s>
+De
+EU-lidstaten
+<head id="nl2.s014.t14.7">hebben</head>
+verschillende
+<head id="nl2.s014.t14.13">stappen</head>
+ondernomen
+om
+de
+illegale
+<head id="nl2.s014.t14.22">handel</head>
+in
+CITES-soorten
+<components>
+	<head id="nl2.s014.t14.25.1" lemma="soort"/>
+</components>
+tegen
+te
+gaan
+,
+maar
+een
+gecoordineerde
+<head id="nl2.s014.t14.33">strategie</head>
+<head id="nl2.s014.t14.34">is</head>
+er
+niet
+.
+</s>
+<s>
+Het
+Wereld
+Natuur
+Fonds
+<head id="nl2.s015.t15.8">heeft</head>
+daarom
+samen
+met
+TRAFFIC1
+het
+EU
+Wildlife
+Trade
+Project
+<head id="nl2.s015.t15.24">gelanceerd</head>
+met
+twee
+doelstellingen
+:
+</s>
+<s>
+Het
+<head id="nl2.s017.t17.4">vergroten</head>
+van
+de
+politieke
+<head id="nl2.s017.t17.10">steun</head>
+voor
+een
+goed
+gereguleerde
+<head id="nl2.s017.t17.18">handel</head>
+in
+bedreigde
+planten
+en
+dieren
+binnen
+de
+EU
+en
+in
+de
+EU-lidstaten
+(
+waaronder
+Nederland
+)
+.
+</s>
+<s>
+2
+.
+</s>
+<s>
+Het
+ondersteunen
+van
+exporterende
+<head id="nl2.s019.t19.8">landen</head>
+bij
+het
+<head id="nl2.s019.t19.13">verbeteren</head>
+van
+het
+beheer
+van
+waardevolle
+planten
+en
+dieren
+.
+</s>
+<s>
+Ter
+ondersteuning
+van
+het
+EU
+Wildlife
+Trade
+Initiative
+<head id="nl2.s020.t20.7">hebben</head>
+het
+WWF
+en
+TRAFFIC
+het
+<head id="nl2.s020.t20.33">rapport</head>
+'
+Opportunity
+or
+Threat
+'
+(
+Engler
+and
+Parry-Jones
+,
+2007
+)
+<head id="nl2.s020.t20.44">gepubliceerd</head>
+.
+</s>
+<s>
+Het
+onderhavige
+<head id="nl2.s021.t21.7">rapport</head>
+van
+het
+Wereld
+Natuur
+Fonds
+<head id="nl2.s021.t21.16">is</head>
+hier
+mede
+op
+<head id="nl2.s021.t21.23">gebaseerd</head>
+en
+<head id="nl2.s021.t21.27">geeft</head>
+informatie
+over
+de
+mondiale
+,
+EU-en
+Nederlandse
+<head id="nl2.s021.t21.38">handel</head>
+in
+CITES-soorten
+<components>
+	<head id="nl2.s021.t21.41.1" lemma="soort"/>
+</components>
+.
+</s>
+<s>
+Aan
+de
+hand
+van
+drie
+<head id="nl2.s022.t22.15">voorbeelden</head>
+(
+mahonie
+,
+kaviaar
+en
+levende
+<head id="nl2.s022.t22.22">reptielen</head>
+)
+<head id="nl2.s022.t22.5">wordt</head>
+toegelicht
+hoe
+de
+legale
+en
+illegale
+<head id="nl2.s022.t22.37">handel</head>
+<head id="nl2.s022.t22.38">werken</head>
+en
+waar
+de
+<head id="nl2.s022.t22.47">problemen</head>
+en
+soms
+ook
+<head id="nl2.s022.t22.52">kansen</head>
+<head id="nl2.s022.t22.53">liggen</head>
+.
+</s>
+<s>
+Het
+<head id="nl2.s023.t23.4">rapport</head>
+<head id="nl2.s023.t23.5">sluit</head>
+af
+met
+aanbevelingen
+voor
+de
+Nederlandse
+<head id="nl2.s023.t23.16">overheid</head>
+.
+</s>
+<s>
+Tussen
+1996
+en
+2002
+importeerden
+de
+toenmalige
+15
+EU-lidstaten
+6
+miljoen
+levende
+vogels
+,
+1,5
+miljoen
+<head id="nl2.s024.t24.27">reptielen</head>
+,
+10
+miljoen
+reptielenhuiden
+<components>
+	<head id="nl2.s024.t24.31.0" lemma="reptiel"/>
+	<head id="nl2.s024.t24.31.1" lemma="huid"/>
+</components>
+,
+21
+miljoen
+orchideeën
+en
+572
+<head id="nl2.s024.t24.39">ton</head>
+kaviaar
+.
+</s>
+<s>
+Het
+<head id="nl2.s025.t25.3">gaat</head>
+hierbij
+zowel
+om
+uit
+het
+wild
+afkomstige
+planten
+en
+dieren
+als
+om
+gekweekte
+exemplaren
+.
+</s>
+<s>
+In
+de
+<head id="nl2.s026.t26.7">jaren</head>
+2003-2004
+<head id="nl2.s026.t26.9">werden</head>
+in
+de
+EU
+in
+het
+kader
+van
+CITES
+ruim
+7000
+<head id="nl2.s026.t26.25">zendingen</head>
+in
+beslag
+genomen
+met
+in
+totaal
+meer
+dan
+3,5
+miljoen
+planten
+,
+dieren
+en
+de
+<head id="nl2.s026.t26.49">producten</head>
+daarvan
+.
+</s>
+<s>
+2
+Omvang
+van
+de
+internationale
+<head id="nl2.s027.t27.9">handel</head>
+</s>
+<s>
+Jaarlijks
+<head id="nl2.s028.t28.3">gaat</head>
+er
+voor
+vele
+miljoenen
+om
+in
+zowel
+de
+legale
+als
+illegale
+<head id="nl2.s028.t28.20">handel</head>
+in
+planten
+en
+dieren
+.
+</s>
+<s>
+Bij
+deze
+lucratieve
+<head id="nl2.s029.t29.8">handel</head>
+<head id="nl2.s029.t29.9">gaat</head>
+het
+niet
+alleen
+om
+veel
+<head id="nl2.s029.t29.19">geld</head>
+,
+maar
+ook
+om
+grote
+hoeveelheden
+.
+</s>
+<s>
+In
+dit
+hoofdstuk
+<head id="nl2.s030.t30.2">zal</head>
+de
+<head id="nl2.s030.t30.5">omvang</head>
+van
+deze
+twee
+handelsstromen
+<components>
+	<head id="nl2.s030.t30.11.0" lemma="handel"/>
+	<head id="nl2.s030.t30.11.1" lemma="stroom"/>
+</components>
+nader
+<head id="nl2.s030.t30.14">worden</head>
+<head id="nl2.s030.t30.23">bekeken</head>
+.
+</s>
+<s>
+2.1
+Omvang
+van
+de
+legale
+<head id="nl2.s031.t31.9">handel</head>
+</s>
+<s>
+Volgens
+een
+behoudende
+<head id="nl2.s032.t32.14">schatting</head>
+(
+Engler
+and
+Parry-Jones
+,
+2007
+)
+<head id="nl2.s032.t32.21">gaat</head>
+er
+jaarlijks
+ongeveer
+a
+250
+miljard
+om
+in
+de
+legale
+<head id="nl2.s032.t32.35">handel</head>
+in
+planten
+en
+dieren
+(
+CITES
+plus
+niet-CITES
+)
+,
+waarvan
+90
+procent
+in
+hout-
+en
+visserijproducten
+<components>
+	<head id="nl2.s032.t32.64.1" lemma="product"/>
+</components>
+(
+<head id="nl2.s032.t32.59">getallen</head>
+uit
+2005
+)
+.
+</s>
+<s>
+Ter
+<head id="nl2.s033.t33.8">vergelijking</head>
+:
+in
+de
+jaarlijkse
+<head id="nl2.s033.t33.15">handel</head>
+in
+<head id="nl2.s033.t33.19">koffie</head>
+,
+<head id="nl2.s033.t33.20">thee</head>
+en
+specerijen
+<head id="nl2.s033.t33.23">gaat</head>
+'
+slechts
+'
+a
+14
+miljard
+om
+.
+</s>
+<s>
+De
+EU
+<head id="nl2.s034.t34.6">is</head>
+de
+belangrijkste
+importeur
+en
+consument
+van
+veel
+natuurlijke
+<head id="nl2.s034.t34.18">producten</head>
+,
+zoals
+<head id="nl2.s034.t34.21">hout</head>
+.
+</s>
+<s>
+In
+totaal
+importeerde
+de
+EU
+in
+2005
+voor
+a
+93
+miljard
+aan
+planten
+en
+dieren
+,
+waarvan
+90,5
+miljard
+aan
+<head id="nl2.s035.t35.34">hout</head>
+en
+visserijproducten
+<components>
+	<head id="nl2.s035.t35.36.1" lemma="product"/>
+</components>
+.
+</s>
+<s>
+In
+tabel
+2.1
+<head id="nl2.s036.t36.2">wordt</head>
+<head id="nl2.s036.t36.9">aangegeven</head>
+wat
+de
+<head id="nl2.s036.t36.17">waarde</head>
+<head id="nl2.s036.t36.14">is</head>
+van
+de
+mondiale
+en
+de
+EU-handel
+<components>
+	<head id="nl2.s036.t36.27.1" lemma="handel"/>
+</components>
+in
+een
+aantal
+<head id="nl2.s036.t36.34">groepen</head>
+planten
+en
+dieren
+.
+</s>
+<s>
+Bij
+de
+<head id="nl2.s037.t37.7">handel</head>
+in
+planten
+en
+dieren
+<head id="nl2.s037.t37.14">gaat</head>
+het
+niet
+alleen
+om
+veel
+<head id="nl2.s037.t37.24">geld</head>
+,
+maar
+ook
+om
+grote
+aantallen
+.
+</s>
+<s>
+Tussen
+1996
+en
+2002
+importeerden
+de
+toenmalige
+15
+EU-lidstaten
+6
+miljoen
+levende
+vogels
+,
+1,5
+miljoen
+<head id="nl2.s038.t38.27">reptielen</head>
+,
+10
+miljoen
+reptielenhuiden
+<components>
+	<head id="nl2.s038.t38.31.0" lemma="reptiel"/>
+	<head id="nl2.s038.t38.31.1" lemma="huid"/>
+</components>
+,
+21
+miljoen
+orchideeën
+en
+572
+<head id="nl2.s038.t38.39">ton</head>
+kaviaar
+.
+</s>
+<s>
+Het
+<head id="nl2.s039.t39.3">gaat</head>
+hierbij
+zowel
+om
+uit
+het
+wild
+afkomstige
+planten
+en
+dieren
+als
+om
+gekweekte
+exemplaren
+.
+</s>
+<s>
+Tussen
+1999
+en
+2003
+<head id="nl2.s040.t40.4">werden</head>
+650.000
+in
+het
+wild
+gevangen
+vogels
+die
+op
+de
+CITES-lijsten
+<components>
+	<head id="nl2.s040.t40.23.1" lemma="lijst"/>
+</components>
+<head id="nl2.s040.t40.24">voorkomen</head>
+de
+EU
+<head id="nl2.s040.t40.36">ingevoerd</head>
+(
+EFSA
+,
+2006
+)
+.
+</s>
+<s>
+Volgens
+sommige
+auteurs
+<head id="nl2.s041.t41.8">is</head>
+dit
+aantal
+in
+werkelijkheid
+nog
+veel
+hoger
+en
+<head id="nl2.s041.t41.21">zou</head>
+het
+<head id="nl2.s041.t41.26">gaan</head>
+om
+maar
+liefst
+2
+miljoen
+vogels
+per
+<head id="nl2.s041.t41.38">jaar</head>
+.
+</s>
+<s>
+De
+belangrijkste
+importeurs
+tussen
+1999
+en
+2003
+<head id="nl2.s042.t42.28">waren</head>
+(
+met
+tussen
+<head id="nl2.s042.t42.33">haakjes</head>
+het
+aantal
+in
+deze
+<head id="nl2.s042.t42.43">periode</head>
+ingevoerde
+wildvangvogels
+)
+:
+Nederland
+(
+105.761
+)
+,
+Spanje
+(
+101.340
+)
+,
+Italië
+(
+98.459
+)
+,
+Portugal
+(
+88.382
+)
+en
+België
+(
+87.171
+)
+.
+</s>
+<s>
+2.2
+Omvang
+van
+de
+illegale
+<head id="nl2.s043.t43.9">handel</head>
+</s>
+<s>
+In
+de
+<head id="nl2.s044.t44.7">jaren</head>
+2003-2004
+<head id="nl2.s044.t44.9">werden</head>
+in
+de
+EU
+in
+het
+kader
+van
+CITES
+ruim
+7000
+<head id="nl2.s044.t44.25">zendingen</head>
+in
+beslag
+genomen
+met
+in
+totaal
+meer
+dan
+3,5
+miljoen
+planten
+,
+dieren
+en
+de
+<head id="nl2.s044.t44.49">producten</head>
+daarvan
+.
+</s>
+<s>
+Tussen
+2000
+en
+2005
+<head id="nl2.s045.t45.2">werd</head>
+maar
+liefst
+12
+<head id="nl2.s045.t45.8">ton</head>
+illegaal
+ingevoerde
+kaviaar
+ontdekt
+.
+</s>
+<s>
+Hoeveel
+kaviaar
+in
+totaal
+ongezien
+de
+EU
+<head id="nl2.s046.t46.9">is</head>
+binnengesmokkeld
+,
+<head id="nl2.s046.t46.20">is</head>
+uiteraard
+onbekend
+.
+</s>
+<s>
+De
+<head id="nl2.s047.t47.5">waarde</head>
+van
+planten
+,
+dieren
+en
+de
+<head id="nl2.s047.t47.14">producten</head>
+daarvan
+<head id="nl2.s047.t47.16">kan</head>
+erg
+hoog
+<head id="nl2.s047.t47.22">zijn</head>
+.
+</s>
+<s>
+Landschildpadden
+<components>
+	<head id="nl2.s048.t48.4.0" lemma="land"/>
+</components>
+<head id="nl2.s048.t48.5">kunnen</head>
+tot
+wel
+euro
+30.000,-
+per
+<head id="nl2.s048.t48.13">stuk</head>
+<head id="nl2.s048.t48.14">opbrengen</head>
+.
+</s>
+<s>
+Ook
+voor
+<head id="nl2.s049.t49.6">hyacint</head>
+ara's
+of
+palmkaketoes
+<head id="nl2.s049.t49.11">hebben</head>
+bepaalde
+vogelhouders
+<components>
+	<head id="nl2.s049.t49.14.1" lemma="houder"/>
+</components>
+vele
+duizenden
+euro's
+over
+.
+</s>
+<s>
+Bij
+zes
+<head id="nl2.s050.t50.8">zaken</head>
+in
+het
+Verenigd
+Koninkrijk
+(
+tussen
+1996
+en
+2002
+)
+<head id="nl2.s050.t50.22">was</head>
+de
+gezamenlijke
+<head id="nl2.s050.t50.26">waarde</head>
+van
+de
+illegaal
+verhandelde
+<head id="nl2.s050.t50.34">producten</head>
+ruim
+euro
+6
+miljoen
+.
+</s>
+<s>
+Er
+<head id="nl2.s051.t51.3">werd</head>
+onder
+andere
+<head id="nl2.s051.t51.9">gehandeld</head>
+in
+neushoornhorens
+<components>
+	<head id="nl2.s051.t51.13.2" lemma="horen"/>
+</components>
+,
+<head id="nl2.s051.t51.14">papegaaien</head>
+en
+roofvogels
+<components>
+	<head id="nl2.s051.t51.16.0" lemma="roof"/>
+</components>
+.
+</s>
+<s>
+Handelslijnen
+<components>
+	<head id="nl2.s052.t52.2.1" lemma="lijn"/>
+</components>
+<head id="nl2.s052.t52.3">zijn</head>
+vaak
+complex
+.
+</s>
+<s>
+Er
+<head id="nl2.s053.t53.3">is</head>
+sprake
+van
+los-vast
+georganiseerde
+<head id="nl2.s053.t53.12">netwerken</head>
+.
+</s>
+<s>
+Zeldzame
+<head id="nl2.s054.t54.4">soorten</head>
+<head id="nl2.s054.t54.5">worden</head>
+op
+<head id="nl2.s054.t54.10">bestelling</head>
+<head id="nl2.s054.t54.11">geleverd</head>
+.
+</s>
+<s>
+Bovendien
+<head id="nl2.s055.t55.4">is</head>
+er
+<head id="nl2.s055.t55.7">vermenging</head>
+tussen
+legale
+en
+illegale
+<head id="nl2.s055.t55.15">handel</head>
+,
+bijvoorbeeld
+door
+in
+het
+wild
+gevangen
+dieren
+op
+te
+<head id="nl2.s055.t55.31">geven</head>
+als
+gekweekt
+.
+</s>
+<s>
+4.3
+Drie
+<head id="nl2.s056.t56.4">voorbeelden</head>
+nader
+bekeken
+</s>
+<s>
+Hieronder
+<head id="nl2.s057.t57.2">zal</head>
+het
+bovenstaande
+nader
+<head id="nl2.s057.t57.8">worden</head>
+<head id="nl2.s057.t57.13">geïllustreerd</head>
+aan
+de
+hand
+van
+drie
+<head id="nl2.s057.t57.22">voorbeelden</head>
+.
+</s>
+<s>
+De
+Nederlandse
+<head id="nl2.s058.t58.6">handel</head>
+in
+mahonie
+,
+kaviaar
+en
+levende
+<head id="nl2.s058.t58.15">reptielen</head>
+<head id="nl2.s058.t58.16">zal</head>
+<head id="nl2.s058.t58.19">worden</head>
+<head id="nl2.s058.t58.22">bekeken</head>
+in
+<head id="nl2.s058.t58.26">relatie</head>
+met
+de
+Europese
+<head id="nl2.s058.t58.32">handel</head>
+in
+deze
+<head id="nl2.s058.t58.37">soorten</head>
+.
+</s>
+<s>
+Omdat
+het
+om
+drie
+gescheiden
+<head id="nl2.s059.t59.11">circuits</head>
+<head id="nl2.s059.t59.12">gaat</head>
+<head id="nl2.s059.t59.13">komt</head>
+de
+pluriformiteit
+van
+de
+<head id="nl2.s059.t59.21">handel</head>
+in
+CITES-soorten
+<components>
+	<head id="nl2.s059.t59.24.1" lemma="soort"/>
+</components>
+goed
+naar
+voren
+.
+</s>
+<s>
+De
+<head id="nl2.s060.t60.5">waarde</head>
+van
+mahonie
+in
+het
+<head id="nl2.s060.t60.14">land</head>
+van
+oorsprong
+<head id="nl2.s060.t60.18">ligt</head>
+boven
+de
+euro
+1.000,-
+per
+kubieke
+<head id="nl2.s060.t60.29">meter</head>
+,
+met
+als
+<head id="nl2.s060.t60.34">gevolg</head>
+grootschalige
+illegale
+<head id="nl2.s060.t60.38">kap</head>
+in
+een
+groot
+<head id="nl2.s060.t60.44">deel</head>
+van
+het
+verspreidingsgebied
+<components>
+	<head id="nl2.s060.t60.49.1" lemma="gebied"/>
+</components>
+.
+</s>
+<s>
+Op
+de
+bijlagen
+van
+CITES
+<head id="nl2.s061.t61.13">staan</head>
+relatief
+weinig
+boomsoorten
+-
+circa
+20
+van
+de
+ongeveer
+135
+commercieel
+belangrijke
+<head id="nl2.s061.t61.34">soorten</head>
+-
+terwijl
+<head id="nl2.s061.t61.40">hout</head>
+van
+de
+totale
+<head id="nl2.s061.t61.46">handel</head>
+in
+planten
+,
+dieren
+en
+<head id="nl2.s061.t61.53">producten</head>
+daarvan
+meer
+dan
+50
+procent
+van
+de
+totale
+<head id="nl2.s061.t61.67">waarde</head>
+<head id="nl2.s061.t61.68">vertegenwoordigt</head>
+(
+<head id="nl2.s061.t61.70">zie</head>
+2.1
+)
+.
+</s>
+<s>
+Naast
+ramin
+en
+merbau
+<head id="nl2.s062.t62.10">is</head>
+mahonie
+(
+Swietenia
+marcophylla
+)
+voor
+de
+<head id="nl2.s062.t62.20">houthandel</head>
+commercieel
+gezien
+de
+belangrijkste
+<head id="nl2.s062.t62.27">boom</head>
+op
+de
+bijlagen
+van
+CITES
+.
+</s>
+<s>
+Deze
+in
+Zuid-Amerika
+voorkomende
+<head id="nl2.s063.t63.9">soort</head>
+<head id="nl2.s063.t63.10">staat</head>
+sinds
+2002
+op
+bijlage
+II
+van
+CITES
+.
+</s>
+<s>
+Voor
+de
+<head id="nl2.s064.t64.6">invoer</head>
+in
+de
+EU
+<head id="nl2.s064.t64.12">zijn</head>
+daarom
+uit-
+en
+invoervergunningen
+<components>
+	<head id="nl2.s064.t64.17.0" lemma="invoer"/>
+	<head id="nl2.s064.t64.17.1" lemma="vergunning"/>
+</components>
+nodig
+.
+</s>
+<s>
+Mahoniehout
+<head id="nl2.s065.t65.5">is</head>
+geliefd
+,
+onder
+andere
+vanwege
+de
+mooie
+rode
+<head id="nl2.s065.t65.16">kleur</head>
+,
+de
+duurzaamheid
+en
+het
+relatieve
+<head id="nl2.s065.t65.25">gemak</head>
+waarmee
+het
+<head id="nl2.s065.t65.31">hout</head>
+<head id="nl2.s065.t65.32">is</head>
+te
+<head id="nl2.s065.t65.38">bewerken</head>
+.
+</s>
+<s>
+Mahonie
+<head id="nl2.s066.t66.4">wordt</head>
+vooral
+<head id="nl2.s066.t66.8">gebruikt</head>
+voor
+de
+jachtbouw
+<components>
+	<head id="nl2.s066.t66.14.0" lemma="jacht"/>
+	<head id="nl2.s066.t66.14.1" lemma="bouw"/>
+</components>
+,
+muziekinstrumenten
+<components>
+	<head id="nl2.s066.t66.15.0" lemma="muziek"/>
+	<head id="nl2.s066.t66.15.1" lemma="instrument"/>
+</components>
+en
+exclusieve
+meubels
+.
+</s>
+<s>
+De
+<head id="nl2.s067.t67.5">waarde</head>
+van
+mahonie
+in
+het
+<head id="nl2.s067.t67.14">land</head>
+van
+oorsprong
+<head id="nl2.s067.t67.18">ligt</head>
+boven
+de
+euro
+1.000,-
+per
+kubieke
+<head id="nl2.s067.t67.29">meter</head>
+,
+met
+als
+<head id="nl2.s067.t67.34">gevolg</head>
+grootschalige
+illegale
+<head id="nl2.s067.t67.38">kap</head>
+in
+een
+groot
+<head id="nl2.s067.t67.44">deel</head>
+van
+het
+verspreidingsgebied
+<components>
+	<head id="nl2.s067.t67.49.1" lemma="gebied"/>
+</components>
+.
+</s>
+<s>
+In
+Bolivia
+<head id="nl2.s068.t68.5">is</head>
+de
+<head id="nl2.s068.t68.8">prijs</head>
+van
+een
+kapvergunning
+<components>
+	<head id="nl2.s068.t68.13.0" lemma="kap"/>
+	<head id="nl2.s068.t68.13.1" lemma="vergunning"/>
+</components>
+hoger
+dan
+de
+<head id="nl2.s068.t68.20">boete</head>
+op
+illegale
+<head id="nl2.s068.t68.25">kap</head>
+.
+</s>
+<s>
+4.3.1
+Grootschalige
+illegale
+<head id="nl2.s069.t69.5">kap</head>
+</s>
+<s>
+Hoewel
+de
+<head id="nl2.s070.t70.8">landen</head>
+van
+oorsprong
+trachten
+deze
+illegale
+<head id="nl2.s070.t70.20">kap</head>
+aan
+banden
+te
+<head id="nl2.s070.t70.24">leggen</head>
+,
+<head id="nl2.s070.t70.25">is</head>
+het
+<head id="nl2.s070.t70.28">effect</head>
+van
+hun
+maatregelen
+gering
+.
+</s>
+<s>
+In
+Peru
+<head id="nl2.s071.t71.2">zou</head>
+ongeveer
+90
+procent
+van
+het
+op
+de
+<head id="nl2.s071.t71.22">markt</head>
+aanwezige
+mahonie
+illegaal
+<head id="nl2.s071.t71.4">zijn</head>
+<head id="nl2.s071.t71.26">gekapt</head>
+.
+</s>
+<s>
+In
+Bolivia
+<head id="nl2.s072.t72.5">is</head>
+de
+<head id="nl2.s072.t72.8">prijs</head>
+van
+een
+kapvergunning
+<components>
+	<head id="nl2.s072.t72.13.0" lemma="kap"/>
+	<head id="nl2.s072.t72.13.1" lemma="vergunning"/>
+</components>
+hoger
+dan
+de
+<head id="nl2.s072.t72.20">boete</head>
+op
+illegale
+<head id="nl2.s072.t72.25">kap</head>
+.
+</s>
+<s>
+Ook
+het
+feit
+dat
+illegaal
+gekapt
+<head id="nl2.s073.t73.12">hout</head>
+door
+de
+<head id="nl2.s073.t73.20">overheid</head>
+<head id="nl2.s073.t73.13">wordt</head>
+<head id="nl2.s073.t73.21">verkocht</head>
+aan
+houtbedrijven
+<components>
+	<head id="nl2.s073.t73.24.0" lemma="hout"/>
+	<head id="nl2.s073.t73.24.1" lemma="bedrijf"/>
+</components>
+<head id="nl2.s073.t73.25">bevordert</head>
+illegale
+<head id="nl2.s073.t73.28">kap</head>
+.
+</s>
+<s>
+<head id="nl2.s074.t74.3">Bedrijven</head>
+<head id="nl2.s074.t74.4">zorgen</head>
+dat
+er
+illegaal
+<head id="nl2.s074.t74.8">bomen</head>
+<head id="nl2.s074.t74.9">worden</head>
+omgezaagd
+en
+<head id="nl2.s074.t74.18">tippen</head>
+dan
+de
+<head id="nl2.s074.t74.22">overheid</head>
+.
+</s>
+<s>
+Deze
+<head id="nl2.s075.t75.5">verkoopt</head>
+het
+illegaal
+geoogste
+<head id="nl2.s075.t75.11">hout</head>
+,
+waardoor
+de
+<head id="nl2.s075.t75.17">bedrijven</head>
+tegen
+relatief
+lage
+kosten
+legaal
+<head id="nl2.s075.t75.31">hout</head>
+<head id="nl2.s075.t75.27">weten</head>
+te
+bemachtigen
+.
+</s>
+<s>
+Er
+<head id="nl2.s076.t76.3">gaat</head>
+erg
+veel
+<head id="nl2.s076.t76.8">geld</head>
+om
+in
+de
+<head id="nl2.s076.t76.14">handel</head>
+in
+mahonie
+.
+</s>
+<s>
+Tussen
+1971
+en
+2000
+<head id="nl2.s077.t77.3">werd</head>
+in
+de
+Braziliaanse
+Amazone
+ongeveer
+5,7
+miljoen
+kubieke
+<head id="nl2.s077.t77.23">meter</head>
+gezaagd
+mahonie
+<head id="nl2.s077.t77.26">geproduceerd</head>
+,
+met
+een
+totale
+<head id="nl2.s077.t77.32">waarde</head>
+van
+US$
+3,9
+miljard
+.
+</s>
+<s>
+In
+het
+midden
+van
+de
+<head id="nl2.s078.t78.16">jaren</head>
+negentig
+<head id="nl2.s078.t78.2">waren</head>
+commerciële
+mahoniepopulaties
+bijna
+verdwenen
+uit
+de
+<head id="nl2.s078.t78.25">staten</head>
+Pará
+en
+Rondônia
+.
+</s>
+<s>
+Het
+areaal
+mahonie
+in
+Brazilië
+<head id="nl2.s079.t79.10">is</head>
+met
+80
+procent
+geslonken
+.
+</s>
+<s>
+4.3.2
+De
+Nederlandse
+mahoniemarkt
+</s>
+<s>
+Voorheen
+<head id="nl2.s081.t81.3">was</head>
+Nederland
+in
+Europa
+een
+van
+de
+grootste
+mahonie-importeurs
+.
+</s>
+<s>
+Qua
+<head id="nl2.s082.t82.6">volumes</head>
+<head id="nl2.s082.t82.7">is</head>
+Nederland
+sinds
+de
+CITES
+II
+	<head id="nl2.s082.t82.13.2">opname</head>
+in
+2002
+geen
+belangrijk
+mahonieland
+meer
+,
+maar
+het
+<head id="nl2.s082.t82.28">hout</head>
+<head id="nl2.s082.t82.29">wordt</head>
+wel
+<head id="nl2.s082.t82.33">aangeboden</head>
+.
+</s>
+<s>
+Tabel
+4.2
+<head id="nl2.s083.t83.8">laat</head>
+<head id="nl2.s083.t83.9">zien</head>
+dat
+volgens
+de
+officiële
+<head id="nl2.s083.t83.23">statistieken</head>
+na
+2002
+in
+Nederland
+nauwelijks
+rechtstreeks
+mahonie
+<head id="nl2.s083.t83.16">is</head>
+<head id="nl2.s083.t83.32">ingevoerd</head>
+,
+en
+na
+2003
+zelfs
+helemaal
+niet
+meer
+.
+</s>
+<s>
+De
+<head id="nl2.s084.t84.4">handel</head>
+naar
+Duitsland
+en
+België
+<head id="nl2.s084.t84.11">ging</head>
+wel
+door
+.
+</s>
+<s>
+Nederlandse
+handelaren
+kopen
+hun
+mahonie
+nu
+in
+België
+en
+Duitsland
+.
+</s>
+<s>
+Met
+name
+in
+Duitsland
+<head id="nl2.s086.t86.2">zouden</head>
+invoervergunningen
+<components>
+	<head id="nl2.s086.t86.3.0" lemma="invoer"/>
+	<head id="nl2.s086.t86.3.1" lemma="vergunning"/>
+</components>
+makkelijker
+<head id="nl2.s086.t86.6">worden</head>
+<head id="nl2.s086.t86.15">afgegeven</head>
+dan
+in
+Nederland
+.
+</s>
+<s>
+De
+<head id="nl2.s087.t87.4">statistieken</head>
+<head id="nl2.s087.t87.5">ondersteunen</head>
+dit
+<head id="nl2.s087.t87.8">verhaal</head>
+.
+</s>
+<s>
+Overigens
+<head id="nl2.s088.t88.4">zijn</head>
+ook
+in
+België
+en
+Duitsland
+de
+ingevoerde
+<head id="nl2.s088.t88.15">volumes</head>
+relatief
+gering
+<head id="nl2.s088.t88.19">zijn</head>
+.
+</s>
+<s>
+Een
+aantal
+Nederlandse
+handelaren
+meldt
+dat
+illegaal
+gekapt
+mahonie
+dat
+<head id="nl2.s089.t89.22">wordt</head>
+<head id="nl2.s089.t89.25">ingevoerd</head>
+in
+Italië
+,
+Portugal
+en
+Spanje
+en
+<head id="nl2.s089.t89.36">zou</head>
+ook
+via
+deze
+<head id="nl2.s089.t89.44">landen</head>
+op
+de
+Nederlandse
+<head id="nl2.s089.t89.50">markt</head>
+terecht
+<head id="nl2.s089.t89.52">komen</head>
+(
+Geene
+,
+2007
+)
+.
+</s>
+<s>
+Het
+genoemde
+onderzoek
+van
+het
+Wereld
+Natuur
+Fonds
+(
+Geene
+,
+2007
+)
+concludeert
+verder
+dat
+bij
+de
+<head id="nl2.s090.t90.29">douane</head>
+van
+Vlissingen
+en
+Amsterdam
+de
+<head id="nl2.s090.t90.38">kennis</head>
+ontbreekt
+om
+mahonie
+te
+herkennen
+.
+</s>
+<s>
+Het
+<head id="nl2.s091.t91.3">is</head>
+dan
+ook
+eenvoudig
+om
+mahonie
+onder
+een
+andere
+<head id="nl2.s091.t91.19">naam</head>
+illegaal
+rechtstreeks
+in
+te
+<head id="nl2.s091.t91.23">voeren</head>
+.
+</s>
+<s>
+Illegale
+<head id="nl2.s092.t92.4">handel</head>
+in
+<head id="nl2.s092.t92.7">hout</head>
+<head id="nl2.s092.t92.8">krijgt</head>
+terecht
+veel
+aandacht
+in
+Nederland
+.
+</s>
+<s>
+Een
+van
+de
+weinige
+directe
+<head id="nl2.s093.t93.10">manieren</head>
+om
+hier
+vanuit
+Nederland
+iets
+aan
+te
+<head id="nl2.s093.t93.23">doen</head>
+<head id="nl2.s093.t93.24">is</head>
+via
+CITES
+.
+</s>
+<s>
+De
+<head id="nl2.s094.t94.4">controles</head>
+in
+de
+<head id="nl2.s094.t94.9">havens</head>
+<head id="nl2.s094.t94.10">zouden</head>
+daarom
+<head id="nl2.s094.t94.13">moeten</head>
+<head id="nl2.s094.t94.16">worden</head>
+aangescherpt
+.
+</s>
+<s>
+Kaviaar
+</s>
+<s>
+In
+de
+<head id="nl2.s096.t96.7">periode</head>
+20002005
+<head id="nl2.s096.t96.9">voerde</head>
+de
+EU
+424
+<head id="nl2.s096.t96.15">ton</head>
+kaviaar
+in
+,
+wat
+<head id="nl2.s096.t96.22">overeenkomt</head>
+met
+ruim
+50
+procent
+van
+de
+wereldhandel
+<components>
+	<head id="nl2.s096.t96.33.0" lemma="wereld"/>
+	<head id="nl2.s096.t96.33.1" lemma="handel"/>
+</components>
+.
+</s>
+<s>
+De
+<head id="nl2.s097.t97.6">eitjes</head>
+van
+de
+steur
+,
+een
+van
+de
+grootste
+zoetwatervissen
+<components>
+	<head id="nl2.s097.t97.19.1" lemma="water"/>
+	<head id="nl2.s097.t97.19.2" lemma="vis"/>
+</components>
+ter
+<head id="nl2.s097.t97.22">wereld</head>
+,
+<head id="nl2.s097.t97.23">worden</head>
+als
+een
+delicatesse
+<head id="nl2.s097.t97.31">beschouwd</head>
+.
+</s>
+<s>
+De
+hoogste
+<head id="nl2.s098.t98.7">kwaliteit</head>
+kaviaar
+<head id="nl2.s098.t98.10">komt</head>
+uit
+de
+Kaspische
+Zee
+,
+van
+enkele
+<head id="nl2.s098.t98.22">soorten</head>
+steur
+van
+het
+<head id="nl2.s098.t98.29">geslacht</head>
+Acipenser
+en
+van
+de
+exclusieve
+Beluga
+steur
+(
+Huso
+huso
+)
+.
+</s>
+<s>
+Uit
+dit
+<head id="nl2.s099.t99.6">gebied</head>
+<head id="nl2.s099.t99.7">kwam</head>
+90
+procent
+van
+de
+mondiaal
+verhandelde
+hoeveelheid
+kaviaar
+.
+</s>
+<s>
+Kaviaar
+<head id="nl2.s100.t100.4">kost</head>
+in
+speciaalzaken
+<components>
+	<head id="nl2.s100.t100.8.1" lemma="zaak"/>
+</components>
+tot
+euro
+600,per
+600,per
+100
+<head id="nl2.s100.t100.16">gram</head>
+met
+als
+<head id="nl2.s100.t100.21">resultaat</head>
+een
+uit
+de
+hand
+gelopen
+legale
+en
+een
+in
+<head id="nl2.s100.t100.39">omvang</head>
+waarschijnlijk
+enkele
+<head id="nl2.s100.t100.43">malen</head>
+grotere
+,
+illegale
+<head id="nl2.s100.t100.46">handel</head>
+.
+</s>
+<s>
+Vijfentwintig
+van
+de
+27
+<head id="nl2.s101.t101.12">soorten</head>
+steur
+<head id="nl2.s101.t101.14">staan</head>
+op
+de
+Rode
+<head id="nl2.s101.t101.20">Lijst</head>
+van
+het
+IUCN3
+,
+waarvan
+17
+als
+(
+ernstig
+)
+bedreigd
+.
+</s>
+<s>
+Naast
+de
+(
+illegale
+)
+<head id="nl2.s102.t102.9">handel</head>
+in
+kaviaar
+<head id="nl2.s102.t102.13">zijn</head>
+ook
+de
+<head id="nl2.s102.t102.18">vernietiging</head>
+van
+het
+leefgebied
+<components>
+	<head id="nl2.s102.t102.23.1" lemma="gebied"/>
+</components>
+en
+vervuiling
+ernstige
+<head id="nl2.s102.t102.28">bedreigingen</head>
+voor
+deze
+<head id="nl2.s102.t102.33">groep</head>
+<head id="nl2.s102.t102.34">vissen</head>
+.
+</s>
+<s>
+Twee
+<head id="nl2.s103.t103.6">soorten</head>
+steur
+<head id="nl2.s103.t103.8">staan</head>
+op
+bijlage
+I
+van
+CITES
+,
+wat
+<head id="nl2.s103.t103.21">betekent</head>
+dat
+de
+commerciële
+<head id="nl2.s103.t103.28">handel</head>
+verboden
+<head id="nl2.s103.t103.32">is</head>
+.
+</s>
+<s>
+De
+overige
+<head id="nl2.s104.t104.8">soorten</head>
+<head id="nl2.s104.t104.9">staan</head>
+op
+bijlage
+II
+(
+sinds
+1997
+)
+,
+waardoor
+de
+internationale
+<head id="nl2.s104.t104.23">handel</head>
+<head id="nl2.s104.t104.24">is</head>
+gereguleerd
+.
+</s>
+<s>
+EU
+belangrijkste
+importeur
+van
+kaviaar
+Volgens
+het
+TRAFFIC
+<head id="nl2.s105.t105.20">rapport</head>
+(
+Engler
+and
+Parry-Jones
+,
+2007
+)
+<head id="nl2.s105.t105.27">is</head>
+de
+EU
+<head id="nl2.s105.t105.32">is</head>
+de
+belangrijkste
+importeur
+</s>
+<s>
+Helaas
+<head id="nl2.s106.t106.3">is</head>
+de
+EU
+traag
+met
+het
+<head id="nl2.s106.t106.13">uitvoeren</head>
+van
+afspraken
+ter
+bescherming
+van
+de
+steur
+.
+</s>
+<s>
+Zo
+<head id="nl2.s107.t107.2">werd</head>
+een
+verplicht
+<head id="nl2.s107.t107.6">label</head>
+voor
+<head id="nl2.s107.t107.10">blikjes</head>
+kaviaar
+met
+daarop
+informatie
+over
+de
+herkomst
+pas
+in
+mei
+2006
+<head id="nl2.s107.t107.31">ingevoerd</head>
+.
+</s>
+<s>
+Dat
+<head id="nl2.s108.t108.3">was</head>
+bijna
+anderhalf
+<head id="nl2.s108.t108.7">jaar</head>
+na
+de
+afgesproken
+<head id="nl2.s108.t108.13">datum</head>
+.
+</s>
+<s>
+De
+belangrijkste
+importeurs
+van
+kaviaar
+<head id="nl2.s109.t109.9">zijn</head>
+Duitsland
+en
+Frankrijk
+.
+</s>
+<s>
+Nederland
+<head id="nl2.s110.t110.3">speelt</head>
+volgens
+de
+officiële
+CITES-statistieken
+<components>
+	<head id="nl2.s110.t110.9.1" lemma="statistiek"/>
+</components>
+een
+geringe
+<head id="nl2.s110.t110.13">rol</head>
+met
+een
+jaarlijkse
+<head id="nl2.s110.t110.19">invoer</head>
+van
+0
+tot
+150
+kg.
+<components>
+	<head id="nl2.s110.t110.27.1" lemma="gram"/>
+</components>
+</s>
+<s>
+Toch
+<head id="nl2.s111.t111.3">wordt</head>
+ook
+in
+Nederland
+illegaal
+kaviaar
+<head id="nl2.s111.t111.14">in-</head>
+en
+<head id="nl2.s111.t111.24">doorgevoerd</head>
+.
+</s>
+<s>
+In
+2005
+<head id="nl2.s112.t112.5">nam</head>
+de
+<head id="nl2.s112.t112.8">douane</head>
+een
+grote
+<head id="nl2.s112.t112.12">partij</head>
+in
+beslag
+.
+</s>
+<s>
+Kaviaar
+in
+beslag
+<head id="nl2.s113.t113.6">genomen</head>
+op
+Schiphol
+</s>
+<s>
+08-07-2005
+De
+Algemene
+Inspectie-dienst
+<components>
+	<head id="nl2.s114.t114.7.1" lemma="dienst"/>
+</components>
+<head id="nl2.s114.t114.8">heeft</head>
+op
+vrijdag
+8
+juli
+op
+Schiphol
+circa
+</s>
+<s>
+1.600
+kg
+<components>
+	<head id="nl2.s115.t115.4.1" lemma="gram"/>
+</components>
+kaviaar
+in
+beslag
+<head id="nl2.s115.t115.9">genomen</head>
+.
+</s>
+<s>
+De
+kaviaar
+-
+bestaande
+uit
+twee
+<head id="nl2.s116.t116.11">zendingen</head>
+-
+<head id="nl2.s116.t116.14">was</head>
+afkomstig
+uit
+Kazakstan
+en
+bestemd
+voor
+Duitsland
+.
+</s>
+<s>
+Het
+vermoeden
+<head id="nl2.s117.t117.2">bestaat</head>
+dat
+de
+kaviaar
+niet
+legaal
+<head id="nl2.s117.t117.16">is</head>
+en
+gestroopt
+<head id="nl2.s117.t117.28">is</head>
+in
+de
+Kaspische
+Zee
+.
+</s>
+<s>
+De
+straatwaarde
+<components>
+	<head id="nl2.s118.t118.4.0" lemma="straat"/>
+	<head id="nl2.s118.t118.4.1" lemma="waarde"/>
+</components>
+van
+de
+kaviaar
+<head id="nl2.s118.t118.10">ligt</head>
+tussen
+de
+twee
+en
+drie
+miljoen
+euro
+.
+</s>
+<s>
+Tegen
+de
+handelaren
+uit
+Kazakstan
+en
+Duitsland
+<head id="nl2.s119.t119.2">is</head>
+<head id="nl2.s119.t119.3">proces-verbaal</head>
+<head id="nl2.s119.t119.17">opgemaakt</head>
+.
+</s>
+<s>
+De
+<head id="nl2.s120.t120.9">zaak</head>
+<head id="nl2.s120.t120.10">kwam</head>
+aan
+het
+rollen
+doordat
+de
+op
+Schiphol
+de
+<head id="nl2.s120.t120.20">zendingen</head>
+<head id="nl2.s120.t120.3">aantrof</head>
+en
+<head id="nl2.s120.t120.22">besloot</head>
+verder
+<head id="nl2.s120.t120.28">transport</head>
+van
+de
+<head id="nl2.s120.t120.33">partij</head>
+stop
+te
+zetten
+.
+</s>
+<s>
+Uit
+nader
+onderzoek
+van
+de
+Algemene
+Inspectiedienst
+(
+AID
+)
+en
+<head id="nl2.s121.t121.27">douane</head>
+naar
+de
+herkomst
+en
+<head id="nl2.s121.t121.42">bestemming</head>
+van
+de
+kaviaar
+,
+bleken
+er
+zoveel
+onduidelijkheden
+in
+de
+<head id="nl2.s121.t121.50">documenten</head>
+te
+<head id="nl2.s121.t121.51">zitten</head>
+</s>
+<s>
+dat
+in
+overleg
+met
+het
+Openbaar
+Ministerie
+in
+Haarlem
+<head id="nl2.s122.t122.4">werd</head>
+<head id="nl2.s122.t122.19">besloten</head>
+de
+kaviaar
+in
+beslag
+te
+<head id="nl2.s122.t122.29">nemen</head>
+.
+</s>
+<s>
+Het
+onderzoek
+<head id="nl2.s123.t123.5">is</head>
+nog
+niet
+<head id="nl2.s123.t123.10">afgerond</head>
+.
+</s>
+<s>
+De
+kaviaar
+<head id="nl2.s124.t124.5">is</head>
+afkomstig
+van
+steuren
+uit
+de
+Kaspische
+Zee
+.
+</s>
+<s>
+Alle
+steuren
+<head id="nl2.s125.t125.5">zijn</head>
+beschermde
+diersoorten
+<components>
+	<head id="nl2.s125.t125.8.1" lemma="soort"/>
+</components>
+omdat
+ze
+in
+verband
+met
+overbevissing
+en
+stroperij
+<head id="nl2.s125.t125.24">bedreigd</head>
+<head id="nl2.s125.t125.25">worden</head>
+.
+</s>
+<s>
+De
+Russische
+Federatie
+<head id="nl2.s126.t126.7">heeft</head>
+vanwege
+de
+<head id="nl2.s126.t126.12">terugloop</head>
+van
+de
+visstand
+<components>
+	<head id="nl2.s126.t126.17.0" lemma="vis"/>
+	<head id="nl2.s126.t126.17.1" lemma="stand"/>
+</components>
+in
+de
+Kaspische
+Zee
+sinds
+<head id="nl2.s126.t126.28">eind</head>
+2003
+geen
+<head id="nl2.s126.t126.32">vergunningen</head>
+meer
+verstrekt
+voor
+de
+export
+van
+kaviaar
+.
+</s>
+<s>
+Net
+als
+bij
+mahonie
+<head id="nl2.s127.t127.3">proberen</head>
+de
+<head id="nl2.s127.t127.6">landen</head>
+van
+oorsprong
+de
+illegale
+<head id="nl2.s127.t127.23">handel</head>
+in
+kaviaar
+aan
+banden
+te
+<head id="nl2.s127.t127.30">leggen</head>
+en
+net
+als
+bij
+mahonie
+<head id="nl2.s127.t127.40">is</head>
+het
+<head id="nl2.s127.t127.43">effect</head>
+gering
+.
+</s>
+<s>
+De
+<head id="nl2.s128.t128.6">waarde</head>
+van
+kaviaar
+<head id="nl2.s128.t128.10">is</head>
+te
+hoog
+,
+er
+<head id="nl2.s128.t128.17">is</head>
+veel
+werkeloosheid
+en
+armoede
+in
+de
+<head id="nl2.s128.t128.27">landen</head>
+van
+oorsprong
+en
+er
+<head id="nl2.s128.t128.38">is</head>
+onvoldoende
+<head id="nl2.s128.t128.41">geld</head>
+voor
+de
+handhaving
+.
+</s>
+<s>
+Extra
+maatregelen
+noodzakelijk
+</s>
+<s>
+De
+Europese
+Commissie
+<head id="nl2.s130.t130.7">organiseerde</head>
+in
+juni
+2006
+een
+internationale
+bijeenkomst
+waar
+120
+opsporingsambtenaren
+afspraken
+<head id="nl2.s130.t130.24">maakten</head>
+over
+het
+opschonen
+van
+de
+<head id="nl2.s130.t130.36">handel</head>
+in
+kaviaar
+.
+</s>
+<s>
+Er
+<head id="nl2.s131.t131.5">werden</head>
+afspraken
+<head id="nl2.s131.t131.8">gemaakt</head>
+over
+betere
+coördinatie
+,
+gezamenlijke
+onderzoeken
+en
+betere
+naleving
+van
+het
+afgesproken
+<head id="nl2.s131.t131.29">label</head>
+voor
+kaviaar
+(
+TRAFFIC
+Bulletin
+,
+juli
+2006
+)
+.
+</s>
+<s>
+Het
+<head id="nl2.s132.t132.3">gaat</head>
+inmiddels
+zo
+slecht
+met
+de
+steur
+dat
+het
+CITES
+Secretariaat
+voor
+2006
+geen
+<head id="nl2.s132.t132.27">quota</head>
+<head id="nl2.s132.t132.28">goedkeurde</head>
+voor
+steur
+uit
+de
+Kaspische
+Zee
+.
+</s>
+<s>
+Mede
+als
+gevolg
+hiervan
+<head id="nl2.s133.t133.2">hebben</head>
+de
+<head id="nl2.s133.t133.5">landen</head>
+rond
+de
+Kaspische
+Zee
+hun
+wetenschappelijke
+monitoringprogramma's
+<head id="nl2.s133.t133.25">verbeterd</head>
+.
+</s>
+<s>
+Daarom
+<head id="nl2.s134.t134.2">zijn</head>
+voor
+2007
+weer
+<head id="nl2.s134.t134.11">quota</head>
+<head id="nl2.s134.t134.9">afgegeven</head>
+voor
+drie
+<head id="nl2.s134.t134.16">soorten</head>
+steur
+.
+</s>
+<s>
+De
+<head id="nl2.s135.t135.4">quota</head>
+<head id="nl2.s135.t135.5">zijn</head>
+25
+procent
+lager
+dan
+die
+van
+2005
+.
+</s>
+<s>
+Het
+<head id="nl2.s136.t136.4">probleem</head>
+van
+de
+illegale
+<head id="nl2.s136.t136.11">vangst</head>
+en
+<head id="nl2.s136.t136.16">handel</head>
+<head id="nl2.s136.t136.17">blijft</head>
+helaas
+enorm
+.
+</s>
+<s>
+Voor
+de
+Beluga
+steur
+<head id="nl2.s137.t137.2">is</head>
+nog
+geen
+<head id="nl2.s137.t137.5">quotum</head>
+<head id="nl2.s137.t137.15">afgegeven</head>
+omdat
+er
+onvoldoende
+informatie
+aan
+het
+CITES
+Secretariaat
+<head id="nl2.s137.t137.19">is</head>
+<head id="nl2.s137.t137.29">gestuurd</head>
+om
+een
+<head id="nl2.s137.t137.41">quotum</head>
+op
+te
+<head id="nl2.s137.t137.43">baseren</head>
+.
+</s>
+<s>
+Levende
+<head id="nl2.s138.t138.3">reptielen</head>
+</s>
+<s>
+Tussen
+2002-2006
+<head id="nl2.s139.t139.6">werden</head>
+in
+de
+EU
+nog
+eens
+1000
+Egyptische
+landschildpadden
+<components>
+	<head id="nl2.s139.t139.18.0" lemma="land"/>
+</components>
+in
+beslag
+genomen
+,
+ofwel
+naar
+schatting
+13
+procent
+van
+de
+mondiaal
+overgebleven
+wilde
+<head id="nl2.s139.t139.40">populatie</head>
+.
+</s>
+<s>
+De
+<head id="nl2.s140.t140.4">invoer</head>
+van
+levende
+<head id="nl2.s140.t140.9">reptielen</head>
+door
+de
+Europese
+Unie
+verviervoudigde
+sinds
+het
+<head id="nl2.s140.t140.22">begin</head>
+van
+de
+<head id="nl2.s140.t140.27">jaren</head>
+negentig
+.
+</s>
+<s>
+Tussen
+1996-2002
+<head id="nl2.s141.t141.2">werden</head>
+in
+de
+EU
+1,6
+miljoen
+<head id="nl2.s141.t141.16">reptielen</head>
+<head id="nl2.s141.t141.12">ingevoerd</head>
+die
+op
+de
+CITES-bijlagen
+<head id="nl2.s141.t141.26">staan</head>
+.
+</s>
+<s>
+Overigens
+<head id="nl2.s142.t142.2">wordt</head>
+er
+ook
+veel
+<head id="nl2.s142.t142.8">gehandeld</head>
+in
+<head id="nl2.s142.t142.12">reptielen</head>
+die
+niet
+op
+de
+CITES-bijlagen
+<head id="nl2.s142.t142.23">staan</head>
+.
+</s>
+<s>
+De
+<head id="nl2.s143.t143.6">verhouding</head>
+tussen
+CITES-en
+niet-CITES
+	<head id="nl2.s143.t143.9.2">soort</head>
+<head id="nl2.s143.t143.12">wordt</head>
+door
+TRAFFIC
+<head id="nl2.s143.t143.18">geschat</head>
+op
+3:7
+(
+Berkhoudt
+,
+2003
+)
+.
+</s>
+<s>
+De
+illegale
+<head id="nl2.s144.t144.5">invoer</head>
+<head id="nl2.s144.t144.6">blijft</head>
+uiteraard
+grotendeels
+onbekend
+.
+</s>
+<s>
+Het
+<head id="nl2.s145.t145.5">lijkt</head>
+aannemelijk
+dat
+er
+in
+de
+EU
+in
+de
+<head id="nl2.s145.t145.32">periode</head>
+1996-2002
+meer
+dan
+3,5
+miljoen
+levende
+<head id="nl2.s145.t145.19">reptielen</head>
+<head id="nl2.s145.t145.20">zijn</head>
+<head id="nl2.s145.t145.35">ingevoerd</head>
+(
+CITES
+en
+niet-CITES
+,
+legaal
+en
+illegaal
+)
+.
+</s>
+<s>
+TRAFFIC
+Europa
+analyseerde
+de
+Europese
+<head id="nl2.s146.t146.9">handel</head>
+in
+<head id="nl2.s146.t146.13">reptielen</head>
+voor
+de
+<head id="nl2.s146.t146.18">jaren</head>
+negentig
+.
+</s>
+<s>
+Er
+<head id="nl2.s147.t147.6">werden</head>
+273
+verschillende
+<head id="nl2.s147.t147.10">soorten</head>
+<head id="nl2.s147.t147.14">ingevoerd</head>
+,
+met
+de
+leguaan
+(
+Iguana
+iguana
+)
+als
+meest
+algemene
+<head id="nl2.s147.t147.29">soort</head>
+(
+in
+z'n
+eentje
+goed
+voor
+45
+procent
+van
+de
+totale
+<head id="nl2.s147.t147.49">invoer</head>
+in
+de
+<head id="nl2.s147.t147.54">jaren</head>
+negentig
+)
+.
+</s>
+<s>
+Ongeveer
+55
+procent
+van
+de
+in
+deze
+<head id="nl2.s148.t148.15">periode</head>
+ingevoerde
+<head id="nl2.s148.t148.17">reptielen</head>
+<head id="nl2.s148.t148.18">zou</head>
+uit
+het
+wild
+afkomstig
+<head id="nl2.s148.t148.28">zijn</head>
+.
+</s>
+<s>
+<head id="nl2.s149.t149.8">Reptielen</head>
+in
+Nederland
+populair
+In
+de
+<head id="nl2.s149.t149.20">jaren</head>
+negentig
+<head id="nl2.s149.t149.22">was</head>
+Nederland
+,
+na
+Duitsland
+en
+Spanje
+,
+de
+grootste
+(
+legale
+)
+importeur
+van
+levende
+<head id="nl2.s149.t149.39">reptielen</head>
+(
+Berkhoudt
+2003
+)
+.
+</s>
+<s>
+In
+tabel
+4.4
+<head id="nl2.s150.t150.7">staan</head>
+recente
+invoergegevens
+<components>
+	<head id="nl2.s150.t150.10.0" lemma="invoer"/>
+	<head id="nl2.s150.t150.10.1" lemma="gegeven"/>
+</components>
+voor
+enkele
+in
+Nederland
+populaire
+CITES-soorten
+<components>
+	<head id="nl2.s150.t150.20.1" lemma="soort"/>
+</components>
+.
+</s>
+<s>
+In
+de
+<head id="nl2.s151.t151.12">periode</head>
+2002-2005
+<head id="nl2.s151.t151.14">is</head>
+de
+leguaan
+in
+Nederland
+een
+belangrijke
+<head id="nl2.s151.t151.24">soort</head>
+,
+zij
+het
+dat
+de
+(
+Russische
+)
+vierteenlandschilpad
+<components>
+	<head id="nl2.s151.t151.35.0" lemma="vier"/>
+	<head id="nl2.s151.t151.35.1" lemma="teen"/>
+	<head id="nl2.s151.t151.35.2" lemma="land"/>
+</components>
+(
+Testudo
+horsfieldii
+)
+in
+2005
+in
+hogere
+aantallen
+<head id="nl2.s151.t151.39">lijkt</head>
+te
+<head id="nl2.s151.t151.44">zijn</head>
+<head id="nl2.s151.t151.55">ingevoerd</head>
+.
+</s>
+<s>
+Helaas
+<head id="nl2.s152.t152.3">zitten</head>
+er
+veel
+onduidelijkheden
+in
+de
+CITES-statistieken
+<components>
+	<head id="nl2.s152.t152.12.1" lemma="statistiek"/>
+</components>
+.
+</s>
+<s>
+Zo
+<head id="nl2.s153.t153.3">zijn</head>
+de
+1.300
+Testudo
+horsfieldii
+uit
+2005
+<head id="nl2.s153.t153.16">gerapporteerd</head>
+door
+het
+exporterende
+<head id="nl2.s153.t153.22">land</head>
+(
+Oezbekistan
+)
+.
+</s>
+<s>
+Nederland
+<head id="nl2.s154.t154.4">rapporteert</head>
+echter
+een
+<head id="nl2.s154.t154.8">invoer</head>
+van
+600
+dieren
+uit
+Oezbekistan
+,
+ofwel
+minder
+dan
+de
+helft
+.
+</s>
+<s>
+Het
+<head id="nl2.s155.t155.6">is</head>
+onduidelijk
+waar
+dit
+<head id="nl2.s155.t155.13">verschil</head>
+door
+<head id="nl2.s155.t155.17">wordt</head>
+veroorzaakt
+,
+en
+eveneens
+welk
+<head id="nl2.s155.t155.24">getal</head>
+juist
+<head id="nl2.s155.t155.26">is</head>
+.
+</s>
+<s>
+Er
+<head id="nl2.s156.t156.2">wordt</head>
+vrijwel
+geen
+(
+her)uitvoer
+her)uitvoer
+van
+deze
+<head id="nl2.s156.t156.13">soorten</head>
+<head id="nl2.s156.t156.17">gerapporteerd</head>
+.
+</s>
+<s>
+<head id="nl2.s157.t157.1">Doorvoer</head>
+naar
+de
+overige
+EU-landen
+<components>
+	<head id="nl2.s157.t157.14.1" lemma="land"/>
+</components>
+van
+andere
+dan
+de
+meest
+bedreigde
+<head id="nl2.s157.t157.28">soorten</head>
+(
+de
+<head id="nl2.s157.t157.31">soorten</head>
+van
+Annex
+A
+)
+<head id="nl2.s157.t157.37">wordt</head>
+,
+omdat
+de
+EU
+een
+interne
+<head id="nl2.s157.t157.47">markt</head>
+<head id="nl2.s157.t157.48">is</head>
+,
+niet
+bijgehouden
+in
+de
+<head id="nl2.s157.t157.56">statistieken</head>
+en
+<head id="nl2.s157.t157.59">kan</head>
+dus
+niet
+<head id="nl2.s157.t157.7">worden</head>
+<head id="nl2.s157.t157.62">uitgesloten</head>
+.
+</s>
+<s>
+Evenmin
+<head id="nl2.s158.t158.2">kan</head>
+<head id="nl2.s158.t158.4">worden</head>
+<head id="nl2.s158.t158.7">uitgesloten</head>
+dat
+er
+in
+Nederland
+uit
+andere
+EU-landen
+<components>
+	<head id="nl2.s158.t158.22.1" lemma="land"/>
+</components>
+<head id="nl2.s158.t158.12">wordt</head>
+<head id="nl2.s158.t158.23">ingevoerd</head>
+.
+</s>
+<s>
+De
+genoemde
+<head id="nl2.s159.t159.5">soorten</head>
+landschildpadden
+<components>
+	<head id="nl2.s159.t159.6.0" lemma="land"/>
+</components>
+<head id="nl2.s159.t159.7">zijn</head>
+in
+grote
+<head id="nl2.s159.t159.12">meerderheid</head>
+afkomstig
+uit
+het
+wild
+.
+</s>
+<s>
+De
+boa's
+<head id="nl2.s160.t160.8">komen</head>
+eveneens
+voor
+het
+grootste
+<head id="nl2.s160.t160.15">deel</head>
+uit
+het
+wild
+,
+hoewel
+een
+aanzienlijk
+<head id="nl2.s160.t160.27">deel</head>
+<head id="nl2.s160.t160.28">is</head>
+<head id="nl2.s160.t160.31">gekweekt</head>
+(
+o.a.
+uitgevoerd
+uit
+de
+VS
+en
+Canada
+)
+.
+</s>
+<s>
+Vrijwel
+alle
+leguanen
+(
+Iguana
+iguana
+)
+<head id="nl2.s161.t161.13">zijn</head>
+<head id="nl2.s161.t161.16">gekweekt</head>
+in
+Colombia
+en
+El
+Salvador
+en
+<head id="nl2.s161.t161.31">doorgevoerd</head>
+via
+de
+VS
+.
+</s>
+</text>
+<text id="nl3">
+<s>
+Kwetsbaarheid
+en
+aanpassing
+in
+verband
+met
+klimaatverandering
+in
+Europa
+</s>
+<s>
+Wereldwijd
+<head id="nl3.s002.t2.5">nemen</head>
+we
+al
+significante
+<head id="nl3.s002.t2.10">veranderingen</head>
+in
+het
+<head id="nl3.s002.t2.16">klimaat</head>
+en
+de
+<head id="nl3.s002.t2.20">gevolgen</head>
+daarvan
+waar
+en
+deze
+<head id="nl3.s002.t2.26">zullen</head>
+naar
+<head id="nl3.s002.t2.31">verwachting</head>
+nog
+duidelijker
+zichtbaar
+<head id="nl3.s002.t2.36">worden</head>
+</s>
+<s>
+In
+Europa
+<head id="nl3.s003.t3.7">zijn</head>
+met
+name
+berggebieden
+kustzones
+wetlands
+en
+het
+<head id="nl3.s003.t3.19">gebied</head>
+langs
+de
+Middellandse
+Zee
+kwetsbaar
+</s>
+<s>
+Naast
+een
+aantal
+mogelijke
+positieve
+<head id="nl3.s004.t4.15">effecten</head>
+<head id="nl3.s004.t4.2">zullen</head>
+zich
+waarschijnlijk
+veel
+<head id="nl3.s004.t4.5">problemen</head>
+<head id="nl3.s004.t4.19">voordoen</head>
+</s>
+<s>
+De
+huidige
+maatregelen
+<head id="nl3.s005.t5.10">zijn</head>
+vooral
+gericht
+op
+bescherming
+tegen
+overstromingen
+dus
+er
+<head id="nl3.s005.t5.24">zijn</head>
+nog
+veel
+<head id="nl3.s005.t5.28">sectoren</head>
+waar
+aanpassingen
+<head id="nl3.s005.t5.33">kunnen</head>
+<head id="nl3.s005.t5.36">worden</head>
+gepland
+en
+<head id="nl3.s005.t5.58">geïmplementeerd</head>
+zoals
+volksgezondheid
+watervoorziening
+en
+het
+beheer
+van
+ecosystemen
+</s>
+<s>
+De
+noodzaak
+van
+aanpassing
+</s>
+<s>
+De
+<head id="nl3.s007.t7.6">verwachtingen</head>
+voor
+2100
+wijzen
+erop
+dat
+de
+<head id="nl3.s007.t7.18">temperatuur</head>
+in
+Europa
+ten
+opzichte
+van
+het
+<head id="nl3.s007.t7.35">jaar</head>
+1990
+<head id="nl3.s007.t7.22">zal</head>
+<head id="nl3.s007.t7.25">zijn</head>
+toegenomen
+met
+2
+tot
+6,3
+°
+C
+De
+<head id="nl3.s007.t7.52">zeespiegel</head>
+<head id="nl3.s007.t7.53">zal</head>
+<head id="nl3.s007.t7.56">stijgen</head>
+en
+het
+<head id="nl3.s007.t7.61">weer</head>
+<head id="nl3.s007.t7.62">zal</head>
+waarschijnlijk
+vaker
+en
+in
+sterkere
+mate
+een
+extreem
+<head id="nl3.s007.t7.77">karakter</head>
+<head id="nl3.s007.t7.78">hebben</head>
+</s>
+<s>
+Ook
+als
+de
+uitstoot
+van
+broeikasgassen
+vandaag
+<head id="nl3.s008.t8.19">zou</head>
+<head id="nl3.s008.t8.23">eindigen</head>
+<head id="nl3.s008.t8.4">zouden</head>
+deze
+<head id="nl3.s008.t8.7">veranderingen</head>
+nog
+decennia
+lang
+voortduren
+wat
+de
+<head id="nl3.s008.t8.36">zeespiegel</head>
+betreft
+zelfs
+eeuwenlang
+</s>
+<s>
+Dit
+<head id="nl3.s009.t9.3">is</head>
+het
+<head id="nl3.s009.t9.6">gevolg</head>
+van
+in
+het
+verleden
+in
+de
+<head id="nl3.s009.t9.21">atmosfeer</head>
+geaccumuleerde
+<head id="nl3.s009.t9.23">gassen</head>
+en
+van
+de
+vertragingsfactor
+bij
+de
+<head id="nl3.s009.t9.34">reactie</head>
+van
+klimaat-
+en
+oceaansystemen
+op
+<head id="nl3.s009.t9.44">veranderingen</head>
+in
+de
+<head id="nl3.s009.t9.49">concentraties</head>
+van
+<head id="nl3.s009.t9.53">gassen</head>
+in
+de
+<head id="nl3.s009.t9.58">atmosfeer</head>
+</s>
+<s>
+Om
+ernstige
+nadelige
+<head id="nl3.s010.t10.12">gevolgen</head>
+van
+klimaatverandering
+te
+voorkomen
+streeft
+de
+Milieuraad
+van
+de
+Europese
+Unie
+naar
+een
+maximale
+wereldwijde
+temperatuurstijging
+van
+2
+°
+C
+ten
+opzichte
+van
+preindustriële
+<head id="nl3.s010.t10.49">niveaus</head>
+Daartoe
+<head id="nl3.s010.t10.53">zal</head>
+het
+nodig
+<head id="nl3.s010.t10.58">zijn</head>
+om
+de
+wereldwijde
+uitstoot
+van
+broeikasgassen
+aanzienlijk
+te
+<head id="nl3.s010.t10.72">beperken</head>
+meer
+dan
+al
+<head id="nl3.s010.t10.74">is</head>
+<head id="nl3.s010.t10.81">afgesproken</head>
+in
+het
+kader
+van
+het
+Kyoto-protocol
+</s>
+<s>
+Verder
+<head id="nl3.s011.t11.2">wordt</head>
+steeds
+meer
+erkend
+dat
+Europa
+zich
+<head id="nl3.s011.t11.13">moet</head>
+<head id="nl3.s011.t11.17">aanpassen</head>
+aan
+de
+klimaatveranderingen
+die
+onvermijdelijk
+plaats
+<head id="nl3.s011.t11.27">zullen</head>
+hebben
+</s>
+<s>
+Kwetsbaarheid
+</s>
+<s>
+Met
+kwetsbaarheid
+<head id="nl3.s013.t13.5">wordt</head>
+gedoeld
+op
+het
+risico
+van
+nadelige
+<head id="nl3.s013.t13.20">effecten</head>
+van
+klimaatverandering
+inclusief
+extreme
+weersomstandigheden
+en
+stijging
+van
+de
+<head id="nl3.s013.t13.35">zeespiegel</head>
+voor
+natuurlijke
+<head id="nl3.s013.t13.41">systemen</head>
+en
+voor
+de
+<head id="nl3.s013.t13.47">mens</head>
+</s>
+<s>
+Regionale
+kwetsbaarheid
+</s>
+<s>
+Regio's
+Zuidoost-Europa
+het
+Middellandse-Zeegebied
+en
+Centraal-Europa
+<head id="nl3.s015.t15.16">zijn</head>
+het
+meest
+kwetsbaar
+voor
+klimaatverandering
+</s>
+<s>
+Hier
+<head id="nl3.s016.t16.3">zullen</head>
+zich
+naar
+<head id="nl3.s016.t16.9">verwachting</head>
+aanzienlijke
+<head id="nl3.s016.t16.25">problemen</head>
+<head id="nl3.s016.t16.10">voordoen</head>
+voor
+natuurlijke
+<head id="nl3.s016.t16.16">systemen</head>
+en
+voor
+de
+<head id="nl3.s016.t16.22">mens</head>
+die
+hier
+al
+onder
+<head id="nl3.s016.t16.34">druk</head>
+<head id="nl3.s016.t16.35">staan</head>
+van
+sociaal-economische
+<head id="nl3.s016.t16.40">factoren</head>
+zoals
+bijvoorbeeld
+<head id="nl3.s016.t16.45">veranderingen</head>
+in
+het
+grondgebruik
+</s>
+<s>
+Regio's
+in
+Noord-
+en
+West-Europa
+<head id="nl3.s017.t17.11">zullen</head>
+echter
+nog
+enige
+<head id="nl3.s017.t17.18">tijd</head>
+gunstige
+<head id="nl3.s017.t17.21">effecten</head>
+<head id="nl3.s017.t17.22">ondervinden</head>
+vooral
+op
+het
+gebied
+van
+de
+<head id="nl3.s017.t17.32">landbouw</head>
+</s>
+<s>
+Berggebieden
+en
+subarctische
+<head id="nl3.s018.t18.9">gebieden</head>
+De
+<head id="nl3.s018.t18.13">effecten</head>
+van
+temperatuurstijging
+op
+sneeuwdek
+gletsjers
+en
+permafrost
+<head id="nl3.s018.t18.25">zullen</head>
+waarschijnlijk
+negatieve
+<head id="nl3.s018.t18.32">gevolgen</head>
+<head id="nl3.s018.t18.29">hebben</head>
+voor
+het
+wintertoerisme
+</s>
+<s>
+Verder
+<head id="nl3.s019.t19.5">kan</head>
+de
+<head id="nl3.s019.t19.8">kans</head>
+op
+natuurrampen
+toenemen
+en
+en
+<head id="nl3.s019.t19.17">kunnen</head>
+plantensoorten
+en
+habitats
+verloren
+<head id="nl3.s019.t19.25">gaan</head>
+</s>
+<s>
+Berggebieden
+zoals
+de
+Alpen
+<head id="nl3.s020.t20.10">zijn</head>
+bijzonder
+gevoelig
+voor
+klimaatverandering
+en
+de
+temperatuurstijging
+<head id="nl3.s020.t20.22">is</head>
+er
+hoger
+dan
+gemiddeld
+</s>
+<s>
+Kustzones
+Klimaatverandering
+<head id="nl3.s021.t21.6">kan</head>
+ingrijpende
+<head id="nl3.s021.t21.12">gevolgen</head>
+<head id="nl3.s021.t21.9">hebben</head>
+voor
+kustzones
+door
+stijging
+van
+de
+<head id="nl3.s021.t21.25">zeespiegel</head>
+en
+<head id="nl3.s021.t21.28">veranderingen</head>
+in
+de
+<head id="nl3.s021.t21.34">frequentie</head>
+en/of
+de
+<head id="nl3.s021.t21.38">intensiteit</head>
+van
+stormen
+</s>
+<s>
+Dit
+<head id="nl3.s022.t22.6">kan</head>
+resulteren
+in
+<head id="nl3.s022.t22.13">bedreigingen</head>
+voor
+ecosystemen
+infrastructuur
+en
+<head id="nl3.s022.t22.20">woongebieden</head>
+de
+toeristenbranche
+en
+de
+volksgezondheid
+</s>
+<s>
+Habitats
+en
+kustecosystemen
+in
+met
+name
+het
+Oostzeegebied
+het
+MiddellandseZeegebied
+en
+langs
+de
+Zwarte
+Zee
+<head id="nl3.s023.t23.28">lopen</head>
+veel
+risico
+</s>
+<s>
+Naar
+<head id="nl3.s024.t24.9">verwachting</head>
+<head id="nl3.s024.t24.2">zullen</head>
+in
+het
+MiddellandseZeegebied
+en
+langs
+de
+kusten
+van
+de
+Oostzee
+veel
+wetlands
+verloren
+<head id="nl3.s024.t24.29">gaan</head>
+</s>
+<s>
+Kwetsbaarheid
+van
+de
+verschillende
+<head id="nl3.s025.t25.9">sectoren</head>
+en
+<head id="nl3.s025.t25.11">systemen</head>
+</s>
+<s>
+Ecosystemen
+en
+biologische
+diversiteit
+De
+waargenomen
+temperatuurstijging
+en
+<head id="nl3.s026.t26.24">veranderingen</head>
+in
+de
+neerslagpatronen
+<head id="nl3.s026.t26.26">hebben</head>
+al
+<head id="nl3.s026.t26.29">gevolgen</head>
+voor
+verschillende
+<head id="nl3.s026.t26.34">aspecten</head>
+van
+de
+natuurlijke
+<head id="nl3.s026.t26.40">systemen</head>
+van
+Europa
+</s>
+<s>
+De
+kwetsbaarste
+ecosystemen
+<head id="nl3.s027.t27.7">zijn</head>
+het
+Europese
+poolgebied
+en
+de
+<head id="nl3.s027.t27.16">bergen</head>
+wetlands
+aan
+de
+kust
+en
+ecosystemen
+in
+het
+MiddellandseZeegebied
+</s>
+<s>
+Door
+de
+voorspelde
+klimaatverandering
+<head id="nl3.s028.t28.2">zullen</head>
+naar
+<head id="nl3.s028.t28.24">verwachting</head>
+veel
+<head id="nl3.s028.t28.7">soorten</head>
+en
+habitats
+in
+Europa
+verloren
+<head id="nl3.s028.t28.27">gaan</head>
+</s>
+<s>
+Landbouw
+en
+visserij
+Klimaatverandering
+en
+een
+toename
+van
+de
+CO2-concentratie
+<head id="nl3.s029.t29.19">kan</head>
+gunstig
+<head id="nl3.s029.t29.22">zijn</head>
+voor
+de
+<head id="nl3.s029.t29.30">landbouw</head>
+en
+de
+veeteelt
+in
+Noord-Europa
+door
+seizoensverlenging
+en
+grotere
+productiviteit
+</s>
+<s>
+In
+het
+<head id="nl3.s030.t30.12">zuiden</head>
+en
+in
+<head id="nl3.s030.t30.17">delen</head>
+van
+Oost-Europa
+<head id="nl3.s030.t30.2">zullen</head>
+de
+<head id="nl3.s030.t30.5">gevolgen</head>
+waarschijnlijk
+negatief
+<head id="nl3.s030.t30.24">zijn</head>
+</s>
+<s>
+Veranderende
+migratiepatronen
+van
+<head id="nl3.s031.t31.7">vis</head>
+<head id="nl3.s031.t31.8">zullen</head>
+naar
+<head id="nl3.s031.t31.13">verwachting</head>
+van
+<head id="nl3.s031.t31.18">invloed</head>
+<head id="nl3.s031.t31.14">zijn</head>
+op
+de
+visserij
+</s>
+<s>
+Op
+dit
+<head id="nl3.s032.t32.6">moment</head>
+<head id="nl3.s032.t32.7">is</head>
+vooral
+de
+overexploitatie
+van
+de
+aanwezige
+visbestanden
+een
+urgent
+<head id="nl3.s032.t32.21">probleem</head>
+dat
+de
+duurzaamheid
+van
+de
+commerciële
+visserij
+in
+Europa
+<head id="nl3.s032.t32.38">bedreigt</head>
+</s>
+<s>
+<head id="nl3.s033.t33.3">Bosbouw</head>
+De
+klimaat-verandering
+<head id="nl3.s033.t33.8">zal</head>
+waarschijnlijk
+<head id="nl3.s033.t33.12">leiden</head>
+tot
+hogere
+opbrengsten
+uit
+de
+commerciële
+<head id="nl3.s033.t33.23">bosbouw</head>
+in
+Noord-Europa
+</s>
+<s>
+De
+regio's
+aan
+de
+Middellandse
+Zee
+en
+continentaal
+Europa
+<head id="nl3.s034.t34.17">zullen</head>
+te
+maken
+<head id="nl3.s034.t34.23">krijgen</head>
+met
+een
+dalende
+opbrengst
+als
+gevolg
+van
+frequentere
+<head id="nl3.s034.t34.37">perioden</head>
+van
+<head id="nl3.s034.t34.40">droogte</head>
+</s>
+<s>
+In
+Zuid-Europa
+neemt
+het
+risico
+van
+<head id="nl3.s035.t35.11">branden</head>
+toe
+</s>
+<s>
+<head id="nl3.s036.t36.3">Water</head>
+Temperatuurstijging
+en
+<head id="nl3.s036.t36.9">veranderingen</head>
+in
+de
+neerslagpatronen
+<head id="nl3.s036.t36.15">zullen</head>
+naar
+<head id="nl3.s036.t36.20">verwachting</head>
+het
+nu
+al
+nijpende
+watergebrek
+in
+zuidelijke
+en
+zuidoostelijke
+regio's
+<head id="nl3.s036.t36.37">vergroten</head>
+</s>
+<s>
+Een
+toename
+van
+<head id="nl3.s037.t37.13">frequentie</head>
+en
+<head id="nl3.s037.t37.37">intensiteit</head>
+van
+droogtes
+en
+overstromingen
+<head id="nl3.s037.t37.3">wordt</head>
+voorzien
+wat
+in
+geheel
+Europa
+tot
+<head id="nl3.s037.t37.29">slachtoffers</head>
+en
+aanzienlijke
+economische
+<head id="nl3.s037.t37.34">schade</head>
+<head id="nl3.s037.t37.18">kan</head>
+<head id="nl3.s037.t37.35">leiden</head>
+</s>
+<s>
+Toerisme
+Onbetrouwbare
+sneeuwomstandigheden
+als
+gevolg
+van
+temperatuurstijging
+<head id="nl3.s038.t38.14">zullen</head>
+waarschijnlijk
+<head id="nl3.s038.t38.18">leiden</head>
+tot
+<head id="nl3.s038.t38.22">afname</head>
+van
+het
+wintertoerisme
+</s>
+<s>
+Watergebrek
+<head id="nl3.s039.t39.6">problemen</head>
+met
+de
+waterkwaliteit
+en
+meer
+frequente
+en
+intense
+hittegolven
+in
+Zuid-Europa
+<head id="nl3.s039.t39.23">kunnen</head>
+<head id="nl3.s039.t39.26">leiden</head>
+tot
+aanzienlijke
+vermindering
+van
+het
+zomertoerisme
+</s>
+<s>
+In
+andere
+<head id="nl3.s040.t40.6">gebieden</head>
+ontstaan
+wellicht
+nieuwe
+<head id="nl3.s040.t40.11">kansen</head>
+voor
+het
+toerisme
+</s>
+<s>
+Volksgezondheid
+<head id="nl3.s041.t41.6">Veranderingen</head>
+in
+de
+<head id="nl3.s041.t41.12">frequentie</head>
+en
+de
+<head id="nl3.s041.t41.16">intensiteit</head>
+van
+extreme
+weers-
+en
+klimaatomstandigheden
+<head id="nl3.s041.t41.27">kunnen</head>
+een
+serieuze
+<head id="nl3.s041.t41.34">bedreiging</head>
+<head id="nl3.s041.t41.30">vormen</head>
+voor
+de
+menselijke
+gezondheid
+</s>
+<s>
+Deze
+dreiging
+<head id="nl3.s042.t42.8">kan</head>
+direct
+<head id="nl3.s042.t42.12">zijn</head>
+zoals
+hittegolven
+en
+overstromingen
+of
+indirect
+bijvoorbeeld
+door
+de
+verspreiding
+van
+ziekten
+door
+teken
+</s>
+<s>
+Extra
+kwetsbare
+<head id="nl3.s043.t43.5">delen</head>
+van
+de
+<head id="nl3.s043.t43.10">bevolking</head>
+<head id="nl3.s043.t43.11">zijn</head>
+in
+dat
+<head id="nl3.s043.t43.16">geval</head>
+ouderen
+met
+beperkte
+<head id="nl3.s043.t43.22">toegang</head>
+tot
+medische
+<head id="nl3.s043.t43.27">zorg</head>
+</s>
+<s>
+<head id="nl3.s044.t44.4">Energie</head>
+De
+temperatuurstijging
+<head id="nl3.s044.t44.9">zal</head>
+waarschijnlijk
+de
+<head id="nl3.s044.t44.17">vraag</head>
+naar
+<head id="nl3.s044.t44.21">energie</head>
+voor
+<head id="nl3.s044.t44.25">airconditioning</head>
+in
+de
+<head id="nl3.s044.t44.30">zomer</head>
+<head id="nl3.s044.t44.12">doen</head>
+toenemen
+vooral
+in
+Zuid-Europa
+</s>
+<s>
+Dit
+gevoegd
+bij
+een
+verminderde
+energieproductie
+uit
+waterkracht
+en
+<head id="nl3.s045.t45.36">problemen</head>
+met
+de
+beschikbaarheid
+van
+koelwater
+als
+gevolg
+van
+klimaatverandering
+<head id="nl3.s045.t45.38">kan</head>
+de
+energievoorziening
+verstoren
+</s>
+<s>
+Aanpassing
+</s>
+<s>
+<head id="nl3.s047.t47.2">Strategie</head>
+en
+beleid
+</s>
+<s>
+Met
+aanpassing
+<head id="nl3.s048.t48.3">wordt</head>
+gedoeld
+op
+beleid
+<head id="nl3.s048.t48.16">praktijken</head>
+en
+<head id="nl3.s048.t48.46">projecten</head>
+die
+<head id="nl3.s048.t48.25">schade</head>
+<head id="nl3.s048.t48.22">kunnen</head>
+<head id="nl3.s048.t48.26">beperken</head>
+en/of
+<head id="nl3.s048.t48.33">kansen</head>
+<head id="nl3.s048.t48.30">kunnen</head>
+benutten
+die
+samenhangen
+met
+de
+klimaatverandering
+</s>
+<s>
+Op
+mondiaal
+<head id="nl3.s049.t49.9">niveau</head>
+<head id="nl3.s049.t49.10">is</head>
+de
+Raamwerk-Conventie
+over
+Klimaatverandering
+van
+de
+Verenigde
+Naties
+het
+in
+2004
+eens
+geworden
+over
+de
+<head id="nl3.s049.t49.37">ontwikkeling</head>
+van
+een
+gestructureerd
+vijfjarig
+werkprogramma
+betreffende
+de
+wetenschappelijke
+technische
+en
+sociaal-economische
+<head id="nl3.s049.t49.55">aspecten</head>
+van
+<head id="nl3.s049.t49.58">gevolgen</head>
+kwetsbaarheid
+en
+aanpassing
+in
+verband
+met
+klimaatverandering
+</s>
+<s>
+Tot
+nu
+toe
+<head id="nl3.s050.t50.3">is</head>
+het
+<head id="nl3.s050.t50.6">vraagstuk</head>
+van
+klimaatverandering
+nog
+niet
+op
+grote
+<head id="nl3.s050.t50.23">schaal</head>
+<head id="nl3.s050.t50.24">geïntegreerd</head>
+in
+het
+Europees
+milieubeleid
+zoals
+de
+EU-strategie
+voor
+biodiversiteit
+de
+Habitatrichtlijn
+en
+de
+Kaderrichtlijn
+Water
+</s>
+<s>
+Een
+dergelijke
+integratie
+<head id="nl3.s051.t51.7">heeft</head>
+evenmin
+plaatsgevonden
+in
+ander
+relevant
+Europees
+beleid
+zoals
+het
+Gemeenschappelijk
+Landbouwbeleid
+GLB
+</s>
+<s>
+Op
+Europees
+en
+nationaal
+<head id="nl3.s052.t52.10">niveau</head>
+<head id="nl3.s052.t52.11">is</head>
+een
+aantal
+onderzoeksprogramma's
+die
+de
+<head id="nl3.s052.t52.26">gevolgen</head>
+van
+potentiële
+klimaatverandering
+in
+kaart
+<head id="nl3.s052.t52.21">moeten</head>
+<head id="nl3.s052.t52.35">brengen</head>
+gepland
+of
+in
+de
+startfase
+</s>
+<s>
+Onlangs
+<head id="nl3.s053.t53.2">is</head>
+onderzoek
+begonnen
+naar
+de
+<head id="nl3.s053.t53.12">planning</head>
+van
+nationale
+en
+internationale
+aanpassingsmaatregelen
+</s>
+<s>
+In
+2004
+<head id="nl3.s054.t54.3">heeft</head>
+de
+Europese
+Commissie
+het
+initiatief
+genomen
+voor
+de
+<head id="nl3.s054.t54.22">ontwikkeling</head>
+van
+een
+Europees
+actieprogramma
+voor
+overstro
+mingsrisicobeheer
+waarbij
+ook
+<head id="nl3.s054.t54.42">gedacht</head>
+<head id="nl3.s054.t54.38">wordt</head>
+aan
+een
+mogelijke
+<head id="nl3.s054.t54.48">richtlijn</head>
+inzake
+overstromingen
+</s>
+<s>
+Hierbij
+<head id="nl3.s055.t55.3">is</head>
+klimaatverandering
+een
+van
+de
+centrale
+issues
+</s>
+<s>
+Verder
+<head id="nl3.s056.t56.2">heeft</head>
+de
+Commissie
+in
+oktober
+2005
+de
+tweede
+<head id="nl3.s056.t56.18">fase</head>
+<head id="nl3.s056.t56.14">gelanceerd</head>
+van
+het
+EUprogramma
+Klimaatverandering
+</s>
+<s>
+Dit
+<head id="nl3.s057.t57.4">programma</head>
+<head id="nl3.s057.t57.5">is</head>
+vooral
+gericht
+op
+het
+<head id="nl3.s057.t57.13">vaststellen</head>
+van
+aanvullende
+maatregelen
+tegen
+de
+uitstoot
+van
+broeikasgassen
+teneinde
+de
+doelstellingen
+van
+het
+Kyotoprotocol
+te
+<head id="nl3.s057.t57.40">halen</head>
+</s>
+<s>
+Hierin
+<head id="nl3.s058.t58.3">werd</head>
+men
+het
+er
+voor
+het
+eerst
+over
+eens
+dat
+aanpassingsvraagstukken
+aan
+de
+orde
+<head id="nl3.s058.t58.19">moeten</head>
+<head id="nl3.s058.t58.22">worden</head>
+<head id="nl3.s058.t58.30">gesteld</head>
+</s>
+<s>
+In
+2006
+<head id="nl3.s059.t59.2">zullen</head>
+belangengroepen
+<head id="nl3.s059.t59.6">worden</head>
+geconsulteerd
+over
+de
+<head id="nl3.s059.t59.17">rol</head>
+van
+de
+EU
+in
+het
+beleid
+ten
+aanzien
+van
+aanpassing
+aan
+klimaatverandering
+</s>
+<s>
+Het
+doel
+<head id="nl3.s060.t60.5">is</head>
+om
+aanpassing
+te
+<head id="nl3.s060.t60.13">integreren</head>
+in
+relevante
+Europese
+beleidsterreinen
+teneinde
+goede
+en
+rendabele
+<head id="nl3.s060.t60.30">procedures</head>
+voor
+de
+<head id="nl3.s060.t60.35">ontwikkeling</head>
+van
+aanpassingsbeleid
+op
+te
+<head id="nl3.s060.t60.40">stellen</head>
+en
+om
+<head id="nl3.s060.t60.47">kennis</head>
+te
+<head id="nl3.s060.t60.48">vergaren</head>
+</s>
+<s>
+De
+Commissie
+<head id="nl3.s061.t61.5">is</head>
+voornemens
+om
+eind
+2006
+een
+Groenboek
+te
+<head id="nl3.s061.t61.16">laten</head>
+<head id="nl3.s061.t61.22">verschijnen</head>
+</s>
+<s>
+Op
+nationaal
+<head id="nl3.s062.t62.11">niveau</head>
+<head id="nl3.s062.t62.4">worden</head>
+momenteel
+<head id="nl3.s062.t62.5">strategieën</head>
+<head id="nl3.s062.t62.14">ontwikkeld</head>
+in
+Denemarken
+Finland
+Duitsland
+en
+het
+Verenigd
+Koninkrijk
+</s>
+<s>
+In
+veel
+EMA-lidstaten
+<head id="nl3.s063.t63.5">worden</head>
+aanpassingsmaatregelen
+gepland
+of
+<head id="nl3.s063.t63.47">geïmplementeerd</head>
+om
+natuurrampen
+te
+voorkomen
+het
+milieu
+te
+beschermen
+en
+goed
+met
+duurzame
+hulpbronnen
+om
+te
+<head id="nl3.s063.t63.41">gaan</head>
+</s>
+<s>
+Enkele
+<head id="nl3.s064.t64.38">voorbeelden</head>
+van
+geïmplementeerde
+of
+geplande
+maatregelen
+Oostenrijk
+Natuurrampen
+en
+toerisme
+in
+de
+Alpen
+België
+Overstromingsrisicobeheer
+van
+rivieren
+Finland
+Waterkrachtcentrales
+infrastructuur
+<head id="nl3.s064.t64.73">transport</head>
+gebouwen
+en
+<head id="nl3.s064.t64.76">bosbouw</head>
+Frankrijk
+Volksgezondheid
+en
+<head id="nl3.s064.t64.81">bosbouw</head>
+Italië
+Beheer
+van
+kustzones
+en
+toerisme
+in
+de
+Alpen
+Noorwegen
+Infrastructuur
+gebouwen
+en
+<head id="nl3.s064.t64.107">bosbouw</head>
+Nederland
+Overstromingsrisicobeheer
+van
+rivieren
+en
+bescherming
+van
+de
+kuststroken
+tegen
+overstromingen
+Spanje
+Landbouw
+droogtes
+Zweden
+<head id="nl3.s064.t64.133">Bosbouw</head>
+Zwitserland
+Waterkrachtcentrales
+ecosystemen
+en
+toerisme
+in
+de
+Alpen
+Verenigd
+Koninkrijk
+Overstromingsrisicobeheer
+van
+rivieren
+bescherming
+van
+de
+kuststroken
+tegen
+overstromingen
+<head id="nl3.s064.t64.166">verzekeringen</head>
+</s>
+<s>
+Aanpassing
+als
+<head id="nl3.s065.t65.5">uitdaging</head>
+</s>
+<s>
+Het
+<head id="nl3.s066.t66.6">ontwikkelen</head>
+en
+<head id="nl3.s066.t66.12">implementeren</head>
+van
+aanpassingsmaatregelen
+<head id="nl3.s066.t66.14">is</head>
+een
+relatief
+nieuw
+<head id="nl3.s066.t66.20">gebied</head>
+</s>
+<s>
+De
+huidige
+maatregelen
+<head id="nl3.s067.t67.6">zijn</head>
+vooral
+gericht
+op
+bescherming
+tegen
+overstromingen
+</s>
+<s>
+Op
+dit
+<head id="nl3.s068.t68.6">gebied</head>
+<head id="nl3.s068.t68.7">bestaat</head>
+een
+lange
+<head id="nl3.s068.t68.11">traditie</head>
+van
+het
+<head id="nl3.s068.t68.16">omgaan</head>
+met
+extreme
+weersomstandigheden
+</s>
+<s>
+Concreet
+beleid
+maatregelen
+en
+<head id="nl3.s069.t69.10">praktijken</head>
+buiten
+dit
+<head id="nl3.s069.t69.15">gebied</head>
+<head id="nl3.s069.t69.16">zijn</head>
+nog
+schaars
+</s>
+<s>
+Daarom
+<head id="nl3.s070.t70.5">zijn</head>
+er
+nog
+veel
+<head id="nl3.s070.t70.10">sectoren</head>
+waar
+aanpassingen
+<head id="nl3.s070.t70.15">kunnen</head>
+<head id="nl3.s070.t70.18">worden</head>
+gepland
+en
+<head id="nl3.s070.t70.40">geïmplementeerd</head>
+zoals
+volksgezondheid
+watervoorziening
+en
+het
+beheer
+van
+ecosystemen
+</s>
+<s>
+Op
+dit
+<head id="nl3.s071.t71.6">moment</head>
+<head id="nl3.s071.t71.7">zijn</head>
+er
+meerdere
+<head id="nl3.s071.t71.11">uitdagingen</head>
+waar
+het
+<head id="nl3.s071.t71.17">gaat</head>
+om
+aanpassing
+aan
+de
+klimaatverandering
+</s>
+<s>
+Tot
+deze
+<head id="nl3.s072.t72.17">uitdagingen</head>
+<head id="nl3.s072.t72.18">behoren</head>
+het
+<head id="nl3.s072.t72.22">verbeteren</head>
+van
+klimaatmodellen
+en
+<head id="nl3.s072.t72.28">scenario's</head>
+op
+gedetailleerd
+regionaal
+<head id="nl3.s072.t72.34">niveau</head>
+vooral
+in
+verband
+met
+extreme
+weersomstandigheden
+om
+zo
+het
+hoge
+<head id="nl3.s072.t72.53">niveau</head>
+van
+<head id="nl3.s072.t72.56">onzekerheid</head>
+te
+<head id="nl3.s072.t72.57">verlagen</head>
+het
+<head id="nl3.s072.t72.62">bevorderen</head>
+van
+<head id="nl3.s072.t72.66">inzicht</head>
+in
+goede
+toepassingen
+op
+het
+gebied
+van
+aanpassingsmaatregelen
+door
+uitwisseling
+en
+het
+<head id="nl3.s072.t72.86">delen</head>
+van
+informatie
+over
+uitvoerbaarheid
+kosten
+en
+baten
+het
+bij
+het
+<head id="nl3.s072.t72.105">probleem</head>
+betrekken
+van
+de
+publieke
+en
+de
+particuliere
+<head id="nl3.s072.t72.118">sector</head>
+en
+van
+het
+publiek
+zowel
+lokaal
+als
+nationaal
+het
+<head id="nl3.s072.t72.133">versterken</head>
+van
+de
+coördinatie
+en
+de
+samenwerking
+binnen
+en
+tussen
+<head id="nl3.s072.t72.148">landen</head>
+om
+de
+<head id="nl3.s072.t72.160">samenhang</head>
+te
+waarborgen
+tussen
+de
+aanpassingsmaatregelen
+en
+andere
+beleidsdoelstellingen
+en
+het
+<head id="nl3.s072.t72.174">reserveren</head>
+van
+de
+benodigde
+<head id="nl3.s072.t72.180">middelen</head>
+</s>
+</text>
+</corpus>

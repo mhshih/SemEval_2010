@@ -1,0 +1,771 @@
+Freshwater and Poverty Reduction: Serving People, Saving Nature
+An economic analysis of the livelihood impacts of freshwater conservation initiatives August 2005
+
+Dr. Kirsten Schuyt
+
+WWF-International
+
+Table of Contents
+3
+
+Executive Summary 1. Introduction 2. Brief Descriptions of Case Studies
+2.1 South Africa: Working for Wetlands Project 2.2 Colombia: La Cocha Project 2.3 China: Lake Dongting Floodplain Restoration Project 2.4 Brazil: Várzea Project
+
+5
+
+6 6 8 11 13
+
+16
+
+3. Linking Freshwater Conservation with Improved Community Livelihoods
+3.1 South Africa: Working for Wetlands Project 3.2 Colombia: La Cocha Project 3.3 China: Lake Dongting Floodplain Restoration Project 3.4 Brazil: Várzea Project
+
+16 18 21 24
+
+33
+
+4. Conclusions & Lessons Learned Acknowledgements Annex 1: Analytical Framework
+
+34
+
+34
+
+© Brent STIRTON / Getty Images / WWF-UK
+
+Cover image: Bathing a young child in the April River, Pukapuki village. Freshwater remains relatively unpolluted in Papua New Guinea, but locals are concerned about the effect of mining companies whose by-products are washed into rivers, with the potential to increase pollution, as well as a sediment build-up that can increase levels of flooding. East Sepik Province, Papua New Guinea. December 2004
+
+Executive Summary
+Executive Summary
+
+The availability and functioning of freshwater ecosystems have a significant impact on the livelihoods, health and security of the poor. Freshwater services include food, drinking water, building materials, nutrient recycling and flood control. Furthermore, the harmful effects of ecosystem service degradation are often being borne disproportionately by the poor, and are in many cases the principal drivers of poverty and social conflict. It is therefore essential to recognize and integrate the links between freshwater resources management and livelihoods into freshwater conservation work.
+This report presents four cases where the work of WWF and its partner organizations has not only successfully led to improved management of freshwater resources, but also significantly contributed to the improvement of livelihoods of poor local communities. The four cases are: (1) the Working for Wetlands Project in South Africa; (2) the Dongting Lake Floodplain Restoration Project in China; (3) the Várzea Project in Brazil; and (4) the La Cocha Project in Colombia. These cases are based on separate socio-economic studies conducted in these four projects (see page 34 for the acknowledgements for these studies and Annex 1 for the analytical framework applied in these studies). The case studies dramatically demonstrate that sustainable management of freshwater resources and poverty reduction can and often do go hand in hand. Across all four cases, three results are of particular importance: (a) increased income; (b) increased well-being; and (c) reduced vulnerability. For example, in terms of increased income levels as a result of improved freshwater resources management in the La Cocha project in Colombia, the average income of the project’s beneficiary families is almost 3 times the local average family income. Similarly, the Lake Dongting Floodplain Restoration project in China has contributed to an increase in local farmers’ incomes by more than 100%. Improved freshwater resource management also contributed significantly to livelihoods in terms of non-income benefits. For example, the Várzea project in Brazil has strengthened the capacity of communities to resolve collective management problems that threaten individual and collective well-being through developing strong and effective local institutions, including community resource management organizations and regional floodplain management organizations. The programme also contributed significantly to improved health, through working with mothers’ groups to improve the quality of the family diet and the preparation of household medicine, and by strengthening the organizational capacity of municipal fishers’ unions to provide basic health services to their members. Furthermore, in both the Working for Wetlands project in South Africa and the La Cocha project in Colombia, participation and leadership of local people in sustainable freshwater management projects increased levels of confidence and self-respect. Lastly, improved freshwater resource management also resulted in reduced vulnerability, including vulnerability to hunger and conflicts. For example, the Working for Wetlands Project in South Africa has been successful in reducing vulnerability of those employed by the programme, especially through the provision of food security. Prior to being employed by the programme, most people were only able to afford staple food such as maize and potatoes. Through the opportunity of employment in this project, people are now able to consume a more varied diet, including processed food such as cheese, thereby being less dependent on annual and seasonal crop production. The Várzea project in Brazil significantly contributed to reducing vulnerability to conflicts between cattle owners and farmers and fishermen over damages caused by free-roaming cattle. In collaboration with other partners, the project worked with communities to develop legally binding agreements between cattle owners and other community members.
+
+Introduction Case Studies Benefits Conclusions Acknowledgements Annex 2 3
+
+Moreover, the case studies in this report show that not only are livelihoods improvements of the poor possible and likely as a result of improved freshwater resource management, but that the improvements are received across gender, age and disabled groups. For example, in the Working for Wetlands project in South Africa, more than half of the people receiving employment by the project are women, with some projects having more than 80% of the total workforce constituted by women. About 20% are youth and 4% are disabled. Furthermore, in the Lake Dongting project in China, women actively participated in the livelihoods schemes, and more than 25% of the beneficiaries of the project were between 50 and 60 years old, and one-fifth above 60 years old. Table 1 summarizes the main livelihoods and conservation benefits findings of this report.
+
+Several essential lessons can be derived from the four cases presented in this report: • Sustainable freshwater resource management and livelihoods improvements must not be approached as two separate activities, but as part of a holistic and integrated approach. • The ownership of conservation activities must reside with the communities. • A key factor of success is a set of enabling conditions already in place when the projects starts, such as strong motivation of local communities; government support and favourable public policies; the availability of local partners; and a set of institutional arrangements at community level already in place. • Sustainable freshwater resource management requires a broad set of activities that address different levels – from policy work at the macro level to institutions and capacity building at the community level, to adaptive management at the project level.
+
+Table 1: Summary of Key Conservation and Livelihood Benefits Project Key Conservation Benefits Key Livelihood Benefits Working for Wetlands, South Africa • Rehabilitation of 40 wetlands
+
+• 1,417 previously unemployed people with employment benefits • 18% employed are youth • 54% employed are women • 4% employed are disabled • Increased level of confidence and knowledge • Reduced vulnerability - employment • Increased investments in housing • Increased average family income of project beneficiaries by 2.8 times the average income • 83% self-sustaining in terms of food production compared to 40% before the project • Increased well-being and self-respect • Improved healthcare • Reduced vulnerability - food security, health and conflicts • More sustainable use of natural resources - soils, water, flora and fauna
+
+Lake La Cocha, • 3,500 ha of fog forest, paramos Colombia and wetlands in La Cocha Network of natural reserves • 39,000 ha wetland designated as Ramsar site • Unsustainable dam proposal stopped
+
+This report shows that sustainable management of freshwater habitats provides essential services to the livelihoods of the poor and should be a priority for any government pursuing the Millennium Development Goals.
+
+Lake Dongting, • 393,000 ha in 3 natural reserves • More than 100% increase in income levels China (East, South and West Lake Dongting) • Improved well-being - better housing conditions, improved established as Ramsar sites healthcare, diversified food • In the Xipanshanzhou polder alone • More sustainable use of natural resources - organic farming, 100 ha wetlands restored biogas cooking, decreased use of pesticides and chemical fertilizer Várzea Flooded • 60% increased production of Forests of the commercially valuable fish Amazon, Brazil • 25% increase in average agricultural income • Increased income from sting-less bee raising and shrimp fishing • Strengthening community capacity to resolve collective management problems • Improved health • Reduced vulnerability - resource vulnerabilities, conflict, property rights
+
+1. Introduction
+Executive Summary
+
+Freshwater ecosystems play an important role in all our lives. They are the mechanism whereby water is gathered and delivered for human use. They provide important services that are conservatively valued at hundreds of billions of dollars. For example, in a recent WWF publication1, the world’s wetlands alone have been valued at $70 billion per year. Important services of freshwater ecosystems include food, freshwater for drinking, cooking and sanitation, materials for construction, production of subsistence and economic goods, purification of water and flood control, and cultural services including spiritual, aesthetic, educational and scientific benefits. In the developing world particularly, proper functioning of freshwater ecosystems have a proportionately greater impact on the livelihoods, health and security of the poor.
+The United Nations Millennium Development Goals (MDGs), agreed to by the international community in September 2000, aim to halve the number of people living in poverty by 2015. MDG number 7 particularly aims to ensure environmental sustainability, including to “reduce by half the proportion of people living without sustainable access to safe drinking water”. However, the recently published Millennium Ecosystem Assessment concluded that the degradation of ecosystem services is a significant barrier to achieving the MDGs, and this impediment could grow significantly over the next 50 years. It is expected that consumption of important ecosystem services will grow explosively as global GDP increases 3-6 fold. At the same time, climate change and excessive nutrient loading will put ever greater stress on freshwater ecosystems. The harmful effects of ecosystem service degradation will continue to be borne disproportionately by the poor, and they are often the principal drivers of poverty and social conflict. The links between ecosystem services and poverty are strong. It is therefore essential to recognize and maximise the potential linkages between freshwater ecosystem conservation and poverty reduction. With this imperative in mind, WWF and its partner organizations are developing and implementing conservation projects with clear ecological goals and ambitious aims for Using the principles of natural resource economics, this report examines these four projects in order to answer the following questions: Have the freshwater conservation activities of WWF and its partners improved the livelihoods of local people, and if so, by how much? Are the economic gains equitably distributed? Are they sustainable? It is our hope that useful lessons can be drawn from these experiences for future freshwater conservation work by governments, private actors, NGOs and local communities. improvements in livelihoods. The cases presented in this report illustrate how these links can be made successfully. The report presents four cases in which the work of WWF and its partner organizations has not only successfully led to more sustainable management of freshwater resources, but also significantly contributed to the improvement of livelihoods of poor local communities. The following four case studies will be examined: (1) the Working for Wetlands Project in South Africa; (2) the Dongting Lake Floodplain Restoration Project in China; (3) the Várzea Project in Brazil; and (4) the La Cocha Project in Colombia.
+
+Introduction Case Studies Benefits Conclusions Acknowledgements Annex
+
+1
+
+Schuyt, K. and Brander, L., “The Economic Values of the World’s Wetlands”, WWF 2004
+
+4
+
+5
+
+2. Brief Descriptions of Case Studies
+The primary objective of all four projects is freshwater ecosystem and biodiversity conservation. This section will describe each project’s conservation objectives in detail. The resulting improvements in livelihoods of the local poor will be discussed in the next section.
+2.1 South Africa: Working for Wetlands Project
+Sixty five percent of South Africa’s land receives less than 500 mm average annual rainfall. Drought is an ever-present risk. An estimated 8 million South Africans currently have no access to potable water. Future projections indicate that by 2025 the country’s water requirements will exceed supply unless urgent steps are taken to manage the resources more sustainably. The growing water crisis is exacerbated by an estimated half of South Africa’s wetlands being lost to development and poor land management. Working for Wetlands began as a loose arrangement linked to the labour-intensive activities within the Working for Water programme2. In July 2000 it became a more structured programme and was launched as a subsidiary initiative of Working for Water. Working for Wetlands also established a
+2
+
+It is against this backdrop that the South African government, working in partnership with WWF and others, initiated catchment management programmes under the banners ‘Working for Water’ and ‘Working for Wetlands’. The Working for Water initiative began as a programme to control invasive alien plants that threaten the country’s water security and biodiversity.
+
+South African Rand = US$ 0.15 (July 2005)
+
+partnership with the Mondi Wetlands Project,
+
+“Working with communities is challenging; we will be dealing with very poor people, often marginalized and reliant on natural resources for their basic needs. Furthermore, if you initiate any project in a communal areas without involving the people adequately, the project will fail. Poor communities in rural areas see wetlands differently. Some see it as a fertile place for planting maize. Sometimes they see it as a liability that harbours mosquitoes,” according to MWP manager David Lindley. Republic of South Africa.
+
+© WWF-Canon / Chris MARAIS
+
+Working for Wetlands Projects in South Africa
+
+ZIMBABWE
+oR iv
+
+er
+
+w e s
+0 100 Kilometres 250
+
+n
+
+Lim
+
+po
+
+p
+
+Executive Summary
+
+Pietersburg
+
+Atlantic Ocean
+
+BOTSWANA
+
+od
+. il R
+
+Olifant s R i ver
+
+MOZAMBIQUE
+
+Sun City Pretoria
+Kom
+
+Kr
+
+ok
+
+ati R
+
+iver
+
+Nelspruit SWAZILAND Usutu R.
+
+Group of 1-6 wetlands
+M ol p
+
+Johannesburg
+Ri ve r
+o
+
+Introduction
+
+NAMIBIA SOUTH AFRICA
+Ora
+
+Ora
+e ng
+
+Va
+
+i al R
+
+ve
+
+r
+Mfolo
+
+Case Studies
+
+nge R iver
+
+ar
+
+R
+iver
+
+Kimberley Bloemfontein
+ra
+O
+
+St Lucia Maseru LESOTHO
+Tug ela
+
+zi Riv
+
+er
+
+H
+
+tbe
+es R.
+
+ng eR ive r
+
+Durban Port Shepstone
+
+Riv
+
+er
+
+Benefits
+
+Atlantic Ocean
+
+Dor
+
+ing Ri ve
+r
+
+Gre at
+G re a t F
+Go uri ts Riv er
+
+Umtata
+Kei
+
+Mz
+
+Conclusions
+
+im
+
+vu
+
+R.
+
+bu
+
+Ri
+
+ve
+
+r
+
+G amto os R ive
+r
+
+h R iver
+
+East London
+
+is
+
+Indian Ocean
+
+Acknowledgements
+
+Cape Town
+
+Mossel Bay
+
+Port Elizabeth
+
+an initiative of WWF and the Wildlife and Environment Society of South Africa, aimed at catalysing the conservation and sustainable use of wetlands. Since April 2004, Working for Wetlands has been housed within the South African National Biodiversity Institute (SANBI), but maintains its original linkages with the Working for Water programme and its parent government departments in order to use its experience and capacity, while also drawing on the expertise of each of its government and private sector partners. Working for Wetlands combines two concerns: (i) the conservation of South Africa’s wetlands, and; (ii) systematic efforts at poverty relief, job creation and skills development. Given this approach of linking wetland conservation to sustainable economic development, the programme has formed part of the government’s Expanded Public Works Programme (EPWP) and shares the focus on incorporating unemployed, poor people into employment and skills development opportunities. Projects are thus focused on rehabilitation, conservation and appropriate use of wetlands in
+
+a way that attempts to maximize employment creation, support for small business and the transfer of skills to the unemployed and poor. Working for Wetlands commenced in 2000 with funding of R20 million per annum. By 2005 the government increased its budget to R41 million, which has been secured until at least 2007. During any one year approximately 1,400 disadvantaged South Africans have participated in the programme, rehabilitating approximately 40 wetlands. The assessment for this report focused on three sites at which Working for Wetlands projects are in progress. These sites are representative of the range of the Programme’s work. These are the Ntsikeni wetland in the Eastern Cape Province, the Bushbuckridge area in the Limpopo Province and Shoshanguve in the Gauteng Province.
+
+Annex 6 7
+
+The rehabilitation of Ntsikeni wetland started in April 2000. The project employed 68 workers and consisted of blocking drainage canals dug by previous landowners in order to dry out the wetland for agricultural purposes. The project blocked the drains by building concrete weirs and earthwork structures. Additional activities included digging canals to promote the dispersal of water, stabilizing erosion in the wetland by constructing gabion structures, burning firebreaks to prevent the wetland from burning every year, and clearing alien invasive plants which were reducing the amount of water running into the wetland. All these measures were designed to rehabilitate and reinstate the driving forces of the wetland. Although a single project, the rehabilitation was split into three different catchment sites where the work was undertaken - Abergeldie, Mt Pleasant and Sneezewood, situated in the Alfred Nzo District Municipality, particularly in the Umzimkhulu Local Municipality. Bushbuckridge is a densely populated area in the Limpopo Province, bordering Kruger National Park. The project started in April 2000 and aimed to rehabilitate three wetlands in the water-stressed Sand river catchment area, a highly water-stressed area. One of the primary reasons for interventions in this area was to safeguard subsistence food gardens in the wetlands that were being threatened by the gully erosion in the wetland that was gradually destroying the ecosystem. The rehabilitation included deactivating gully head erosion and stabilizing gully channels in the wetland, blocking drains to raise the water table and restore the hydrological regime, and creating awareness of wetlands and their importance amongst the local community. The project also included the maintenance work on existing erosion control gabion structures and on parts of the wetland that had already been re-sloped and re-vegetated by Working for Wetlands work in previous years. The Shoshanguve project is situated in the Tswaing Local Municipality and aimed at rehabilitating two wetlands in the Tweefontein area near the city of Pretoria. Rehabilitation of the wetlands involved constructing earth plugs designed to block drains and re-flood previously dried out parts of the wetland, breaking of small dam walls to restore the natural hydrological regime, sloping and re-vegetation of eroded areas of the wetland, and the construction of concrete and gabion structures to stabilize gully erosion in the wetland.
+
+2.2 Colombia: La Cocha Project
+La Cocha is a high Andean lake located on the eastern slopes of the southern Andes of Colombia, north of the border with Ecuador. La Cocha forms part of the upper Guamués river watershed, an important tributary of the Putumayo and San Miguel Rivers, which are in turn major tributaries of the Amazon. It covers a total area of 39,000 hectares, making it the largest wetland in the Colombian Andes. The natural ecosystems of La Cocha present a high biodiversity and its paramos (high mountain grassland) are home to a large variety of fauna and flora, including several endemic species. Some 18 rural and indigenous communities live in the area. Human interventions, such as logging, cattle raising, and use of mono-cropping systems has had a negative impact on La Cocha, seriously threatening the high biodiversity and wealth of natural resources in this area. Deforestation for charcoal production is a major threat to La Cocha, which has led to soil erosion, faster runoff of surface water and reduced biodiversity. Another significant threat comes from the proposed construction of a major dam system called the PMG (Guamués Multipurpose Project), intended to divert water from the Amazon to the Pacific side of the Andes. Twenty-four years ago, a group of rural and urban families on the La Cocha lagoon in the Colombian department of Nariño started community networking activities, founded on the principles of respect for all forms of life and gender and intergenerational equity. Since then networks have been formed around five ecological themes: the Network of Natural Reserves, the Network of Soil Recoverers, the Network of Community Communicators, women groups, and the “Heirs of the Planet” programme that involves schoolchildren and adolescents. All these networks are grouped into four community work associations, locally known as ‘mingas’, which together form the Association for Rural Development, or ADC.
+
+The ADC initially works in the development of economic alternatives and sustainable productive systems that could serve as alternatives to charcoal extraction. The success of these proposals encouraged the beneficiaries to analyse their situation and take advantage of their organization to promote production activities that included elements of sustainable agricultural production, gender and intergenerational equity, environmental protection, and recovery of cultural identity. In 1991, the farmers’ associative ‘minga’ of Yarcocha developed the La Cocha Network of Natural Reserves in order to provide an alternative to charcoal and timber exploitation for meeting the basic needs of local families. Within the reserves, production is combined with sustainability criteria, minimizing waste by recycling materials and conserving energy. Today, 63 families form part of the La Cocha Network of Natural Reserves that preserves 3,500 hectares of fog forests, paramos and wetlands, and the associated biodiversity. The Network has become a driving force for conservation processes and oversight of actions that threaten the upper Guamués river watershed. The community management of these ecosystems has allowed this area to be declared as a Wetland of International Importance under the Ramsar Convention, and the community is currently participating in the implementation of a Wetland Management Plan. Throughout this process, WWF Colombia has been working closely with ADC, providing funding and technical assistance to sustainable development and capacity building projects over the past 11 years. As a result of that effort, local communities have designed conservation strategies such as the private reserves and the establishment of protected status (Ramsar Convention) for the conservation and sustainable use of 39,000 ha of wetland.
+0 5 Kilometres 10
+
+Map of La Cocha, Colombia
+La Corota Island Flora and Fauna Sanctuary VENEZUELA
+
+Executive Summary
+
+w e s
+
+n
+
+Pacific Ocean
+
+COLOMBIA
+
+Introduction
+
+La Cocha Lagoon
+
+Cauca Nariño
+
+Case Studies
+
+ECUADOR
+
+Benefits Conclusions
+
+Management of natural resources has improved from both quantitative and qualitative viewpoints: • Soils: The projects’ beneficiary families are reaching a quantifiable level of sustainability in land use. They are producing more, better, and healthier products with a minimum of intervention and, consequently, impact. From the qualitative viewpoint, the reduced use of agro-chemicals and the use of improved production techniques ensure minimum soil degradation, which together with practices such as composting, crop rotation, and worm farming, ensure an efficient cycling of nutrients and, as a result, better soils.
+
+Acknowledgements Annex
+
+Patricia Jojoa collecting pond plants (used to purify animal slurry in lake) for guinea pigs, private reserve, Laguna La Cocha, near Pasto, Colombia
+
+© WWF-Canon / Edward PARKER
+
+8
+
+9
+
+© WWF-Canon / Edward PARKER
+
+Rainbow over • Water: All the study interviewees indicated that their water comes from springs located on their properties. These springs have been either improved or conserved thanks to the reforestation and natural regeneration initiatives promoted by the project. The reserves now have a guaranteed source of abundant, clean water for human consumption and to support their production systems. • Flora: From the beginning, the incorporation of reforestation and natural regeneration processes was accompanied by environmental assessment and the willingness to study, protect, and recover the seeds of native species of the region. These efforts have had an impact in the La Cocha area. Local inhabitants, especially children, now have sufficient knowledge about their flora species and have established a nursery to produce seedlings of wax palm, Colombian pine, and medicinal plants for use in reforestation to protect endangered species, strengthen food sovereignty, and recover customs and traditions. • Fauna: The protection and regeneration of native forests not only ensures the survival of existing flora species but also preserves an environment that favours the survival of numerous species of birds, mammals, and reptiles living or visiting the area as part of their migratory routes. Furthermore, reforestation and regeneration are planned in such a way that biological corridors that facilitate the mobility of these species in their search for food and territorial consolidation are created or consolidated. The latter is clearly evidenced by the numerous observation reports of all types of species and the huge interest of local inhabitants to find out more about them. It is not unusual to find elderly community members, adults, and children who, without being biologists, can handle – almost to perfection – the common names, scientific names, taxonomic classification, dietary habits, and migratory routes of most of the birds found in their area. La Cocha lagoon, La Cocha, near Pasto, Colombia
+
+2.3 China: Lake Dongting Floodplain Restoration Project
+Lake Dongting is the second largest freshwater lake in China and one of two biggest lakes naturally connected to the Yangtze, the third largest river in the world. Lake Dongting is one of the most important wetlands in China, with a rich biodiversity including important fish and water bird populations and many threatened species. It is home to the threatened Chinese River Dolphin, Yangtze Finless Porpoise, and Lesser White-Fronted Goose. Three natural reserves at Lake Dongting are listed as Ramsar Sites. The lake serves as a natural buffer by storing freshwater and reducing the extent and impact of flooding in areas occupied by people. However, intensive land conversion (mostly building of dams, dykes and polders) over 50 years has replaced wetlands with agriculture and urban settlements. This has fragmented natural habitats and disrupted natural processes weakening the lake’s ability to store and safely release flood waters. The immediate foci of the programme were on restoring the lake and its wetlands to their 1950s extent (4,350 km2) within 10 years, managing the area sustainably for biodiversity and local people; and establishing ecotourism in the lake region as one means of supporting wetland restoration and protection. In 1998, WWF launched The Central Yangtze: Partnerships for a Living River, a programme undertaken by WWF’s China Programme Office (CPO). The goals of the project were: • To restore Lake Dongting in order to reverse the massive loss of biodiversity, and improve ecological conditions and security for the conservation of the natural heritage, ecosystem and species of the Yangtze. • To achieve wetland restoration as a contribution towards improved security against catastrophic peak floods that destroy economic, agricultural and infrastructure assets.
+
+Executive Summary Introduction Case Studies Benefits Conclusions Acknowledgements Annex
+
+CHINA
+
+Wulumuqi
+
+Haerbin Changchun
+
+w e s
+Lasa
+
+n
+
+Shenyang Huhehaote
+
+CHINA
+Yinchuan Xining Taiyuan
+
+Beijing Tianjin Jinan Xi’an
+
+Yellow
+
+Ri
+
+Shijiazhuang Lanzhou
+
+r ve
+
+Yellow River Zhengzhou
+
+Yellow Sea
+Yangtze River
+
+Chengdu Chongqing
+
+Hefei
+Yangtze Riv e
+
+Wuhan
+
+Nanjing Hangzhou
+
+Shanghai
+
+Lake Dongting
+0 250 Kilometres 500
+
+Changsha Guiyang Kunming Nanning Guangzhou
+
+r
+
+Nanchang
+
+East China Sea
+Fuzhou Taibei
+
+Map of Lake Dongting, China
+Haikou
+
+South China Sea
+
+10
+
+11
+
+The assessment for this report focused specifically on the Xipanshanzhou polder in the Lake Dongting area. In this polder, 100 ha of wetlands have been restored through dyke removal. Rice production was the major economic activity in the area but had become economically marginal, so alternative livelihoods activities were developed. These involved mainly agricultural diversification (pigs, hens, fish-cages, biogas, organic horticulture). Farmers participated actively in the development and management of the project and some 200 farmers’ households benefited from the project.
+
+As a result of wetland restoration undertaken as part of this project, the Dongting Lake biodiversity monitoring preliminary reports show that the vegetation increased in both species diversity and quantity which induced increases on amphibian groups and birds. Additionally, the environment and heavy metal indexes of water (including dissolved oxygen, nitric salt, ammonia-salt, coliform, microbe population, and fluorine) show that the major indexes are lower as a result of the wetland restoration, and better than the health standards for water used to irrigate food crops.
+
+A fishing boat on Dongting Lake at sunset. Hunan Province, China.
+
+© WWF-Canon / Edward PARKER
+
+2.4 Brazil: Várzea Project
+Obidos
+
+Executive Summary
+
+Curua
+
+Alenquer Monte Alegre
+
+The “Várzea” or floodplain of the Amazon River is one of the most important ecosystems of the basin both ecologically and economically. An environment characterized by high biodiversity and great ecological productivity, its resources have sustained the human population and economy of the Amazon for centuries. While world attention has been focused on the destruction of upland forests, the Várzea is also under great pressure. The intensification of commercial fisheries, commercial logging and the expansion of extensive cattle and water buffalo ranching are leading to the depletion of the Várzea natural resources and the degradation of its productive capacity. This process, in addition to threatening one of the most important ecosystems of the basin, also threatens the viability of smallholder settlements on the floodplain. Concerned with the depletion of their natural resources, especially fisheries, floodplain communities have organized to assume control of local lakes, grasslands and forests and to impose rules to regulate access and use of their natural resources. In recent decades, a large number of community management initiatives involving partnerships between floodplain communities, grassroots organizations, and NGO's have emerged. IBAMA (Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Ronavaveis), Brazil’s environmental protection agency, recognized their potential and has been revising its management policy to incorporate these initiatives into a formal co-management system for Várzea natural resources. One of the major regional experiments in comanagement is taking place in the municipality of Santarém. Over the last ten years, floodplain communities, the local fishers’ union, environmental NGOs, IBAMA and other governmental agencies have undertaken a series of activities with the objective of implementing and consolidating a regional co-management system for the natural resources of the floodplain. The Várzea Project of IPAM (Instituto de Pesquisa
+BRAZIL
+Lago Grande Do Curuai Curuai Santarém
+
+Introduction
+
+The Santarém Region of the Lower Amazon
+
+Case Studies Benefits Conclusions Acknowledgements Annex
+
+Ambiental da Amazonia) has played a key role in this process. For the last ten years IPAM and other partner organizations have undertaken a series of projects including research on floodplain resource use, development of collective fisheries agreements, agricultural extension, environmental education, leadership development, institutional capacity-building and environmental policy, which are contributing to the construction of a model for the sustainable management of the Várzea that could be adapted to other floodplain regions of the Amazon.
+
+12
+
+13
+
+Following a three-year research project carried out in the region, the Várzea Project was created in 1994 with financing from WWF and DFID, the UK Department for International Development. The project was developed in two five-year phases: Phase 1 from 1994 to 1999 and Phase 2 from 1999 to 2004. In region of Ituqui. The main objectives were: (1) to develop and implement a management system for the Ituqui lake system; (2) to work with communities to implement the agreement, and; (3) to strengthen the organizational and technical capacity of the Fisher’s Union to disseminate the model to other communities in the region. In Phase 2, the project expanded the study area to include several other regions of the municipality, while the co-management system and the environmental education programme covered most of the floodplain region of Santarém. In addition, the project established partnerships with groups working in different locations between Amapá, in the Amazon estuary and Iquitos, in the Peruvian Amazon. The project also sought to implement integrated community development projects in the regions of Ituqui, Tapará and Aritapera. Through this process, the project has developed a sustainable management strategy for the Várzea that seeks to optimize global production by integrating fisheries, cattle raising, annual and perennial crop production and habitat restoration. The project consists of four components: (1) Lake management programme: The objective of the lake management programme is to undertake the research needed to develop management plans for floodplain lake fisheries. In the first phase, research concentrated on four aspects of the ecology of lake fisheries: (a) experimental fishing in eight different lakes in the Ituqui region to obtain basic information on the structure and composition of fishing communities; (b) a study of the biomass and species composition of aquatic macrophyte communities, (c) a study on the ecology and management of the pirarucu, a sedentary lake species of great commercial value, and; (d) a long term study of household fishing activity on five Ituqui communities. These components have led to substantial biodiversity benefits, most notably the restoration of fish populations and the protection and regeneration of native forests. (2) Fisheries development programme: The fisheries development programme has concentrated on two main activities, development of a marketing system for pirarucu and a study of the fisheries sector and its role in the regional economy. (3) Environmental education programme: One of the major goals of the project is to develop the leadership skills needed for the co-management system now being implemented. The formal and non-formal educational programmes developed in the first phase were revised and consolidated during the second phase. (4) Fisheries policies and management institutions programme: The fourth element of the Várzea project seeks to develop policies in support of the co-management of floodplain natural resources and to strengthen management institutions at regional and community levels. People on Ituqui Island moving hundreds of tree seedlings which are to be planted out in the Várzea near Santarem, Para, Brazil
+© WWF-Canon / Edward PARKER
+
+Phase 1, the actions focused primarily on the
+
+Executive Summary Introduction Case Studies Benefits Conclusions Acknowledgements Annex
+
+Concerned with the depletion of their natural resources, especially fisheries, floodplain communities have organized to assume control of local lakes, grasslands and forests and to impose rules to regulate access and use of their natural resources.
+
+© WWF-Canon / Edward PARKER
+
+14
+
+15
+
+3. Linking Freshwater Conservation with Improved Community Livelihoods
+This section evaluates the four cases in terms of improvement of livelihoods and poverty reduction in local communities in the project areas. Key questions are: What are the livelihoods outcomes as a result of the project in terms of increased income; increased well-being; reduced vulnerability to shocks, seasonality and trends; and a more sustainable use of natural resources? How are these benefits distributed across gender, age, income and disadvantaged groups? Is the improvement in livelihoods sustainable? Annex 1 describes the analytical framework.
+3.1 South Africa: Working for Wetlands Project
+The main source of improved livelihoods in the Working for Wetlands project comes from employment - previously unemployed people are hired for approximately 2-3 years to work in the project. Typical activities undertaken within the projects include: • The construction of structures to control erosion in the wetland, trap sediment and raise water tables; • Control of invasive alien plants in the immediate catchment, and in the wetland; • Plugging of artificial drainage channels in the wetland; • Addressing offsite causes of degradation in the catchment; • Raising awareness of wetlands among workers, landowners and the public; • Providing adult basic education and training as well as technical skills, and; • Developing management plans for the rehabilitated wetlands. The number of workers currently employed in all the Working for Wetlands projects is 1,417 (see Table 2), excluding the contractors. As the table below shows, more than half (54%) of the people currently employed on various Working for Wetlands projects are women, with some projects having more than 80% of the total workforce constituted by women. About one-fifth (18%) of the workers are youth (18 – 25 years) and 4% are disabled. Across all sites assessed, prior to being employed by Working for Wetlands, workers and contractors depended on irregular employment, extended family members and state grants (mainly a child support grant and old age pension) for income. This study found that most of the participants were previously either unemployed or were employed informally. Among those employed informally, the typical jobs involved doing laundry, child rearing, running a small snack/sweet shop, selling old clothes, manufacturing bricks and small-scale cutting of grass for sale in order to generate small amounts of income. Participants did not have regular or dependable sources of income prior to their employment on the Working for Wetlands programme. Table 2: Current Beneficiaries in Terms of Employment in the Three Working for Wetlands Projects Project Name Employment Number Data Number of Youth of workplace Employed opportunities (18 to 25 yrs) Ntsikeni Save the Sand (Bushbuckridge) Soshanguve/Dinokeng 68 41 125 7 (10%) 10 (24%) 16 (13%) 262 (18%)
+
+Number of Women Employed 37 (54%) 24 (59%) 70 (56%) 760 (54%)
+
+Number of People with Disabilities Employed 0 (0%) 16 (39%) 2 (2%) 53 (4%)
+
+Total for all Working for 1417 Wetlands Projects in South Africa
+
+The study found that the programme has further
+Executive Summary
+
+contributed to the improvement of the beneficiaries’ livelihoods beyond just the income. First, the beneficiaries reported that their level of confidence is boosted by their role in the project. Workers and contractors reported that the knowledge they have gained from the project has made them “better people” than they were in the past. Second, the Working for Wetlands programme has also had success in reducing the vulnerability to shocks, seasonality and trends of those employed by the programme, especially though food security. The study revealed that prior to being employed by the programme, most people were unable to afford a variety of foods, including processed foods, and mainly lived on staples such as maize meal and potatoes. Our findings revealed that this was the only type of foods most of the households could afford, and these only with difficulty. As reported by the participants, most of their households’ income was spent on these foods prior to being employed by the project. The programme has further reduced vulnerability among those employed by providing them with relatively long term job opportunities and skills. Between the Working for Water and the Working for Wetlands programmes, most of the workers and contractors have been employed for the past three to four years. Working for Wetlands workers and contractors depended on irregular and insecure jobs for survival prior to being employed on the project. This suggests that prior to the introduction of Working for Wetlands, the programme’s beneficiaries were employed in short term and informal jobs that could not contribute to improvement in their quality of life. Third, the discussions revealed that both workers and contractors were able to make concrete investments such as building and/or upgrading their houses, something that they were not able to do without the clearly defined and secured jobs provided by the Working for Wetlands programme.
+
+Introduction Case Studies Benefits Conclusions
+
+Ms Rosinah Moagi lives in Section MM in Soshanguve, a
+township outside the city of Pretoria in the Gauteng province of South Africa. She is a contractor at the Dinokeng/Soshanguve wetland rehabilitation project. She is unmarried and lives with her 1 child and 6 other adopted children. She has completed grade 11 and could not continue with her studies due to a lack of financial support. Prior to her involvement in the Working for Wetlands programme, she used to work as a volunteer at several community based organizations such as the Soshanguve Community Policing Forum, the Soshanguve Environmental Forum, and the Shoshanguve Child and Family Abuse Forum. Her first involvement with the Working for Wetlands programme started in 2001, when calls were made for contractors to apply for tenders at Working for Water. Rosinah’s name was forwarded by the Soshanguve Environmental Forum as a candidate. The rehabilitation work that Rosinah and her team are currently doing involves installing earth plugs, breaking of dam walls, sloping, construction of concrete structures and gabions. Rosinah employs 11 people and she describes her work as being responsible for ensuring that there is progress in the work that the team is doing and managing her construction business. She feels that being employed by the programme has had a positive impact on her life, her family’s life and that of other people in her community because she often makes donations to other community members who do not have any income. She feels that a lot of things have improved in her life as she has been able to build a house for herself, her sister and their children. Another worthwhile achievement for her is the skills she gained from the programme. She feels that as someone who has always been interested in nature and the environment, the work that she does makes her very happy.
+
+Acknowledgements Annex 16 17
+
+3.2 Colombia: La Cocha Project
+The main livelihoods benefits from the La Cocha programme resulted from training the communities around the La Cocha lake. The training generated a deeper environmental consciousness with the beneficiaries, important skills for the management of minor species, and recognition of the importance of conservation as a fundamental priority for food security. A first significant positive effect on livelihoods as a direct result of the La Cocha project is an increase in average family incomes of those families benefiting from the project. In La Cocha, the average family income is Pesos 232 per month3, compared to an average family income in Colombia of Pesos 545 per month. This means that the average family income in La Cocha was 42.15% of the average national family income. In comparison, the average income of the families participating in the project has risen to Pesos 643 per month, which is 2.77 times the La Cocha average income and 1.18 times the average income of Colombian families. Figure 1 presents the difference between the average income of project beneficiaries and non-beneficiaries in La Cocha per year.
+
+Mr. Pilot Malele comes from a village known as Casteel in
+the Bushbuckridge Local Municipality in Limpopo province. He is a contractor at the “Save the sand” rehabilitation project in Bushbuckridge. He is married with three children. He has completed grade 12 and could not further his studies because his parents were unable to afford further education. The main task of Mr. Malele and his team is to stabilize gully erosion. The maintenance work that they do involves construction of gabion structures, sloping and revegetation of the wetland. His team is made up of 12 people (7 women and 5 men) who come from the communities around Casteel, his own community. His main role is to interpret rehabilitation plans and supervise their implementation. Pilot Malele feels that his life has improved tremendously since he started working as a contractor on the Working for Wetlands programme. Among other things, Pilot has been able to start a family, build a house for his wife and children, and build additional rooms to accommodate his parents and all his siblings. As a major highlight, he reported that he also bought a car. He commented with enthusiasm that buying a car was something he never dreamt of because he grew up in a poor family. Pilot Malele further reported that his children are able to receive education that his parents could not afford. He hinted that his children are able to participate fully at school because he is able to afford their school needs, including paying for them to go on educational tours. He further indicated that he is able to afford variety of foodstuffs, including commercialized and processed foods such as yogurt and cheese for his children. Together with another Working for Wetlands contractor, Pilot has been able to register a company that is currently competing for government tenders. Although Pilot and his partner have not been successful yet with government tenders, he feels that the Working for Wetlands programme has equipped him with the skills he needs to start his own business.
+
+Figure 1: Average Annual Income Project Beneficiaries Versus Non-Beneficiaries La Cocha and Colombia, 2004 (unit: Pesos)
+9000000 8000000 7000000 6000000 5000000 4000000 3000000 2000000 1000000 0
+
+Average national income
+
+Average local income La Cocha
+
+Average income of project La Cocha
+
+Average annual income
+
+3
+
+Colombian Peso = US$ 0.0004 (July 2005)
+
+Additionally, Figure 2 compares the income
+Executive Summary
+
+estimates for families living in the La Cocha area, with that of project beneficiary families over a tenyear time period. It further highlights the positive effects of the project on family incomes. Figure 2: Comparative Analysis of Income of Project Beneficiaries Compared to Non-Beneficiaries over Ten Years (unit: Pesos)
+10000000 8000000 6000000 4000000 2000000 0
+
+Introduction Case Studies
+
+1993
+
+1994
+
+1995
+
+1996
+
+1997
+
+1998
+
+1999
+
+2000
+
+2001
+
+2002
+
+2003
+
+2004
+
+Benefits
+
+Expected income La Cocha Real income of beneficiary reserves.
+
+Conclusions
+
+In addition to income benefits, the project has resulted in non-income benefits. First, it has contributed to an increased well-being and sense of empowerment – a comprehensive form of respect the local people have for themselves and their environment, evidenced by their assumption of leadership in efforts to defend their ideals, protect their environment, and strengthen their tenure in the natural reserves. They understand and identify themselves with concepts of small, human-scale economic development, such as production of aromatic and medicinal plants (100% of the respondents indicated that they used medicinal plants to treat various diseases and consumed aromatic plants that they produce themselves). Second, healthcare in the local communities has improved because of the project: 100% of survey respondents stated they were covered by a health regimen, 66.66% belong to the state-subsidized regimen (SISBEN) and 33.33% to the contributory regimen. The latter group includes people that began as project beneficiaries and today, thanks to the training they have received and their personal and technical advancement, they now have employment contracts and enjoy all the benefits offered by the national social security system. The 66.66% covered by the subsidized health regimen are people who, despite living in areas far away from the El Encano municipal seat,
+
+“Health conditions have improved a great deal. We do not have to go to the doctor often and our families have felt the change. Before we used to suffer a lot from colds and diarrhoea in the children. Now the levels of malnutrition have declined and we are healthier than before. We no longer consume food produced with so many chemicals as we did before. We do not know how the food we were purchasing is produced, but we do know that the food we produce [ourselves] is wholesome food.” Concepcion Matabanchoy
+
+Acknowledgements Annex
+
+have defended their right to the national health system and have succeeded in being included as beneficiaries of this regimen. This achievement also denotes their improved positioning as active and participatory citizens.
+
+18
+
+19
+
+Third, vulnerability of project beneficiaries has decreased in the following ways: • Food security: The functional integration of conservation and production has increased the amount and quality of the food they consume. They initially produced 40% of the food they consumed and are now producing 82.29%. Vegetable gardens on the reserves, cultivated using an agro-ecological approach, average 0.25 hectares in size. These gardens differ from other vegetable gardens in their diversity and integrated production. Adequate planning of the amounts to be planted and appropriate timing of crops ensure sustainable production. • Human health vulnerability: The fact that the families are covered by a health regimen makes them less vulnerable to the consequences of diseases and accidents. Additionally, beneficiary families incorporate medicinal plants into their daily life style and accordingly increase their resistance to diseases. Also, the minimal use of agro-chemicals in their vegetable gardens allows these families to consume natural, fresh, and uncontaminated food, which promotes good nutrition. Lastly, 33.33% of the interviewees indicated that there are springs on the reserves, which they themselves protect and maintain. This guarantees a better water quality than that enjoyed by most of the local inhabitants, because one of the major problems in the region is the contamination of water sources by agro-chemicals and faeces. • Vulnerability to Conflicts: The training offered to beneficiary families has enabled them to address environmental issues from a different perspective, allowing them to defend their principles with arguments and results. There has been a highly positive impact on the vulnerability of local communities when facing large-scale environmental conflicts (megaprojects), especially in the case of WWF’s intervention to declare La Cocha as Ramsar wetland, which served as a catalyst to empower local inhabitants to defend their territory from the threat of the Multipurpose Guamués Project.
+
+Lastly, an important variable in improved livelihoods is the sustainable use of natural resources. The analysis shows that project families make a much more sustainable use of natural resources because they allocated, on average, 66.34% of their landholdings to conservation purposes as compared with only 23.8% in the case of nonbeneficiary families. Furthermore, the use of land for agriculture was very different. Beneficiary families allocated, on average, 13.8% of their property to farming compared with 23.8% in the case of non-beneficiary families. The correlation of these data to the monthly averages of income of beneficiary families indicates that beneficiary families obtain 3.96 times more income, indicating that agricultural and conservation practices are more efficient in landholdings of families that have participated in the training offered by the projects.
+
+“I see a huge difference between our farm and our neighbour’s. We are already working on natural resource conservation. Most of our land is dedicated to the conservation of natural areas and we manage an integrated production scheme in a limited space. I believe that, even though all our production is for self-consumption, if we assign a monetary price to what we produce, it would be much higher than that of the neighbours. Our neighbours only grow onion, as in this region only onion or mulberry is grown. They have to purchase the other things they need and they require a large production area. We, instead, are working more in the area of conservation and we manage our land using an integrated approach so everything is more harmonious.” Ms. Patricia Jojoa
+
+3.3 China: Lake Dongting Floodplain Restoration Project
+The Lake Dongting Project supported several income generating activities, including pig, duck, cow, fish cage and goat farming for 147 selected families. The most direct livelihoods benefits from the Lake Dongting project are an increase of local farmers’ income of more than 100% (see Table 3) - farmers have obtained higher income from alternative farming for livelihoods since 2000. In 2000, income attributable to the project was 1,465 RMB/household4, in 2003, it was 2,881 RMB/household, and in 2004, it was 3,196 RMB/household. Table 3: Project-Resulted Income Per Household in 2000, 2003 and 2004 in Xipanshanzhou Polder (unit: RMB) Year Project-resulted income 2000 2003 2004 1465 2881 3196 The survey data for this report furthermore shows that higher incomes were received across different income levels, across gender and across age levels. Table 5 and Figure 3 show that all income level groups who participated in the project obtained higher income since 1999 although the top 20% income level benefited the most. Furthermore, the interviews showed that women actively participated in the livelihood scheme and generated income from the project. Lastly, elder farmers helped to implement the livelihood The survey also showed that households participating in the project had a higher income level than those not participating in the project (see Table 4). In 2001 cash income of households participating in the project in Xipanshanzhou Polder was 4456 RMB, significantly higher than 3583 RMB of non-project households in Xipanshanzhou Polder, and much higher than 2456 RMB of non-project household in other polders nearby. scheme. According to the survey in 2005, among 96 farmers interviewed, 27 farmers were 50-60 years old, and 19 farmers were above 60 years old, accounting for 28.13% and 19.79% of total farmers interviewed. There was only very small percentage of farmers below 35 years old, who mainly go to urban areas for work. The survey for this report indicated that the elder farmers were prominently involved in the alternative livelihood activities and benefited from the project. Table 5: Distribution of Average Annual Income of Households Participating in the Project (unit: RMB)5 Year Samples Level 1 Level 2 Level 3 1999 2000 2001 2003 2004 134 135 94 169 96 -407 1190 697 2938 3347 748 2715 2605 5877 8025 1852 3833 4242 8403 13491 Table 4: Household Income Comparisons in 2001 (unit: RMB) Item Overall household Non-project income of project household income beneficiaries in in Xipanshanzhou Xipanshanzhou Polder Polder Household cash income Cash income per capita 4456 1146 3583 891
+
+Executive Summary
+
+Non-project household income in other polders nearby 2456 709
+
+Introduction Case Studies Benefits Conclusions Acknowledgements Annex
+
+Level 4 3219 5870 6889 11664 18548
+
+Level 5 9339 12407 14833 20056 32824
+
+5
+
+Chinese Yuan Renminbi = US$ 0.12 (July 2005) Levels 1-5 reflect income ranking from low to high with a 20% interval, where level 1 means the 20% lowest income group
+
+4
+
+20
+
+21
+
+Figure 3: Distribution of Average Income of Households (unit: RMB) Average income per household
+35000 30000 25000 20000 15000 10000 5000 0 -5000
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+Overall
+
+1999 2000 2001 2003 2004
+
+In addition to income, other important livelihoods benefits have been generated as a result of this project. Most importantly, the overall well-being of participating farmers improved in terms of housing conditions, use of biogas, number of telephones, diversified food, healthcare, and improved ecological conditions. For example, some farmers have been able to build new houses as a result of the project, while more than half of the families use biogas for cooking, which has an added benefit of saving firewood. However, no significant differences could be found between households participating in the project and non-project households in term of percentage of households in absolute poverty at this stage. The main reason for this is the devastating floods disasters in 1998 and 1999 in the area, affecting the poor significantly. Third, the project contributed to a more sustainable use of the natural resource base. As the peat fields were restored into wetlands, the households participating in the project had to find alternative livelihoods, such as pig, chicken, and cow farming, as well as fish cages. As a result, more income was derived from off-farm labour during 2001 to 2004. Among 96 households surveyed in the Xipanshanzhou Polder, 55 households had at least one family member working in urban areas outside their county. This transfer of the labour force to urban areas relieved the pressure on natural resource base. Moreover, the remaining labour force in Xipanshanzhou Polder earned their
+
+income from more sustainable ways, such as organic farming and a decrease in use of chemical fertilizer and pesticides in orange farming and vegetable planting. An improvement in livelihoods also needs to be sustainable. The data clearly showed that when the funding stopped in spring 2001, the alternative livelihood continued to be better than when the Project started in 2000. Both project-resulted income and total income of the Xipanshanzhou Polder continued to increase steadily. Moreover, the capacity and institutional arrangement developed by the Project has also contributed to the sustainability of the livelihoods in the communities. These institutions include the certification of organic orange, tea, lily flower and other vegetables by the Organic Development Center of China State Environmental Protection Administration, organic farming techniques and management skills. Furthermore, a local farmers’ association named Organic Farming Association is headed by local farmers and has taken the responsibility for the livelihood development and biodiversity conservation in the area. Also, commercial organic agriculture companies (among others Hunan Sun & Soil Organic Agriculture Company, Naniwan Agriculture Company) are providing support and marketing advice to farmers and the village's organic agriculture association. Lastly, Yuanjiang Government endorsed the experience of Xipanshanzhou Polder as effective models for implementation elsewhere.
+
+The reasons for the successful contribution of the project to livelihoods are (1) the motivation of the local community; (2) favourable national policy; (3) partnership building; (4) institutional arrangements in the local community; and (5) adaptive management and innovative approaches: (a) Motivation: The local communities suffered severe flood disasters in 1996, 1998 and 1999, and the polder was destroyed in 1996 and 1998. Therefore, the local farmers realized that rebuilding dykes was not efficient or costeffective and they welcomed the national policy to restore the peat field to wetlands with reasonable amount of compensation for household relocation. Yet, due to the loss of peat fields, the farmers were facing uncertainty in their income and livelihoods, and they were eager to find an alternative way for living, other than continuing planting the rice in the peat field. As a result, when the project started in 2000, the local farmers welcomed the Project scheme. The innovations in livelihood improvement also show an oil-drop effect: Neighbouring families are replicating activities like biogas stoves or pig-farming even without the intervention of the project. (b) Favourable national policy: After the severe flood disaster in 1998, the national government issued the “32 character” policy to restore wetlands from croplands in the Central Yangtze. The WWF Project in Xipanshanzhou demonstration site was in line with this national policy, and various partners including local governments provided strong policy and staffing support. (c) Partnership building: Various partnerships were built in the demonstration site in Xipanshanzhou for livelihoods development. The most important strategic partner was Hunan Youth Development Foundation (at provincial level) and Yuanjiang Youth Development Foundation (at county level), which jointly implemented the Project in the field. Other key partners included the Changsha Institute of Agricultural Modernization, the Organic Food Developing Center, China State Environmental Protection Administration. Also, the project has made a deliberate and generally successful effort to contact and work with non-traditional
+
+partners. These include partners from the
+Executive Summary
+
+emerging private sector, such as travel agents including China Tourism Agency-Hunan, and organic food companies, such as Sun and Soil Organic Agriculture Production Ltd. and Nanniwan Farm. They were actively involved in the project by providing marketing information and opportunities. Lastly, also several universities, such as Changsha University of Science and Industry, helped the project with environmental education, communication and socio-economic surveys. (d) Institutional arrangements in local communities: From the very beginning of the project, the local communities set up a Project Management Group and Project Monitoring Group with the help of WWF and Hunan Youth Development Foundation. The Project Management Group consisted of 3 farmers, while the Project Monitoring Group consisted of 6 farmers. The representatives were selected by local farmers through voting. The two groups played important roles in funding management and livelihood development in local communities. Furthermore, after three years of project implementation, an Organic Farming Association at local community was set up with help of WWF. The Organic Farming Association also consisted of local farmers where farmer members elected the leaders. The Association played an important role in the promotion of organic agriculture by helping local farmers and marketing. (e) Adaptive management: The WWF Changsha Office also employed adaptive management skills. When the Project started in the spring of 2002, a Participatory Rural Appraisal survey and planning approach was used to facilitate the livelihood scheme development. During the project implementation phase, the partners were actively involved. Also, the monitoring and evaluation approaches provided in-time information for project adjustment.
+
+Introduction Case Studies Benefits Conclusions Acknowledgements Annex 22 23
+
+3.4 Brazil: Várzea Project
+The overall livelihood objective of the Várzea project is to increase the capacity of floodplain communities to sustainably manage their local environment to raise household income and improve their quality of life. The Project seeks to achieve this overall objective by: a) strengthening local and regional institutions for the participatory management of floodplain resources; b) increasing income generated by improved ecological productivity of community management systems; c) implementing formal and nonformal educational programmes for schools and community and regional management organizations; and d) developing and implementing policies in support of the participatory management of floodplain resources. This study found that lakes with functioning fishing agreements were 60% more productive on average than lakes without such agreements. The differences in productivity, despite similar effort levels, can be attributed to the success of communities with functioning agreements in eliminating outside commercial fishers. Figure 4 shows trends in pirarucu populations in the six communities participating in the project. In cases in which the project has been functioning two years or more, lake pirarucu populations have grown steadily, with the highest growth rates in those lakes with depleted pirarucu fisheries when they joined the project (see the last column) and lowest in communities that have been managing their fishery for more than ten years. The way in which community-managed pirarucu fisheries generate income differs among participating communities. In the community of São Miguel Island, for example, fishing is conducted individually over the course of the six-month season (June-November). Income from the fishery goes to the individual fisher with a mark-up of about 21% charged by the community association that markets the catch. This year, the project had brokered an arrangement with a large processing company in Santarém interested in developing a market for communitymanaged pirarucu. The 2004 harvest, for example, produced 5.669 kilos of filet with a total value of R$33,764. Of this total, fishers received R$26,726 and the association received R$7,037.50 (21%) or a net of R$3,329.10. This was the highest income the association had made since it started marketing the catch directly. Income to individual fishers is highly variable because of differences in total effort and skill.
+Co
+
+Figure 4: Trends in Number of Pirarucu Counted in Visual Census (unit:Real)
+
+900 800 700 600 500 400 300 200 100 0
+io rre a -B
+na
+
+oM
+
+Ta p
+
+s Co
+
+Sa
+
+ará
+
+Sã
+
+ta
+
+Mi
+
+nt
+
+de
+
+aM
+
+rim
+
+igu
+
+it Ar
+
+xu
+
+ia
+
+rre
+
+ira
+
+Pi
+
+ar
+
+el
+
+ap
+
+a er
+
+2004 2003 2001 2000
+
+In the community of Santa Maria do Tapará, fishing for pirarucu is prohibited year round. The communities decided to organize a 3-day collective fishing expedition every second year. On the basis of census results and trends in the growth of the fishery, the community decided how many adult fish to take. The catch was marketed and the proceeds spent according to a prearranged plan. In 2004, the community caught 36 pirarucus with a total value of R$5.016. This was divided among the 35 fishers and 6 women who participated in the fishing event. Part of this money was divided among the fishers based on how much time each person had invested in patrols and supporting activities. The rest was divided between the church, the school and the community association. While the project has only been functioning for three years, and some communities have only just started participating, community evaluation of the project is highly positive with 91% expressing interest in continuing the project. According to 55% of those interviewed, the project has reinforced the idea of management in the community. Following the management intervention strategy described earlier, a major objective of the project is to increase agricultural production, diversifying household income and reducing dependence on fishing. Two other concerns in working with farmers are to reduce risk of crop loss due to drought and increase flood season income. Over the course of the project the Projeto Várzea has tested four main production systems: traditional annual crops (corn, beans, watermelon and squash), irrigated vegetables (tomatoes, green peppers and cabbage), perennials (bananas and assorted fruit trees) and raised planting boxes to produce flood season vegetables, mostly tomatoes.
+
+• Annual crops: The main crops that were
+Executive Summary
+
+cultivated included watermelon, beans, corn, manioc and squash, though only one community cultivated all six. Overall, the most important crops in terms of production and income were beans and watermelon. In 2003, a total of 7.6 hectares was cultivated in five communities (see Table 6). Total gross cash income was R$68,373 and total net cash income $52,317. Per capita returns to labour averaged R$698 not including consumption, or about 2.7 minimum salaries. Given a three to four month season this works out to about a minimum salary per month for each family. This sum is about R$130 (25%) more than the average agricultural income. Table 6: Summary of Annual Crop Production Extension Programme Community Farmers Crops Ha Total (R$) Net (R$) Per family (R$) Pixuna Santa Maria Tapará-Miri São Miguel Total/Average 26 24 7 18 75 6 5 2 5 6 3.2 1.5 1.2 1.7 7.6 45,409 12,957 6,282 3,725 68,373 34,566 10,564 4,931 2,256 52,317 1,329 440 704 125 698
+
+Introduction Case Studies Benefits Conclusions Acknowledgements
+
+• Farinha (Manioc/Cassava Meal) Production: The Project provided financial and technical support to a group of farmers so they could produce farinha rather than purchase it at prevailing market prices. As can be seen from Table 7, this project involved 13 families who obtained both farinha for family consumption as well as earning the equivalent of 90% of a monthly minimum salary of R$260. Total commercial value of the crop was R$436 per family or about R$73 per month for the six month growing season. Participants were unanimous with regard to the importance of the work, and approximately 80% of respondents affirmed that the farinha project had had a significant impact on household income. Table 7: Annual Farinha Production and Income, 2002-2004 Production (kg) Period 2002 2003 2004 Families 6 13 13 Family Consumption 1,280 4,989 2,576 Marketed 962 2,836 3,094 Total 2,242 7,825 5,670 Income Per Family (R$) 160 218 238
+
+Annex 24 25
+
+• Planting boxes: The third subproject has involved production of tomatoes in raised planting boxes during the flood season. The results are promising. Families harvested about 130 kg of tomatoes per ten meters of planting box over the three-month planting cycle. At R$1.5 - R$2.0/kg this system provides between R$195 - R$260 per box during the flood season or about R$500 per family, equivalent to a monthly income of R$175, about two thirds of the present minimum salary. One advantage of this system is that it can provide a secure income source even during years of exceptionally high water. • Perennials: Work with perennials has focused primarily on cultivation of bananas. The project began with five families and was recently expanded to 19 families. Data for 2003 from one of the five farmers involved in the pilot project indicate that he obtained R$1,978 from 120 plants on 0.14 ha. His monthly income was R$164/month or two-thirds of the present minimum salary. These results indicate that where conditions are appropriate, bananas can provide a significant supplementary income source for Várzea families. • Community Seed Funds: One common limiting factor for farmers is capital to cover costs of purchasing seeds, inputs and equipment. To overcome these problems, groups of farmers in each community formed seed funds with an initial donation of seed by the Project. Farmers receiving seed agreed to return twice the quantity of seed they borrowed either in seed or money at the end of the season. Four community seed fund groups were started in the Ituqui region with groups drawing up bylaws and electing leaders to administer the funds. When the extension programme shifted to the Tapará region, seed funds were started in the four communities the Projeto Várzea is working with in this region. These funds doubled their initial capital last year.
+
+In general, respondents were unanimous regarding the importance of the extension programme, with 34% considering it very important and 66% important. Almost half the respondents (42%) believe that they have increased production as a result of the project while more than a third (37%) state that they have begun cultivating new species. In addition to farming, the Project is experimenting with other income earning activities that could complement income from farming and fishing. Two main activities now being tested are beekeeping and shrimp fishing: • Raising Native Stingless Bees: The stingless bee project was conceived as a way to provide supplemental income for households and also to strengthen interest in the quality of community habitat. Raising stingless bees is a traditional activity in floodplain communities and many families have several hives. The main contribution of the project was the introduction of modern hives that separate the area of larvae production from that of honey storage so honey can be removed without damaging the rest of the hive. In addition, specialists in stingless bees were invited by the project to provide technical assistance to community beekeepers. The Projeto Várzea is now working with a total of 52 beekeepers in five communities who maintain a total of 383 hives or an average of 5 per family. The Projeto Várzea has sought to market the honey with a label indicating that it is produced by community associations and is 100% pure. Stingless bee honey is increasingly sought after in Santarém and the price of honey has increased from R$10 to R$15 - R$20 a litre. Average annual income for project beekeepers increased from R$202 to R$249 (almost a minimum monthly salary) since the project began. The beekeeping project is considered to be an important addition to household economic options by almost 90% of respondents.
+
+• Shrimp Fishing: Over the four month period each fisher caught 319 kilos of shrimp, or an average of 64 kilos per month (see Table 8). Shrimp were sold at R$6/kg for large shrimp and R$5/kg for medium shrimp providing each family with a total income of R$1.305 for the five month period or about R$261 a month, equivalent to the legal minimum salary. Table 8: Monthly Capture and Sales of Shrimp, Santa Maria, 2004 Month August September October November December Average Month Total Days 17 25 29 26 5 20,4 204 Kilos 89 143 216 168 23 64 319 Net Return (R$) 377 545 876 718 95 261 1,305
+
+Project activities for strengthening
+Executive Summary
+
+community/stakeholder organizational capacity to manage and market their natural resources have involved formal educational activities such as floodplain community schools; local/community resource management organizations; and regional floodplain management organizations. These three different activities are mutually reinforcing. Community schools serve as focal points for dissemination of ideas about the community environment and as centres for development of school-community conservation and management projects that may directly support related community initiatives. At the same time, regional floodplain organizations such as lake fisheries councils and Fishers’ Unions provide the institutional basis for floodplain co-management in the first case and political bureaucratic representation for floodplain residents in the other. The analysis shows the following results: • Participation in Local and regional organizations: Várzea residents are generally involved in more than one organization. Of the people interviewed for this evaluation, the largest proportion (23%) were members of the Municipal Fishers Union, followed by community associations (19%), lake patrols (18%), Regional Fisheries Councils (13%). Some 27% of respondents were affiliated with a variety of other kinds of organizations including soccer clubs, pirarucu fishers association, church groups and school councils. On average respondents participate in 12 meetings per year, with the exception of church related activities where the average was 28 meetings annually. Respondents rated their participation as 8 of a possible 10 points, the same value they gave for the performance of the organization.
+
+Introduction Case Studies Benefits Conclusions Acknowledgements
+
+The five different initiatives that the project is testing generated a total annual income of R$5.166 per family (see Table 9). Table 9: Total Annual Returns per Activity and Family Activity Annual crops Farinha Planting boxes Bananas Beekeeping Shrimping TOTAL Average Income (R$) 698 436 500 1.978 249 1.305 5.166 Period Aug-Feb Aug-Feb Apr-Jul All Year Aug & Feb Aug-Dec
+
+Annex
+
+In addition to income benefits, however, the Project has also contributed to livelihoods in other ways. First, it has strengthened community/stakeholder capacity to work together to resolve collective management problems that threaten individual and collective well-being. Strong and effective local institutions are essential to the sustainable management and conservation of floodplain resources. While the focus is on management issues, the organizational skills acquired by community members contribute to the group’s ability to deal with other collective issues or social dilemmas, thereby making possible progressive improvements in the quality of community life.
+
+26
+
+27
+
+• Environmental Education Community Schools: The environmental education programme was developed in the first phase of the Project in collaboration with teachers and schools of the Ituqui region. Two initial activities included a needs assessment of Ituqui schools that was presented to the Municipal Secretary of Education, and preparation of a set of themes that would serve as the basis for a course in environmental education of the Várzea. Over the course of the last five years, the training programme was extended to the four Várzea districts of the municipality: Ituqui, Tapará, Aritapera and Urucurituba. A total of 53 schools, 175 teachers and 4,317 students were involved in the programme (see Table 10). The number of teachers is underestimated because of the relatively high turnover due to movement of teachers from one district to another and also because of changes in hiring policy. It is estimated that approximately 13,250 people in these 53 communities were indirectly involved via community activities and student interaction with family and neighbours. In addition to the sequence of workshops, a number of other activities were developed to maintain involvement with environmental education activities over the course of the year. Table 10: Schools, Teachers & Students in Environmental Education Programme Region Ituqui Tapará Aritapera Urucurituba Total Schools Teachers Students Population 11 13 15 14 53 40 48 41 46 175 1212 1193 1084 828 4317 2750 3250 3750 3500 13250
+
+• Local/Community Resource Management Organizations: The basis of floodplain ecosystem management is the organizational capacity to manage local resources and reconcile individual and collective interests in exploiting them. Towards this end, Project activities at the community level have focused on two types of groups: community-wide organizations for addressing community affairs, including relations with local government, and generally smaller project oriented groups involved in specific conservation, management or other income earning activity.
+
+“There have been a number of changes due to the project. Today there are the Fisheries Councils that the project helped to develop in the municipality of Santarém. In all the districts, the fishermen are benefiting from the work to organize these fishermen. Before the project, fishermen were embarrassed to admit they were fishermen, but now they aren’t ashamed any more because they know that the fisherman is a professional. This has really helped the fishermen to clarify [their] own identity.” Mr. Sanduca
+
+Second, the programme has contributed to improved health. Health is a critical issue on the floodplain both because of the problem of water quality and the very limited diet consisting almost solely of farinha and fish. In the first phase the project had a programme that worked with mothers’ groups to improve the quality of family diet. A second activity involved preparation of household medicines. A third initiative that contributes to improvement of human health is the Trash Campaign that has raised awareness of the problem of trash in the community and mobilized community residents to clean up their trash. The trash recycling component of the Campaign also creates an incentive for residents to continue cleaning up their trash.
+
+At a regional scale the main contribution that the project has made to the health of floodplain communities has been through our work in strengthening the organizational capacity of municipal Fishers’ Unions to provide basic health services to their members, either directly or indirectly via government agencies. Table 11 shows the range of services offered by Municipal Fishers’ Unions of Western Pará. Table 11: Main Kinds of Benefits Provided by Fishers’ Unions (1 = yes, 0 = no) Union Santarém Alenquer Óbidos Juruti Oriximiná Almeirim Prainha Monte Alegre Curuá Terra Santa Faro Aveiro Itaituba Total Social Unemployment Medical Dentist Security Benefits 1 1 1 1 1 1 1 1 1 1 1 1 1 13 1 1 1 1 1 1 1 1 0 0 0 1 1 10 1 0 0 0 0 0 0 1 0 0 0 1 0 3 0 0 1 0 0 0 0 1 0 0 0 0 0 2 Lab Lawyer Funeral Total Exams 1 0 0 0 0 0 0 1 0 0 0 1 1 4 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 6 2 3 2 2 2 2 6 1 1 1 4 4 36
+
+• Conflict: One of the main problems on the
+Executive Summary
+
+floodplain is the conflict between cattle owners and farmers and fishers over damages caused by free roaming cattle. Traditionally, it has been the position of cattle owners that it is the responsibility of farmers and fishers to protect their crops and equipment and not of cattle owners to control their animals. This has created considerable insecurity, especially for farmers. Farming on the floodplain is already a complicated activity where returns are low and risks of losses due to flooding, drought or market variations are great. In our sample, 61% of farmers claimed to have suffered losses averaging R$418 in the last two years due to destruction of crops, fishing gear or fences by cattle (see Table 12). Of these only about 25% received compensation from the owner of the cattle. Table 12: Cattle Conflicts in the Community Cattle Conflicts Conflicts with cattle in community Suffered losses last two years Average Value of losses (R$) Types of Loss Destruction of crops Destruction of fishing gear Destruction of fences 82% 11% 5% 61% 37% 418,29
+
+Introduction Case Studies Benefits Conclusions Acknowledgements Annex
+
+Third, the project contributed to a reduction of the following vulnerabilities: • Management and Income Diversification: It has contributed to decreased resource vulnerabilities through a strategy that seeks to increase and diversify household income and implement management systems that a) increase productivity and diversity of household economic systems; b) strengthen community and co-management systems to insure that resource use is maintained within sustainable limits, and; c) develop marketing arrangements that reduce vulnerability to variations in local market conditions, and d) developing land tenure policy for the floodplain that recognizes individual rights to floodplain properties and natural resources. Another important area involves restoring the quality of floodplain habitat and the productive capacity of the floodplain lake ecosystem. This is covered in the next section.
+
+How was the problem resolved Absorbed loss Talked to owner of cattle Complaint to Public Ministry 63% 26% 7%
+
+In response the Public Ministry in collaboration with Embrapa, the agricultural research institute and the Várzea Project, have worked with communities to develop legally binding agreements between cattle owners and other community members. To date some 25 cattle management agreements, Terms of Adjustment of Conduct (TACs), have been signed and 16 have been drafted and await signatures. In addition, assessments have been conducted and reports drafted in 5 communities and another 5 are awaiting assessments. Though not without problems, TACs have apparently made a significant contribution to resolving the problem of losses and conflicts involving cattle
+
+28
+
+29
+
+(see Table 12). Of respondents whose communities have agreements, 81% state that they work, 59% that community members comply with the TAC and 71% that it has improved cattle raising in the community. Virtually all respondents considered the process of creating a TAC to have been a positive one because it brought the community together and made cattle owners more aware of the problems caused by cattle. All respondents also thought agreements should be maintained as they brought improvements to the community and environment, reduced conflicts and strengthened agriculture in the community. • Property Rights: A third area in which the project is working to reduce vulnerability is through developing a legal process for recognizing floodplain property rights. As noted earlier, one of the main problems faced by floodplain land owners is that the floodplain is the property of the federal government and so it is not possible for floodplain landowners, despite having lived on the land for generations, to obtain legal title to their land. Few have any kind of documentation and those that do have only a sales receipt or a will. In collaboration with the Strategic Studies Component of the Provárzea Programme Várzea Project researchers conducted a study of floodplain land tenure arrangements and also of the two pilot experiences in regularizing floodplain land tenure via concessions. While the study evaluating land tenure arrangements on the floodplain has been concluded and recommendations for regularizing private property have been presented, the Projeto Várzea is still far from having a definitive solution to the problem of recognizing private property on the Várzea that reconciles collective and individual interests. One outcome of this process was a general agreement that responsibility for administering floodplain properties should be transferred from the SPU (Serviço do Patrimônio da União) to INCRA (National Institute for Colonization and Agrarian Reform), which is far better structured to administer a system for regularizing floodplain property. The Projeto Várzea continues to work with floodplain communities, INCRA and the SPU to develop a viable solution to the problem of recognizing floodplain property rights.
+
+• Community Capacity: At the regional scale, the project has also sought to strengthen community capacity to reduce vulnerabilities through greater ability to engage government agencies and pressure them to attend to local demands. Access to social benefits through the Fishers Union ensures that households have access to the social safety net available to all Brazilian citizens, including health care, unemployment and retirement benefits. Unions also represent the interests of fishers and the floodplain population in general in negotiations with government agencies and politicians. In terms of the distribution of livelihoods benefits, the following observations can be made: • Lake Management Initiatives: The main lake management initiatives involve collaborations with community associations and with the Association of Pirarucu Fishers and Aquaculturalists. While community associations are composed of men and women, fisheries management initiatives tend to be composed primarily of men though women often participate in collective activities. While men do much of the work associated with these activities and also receive whatever training is involved, benefits tend to be distributed on a family basis. • Agricultural Initiatives: Agricultural projects involve groups of farmers most of which are composed largely, but not exclusively, of male heads of household. While women participate in farming activities and may also participate in any educational activities, families tend to be represented by the husbands. • Habitat Restoration: The main group with which the project has collaborated has been the Grupo Renascer, which consists of 13 male farmers. However, collective activities have involved a much broader segment of the community, especially school children and their teachers. This is also true of the turtle nesting beach initiative that involves a significant portion of the community. Night-time patrols, however, tend to be carried out by the men.
+
+• Co-management system: While fishing is predominantly a male activity, women do fish and in some communities there is a strong tradition of commercial fishing by women. The family as a whole tends to benefit indirectly from a sustainably managed fishery, regardless of who does the fishing. Leadership in the co-management system also tends to be predominantly male with women making up about 30% of the Council members. • Formal Education: Formal educational activities directly involve teachers and students. Teachers tend to be primarily women, comprising 79% of the teachers in the four regions where the PEA has been working. To the extent that mothers tend to be more involved with their children and with schools, they constitute an important group that is reached indirectly via the formal educational programme. However, the transfer of knowledge and experience that children gain in environmental education activities probably is generalized to the family as a whole.
+
+• Non-formal education: Non-formal educational
+Executive Summary
+
+activities described earlier include management courses, training programmes for Regional Fisheries Council members and Fishers Unions. All three of the groups are composed largely of men but have a significant proportion of women. Participation in management courses is largely self selected or indicated by the community. In the last two courses, women made up 23% of the participants. In courses for regional Fisheries Council members, women comprised about 30% of participants. • Unions: The average proportion of men and women in the 13 Municipal Fishers’ Unions is roughly the same (27%) although there is much greater variability in proportions among the Unions.
+
+Introduction Case Studies Benefits Conclusions Acknowledgements
+
+Flooded forest, during rainy season waters rise up to 15 meters. Brazil
+
+Annex
+
+© WWF-Canon / Michel ROGGO
+
+30
+
+31
+
+© WWF-Canon / Yifei ZHANG
+
+...freshwater conservation and poverty reduction can and often do go hand in hand
+
+4. Conclusions & Lessons Learned
+Executive Summary
+
+This report has demonstrated that freshwater conservation and poverty reduction can and often do go hand in hand. In the four cases presented, sustainable management of freshwater ecosystems has provided improved services to the poor, most significantly an increase in income, increased well-being, and decreased vulnerability.
+Several essential lessons can be derived from the four cases presented in this report: • Sustainable freshwater resource management and livelihoods improvements were not approached as two separate activities, but as part of a holistic and integrated approach. In every case study, conservation activities were not seen in isolation and, more importantly, would not have been possible without specifically addressing livelihoods benefits. Freshwater resources and livelihoods form part of the same continuum. Therefore, alternative livelihoods activities such as bee keeping, agricultural extension services, and shrimp farming as in the case of the Várzea project in Brazil, and employment of poor, marginalized communities as in the case of the Working for Wetlands project in South Africa must be seen as essential components of any successful conservation project. • Ownership of freshwater conservation activities resided with the communities. Communities were often the first to recognize that improved freshwater resource management was essential to improve their livelihoods. For example, in the Lake Dongting project in China, local communities faced increasingly devastating floods as a result of unsustainable wetlands management, and realized that the restoration of wetlands would be crucial for their well-being. In the Várzea project in Brazil, fishermen had already started organizing themselves in order to address the issue of over-fishing, which was having a direct, negative impact on their livelihoods. • A key factor of success in all case studies was the set of conducive conditions that were already in place when the projects started. These range from the positive motivation and drive of local communities in Brazil and Colombia; government support and favourable public policies as in the case of South Africa and However, it is essential to recognize that conservation and development is not the work of projects and NGOs in isolation. As highlighted by the Millennium Development Goals and by the Millennium Ecosystem Assessment, the sustainable management of ecosystem services, including freshwater ecosystem services, must involve a crucial role and commitment of governments in terms of favourable policies and investments. Sustainable management of freshwater habitats provides essential services to the livelihoods of the poor and should be a priority for any government pursuing the Millennium Development Goals. Furthermore, the private sector must also play an increasingly important role in ecosystem service management, not only as part of their corporate social responsibility but also as a beneficiary and buyer of crucial ecosystem services. Only through a concerted action of all stakeholders of freshwater ecosystem services can livelihoods truly be improved in a sustainable way. Although the four cases have illustrated that conservation and development can go hand in hand, it remains to be seen, however, whether the livelihoods improvements are sustainable beyond the life of the individual projects. Although positive assumptions can be made in all four case studies, particularly based on the set of activities in the projects that contribute to sustainability, such as capacity building, ownership and institutional development, the fact that the projects are still ongoing makes it difficult to draw any relevant conclusions on sustainability of the livelihoods improvements. The exception is Lake Dongting, where funding stopped in 2001 but incomes continued to increase. China; the availability of local partners, as was the case in all four projects; and a set of institutional arrangements already functioning in the communities, as was the case in Brazil and Colombia. • An important lesson is that sustainable freshwater resource management requires a broad set of activities that address different levels – from policy work at the macro level to institutions and capacity building at the community level, to adaptive management at the project level.
+
+Introduction Case Studies Benefits Conclusions Acknowledgements Annex 32 33
+
+Acknowledgements
+This report is based on the outcomes of four separate socio-economic studies in South Africa, Colombia, Brazil and China. These four studies were conducted by the following people: Oriana Almeido (IPAM) and David McGrath (Várzea Project IPAM) for the Várzea Project, Brazil; Yu Xiubu (Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences) for the Lake Dongting Project, China; Matsobane Nkoko and Ian Macum (The Community Agency for Social Enquiry, CASE) for the Working for Wetlands Project, South Africa; and the Association for Rural Development for the La Cocha Project, Colombia. Furthermore, David Lindley (Working for Wetlands Project, South Africa), Ximena Barrera (WWF Colombia), Zhang Chen (WWF China) and Antonio Olveido (WWF Brazil) played crucial roles in these four cases. The author is grateful to all of them. Lastly, the report greatly benefited from comments received from Lisa Hadeed, Chris Williams and Jamie Pittock of WWF International.
+
+Annex 1: Analytical Framework
+This report was based on a general analytical framework, consisting of six overarching questions, that was applied to each of the four cases. The answers to the six questions were gathered through extensive surveys in the project sites.
+
+Question 1. What are the Project’s livelihoods outcomes?
+As a useful guide, the framework for livelihoods outcomes developed by DFID was used. DFID defines “livelihoods” as the “capabilities, assets and activities required for a means of living”. Four livelihood outcomes are characterized: (a) More income Increase in net returns to the activities people undertake and overall increase in amount of money coming into the household. (b) Increased well-being Non-material goods people value, such as physical security, health status, access to services, self-esteem, etc. (c) Reduced vulnerability Reduced vulnerability to shocks (economic, human health, natural, crop/livestock health and conflicts); seasonality (of employment, prices, production and health); and trends (population, resource, economic, governance and technological). This includes improved food security. (d) More sustainable use of the natural resource base Sustainability of the natural resource base on which people’s livelihoods depend.
+
+Question 2. What is the distribution of socioeconomic benefits?
+In order to assess who the people are that have benefited from the freshwater conservation activities, it is important to distinguish between different groups. This includes: - gender groups - age groups - income groups - disadvantaged groups (HIV/AIDS, unemployed, disabled, etc.)
+
+Question 3. What would have happened to people’s livelihoods without the Project?
+Measuring the contribution of the Project to livelihoods is not enough - perhaps livelihoods would also have been improved some other way without the project. We need a “control variable” - do we have comparable geographical sites where the Project was not executed and where people livelihoods have not improved? Can we make educated guesses at what the situation would have been like for people without the Project? In terms of the latter: “without the Project” is not necessarily equal to “doing nothing” perhaps people would have sought for other alternatives. What are the most likely alternatives and how does the freshwater Project add to those?
+
+Question 5. Why has the project been successful in improving livelihoods?
+To draw lessons learned from these projects and calls to action, it is important to know what factors contributed to livelihoods improvements in the case studies. Among others: - What activities have been carried out at local (community) level, meso (landscape) level, and macro (national and international policy) level? - Which formal institutions (policies, legislation) were already in place that contributed to a favourable environment for livelihoods improvement in this project? - Which informal institutions (local customs, norms, values) were already in place that have contributed to a favourable environment for livelihoods improvement in this project? - What assumptions were made before the project livelihoods activities were implemented? Were these realistic? - What was the time frame within which livelihoods improvements could be measured? - How were local people, their knowledge and needs, integrated in the project? - Which partnerships with stakeholders were established in the project and what role have these played?
+
+Executive Summary Introduction Case Studies Benefits Conclusions
+
+Question 4. Is the improvement in livelihoods sustainable?
+An improvement to livelihoods needs to be sustainable. This means that when the Project stops, livelihoods continue to be better than when the Project started. Is the Project just a part-time contribution to income or is it really an improvement in livelihoods? If it is - how is this ensured (ownership, building capacity, building local institutions, etc.)?
+
+Acknowledgements Annex
+
+Question 6. What is the conservation objective(s) of the project?
+To link the livelihoods outcomes of the project to the conservation work, it is important to know what this work encompassed. Conservation activities will most likely have focused on ecosystem functioning and species conservation (for example fish).
+
+34
+
+35
+
+The mission of WWF is to stop the degradation of the planet’s natural environment and to build a future in which humans live in harmony with nature, by: conserving the world’s biological diversity • ensuring that the use of renewable resources is sustainable • promoting the reduction of pollution and wasteful consumption
+•
+
+100% recycled paper
+
+WWF Global Freshwater Programme
+P.O.Box 7 3700AA Zeist Netherlands T: +31 30 693 7803 F: +31 30 691 2064 freshwater@wwf.nl
+
+www.panda.org/freshwater
+
+WWF-UK Registered Charity Number 1081247. A Company Limited by Guarantee Number 4016725. Panda symbol ©1986 WWF ® WWF registered trademark owner.
+
+

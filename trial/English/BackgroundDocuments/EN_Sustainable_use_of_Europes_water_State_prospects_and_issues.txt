@@ -1,0 +1,1158 @@
+1
+
+Environmental assessment series
+
+No 7
+
+Sustainable use of Europe’s water?
+State, prospects and issues
+
+Authors: S. C. Nixon, T. J. Lack and D. T. E. Hunt, Water Research Centre C. Lallana, CEDEX A. F. Boschet, Agences de l’Eau
+
+ETC-IW Leader: T. J. Lack EEA Project Manager: N. Thyssen
+
+2
+
+Sustainable use of Europe’s water?
+
+Cover design: Folkmann Cover pictures: Peter Warna-Moors, GEUS, Denmark Legal notice The contents of this report do not necessarily reflect the official opinion of the European Commission or other European Community institutions. Neither the European Environment Agency nor any person or company acting on behalf of the Agency is responsible for the use that may be made of the information contained in this report. This report can be found on the internet at: http://www.eea.eu.int A great deal of additional information on the European Union is available on the Internet. It can be accessed through the Europa server (http://europa.eu.int).
+
+© EEA, Copenhagen, 2000 Reproduction is authorised provided the source is acknowledged. Printed in Belgium. Printed on recycled and chlorine-free bleached paper.
+
+European Environment Agency Kongens Nytorv 6 DK-1050 Copenhagen K Tel: +45 33 36 71 00 Fax: +45 33 36 71 99 E-mail: eea@eea.eu.int
+
+3
+
+Contents
+The purpose and structure of this report ........................................................................ 4 Why do we need water? ................................................................................................. 5 How much water is there – and how much is available? ................................................... 6 How much water is used? ............................................................................................. 10 How good is our water? ............................................................................................... 14 What affects our water? ............................................................................................... 25 How is our water managed? .........................................................................................26 What are the prospects for our water? .........................................................................32 What is being done? .....................................................................................................33 Further reading .............................................................................................................36
+
+4
+
+Sustainable use of Europe’s water?
+
+The purpose and structure of this report
+This report is intended to give ministers, senior civil servants, other policy-makers and others with an interest to protect our waters a broad overview of the major water issues in Europe. It represents a distillation of the work undertaken by the European Environment Agency (EEA) and its European Topic Centre for Inland Waters (ETC/IW). The report provides, for each issue, a summary of our scientific and technical knowledge of the problem, an analysis of its causes, an indication of the actions taken and their effects, and an assessment of what further needs to be done. It is written for the non-scientist and, to help readers gain the maximum of relevant information in the most efficient way, much of the content is provided in colour-coded text boxes. There are three types of box:
+Readers with limited time can concentrate on these yellow and red boxes.
+
+Yellow boxes give key messages, summaries, and information.
+
+Red boxes give cautions, warnings of what we should be concerned about.
+
+Readers with more time can obtain further information from these green boxes.
+
+Green boxes give statistical and supporting information.
+
+The report also contains plain text and a number of graphs, giving other statistical and supporting information. Some of these may be referenced from colour-coded boxes.
+
+Why do we need water?
+
+5
+
+Why do we need water?
+A simple question – with many answers! For basic needs (drinking, washing and cooking) – we each need about 5 l per day. For a reasonable quality of life and good community health – we require up to about 80 l each per day, for washing and waste disposal. To generate and sustain wealth – we require water for commercial fishing, aquaculture, agriculture, power generation, industry, transport and tourism. For recreation – we require water for sport fishing, swimming and boating.
+
+These answers show how important water is to individuals and communities, but do not consider man’s place in the global ecosystem. Inadequate water quantity or quality will degrade the aquatic, wetland and terrestrial components of that system, so there is potential conflict between human demand for water and wider ecological needs. As mankind depends on the continued functioning The task of water management of the global ecosystem, the conflict might be considered illusory – but To promote sustainable use of water communities with limited water resources – use which meets the resources are likely to be more needs of the present without concerned about their immediate compromising the ability of future demands for water than about wider generations to meet their own needs. ecosystem needs.
+Water management for sustainability
+Driving forces (social, economic) e.g. population growth, industrial development
+
+Figure 1
+
+Pressure Increased water demand
+
+e.g. for drinking, irrigation, hydropower
+
+State Increased water stress
+
+e.g. reduced groundwater levels, river flows
+
+Impacts Damage to ecosystems and/or human development
+
+e.g. loss of wetland communities, international conflicts
+
+Supply side: e.g. new sources, leakage reduction
+
+Response Water management for sustainability
+
+Demand side: e.g. pricing, metering, education, information
+
+Meets our current needs
+
+Sustainable use of water resources
+
+Does not prevent future generations meeting their needs
+
+6
+
+Sustainable use of Europe’s water?
+
+How much water is there – and how much is available?
+The amount of water available to any country depends on the rainfall falling on it, and on the net result of flows from and to its neighbours (e.g. in rivers and aquifers). Availability varies: • Seasonally, from year to year, and over longer periods in response to climatic variations. • Between countries, or between the regions of a single country, some having plentiful supplies whilst others often suffer shortages or droughts. In an average year, up to 3 200 m3 of water is available for every European Union inhabitant, but only 660 m3 is abstracted. Annual average run-off from rain varies from over 3 000 mm in western Norway to less than 25 mm in southern and central Spain, and is about 100 mm over large areas of Eastern Europe.
+Why is there a problem when we abstract so little of the available water? Although only about one-fifth of the available water is used, there are resource problems because water is far from evenly distributed (Map 1). Moreover, this assessment does not take account of the water needed to sustain aquatic life, which reduces what is actually available to man.
+
+Map 1
+
+Long-term average annual runoff (expressed in mm) in Europe
+40 30 20 10 0 10 20 30 40 50
+
+Arct
+60º
+
+ic Ocean
+
+Bar
+
+ent
+
+e s S
+
+a
+
+60
+
+No
+
+rwe g Sea ian
+60º
+
+O
+
+c e
+
+a
+
+n
+
+t l a n t i c
+
+No
+
+Ba
+
+lt
+
+ic
+
+50º
+
+Sea
+
+rth
+
+Se a
+
+50º
+
+A
+
+Average annual runoff
+1:30 000 000 Runoff in mm
+
+Source: Rees et al. (1997) using river flow data from the FRIEND European Water Archive (Gustard, 1993) and climatological data from the Climate Research Unit, University of East Anglia (Hulme et al., 1995). In EEA (1998).
+
+40º
+
+more than 2000
+
+M e d i t e
+
+Ty rrh eni an S ea
+
+A
+
+d
+ri
+
+tic
+
+a
+
+Se
+
+a
+
+500 – 2 000
+
+r
+
+r
+
+a
+
+Ionian Sea
+
+n
+
+e
+
+30º
+
+a n
+
+S e a
+
+250 – 500 150 – 250 100 – 150 50 – 100 less than 50
+
+0º
+
+10º
+
+20º
+
+How much water is there – and how much is available?
+
+7
+
+Figure 2 compares in more detail water availability across Europe – showing the per capita amounts available from (i) each country’s own rainfall and (ii) river inflows from neighbours. Heavy reliance on water from a neighbour can, of course, lead to political disputes about the sharing of the resource.
+Freshwater availability in Europe Figure 2
+Source: Eurostat and OECD (1997). In EEA (1999).
+
+Hungary Netherlands Belgium Germany Poland Czech Slovakia Greece Luxembourg Denmark UK Italy Spain France Portugal Turkey Switzerland Austria Ireland Sweden Finland Norway Iceland
+
+River flows from other countries Water generated within the country
+
+A note of caution Note that the horizontal scale is logarithmic – so each division represents a tenfold increase in water resources! It is chosen to show the amounts available in countries at each end of the scale – otherwise, for example, the bar for the Czech Republic would be too small to read unless that for Iceland was far off the right hand side of the page!
+
+100
+
+1 00 10 000 100 000 3 Water resources (m per capita per year)
+
+1 000 000
+
+Droughts in Europe Recent years have shown how vulnerable European countries can be to low rainfall leading to droughts, resulting in lowered water availability, the drying out of rivers and reservoirs, and worsened water quality.
+
+Do you remember the drought of … ? There were several years – e.g. 1971, and 1988 to 1992 – in which droughts affected most of Europe. In Southern European countries, periodic droughts are a major environmental, social and economic problem.
+
+8
+
+Sustainable use of Europe’s water?
+
+Droughts have affected large areas of Europe over the past 50 years. Events differ in character and severity, but their frequency shows that drought is a normal, recurrent feature of Europe’s climate. Recent severe and prolonged droughts have alerted the public, governments and operational agencies to the need for mitigation measures. Droughts have had important economic impacts on parts of Europe - their main impacts include water supply problems, shortages and quality deterioration, crop and livestock losses, pollution of freshwater ecosystems and regional extinction of animal species. In most cases, droughts are identified too late, so that emergency measures are taken which will no longer be effective. Clear and consistent criteria for drought identification are necessary, to allow suitable responses to crises to be sought in the management of the water resource system. However, current climatic and hydrological modelling does not permit exact prediction of droughts, and there is at present little technical guidance on water management in droughts.
+Desertification Extended or recurrent droughts can contribute to desertification in areas characterised by: periodic water shortages, overexploitation of available water, changed and depleted natural vegetation, reduced water infiltration into the soil, and increased surface water run-off, leading to increased soil erosion.
+
+Mediterranean countries are most susceptible to desertification, particularly in semi-arid areas with mountainous terrain, steep slopes and periods of heavy rainfall that encourage erosion (EEA, 1997).
+The scourge of flooding Seasonal fluctuations in river and flooding of riparian areas are natural features of running waters. However, prolonged periods of heavy rain can lead to floods causing loss of life and enormous damage to property, especially in flood plains heavily utilised by man. Human modifications of the hydrology within catchments, river channels and flood plains can significantly affect the extent and duration of floods.
+
+From 1971 to 1995 there were 154 major floods in Europe; in 1996 alone there were 9. Areas particularly prone to floods are:        Mediterranean coasts, impounded areas of the Netherlands, British east coast, north German coastal plains, Rhine, Seine, Po and Loire valleys, coastal areas of Portugal, alpine valleys.
+
+Floods are the most common natural disaster in Europe and, in terms of economic damage, the most costly. Two types of measure are used to protect against them: (1) structural measures for flood control (e.g. flood control reservoirs; areas for controlled flooding; soil protection and reforestation; river channelisation; protection dykes; and the protection and cleaning of river beds, road and railway culverts, and bridges).
+
+How much water is there – and how much is available?
+
+9
+
+(2) non-structural measures (e.g. construction of flood protection aspects into buildings; restriction of development on floodplains through controlled land use planning; and early warning and flood forecasting systems). Non-structural measures are increasingly used, partly because it has been realised that structural measures stimulate community development in areas still at some risk of flooding.
+The impact of climate change Water availability in Europe will be affected by changes in climate. The greatest negative effects of possible climatic change on water availability will mainly be in the driest regions.
+
+Predictions show that there will be a temperature increase of 1 oC to 3.5 oC, which together with an increase in precipitation in Northern Europe and a decrease in Southern Europe, could lead to a reduction in water availability in Southern Europe including semiarid zones (IPCC, 1996).
+
+Alternative and non-conventional sources of water Such sources – e.g. desalination of seawater and re-use of waste water – supplement scarce water resources in certain regions of Southern Europe, but their contribution in Europe at large is very limited.
+
+The contribution of alternative sources of water is highest in Malta, where it amounts to 46 % of the total used. In Spain, seawater desalination is also important in the Balearic and Canary Islands.
+
+Summary – what quantity issues should we be concerned about? Resource problems arise because water is far from evenly distributed in space and time. Water shortages: Long-term assessments of water resources do not take into account their irregular distribution in time; even if an area has sufficient long-term resources, seasonal or year-on-year variations can cause problems of water stress. In Southern Europe periodic droughts are a major environmental, social and economic problem. In most cases, droughts are identified too late, and emergency measures are taken which will no longer be effective. Current modelling techniques cannot predict droughts exactly, and there is little technical guidance on water management in droughts. Desertification: Drought can intensify desertification, caused by over-use of soil and water which damages the natural vegetation cover. This damage reduces infiltration into the soil, increases surface flow and leaves soil unprotected and prone to erosion. Semi-arid Mediterranean countries are most susceptible, having mountainous terrain with steep slopes, rainfall with considerable erosion capacity, and over-exploited systems. Floods: These are the most common and costly type of natural disaster in Europe. Use of non-structural measures to prevent or mitigate the consequences of flooding is increasing, as it becomes recognised that structural measures for flood control tend to stimulate development in areas still at some risk of flooding.
+
+10
+
+Sustainable use of Europe’s water?
+
+How much water is used?
+As noted above, in Europe as a whole only 21 % of available water is used. Fortunately, in most European countries the amount of water available is also far greater than the volume used. The highest ratios (higher than 30 %) of abstracted to available water occur in Belgium-Luxembourg, Germany, Italy and Spain (Figure 3).
+Abstraction and consumption Most of the water abstracted is not consumed but returned to the water cycle – to become available again, after treatment or natural purification, for further use. However, it may be re-introduced at different points in the catchment from where it was abstracted. Thus, although the amounts consumed in a particular catchment may be relatively small, there may be significant impacts at the points of abstraction (for example, dried up rivers). Once abstracted, water is used for a number of purposes. The proportion used for different purposes varies between European countries. Public water supply (PWS) is the major use in many Western European and Nordic countries, but has a lower share in Mediterranean countries.
+
+Figure 3
+
+Intensity of water abstraction and water consumption as a percentage of total renewable freshwater resources in Europe.
+
+50 Total water abstraction Water consumption
+
+% total renewable resource
+
+40
+
+30
+
+20
+
+10
+No data
+
+0
+
+Source: EEA (1999c)
+
+Use of abstracted water in Europe (see figure 4) 18 % – public water supply 30 % – agriculture, (mainly irrigation) 14 % – industry, excluding cooling water 38 % – power (hydropower, cooling water)and miscellaneous or non-defined uses.
+
+Au st Be ria lg iu Cz ec Bul m h ga Re ria pu D blic en m a Es rk to ni Fi a nl an Fr d an G c er e m an G y re H ece un ga Ic ry el an Ire d la nd Ita Th e Lith ly N et uan he ia rla n N ds or wa Po y la Sl ov Po nd ak rtu Re ga pu l b Sl lic ov en ia Sp Un ai ite Swe n d d Ki en ng do m
+
+How much water is used?
+
+11
+
+On average in Western Europe and the countries in accession to the EU, around 16 % of available water is abstracted and 5 % consumed. But the proportion consumed varies widely, being highest – about 50 % of total abstraction – in Mediterranean countries, where consumptive use (mainly by inefficient irrigation) is much greater than in Central and Northern Europe
+Sectoral water use in Europe Figure 4
+
+100 %
+
+80 %
+
+60 %
+
+40 %
+
+20 %
+
+0%
+
+Lu x Li em ec bo ht u en rg Sl ste ov in U ni te Bu eni d lg a Ki ar ng ia d Ic om el D an C Sw enm d ze it a ch ze rk Re rlan pu d Sl ov b ak Ire lic Re lan pu d Sw bli ed c A en us N tria or w Po ay Ro lan m d a Fr nia an ce Ita ly G Spa er in m Fi an nl y G and re H ec un e N Be gar et lg y he iu rl m Po and rt s u Es ga Li ton l th ia ua ni a
+Urban use Agriculture Industry Cooling and others
+
+Source: EEA (1999).
+
+In general, quantities of water abstracted for cooling greatly exceed those used by the rest of industry (e.g. 95 % of all industrial water use in Hungary is for cooling). However, cooling water is generally returned to the water cycle unchanged, apart from increased temperature and some contamination by biocides. In Southern Europe, where irrigation is an essential element of agricultural production, most water is used for agriculture. By contrast, in Central and Western Europe irrigation is typically a means to improve production in dry summers.
+
+12
+
+Sustainable use of Europe’s water?
+
+Surface water or groundwater? Most European countries rely more on surface water than groundwater (Figure 5). However, In many countries, groundwater is the main source for public water supply, because of its ready availability, and the relative low cost of treatment and supply because of its generally high quality (EEA, 1998).
+
+Finland and Lithuania take more than 90 % of their total supply from surface waters. Groundwater is the predominant source in countries such as Denmark, Slovenia and Iceland, where it satisfies practically the entire demand. Aquifer overexploitation mainly depends on the balance between abstraction and recharge. In Mediterranean countries the overexploitation commonly arises from excessive abstraction for irrigation. Additional resources are exploited to satisfy the increased demand from population and agriculture, exacerbating the already fragile environment by reducing groundwater levels (EEA, 1997). Wetlands or wet ecosystems are also damaged when the aquifer water level drops. It is estimated (EEA, 1999) that about 50 % of major wetlands in Europe have ‘endangered status’ due to groundwater overexploitation. Salt water intrusion in aquifers can result from groundwater exploitation along the coast, where urban, tourist and industrial centres are commonly located. The intrusion of salt water is a problem in many coastal European regions, but
+
+Summary – what water usage issues should we be concerned about? In most of Europe, the amount of water available is far greater than the volume used, and most abstracted water is returned to the water cycle. However, we must also consider the needs of aquatic ecosystems, and the likely spatial dislocation of abstractions and returns. Water is typically returned at a different point from that at which it was abstracted, so there may be significant impacts at abstraction points (e.g. dried up rivers), even though the net consumption of water is relatively small. Aquifer overexploitation in Mediterranean countries commonly arises from excessive abstraction for irrigation. However, it should also be noted that about 50 % of major wetlands in Europe have ‘endangered status’ as a result of groundwater overexploitation. Salt water intrusion in aquifers, resulting from groundwater exploitation along the coast, is a particular problem along the Mediterranean, Baltic and Black Sea coasts.
+
+How much water is used?
+
+13
+
+Average share of surface and groundwater resources in relation to total abstractions
+
+Figure 5
+
+Denmark Iceland S lovenia Belgium Austria Luxembourg Latvia Portugal Slovak R epublic Switzerland Bulgaria Greece Italy United Kingdom Czech R epublic Sweden Norway Estonia Spain Hungary Poland Netherlands France Germany Romania Ireland Finland Lithuania
+
+S urface water Groundwater
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Source: Eurostat (1997a) and ETC/IW (1998). In EEA (1999).
+
+especially along the Mediterranean, Baltic and Black Sea coasts (EEA, 1995). Once contaminated with seawater, an aquifer can remain contaminated for long periods.
+
+14
+
+Sustainable use of Europe’s water?
+
+How good is our water?
+The quality-quantity issue Any assessment of the availability, and hence sustainability of water use, must consider not only how much is available, but also how good it is. Poor quality will reduce apparent water availability.
+
+The quality of Europe’s water resources affects what it can be used for. A certain quality is required for different uses such as for drinking water, recreation, industrial use and for agricultural uses such as irrigation and livestock watering. In addition, but just as importantly, a minimum quality is required to maintain aquatic and associated terrestrial ecosystem function.
+
+Rivers
+
+Rivers are important as sources of drinking water, as recreational facilities and as very important ecosystems. Rivers all over Europe have been heavily modified by man for flood defence, navigation, and water abstraction and storage. These alterations fundamentally affect river water quality and river ecology. Historically rivers have also been heavily polluted by discharges from industry and towns, and by run-off from agricultural land. For example, the concentration of organic matter in many European rivers has fallen over the last 10 to 20 years, particularly in the most polluted rivers. Organic matter biodegrades consuming oxygen thereby reducing the oxygen content of water. Low levels of oxygen adversely affect aquatic life. Phosphorus and nitrogen in rivers can cause eutrophication with excessive growth of plants, which on death and decay can, in turn, deplete water oxygen levels. Excessive growth of plants can also adversely affect the water’s suitability for abstraction for drinking water.
+
+Rivers – better or worse? There is at present insufficient data to give a complete overview of the quality of all types of river across Europe. There is evidence, however, that – particularly in the large and nationally important rivers of Western Europe and the Nordic Countries – there have been significant improvements in quality over recent years. This has been brought about by the general improvement in waste water treatment, particularly of sewage.
+
+The evidence of improvement In Western Europe there was a marked decrease in river stations suffering heavy organic pollution from 24 % in the late 1970s to 6 % in the 1990s. The decrease in Southern and Eastern Europe is smaller and started in the 1980s. Many large rivers are therefore now welloxygenated.
+
+How good is our water?
+
+15
+
+Eutrophication Phosphorus and nitrogen in rivers can cause eutrophication, excessive growth of plants, which on death and decay can deplete water oxygen levels (Map 2). Excessive growth of plants can also adversely affect the water’s suitability for abstraction for drinking water. In many European rivers, phosphorus concentrations decreased significantly between the late 1980s and the mid 1990s, whereas nitrate concentrations increased rapidly between 1970 and 1985 and since then appear to have remained relatively stable.
+
+Eutrophication (monitored or estimated) in water at European river stations
+
+Map 2
+
+Source: EEA (1999d)
+
+16
+
+Sustainable use of Europe’s water?
+
+Phosphorus concentrations in many European rivers have decreased significantly between the periods 1987-91 and 1992-96 (Figure 6). This is particularly so in Western Europe and some countries in Eastern Europe. In the Nordic countries, concentrations are generally very low. Decreases have largely been associated with improvements in waste water treatment and reduced use of phosphorus in detergents. The recent improvement in waste water treatment in Southern Europe has also led to some decrease there. Nitrate concentrations increased rapidly in European rivers between 1970 and 1985. Since then levels seem to have remained relatively stable in many rivers, and perhaps are decreasing in some Western European rivers. The principal source of nitrate is diffuse pollution from agriculture, with a contribution from urban waste water treatment plants.
+Figure 6 Evolution of mean soluble P concentration expressed as percentage of stations according to their concentration level (data from 25 countries)
+
+Source: EEA (1999d)
+
+Ammonia is also an important potential pollutant because it is toxic to aquatic life and consumes oxygen when oxidised. It comes from sewage effluents and also from run-off from fields spread with animal manure. Other than in the Nordic countries, the available information indicates that ammonia is a potential problem in many European rivers.
+
+How good is our water?
+
+17
+
+A note of caution Despite the general reduction in organic pollution and the resulting improvement in oxygen conditions, the state of many European rivers remains poor. For example, there is little evidence that this trend is being observed in smaller rivers which are often given a lower priority in terms of monitoring and improvement measures by national regulatory authorities.
+
+Small rivers and headwaters are ecologically important providing diverse habitats for aquatic biota. For example they provide important spawning grounds for many fish species. Because of their physical size and often relatively low flows, providing only limited dilution of pollutants, they are particularly susceptible to human pressure and activities. Channel modifications, discharges of inadequately treated sewage and runoff from agricultural land are all important pressures on small rivers.
+
+Persistent organic pollutants Being relatively stable and persistent in the environment, persistent organics often accumulate in sediment. Because the sediment is the food substrate for bottom-living organisms, which are in turn food for higher organisms, persistent organic compounds tend to reach higher concentrations as they accumulate in the food chain. In general, the concentrations of the most persistent compounds are elevated in the vicinities of the larger cities and industrialised areas. Many persistent organic pollutants are difficult and costly to analyse and monitor and their potential effects on humans are also difficult to establish.
+
+Lakes and reservoirs Problems and progress The main problems affecting the ecological quality of European lakes and reservoirs are acidification due to atmospheric deposition and increased levels of nutrients causing eutrophication. There has, however, been a general improvement in the environmental quality of lakes during recent decades.
+
+Acidification Surface water acidification has been extensively studied in lakes in many European regions, where ‘acid rain’ can affect pH levels and cause major ecological changes, in areas with base-poor geology. Acidification in lakes has been observed in many northern European countries and is particularly extensive in southern Norway and Sweden. Small high altitude lakes are generally found to be more affected than large lowland waters. Although acidification remains a problem in many areas, controls on sources of acid emissions have brought about substantial improvement in the alkalinity of surface waters in northern and central Europe (see Figure 7). This improvement in chemical quality has been reflected in a partial recovery of the invertebrate fauna at many sites.
+
+18
+
+Sustainable use of Europe’s water?
+
+Figure 7
+
+Changes in surface water alkalinity, 1980s and 1990s
+
+9 8 7 6 5 4 3 2 1 0 -1 -2
+
+µeq/l per year alkalinity 1980s 1990s
+
+Source: Lükewille et al. (1997). In EEA (1998).
+
+The proportion of lakes rich in phosphorus has fallen, while the number of near-natural quality (less than 25 µg P/l) has increased. Nutrient-poor lakes are found mainly in sparsely populated regions such as northern Scandinavia or mountainous regions such as the Alps, where many lakes are situated away from populated areas or fed by unaffected rivers. In densely populated regions, primarily Northern and Central Europe, a large proportion of lakes are affected by human activities and, therefore, relatively rich in phosphorus (Map 3).
+
+Map 3
+40º
+
+Distribution of average total phosphorus concentrations in European lakes and reservoirs
+30º 20º 10º 0º 10º 20º 30º 40º 50º 60º
+
+Source: EEA (1999d)
+
+Arc
+
+tic O cean
+
+B
+
+Se ts aren
+
+a
+
+60º
+
+No
+
+rw
+
+egi
+
+an S ea
+
+n
+
+c e
+
+a
+
+60º
+
+Finland
+(70)
+
+O
+
+Norway
+(401)
+
+Estonia
+(2992)
+
+t l a n t i c
+
+Ireland
+(18)
+
+Denmark
+(28)
+
+Ba
+
+lt
+
+ic
+
+50º
+
+Nor th Sea
+United Kingdom
+(66)
+
+Se a
+
+Sweden
+
+(156)
+
+Latvia
+(10)
+
+Lithuania
+(7)
+
+Netherlands
+(112)
+
+50º
+
+A
+
+Germany
+(298)
+
+Poland
+(290)
+
+Ba y Bis of cay
+France
+(27)
+40º
+
+Austria
+(26)
+
+Switzerland
+(22)
+
+Hungary
+(4)
+
+Slovenia
+(4)
+
+Romania
+(33)
+
+Black
+
+Se a
+40º
+
+A
+d
+
+ri
+
+Portugal
+(18)
+
+Spain
+(96)
+
+tic
+
+a
+
+Se
+
+a
+FYROM
+(3)
+
+Bulgaria
+(4)
+
+Phosphorus concentration in lakes and reservoirs
+1 : 30 000 000 Concentration in µg/l < 10 10 – 25 25 – 50 50 – 125 125 – 250 250 – 500 > 500
+
+Ty r rh en ia n Se a
+Ionian Sea
+
+Latvia
+(10)
+
+number of lakes and reservoirs where the phosphorus concentration has been measured
+
+M e d i t e r r a n e a n
+
+S e a
+30º
+
+20º
+
+30º
+
+Number of lakes per country: A(26), BG(4), CH(22), D(~300), DK(28), EE(156), E(96), FIN(70), F(27), H(4), IRL(18), l(7), LV(10), MK(3), NL(112), N(401), PL(290), P(18), R(33), S(2992), SLO(4), UK(66).
+
+How good is our water?
+
+19
+
+A note of caution Although the quality of European lakes as a whole appears to be gradually improving, the water quality of many lakes in large parts of Europe remains poor.
+
+Considering the large deviation from a natural or at least good ecological state in many lakes, further action is needed to improve quality, including actions to preserve lakes of high ecological quality from phosphorus inputs from agriculture, forestry, and poor land management practices.
+
+Groundwater The problems Europe’s groundwater is endangered and polluted in several ways. Some of the most serious problems are pollution by nitrate and pesticides. Heavy metals and hydrocarbons are serious problems in certain areas.
+
+These pollutants are potentially harmful to human health and can make the water unsuitable for drinking. Groundwater contributes to river flow, and the pollutants may contribute to eutrophication or toxicity in other parts of the water environment. Additionally, over-abstraction can have an important effect on groundwater resources and quality. Lowering the water table may cause salt water to intrude into groundwater in coastal areas.
+
+Nitrate The natural level of nitrate in groundwater is generally below 10 mg NO3/l. Elevated levels are caused entirely by man - particularly the use of nitrogen fertilisers and manure, although local pollution due to municipal or industrial sources can also be important.
+
+Nitrate is a significant problem in some parts of Europe as shown by information at the country level, the regional level, and information on ‘hotspots’. (In Northern Europe – Iceland, Finland, Norway and Sweden – nitrate concentrations are quite low.) There are, however, some significant differences when comparing data at the country and regional levels. In general, a direct relationship between the input of nitrogen and the measured values of nitrate in groundwater could not be found at country level. A few countries provided information on trends of nitrate in groundwater. Some of the data delivered indicate statistically significant trends, with evidence of both increases and decreases in a limited number of boreholes in some countries.
+
+The extent of the nitrate problem (Map 4) The Drinking Water Directive guide level of 25 mg NO3/l is exceeded in untreated groundwater at more than 25 % of the investigated sampling sites in 8 of the 17 countries providing information. In the Republic of Moldova, about 35 % of the investigated sampling sites exceed the maximum admissible Drinking Water Directive concentration of 50 mg NO3/l. At regional level more than a quarter of the sampling sites exceed 50 mg NO3/l in 13 % of 96 reported regions or groundwater areas, and in about 52 % of the regions more than a quarter of the sampling sites exceed the guide level of 25 mg NO3/l.
+
+20
+
+Sustainable use of Europe’s water?
+
+Nitrate in private and small community supplies Most groundwater supplies for drinking water in Europe are generally from deep wells not affected by high nitrate levels. In contrast private and small communal supplies are usually derived from shallow groundwater sources, and thus in areas with nitrate contaminated groundwater the population is at risk.
+
+Map 4
+
+Nitrate concentration in groundwater
+40º 30º 20º 10º 0º 10º 20º 30º 40º 50º 60º
+
+Arc
+60º
+
+tic O cean
+
+Bare
+
+nts
+
+Se
+
+a
+
+Iceland
+(51)
+
+No
+
+rw
+
+egi
+
+an S ea
+Finland
+(425)
+60º
+
+c e
+
+a
+
+n
+
+Norway
+(4)
+
+O
+
+Estonia Sweden
+(125) (163)
+
+t l a n t i c
+
+Ireland
+(676)
+
+United Kingdom
+(765)
+
+a (442)
+
+Denmark
+(1113)
+
+Ba
+
+lt
+
+ic
+
+50º
+
+Netherlands Se
+
+Nor
+
+th
+
+Se a
+
+Latvia
+(16)
+
+Lithuania
+(77)
+50º
+
+Ba y Bis of cay
+
+Germany Czech (4092) Rep. (476) Luxembourg (110) Austria
+(1719)
+
+Poland
+(575)
+
+A
+
+Slovak Republic
+(282)
+
+France
+(5805)
+40º
+
+Slovenia
+(84)
+
+Hungary
+(4282)
+
+Moldova Romania (71600)
+(1000)
+
+Portugal
+(74)
+
+Spain
+(98)
+
+Black
+Se
+a
+
+Se a
+40º
+
+A
+d
+ri
+tic
+
+a
+
+Bulgaria
+(115)
+
+Nitrate concentration in groundwater
+1 : 30 000 000 Concentration in mg NO³ / l < 10 10 – 25 25 – 50 > 50 in Moldova and Romania: < 50 > 50 number of sampling sites
+
+Ty r rhe nia n Se a
+I o n i a n Greece (316) Sea
+
+Turkey
+(30)
+
+Hungary
+(4282)
+
+M e d i t e r r a n e a n
+
+S e a Cyprus
+(757)
+30º
+
+no data available
+
+Source: EEA (1998).
+
+10º
+
+20º
+
+30º
+
+Approximately 800 active substances are registered for pesticide use in Europe – but only a small fraction of these represents the major use. Information on the occurrence of pesticides in groundwater is rather limited. However, many different pesticide substances have been detected in Europe’s (untreated) groundwater at levels greater than the Drinking Water Directive maximum allowable concentration of 0.1 µg/l.
+
+Pesticides Significant problems with pesticides in groundwater have been reported from Austria, Cyprus, Denmark, France, Hungary, Republic of Moldova, Norway, Romania and the Slovak Republic. The most commonly found pesticides in groundwater appear to be atrazine, simazine and lindane. However, most of the data obtained does not allow reliable assessment of trends.
+
+How good is our water?
+
+21
+
+Glyphosate in Denmark Recent concern about glyphosate (a herbicide) in Danish groundwaters illustrates the complexities of assessing pesticide occurrence and significance. Whilst glyphosate and its metabolite AMPA have been detected in shallow groundwaters, earlier reports of AMPA in well waters have been shown to be artefacts of the sampling and analysis process, and AMPA itself may also arise from degradation of detergents.
+
+Map 5 summarises the active substances detected in groundwater in various European countries. The substances detected depend on which ones are monitored for, and the extent to which groundwaters are monitored in a particular country. The pesticides most frequently mentioned as important are atrazine, simazine and lindane.
+
+Countries where pesticides in groundwater are monitored and not monitored, and the total number of monitored pesticide substances
+
+Map 5
+
+Monitoring of pesticides in groundwater
+Pesticides monitored Pesticides not monitored
+
+24
+
+Number of analysed pesticides No data available No data collected
+
+?
+
+0
+
+500
+
+1000 km
+
+36
+
+122 49 28 ? 9 47 46 ? 4 16 16
+
+24
+
+BASIC MAP: EUROSTAT/GISCO
+
+GRAPHICS & ANALYSIS: AWW
+
+Source: EEA (1999b)
+
+22
+
+Sustainable use of Europe’s water?
+
+Other pollutants of groundwater Chlorinated hydrocarbons, hydrocarbons and heavy metals are important groundwater pollutants in many countries, typically giving rise to local problems.
+
+Chlorinated hydrocarbons are widely distributed in Western European groundwaters, and hydrocarbons (especially mineral oils) cause severe problems in Eastern Europe and are important groundwater pollutants in many countries. Chlorinated hydrocarbons derive from old landfills, contaminated industrial sites and industrial activities. Petrochemical activities and military sites are mainly responsible for pollution by hydrocarbons, and mostly cause local problems. Pollution of groundwater by heavy metals (mostly by leaching from dumping sites, mining activities and industrial discharges) is a reported problem in 12 countries.
+
+Summary – what water quality issues should we be concerned about? Eutrophication: A long-term problem despite measures to reduce nutrient pollution. Phosphorus levels in rivers have fallen significantly over the last 15 years, but nitrate levels have remained high – and in many groundwater supplies, nitrate exceed the limits set in the Drinking Water Directive. Phosphorus levels in severely affected lakes have fallen significantly, but nutrient levels in coastal waters show little overall improvement. Organic pollution: Despite a general reduction and resulting improvement in oxygen conditions, many European rivers remain in a poor state. There is little evidence of an improving trend in smaller rivers, which are often given low priority in terms of monitoring and improvement measures. Acidification: Whilst acidification remains a problem in many areas, there has been substantial improvement in the alkalinity of surface waters in northern and Eastern Europe, and consequent improvements in their ecology, as a result of actions taken to control emission sources. Lakes: Although the quality of lakes in general appears to be gradually improving, that of many lakes in large parts of Europe remains poor. Groundwater: Nitrate and pesticide contamination of groundwater is of significance in many European countries, although data on pesticides is often very limited. Contamination by other substances (e.g. hydrocarbons and chlorinated hydrocarbons, and heavy metals) – typically from mining, industrial and military operations – is important in many countries, and particularly severe in Eastern Europe.
+
+Water and health
+
+A reliable supply of clean drinking water (and sound sanitation) is essential to avoid the spread of a number of serious diseases which arise from contaminated water. Both the quality and the quantity of drinking water supply are important to public health, since direct transfer of diseases from person to person, or by contaminated food, is higher when poor hygiene practices result from insufficient water.
+
+How good is our water?
+
+23
+
+The European situation Many European countries have high quality drinking water supplies. However, treatment and disinfection are insufficient in some countries, particularly those where economic/political changes have led to infrastructure deterioration. Installation of advanced treatment works is increasing in many countries, particularly in Western Europe.
+
+Microbiological contamination This form of drinking water contamination, which can affect large numbers of people, is the immediate area of public health concern in Europe.
+
+Bacillary dysentery (an intestinal disease) is a good example of infection occurring in Europe, regularly reported in many countries (Figure 8).
+
+Chemical contamination A supply containing high levels of chemical contaminants may also significantly affect the health of a whole community. Problems of significant chemical contamination are often localised and may be caused or influenced by geology or anthropogenic contamination.
+
+The chemical quality of drinking water depends on many factors, including raw water quality, the extent and type of treatment, and the materials and integrity of the distribution system. Concerns about its potential effects on children’s mental development have led to considerable efforts to reduce lead contamination from water supply materials. High nitrate concentrations are of concern (usually in shallow private supplies) because they are linked to the so-called ‘blue-baby’ syndrome.
+
+24
+
+Sustainable use of Europe’s water?
+
+Figure 8
+
+Prevalence of bacillary dysentery in European countries in 1996
+
+70
+
+Bacillary dysentery incidence per 100 000 (1996)
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+Andorra
+
+Sweden
+
+Estonia
+
+Serbia
+
+0
+
+Malta
+
+Romania (1995)
+
+Lithuania
+
+Moldova
+
+Norway
+
+Slovenia
+
+Hungary
+
+England and Wales
+
+Germany
+
+Source: EEA (1999e).
+
+Costs and benefits Improving water and sanitation brings benefits in terms of reduced costs to those who would otherwise have suffered from water-related disease, their families, the public health system and society in general. However, the resources spent on improvements are of course then not available for other purposes. Models indicate that the annualised costs of improving water and sanitation in the eastern WHO European region lie in the range 30-50 euro per capita, a small proportion of GDP. Cost of illness calculations indicate a burden of about 25 euro per capita for the eastern European region, but this does not include the burden resulting from chemical contaminants such as lead and nitrate and a recent study in Moldova has suggested benefits from reduced nitrate pollution alone at 15-25 euro per capita. (EEA, 1999e).
+
+Summary and caution Incidents of waterborne disease appear to occur predominantly in areas suffering an inconsistent supply and poor infrastructure. This may be associated with financial constraints and/or organisational disruption. Thus, efforts are still needed to ensure that Europe’s population is supplied with safe drinking water. These include measures to control demand and reduce contamination, and also infrastructure development.
+
+Belgium (Flanders)
+
+Slovakia
+
+Czech Republic
+
+Albania
+
+Croatia
+
+Finland
+
+Latvia
+
+Austria
+
+Spain
+
+What affects our water?
+
+25
+
+What affects our water?
+Because of the interactions between air, land, water bodies and living creatures, every change in one of these leads to a modification of the ‘global water cycle’.
+Water abstraction and consumption
+
+When water abstraction exceeds availability during a certain period, water stress occurs – typically in areas where rainfall is low, population density high, or agricultural or industrial activities intense. Even where sufficient long-term resources exist, seasonal or year-on-year variations in the availability of freshwater may, at times, cause stress.
+Human alterations to the water cycle
+
+The influence of man on the water cycle Human activities have a massive influence on the water cycle, in three main ways: • abstracting and consuming water, • altering the environment, and • causing pollution.
+
+These may have profound effects on water resources, water quality and ecology. Four kinds of intervention are especially common and significant: • damming to provide hydroelectricity or water resources, modifying river flow patterns, population growth, increasing groundwater abstraction for public supply and irrigation; land sealing by urbanisation; agricultural drainage and flood control, modifying the hydrological cycle and water balance.
+
+•
+
+Control of point and diffuse pollution sources Diffuse sources of pollutants are generally more difficult to control through regulatory mechanisms than point sources, which have historically received greater attention
+
+• •
+
+Pollution
+
+Point sources of pollution are specific and readily identifiable – e.g. discharges from sewage treatment works and industrial processes. Industry and households produce many pollutants, including organic matter and phosphorus. The extent to which such pollutants in waste water are discharged into surface waters depends on the treatment applied. As noted previously, biological treatment of waste water has increased over the last 15-30 years, and the organic loading has consequently decreased in many parts of Europe. Diffuse sources are less clearly defined – e.g. run-off from agricultural land and urban areas, and pollution from waste disposal. Agricultural activities lead to the discharge of a variety of pollutants to water bodies, the most important being nitrogen from excess application of artificial fertilisers and manure. Locally, spills of liquid manure and silage effluent to small streams can severely threaten the natural fauna by removing oxygen from the water, thus negating improvements from waste water treatment. Pesticides from agriculture, and from urban areas, roads and railways, are also important.
+
+26
+
+Sustainable use of Europe’s water?
+
+How is our water managed?
+Sustainability of water requires a balance between demand and availability Demand can be managed (reduced) by suppliers and regulators, using such measures as charging for use, supply metering, and educating and increasing the awareness of users about water conservation. Availability can be increased by building reservoirs and transferring water between areas of high and low availability. Such infrastructure measures can, however, have negative effects on aquatic ecology and water quality. Other measures for increasing availability include the re-use of waste water (e.g. using treated sewage effluent for purposes not requiring highest-quality water, such as golf course watering), and the use of alternative sources – such as desalination of sea water – in particular areas. Finally, reducing leakage in water distribution systems can of course also increase availability without increasing abstraction.
+
+A change of approach Water and waste water management, operation and investment are undergoing a shift of emphasis throughout the world. The traditional approach of treating water as a public service strongly linked to local politics is disappearing, in favour of a more business-like approach.
+
+These changes are being made regardless of whether water is in the private or public sector, although where private sector participation exists; the rate of change is much faster.
+
+Changed approach – new requirements The shift of water and waste water management, operation and investment from public service to business creates new requirements for regulation, especially economic regulation. Increasingly, this new approach, and its associated regulatory frameworks, are seen as important tools – along with scientific and technological advances – for progress towards sustainability.
+
+How is our water managed?
+
+27
+
+This led to a draft proposal for a Community Groundwater Action and Water Management Programme (COM(96) 315 final) which required a programme of actions to be implemented by the year 2000 at national and Community level, aiming at sustainable management and protection of freshwater resources.
+
+Water problems lead to community action Because of long term deterioration in the quality and quantity of water (particularly groundwater), the European Council called for a Community Action and required a detailed action programme for comprehensive protection and management of groundwater to be drawn up, as part of an overall water protection policy. The perception of water as a limited resource explains recent attention to reducing water demand, rather than increasing supply.
+
+The proposed Water Framework Directive, and international agreements Many of the recommendations in the Groundwater Action and Water Management Programme (COM (96) 315 final) are incorporated in the proposed Water Framework Directive (COM (97) 49 final), which – once implemented – will establish a legally binding framework to promote sustainable water consumption based on long-term protection of water resources. In addition to European Community policy, several international agreements have come into force, especially for transboundary waters (e.g. The Helsinki Convention on the Protection and Use of Transboundary Watercourses and International Lakes, conventions on the rivers Rhine, Elbe and Danube).
+
+Wide variations in water management European water management practices vary very widely, and there is a range of regional and decentralised policies. The proposed Water Framework Directive will introduce catchment level management to harmonise policies throughout Europe.
+
+The traditional approach is supply-side management to increase availability of water by using reservoirs, transfer schemes, re-use and desalinisation. In recent years, demand management has achieved more prominence, but both approaches are necessary, especially in areas prone to drought.
+
+28
+
+Sustainable use of Europe’s water?
+
+Influencing use – demand management
+
+This can be considered as a part of water conservation policy, which is a more general concept, describing initiatives with the aim of protecting the aquatic environment and making a more rational use of water resources.
+
+What is demand management? Initiatives having the objective of reducing the amount of water used (e.g. the introduction of economic instruments and metering), usually accompanied by information and educational programmes to encourage more rational use.
+
+Economic instruments
+What, and how effective, are they? They include abstraction charges and pricing mechanisms, and are widely seen as valuable tools to achieve sustainable water management. However, they are only effective in reducing abstractions when the person paying the charge or tax can benefit by responding to it by reducing consumption. Charges are generally not related to the true cost of water and are not the same for all users. A note of caution When economic instruments are applied to public water supply, their impact on health and hygiene, and on the affordability of water to poorer consumers, needs to be taken into account. (Charges will generally hit the poorer user proportionately harder.) When they are applied to water management, their impact on the wider economy needs to be taken into account (e.g. very large water users may become uncompetitive if the charges are introduced in only one country or region).
+
+Pricing Water prices for domestic consumers in Western Europe vary from 52 euro/year per family in Rome to 287 euro/year per family in Brussels. Water charges in Central European cities are lower and vary from 20 and 20.5 euro/year per family in Bucharest and Bratislava to 59 euro/year per family in Prague
+
+Prices in relation to GDP per capita (Figure 9) In relation to GDP per capita, the annual water charge in Bucharest is the highest in Europe at 3.5 % of GDP per capita – next Vilnius (2.6 %) and Prague (2.3 %). The lowest is 0.2 % in Oslo.
+
+How is our water managed?
+
+29
+
+Annual water charges in European cities in relation to GDP per capita
+Bucharest Vilnius Praha Lisbon Budapest Brussels Vienna Madrid Luxembourg Bratislava The Hague London Copenhagen Helsinki Paris Ljubljana Stockholm Berne Reykjavik Rome Oslo
+0.0% 0.5% 1.0% 1.5% 2.0% 2.5% 3.0% 3.5% 4.0%
+
+Figure 9
+
+1996 1995
+
+4.5%
+
+5.0%
+
+Ratio annual water charge/GDP per capita
+
+Source: IWSA Congress (1997). In EEA (1999).
+
+Metering Water metering is assumed to increase population awareness of water use. For example, in the United Kingdom the use of water in metered households is estimated to be 10 % lower than in non-metered households.
+
+Where is domestic metering used, and what can it save? It is widespread in many countries (e.g. Denmark, France, Germany, the Netherlands, Portugal and Spain), but less common, for example, in the United Kingdom. Its impact is difficult to separate from other factors – in particular, the water charges. However, immediate consumption savings of about 10-25 % are estimated
+
+Social policies
+What do water services cost, and what is considered affordable? The World Bank considers up to 5 % of household income as ‘affordable’ for water services. This compares with a cost of about 1 % of household income in EU Member States. However, the impact of water services charges tends to be much more significant for the poorer sections of society than for the wealthier ones.
+
+30
+
+Sustainable use of Europe’s water?
+
+Funding for investments in water services European funds are currently spent to improve the water services infrastructure in Cohesion Countries (Portugal, Spain, Ireland and Greece). However, even countries with ‘mature’ systems often assist individual municipalities to ensure that the population can afford the charges to meet new legislation. The tax system can also be used to minimise charges. Many countries, for instance, do not charge value added tax (VAT) on water services and/or sewerage services. Water services charges can also be reduced by allowing water services companies to write off debts against profits.
+
+Increasing availability – supply management A note of caution Potentially, all countries have sufficient resources to meet national demand. However, national statistics describe resources at a very general level. They tend to mask problems that may be occurring regionally or locally, and increased supplies may be necessary.
+
+Reservoirs
+How many European reservoirs – and when were they built? The greatest increases in total reservoir capacity occurred between 1955 and 1985, rising from 25 000 million m3 in 1955 to around 120 000 million m3 in 1985 (EEA, 1999a). There are now about 3 500 major reservoirs with a total gross capacity of about 150 000 million m3 (EU15 plus Norway and Iceland). Are new dams damned? New dams will face higher economic and environmental costs, and political and societal attitudes to big hydraulic infrastructure projects are now much more critical than in the past. The prospect of an increase in reservoir capacity in Europe is likely to be considered with extreme caution.
+
+Transfer schemes
+Are transfer schemes effective? The construction of inter-basin transfers can be an efficient and cost-effective means of satisfying water demand in hydraulically deficient regions. What needs to be assured in all cases is environmental sustainability on the one hand, and economic viability on the other. Examples The major examples of inter-basin transfers in Europe are the RhôneLanguedoc transfer and the Canal de Provence in France, with capacities of 75 and 40 m3/s, respectively. A variety of other transfers exist - for example in Belgium, Greece, Spain and the UK.
+
+How is our water managed?
+
+31
+
+Leakage reduction
+The importance of leakage reduction Network efficiency has direct consequences on total water abstractions. In most countries leakage in water distribution networks is still important. Leakage reduction through a preventive maintenance and network renewal is one of the main elements of any efficient water management policy. How much water leaks? Comparison of three European countries (UK, France and Germany), shows that leakage in main and customer supply pipes varies from:
+
+· 8.4 m3 per km of main pipe per day
+(corresponding to 243 l/property/ day) in parts of the UK, to
+
+· 3.7 m3 per km of main pipe per day,
+(corresponding to 112 l/property/ day) in West Germany.
+
+Water saving equipment Most household water use is for toilet flushing, bathing and showering and for washing machine and dishwashing the percentage for cooking and drinking, compared with the rest of the uses, is minimal. Most Europeans have in-home toilets, showers and/or baths.
+Domestic water use – scope for reduction Although domestic water use is declining, there is further scope to improve the water efficiency of common household appliances. However, most water efficient devices are not widely used because they are expensive.
+
+Some facts about water efficient appliances
+
+· Taps which turn off automatically
+can save around 50 % of water and energy.
+
+· Double command toilets operate
+at either 6 l/flush or 3 l/flush.
+
+· Water saving devices for old
+equipment can reduce water use by about 40 %.
+
+Waste water re-use and seawater desalination These are increasing within the EU. Waste water re-use is used mostly to alleviate the lack of water in certain regions (e.g. Southern Europe) but also to protect the environment by removing all discharges into sensitive receiving waters (especially coastal waters). More research on health aspects is needed. At present, seawater desalination is being applied mainly in areas where no other sources of supply are available at competitive costs – and the total volume of desalinated water in Europe is very small compared to other sources of supply
+
+Alternative sources The largest application of waste water re-use is the irrigation of crops, golf courses and sports fields where pathogens from the waste water may come in contact with the public. Further research on public health aspects, and development of standards and guidelines, are needed to gain social acceptability of such re-use. The essential factor which conditions the implementation of seawater desalination is the cost of water from desalination plants, which is highly dependent on the energy cost (50 to 75 % of the exploitation cost). From an environmental point of view, a careful examination is required to clarify to which point the use of primary energy for the production of water is environmentally sensible and economically viable.
+
+32
+
+Sustainable use of Europe’s water?
+
+What are the prospects for our water?
+
+Future EU water demand – only slight increase projected Future total abstraction in the EU is expected to increase only slightly, in contrast to projections for other regions of the world which – because of economic development and increased irrigation - are expecting demand growth (Figure 10).
+
+Figure 10
+
+Total water demand – trends and projections
+
+5000 4000
+
+km3/year
+
+3000 2000 1000
+
+A similar projection for several regions of EU15 also shows a slight increase in demand for water in all the regions (Figure 11). This is explained by a slowdown in the rate of growth of the main driving forces for water demand, and improvements in the efficiency of water use.
+
+Source: ETC/IW (1998) and Shiklomanov (1998). In EEA (1999c).
+
+0 1980
+World
+
+1990
+EU15
+
+2000
+N. America
+
+2010
+Asia
+
+Figure 11
+
+Regional evolution of total demand in EU15
+
+300 250 200
+Km³/year
+
+150 100 50 0
+1995
+EU15 Mediterranean region
+
+2000
+
+2005
+
+2010
+Western region Nordic region
+
+Source: EEA,1999c
+
+Nordic: Finland, Sweden; Western: Austria, Belgium, Denmark, Germany, Ireland, Luxembourg, the Netherlands, UK; Mediterranean: France, Greece, Italy, Portugal and Spain.
+
+What is being done?
+
+33
+
+What is being done?
+
+The basis of European Environment Agency activity The work of the Agency in providing information rests on the three pillars of: · Networking · Monitoring and reporting · Acting as a reference centre The clear goal of the Agency is to ensure that these activities support policy action. To perform its monitoring and reporting function, the Agency uses the DPSIR assessment framework. This is a mechanism for setting out, analysing and assessing the environmental information and data it uses and provides to other organisations. The Agency applies these principles and approaches to its work on all environmental compartments, and water is no exception. In coming years, it is anticipated that the work of the Agency in the water area will be both strongly influenced by – and a major factor in successful implementation of – the proposed Water Framework Directive.
+
+Towards an integral and sustainable freshwater management – the proposed Water Framework Directive: Most EU water legislation dates from the 1970s and early 1980s – directives on the quality of water for specific purposes, the control of discharges, and the protection of waters from specific sources of pollution. In the 1990s, directives were adopted on urban waste water treatment and the protection of waters against nitrate from agriculture, and a directive on the ecological quality of water was proposed. Also, the Commission proposed a groundwater action programme, and updates to the bathing water and drinking water directives. Recently proposed, the Water Framework Directive would – when adopted – rationalise EU water legislation. Its aim is to establish a framework for water protection, both to prevent further deterioration and to protect and enhance the status of ecosystems. It would: · · · · Require achievement of ‘good’ surface water and groundwater status by 2015. Promote sustainable water use based on long-term protection of available resources. Support the protection of transboundary, territorial and marine waters. Stimulate the progressive reduction of pollution by hazardous substances
+
+Key features include a requirement to manage surface and ground waters at River Basin or River Basin District level, and an emphasis on the importance of ecological – as well as physical and chemical – quality. As with all water legislation, the availability of sound and reliable information, and appropriate methods for its assessment and evaluation, will be vitally important.
+
+34
+
+Sustainable use of Europe’s water?
+
+The DPSIR assessment framework · Driving forces – the needs of individuals, organisations and nations, satisfaction of which may exert … Pressures such as discharges and changes in land and water use, which change the ... State of the environment – the quality of the environmental compartments (air, water, soil), changes in which may have ... Impacts on ecosystems, human welfare and heritage, which – when they are undesirable – require ... Responses by society (which may be directed towards any part of the above chain) to reduce/ eliminate the impacts.
+
+Improving scientific knowledge and techniques – needs There is a continuing need for better knowledge and understanding regarding: · Impacts of existing key issues and pollutants, and of emerging ones. · Impacts of new water management approaches on the regional development. · Need to clean and restore aquatic ecosystems. · Need to reduce water pollution and consumption by all sectors. · Need to improve modelling techniques to predict extreme hydrological events.
+
+·
+
+·
+
+·
+
+·
+
+Improving scientific knowledge and techniques – providing answers EU initiatives to help provide better understanding of these and other matters include: 5th Framework Programme (1998-2002). Specific Research Programme and technological development about Energy, Environment and Sustainable Development. Task Force on Environment-Water coordinated by DG Research and the Joint Research Centre of the European Commission.
+
+In many European countries, monitoring programmes are still under development. Available information often makes it difficult to assess and predict trends. Also, data aggregated at country level may not fully reflect the actual position and the level of risk to water.
+
+What is being done?
+
+35
+
+Improving information systems – needs Given the importance of sound data and information, we need to: · Improve the scope, comparability, and quality of reporting and information. · Adapt national monitoring systems, to allow judgement of progress against policy targets. · Harmonise statistical guidelines to calculate trends, to ensure the comparability and reliability of indicators. · Ensure access to, and transparency of, information.
+
+Improving information systems – EEA activities: The EEA is developing key indicators to provide a tool to monitor and assess water policies, to improve policy effectiveness in promoting sustainability. At international level, the EEA has developed EUROWATERNET – ‘the process by which the EEA obtains the information on water resources (quality and quantity) it needs to answer questions raised by its customers’. Its key concepts are: · sampling existing national monitoring and information databases; · comparing like-with-like; · a statistically stratified design ‘tailor-made’ for specific issues and questions. The network is designed to give a representative assessment of water types and variations in human pressures within a member country and also across the EEA area. There is growing recognition that EUROWATERNET could be a significant advance in the streamlining of data reporting, and the EEA and the Commission (DG Environment) are collaborating on this development.
+
+36
+
+Sustainable use of Europe’s water?
+
+Further reading
+EEA, 1995. Europe’s Environment. The Dobris Assessment. European Environment Agency, Copenhagen. EEA, 1997. Water resources problems in Southern Europe – An overview report. Topic Report 15/1997, Inland Waters, European Environment Agency. Copenhagen. EEA, 1998. Europe’s Environment. The Second Assessment. European Environment Agency. Copenhagen. EEA, 1999. Sustainable Water Use in Europe – Part 1: Sectoral Use of Water. Environmental assessment report No 1. European Environment Agency. Copenhagen. EEA, 1999a. Lakes and reservoirs in the EEA area. Topic Report 1/1999, European Environment Agency. Copenhagen. EEA, 1999b. Groundwater quality and quantity in Europe. Environmental assessment report No 3. European Environment Agency. Copenhagen. EEA, 1999c. Environment in the European Union at the turn of the century. Environmental assessment report No 2. European Environment Agency. Copenhagen. EEA, 1999d. Nutrients in European ecosystems. Environmental assessment report No 4. European Environment Agency. Copenhagen. EEA, 1999e. Water and health in Europe. Executive Summary (Main report in press). European Environment Agency. Copenhagen. IPCC, 1996. Second Assessment Climate Change 1995, Report of the Intergovernmental Panel on Climate Change. ‘The Science of Climate Change’, Contribution of Working Group 1. ‘Impacts, Adaptations and Mitigation of Climate Change’, Contribution of Working Group 2. ‘Economic and Social Dimensions of Climate Change’, Contribution of Working group 3, WMO, UNEP. Cambridge University Press.
+
+

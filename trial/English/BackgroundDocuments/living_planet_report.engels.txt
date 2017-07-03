@@ -1,0 +1,2405 @@
+L IVING PLANET REPORT 2 0 0 6
+
+CONTENTS
+Foreword Introduction Living Planet Index Terrestrial Species Marine Species Freshwater Species Water Withdrawals Ecological Footprint World Footprint The Footprint by Region and Income Group The Footprint and Human Development Scenarios Business as Usual Slow Shift Rapid Reduction Shrink and Share Transition to a Sustainable Society Tables The Ecological Footprint and Biocapacity The Living Planet Through Time Living Planet Index: Technical Notes Ecological Footprint: Frequently Asked Questions References and Further Reading Acknowledgements 1 2 4 6 8 10 12 14 16 18 19 20 22 23 24 25 26 28 28 36 37 38 40 41
+GLOBAL FOOTPRINT NETWORK promotes a sustainable economy by advancing the Ecological Footprint, a tool that makes sustainability measurable. Together with its partners, the Network coordinates research, develops methodological standards, and provides decision makers with robust resource accounts to help the human economy operate within the Earth’s ecological limits. ZOOLOGICAL SOCIETY OF LONDON Founded in 1826, the Zoological Society of London (ZSL) is an international scientific, conservation, and educational organization. Its mission is to achieve and promote the worldwide conservation of animals and their habitats. ZSL runs London Zoo and Whipsnade Wild Animal Park, carries out scientific research in the Institute of Zoology, and is actively involved in field conservation worldwide. WWF (also known as World Wildlife Fund in the USA and Canada) is one of the world’s largest and most experienced independent conservation organizations, with almost 5 million supporters and a global network active in over 100 countries. WWF’s mission is to stop the degradation of the planet’s natural environment and to build a future in which humans live in harmony with nature. EDITOR IN CHIEF Chris Hails1 EDITORS Jonathan Loh1, 2 Steven Goldfinger 3 LIVING PLANET INDEX Jonathan Loh1, 2 Ben Collen2 Louise McRae2 Sarah Holbrook2 Rajan Amin2 Mala Ram2 Jonathan E.M. Baillie2 ECOLOGICAL FOOTPRINT Mathis Wackernagel 3 Steven Goldfinger 3 Justin Kitzes3 Audrey Peller 3 Jonathan Loh1, 2 Paul Wermer 3 Gary Gibson3 Josh Kearns3 Robert Williams3 Susan Burns3 Brooking Gatewood3 SCENARIOS Mathis Wackernagel 3 Justin Kitzes3 Steven Goldfinger 3 Audrey Peller3 Jonathan Loh1, 2 1. WWF INTERNATIONAL Avenue du Mont-Blanc CH-1196 Gland Switzerland www.panda.org 2. INSTITUTE OF ZOOLOGY Zoological Society of London Regent’s Park London NW1 4RY, UK www.zoo.cam.ac.uk/ioz 3. GLOBAL FOOTPRINT NETWORK 1050 Warfield Ave Oakland, CA 94610, USA www.footprintnetwork.org
+
+FOREWORD
+began its Living Planet Reports in 1998 to show the state of the natural world and the impact of human activity upon it. Since then we have continuously refined and developed our measures of the state of the Earth. And it is not good news. The Living Planet Report 2006 confirms that we are using the planet’s resources faster than they can be renewed – the latest data available (for 2003) indicate that humanity’s Ecological Footprint, our impact upon the planet, has more than tripled since 1961. Our footprint now exceeds the world’s ability to regenerate by about 25 per cent. The consequences of our accelerating pressure on Earth’s natural systems are both predictable and dire. The other index in this report, the Living Planet Index, shows a rapid and continuing loss of biodiversity – populations of vertebrate species have declined by about one third since 1970. This confirms previous trends. The message of these two indices is clear and urgent: we have been exceeding the Earth’s ability to support our lifestyles for the past 20 years, and we need to stop. We must balance our consumption with the natural world’s capacity to regenerate and absorb our wastes. If we do not, we risk irreversible damage.
+
+WWF
+
+We know where to start. The biggest contributor to our footprint is the way in which we generate and use energy. The Living Planet Report indicates that our reliance on fossil fuels to meet our energy needs continues to grow and that climate-changing emissions now make up 48 per cent – almost half – of our global footprint. We also know, from this report, that the challenge of reducing our footprint goes to the very heart of our current models for economic development. Comparing the Ecological Footprint with a recognized measure of human development, the United Nations Human Development Index, the report clearly shows that what we currently accept as “high development’’ is a long way away from the world’s stated aim of sustainable development. As countries improve the wellbeing of their people, they are bypassing the goal of sustainability and going into what we call “overshoot” – using far more resources than the planet can sustain. It is inevitable that this path will limit the abilities of poor countries to develop and of rich countries to maintain prosperity. It is time to make some vital choices. Change that improves living standards while reducing our impact on the natural world will not be easy. But we must recognize that choices we make now will shape our opportunities far into
+
+the future. The cities, power plants, and homes we build today will either lock society into damaging overconsumption beyond our lifetimes, or begin to propel this and future generations towards sustainable living. The good news is that this can be done. We already have technologies that can lighten our footprint, including many that can significantly reduce climate-threatening carbon dioxide emissions. And some are getting started. WWF is working with leading companies that are taking action to reduce the footprint – cutting carbon emissions, and promoting sustainability in other sectors, from fisheries to forests. We are also working with governments who are striving to stem biodiversity loss by protecting vital habitats on an unprecedented scale. But we must all do more. The message of the Living Planet Report 2006 is that we are living beyond our means, and that the choices each of us makes today will shape the possibilities for the generations which follow us.
+
+James P. Leape Director General, WWF International
+
+LIVING PLANET REPORT 2006 1
+
+INTRODUCTION
+This report describes the changing state of global biodiversity and the pressure on the biosphere arising from human consumption of natural resources. It is built around two indicators: the Living Planet Index, which reflects the health of the planet’s ecosystems; and the Ecological Footprint, which shows the extent of human demand on these ecosystems. These measures are tracked over several decades to reveal past trends, then three scenarios explore what might lie ahead. The scenarios show how the choices we make might lead to a sustainable society living in harmony with robust ecosystems, or to the collapse of these same ecosystems, resulting in a permanent loss of biodiversity and erosion of the planet’s ability to support people. The Living Planet Index measures trends in the Earth’s biological diversity. It tracks populations of 1 313 vertebrate species – fish, amphibians, reptiles, birds, mammals – from all around the world. Separate indices are produced for terrestrial, marine, and freshwater species, and the three trends are then averaged to create an aggregated index. Although vertebrates represent only a fraction of known species, it is assumed that trends in their populations are typical of biodiversity overall. By tracking wild species, the Living Planet Index is also monitoring the health of ecosystems. Between 1970 and 2003, the index fell by about 30 per cent. This global trend suggests that we are degrading natural ecosystems at a rate unprecedented in human history. Biodiversity suffers when the biosphere’s productivity cannot keep pace with human consumption and waste generation. The Ecological Footprint tracks this in terms of the area of biologically productive land and water needed to provide ecological resources and services – food, fibre, and timber, land on which to build, and land to absorb carbon dioxide (CO2) released by burning fossil fuels. The Earth’s biocapacity is the amount of biologically productive area – cropland, pasture, forest, and fisheries – that is available to meet humanity’s needs. Freshwater consumption is not included in the Ecological Footprint; rather it is addressed in a separate section of the report. Since the late 1980s, we have been in overshoot – the Ecological Footprint has exceeded the Earth’s biocapacity – as of 2003 by about 25 per cent. Effectively, the Earth’s regenerative capacity can no longer keep up with demand – people are turning resources into waste faster than nature can turn waste back into resources. Humanity is no longer living off nature’s interest, but drawing down its capital. This growing pressure on ecosystems is causing habitat destruction or degradation and permanent loss of productivity, threatening both biodiversity and human well-being. For how long will this be possible? A moderate business-as-usual scenario, based on United Nations projections showing slow, steady growth of economies and populations, suggests that by midcentury, humanity’s demand on nature
+
+Fig. 1: LIVING PLANET INDEX, 1970–2003
+1.8 1.6 1.4 1.2 1.0 0.8 0.6 0.4 0.2 0
+
+Fig. 2: HUMANITY’S ECOLOGICAL FOOTPRINT, 1961–2003
+1.8 1.6 1.4 Number of planet Earths 1.2 1.0 0.8 0.6 0.4 0.2 0
+
+Index (1970=1.0)
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+03
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+03
+
+2 LIVING PLANET REPORT 2006
+
+will be twice the biosphere’s productive capacity. At this level of ecological deficit, exhaustion of ecological assets and large-scale ecosystem collapse become increasingly likely. Two different paths leading to sustainability are also explored. One entails a slow shift from our current route, the other a more rapid transition to sustainability. The Ecological Footprint allows us to estimate the cumulative ecological deficit that will accrue under each of these scenarios: the larger this ecological debt, and the longer it persists, the greater the risk of damage to the planet. This risk must be considered in concert with the economic costs and potential social disruptions associated with each path.
+
+Moving towards sustainability depends on significant action now. Population size changes slowly, and human-made capital – homes, cars, roads, factories, or power plants – can last for many decades. This implies that policy and investment decisions made today will continue to determine our resource demand throughout much of the 21st century. As the Living Planet Index shows, human pressure is already threatening many of the biosphere’s assets. Even moderate “business as usual” is likely to accelerate these negative impacts. And given the slow response of many biological systems, there is likely to be a considerable time lag before ecosystems benefit significantly from people’s positive actions.
+
+We share the Earth with 5–10 million species or more. By choosing how much of the planet’s biocapacity we appropriate, we determine how much is left for their use. To maintain biodiversity, it is essential that a part of the biosphere’s productive capacity is reserved for the survival of other species, and that this share is split between all biogeographic realms and major biomes. To manage the transition to sustainability, we need measures that demonstrate where we have been, where we are today, and how far we still have to go. The Living Planet Index and the Ecological Footprint help to establish baselines, set targets, and monitor achievements and failures. Such vital information can stimulate the creativity and innovation required to address humanity’s
+
+biggest challenge: how can we live well while sustaining the planet’s other species and living within the capacity of one Earth?
+Figure 1: Living Planet Index. This shows trends in populations of terrestrial, marine, and freshwater vertebrate species. It declined by 29 per cent from 1970 to 2003. Figure 2: Humanity’s Ecological Footprint. This estimates how much of the productive capacity of the biosphere people use. Figure 3: Three Ecological Footprint scenarios. Two may lead to sustainability. Table 1: Ecological demand and supply. Countries with the highest total footprints.
+
+LIVING PLANET ECOLOGICAL FOOTPRINT
+
+Fig. 3: THREE ECOLOGICAL FOOTPRINT SCENARIOS, 1961–2100
+1.8 1.6 1.4 Number of planet Earths 1.2 1.0 0.8 0.6 0.4 0.2 0 2003–2100, scenarios Moderate business as usual (to 2050) Slow shift Rapid reduction
+
+Table 1: ECOLOGICAL DEMAND AND SUPPLY IN SELECTED COUNTRIES, 2003
+
+SCENARIOS
+
+1961–2003 Ecological Footprint
+
+Total Ecological Footprint (million 2003 gha) World United States of America China India Russian Federation Japan Brazil Germany France United Kingdom Mexico Canada Italy
+2100
+
+Per capita Ecological Footprint (gha/person) 2.2 9.6 1.6 0.8 4.4 4.4 2.1 4.5 5.6 5.6 2.6 7.6 4.2
+
+Biocapacity (gha/ person) 1.8 4.7 0.8 0.4 6.9 0.7 9.9 1.7 3.0 1.6 1.7 14.5 1.0
+
+Ecological reserve/deficit (-) (gha/person) -0.4 -4.8 -0.9 -0.4 2.5 -3.6 7.8 -2.8 -2.6 -4.0 -0.9 6.9 -3.1
+
+14 073 2 819 2 152 802 631 556 383 375 339 333 265 240 239
+
+DATA AND TABLES
+
+1960
+
+1980
+
+2000
+
+2020
+
+2040
+
+2060
+
+2080
+
+Notes: Totals may not add up due to rounding. For an explanation of global hectares (gha) see page 38.
+
+LIVING PLANET REPORT 2006 3
+
+LIVING PLANET INDEX
+The Living Planet Index is a measure of the state of the world’s biodiversity based on trends from 1970 to 2003 in over 3 600 populations of more than 1 300 vertebrate species from around the world. It is calculated as the average of three separate indices that measure trends in populations of 695 terrestrial species, 274 marine species, and 344 freshwater species. The index shows an overall decline of around 30 per cent over the 33-year period, as do each of the terrestrial, marine, and freshwater indices individually. The decline in the indices, and in particular the freshwater index, is less than in previous reports, because the indices have been aggregated in a different way, designed to reduce the degree of uncertainty around them (see technical notes, page 37). No attempt is made to select species on the basis of geography, ecology, or taxonomy, so the index dataset contains more population trends from wellresearched groups, especially birds, and well-studied regions, particularly Europe and North America. In compensation, temperate and tropical regions are given equal weight (with equal weight to each species in each region) within the terrestrial and freshwater indices, and to ocean basins within the marine index (see pages 6–11). The map opposite shows the Earth’s surface divided into 14 terrestrial biomes, or habitat types, and eight biogeographic realms. The biomes are based on habitat cover (agricultural and urban land is classified according to potential vegetation type) and realms are defined according to biological evolutionary history. Although ecosystems within a single biome share the same ecological processes and vegetation types, their exact species composition varies depending on the realm in which they are found. Patterns in freshwater biodiversity follow similar distinctions based on biogeographic realms, but marine realms are less well defined, partly because marine species tend to be distributed more widely across the world’s oceans.
+Figure 4: Terrestrial Living Planet Index. The terrestrial species index shows a 31 per cent decline on average from 1970 to 2003. Figure 5: Marine Living Planet Index. The marine species index shows an average decline of 27 per cent between 1970 and 2003. Figure 6: Freshwater Living Planet Index. The freshwater species index declined by approximately 28 per cent between 1970 and 2003. Map 1: Terrestrial biogeographic realms and biomes.
+
+Fig. 4: TERRESTRIAL LIVING PLANET INDEX, 1970–2003
+1.8 1.6 1.4 Index (1970=1.0)
+
+Fig. 5: MARINE LIVING PLANET INDEX, 1970–2003
+1.8 1.6 1.4 Index (1970=1.0)
+
+Fig. 6: FRESHWATER LIVING PLANET INDEX, 1970–2003
+1.8 1.6 1.4 Index (1970=1.0) 1.2 1.0 0.8 0.6 0.4 0.2 0 Freshwater index Living Planet Index
+
+1.2 1.0 0.8 0.6 0.4 0.2 0 Terrestrial index Living Planet Index
+
+1.2 1.0 0.8 0.6 0.4 0.2 0 Marine index Living Planet Index
+
+1970
+
+1980
+
+1990
+
+2000 03
+
+1970
+
+1980
+
+1990
+
+2000 03
+
+1970
+
+1980
+
+1990
+
+2000 03
+
+4 LIVING PLANET REPORT 2006
+
+LIVING PLANET
+
+Palaearctic Nearctic
+
+Oceanic
+
+Indomalayan
+
+Oceanic
+
+Neotropical
+
+Afrotropical Australasian
+
+Antarctic
+
+Map 1: TERRESTRIAL BIOGEOGRAPHIC REALMS AND BIOMES
+Tropical and subtropical moist broadleaf forests Tropical and subtropical dry broadleaf forests Tropical and subtropical coniferous forests Temperate broadleaf and mixed forests Temperate coniferous forests Boreal forests/taiga Tropical and subtropical grasslands, savannahs, and shrublands Temperate grasslands, savannahs, and shrublands Flooded grasslands and savannahs Montane grasslands and shrublands Tundra Mediterranean forests, woodlands, and scrub Deserts and xeric shrublands Mangroves Water bodies Rock and ice
+
+LIVING PLANET REPORT 2006 5
+
+TERRESTRIAL SPECIES
+Populations of terrestrial species declined by about 30 per cent on average between 1970 and 2003. This decline hides a marked difference in trends between temperate and tropical species. Tropical species populations declined by around 55 per cent on average from 1970 to 2003, while temperate species populations, which would have shown marked declines prior to 1970, have shown little overall change since. Figure 7 shows average trends in populations of 695 temperate and tropical terrestrial species (of which 562 occur in temperate zones and 150 in tropical zones), indexed to a value of one in 1970. The rapid rate of population decline in tropical species is mirrored by the loss of natural habitat to cropland or pasture in the tropics between 1950 and 1990 (Figure 9), agricultural conversion being the main driver. The tropical forests of Southeast Asia, part of the Indomalayan biogeographic realm, have seen the fastest conversion in the last two decades. In temperate ecosystems, the conversion of natural habitat to farmland largely took place before 1950, when populations of temperate species are likely to have declined, before stabilizing. The biomes (see Map 1) with the fastest rate of conversion in the last half of the 20th century were tropical grasslands, flooded grasslands, and tropical dry forests (Figure 8). Temperate, tropical, and flooded grasslands, Mediterranean woodlands, temperate broadleaf forests, and tropical dry forests have all lost more than half of their estimated original habitat cover. The biomes least transformed by agricultural conversion are boreal forests and tundra.
+Figure 7: Temperate and tropical terrestrial Living Planet Indices. Tropical terrestrial species populations declined by 55 per cent on average from 1970 to 2003; temperate species populations remained fairly stable. Figure 8: Loss of natural habitat, by biome. With the exceptions of Mediterranean and temperate mixed forests, where extensive habitat loss stabilized after 1950 because most land suitable for agriculture had already been converted, the biomes which lost most habitat prior to 1950 continued to lose it rapidly between 1950 and 1990 (Millennium Ecosystem Assessment, 2005). Figure 9: Loss of natural habitat to agriculture, by realm. The rate of natural habitat loss over this period was greatest in the tropics. Agriculture expanded in Australasia at a rate similar to the Neotropics, but there was a relatively low level of cultivation in 1950 (Millennium Ecosystem Assessment, 2005). See Map 1 for the boundaries of the realms. Map 2: Trends in selected terrestrial species populations. These are not necessarily indicative of general species trends in each region, but illustrative of the kinds of data used in the terrestrial index.
+
+Fig. 7: TEMPERATE AND TROPICAL TERRESTRIAL LIVING PLANET INDICES, 1970–2003
+1.8 1.6 1.4 Index (1970=1.0) 1.2 1.0 0.8 0.6 0.4 0.2 0 Terrestrial index Temperate Tropical
+
+Fig. 8: LOSS OF NATURAL HABITAT, BY BIOME, to 1990 (as % of estimated original area)
+Tundra
+(no significant change)
+
+Fig. 9: LOSS OF NATURAL HABITAT TO AGRICULTURE, BY REALM, 1950–1990 (as % of 1950 area)
+Pre-1950 1950–1990 Nearctic
+(no significant change)
+
+Boreal forests/taiga Temperate coniferous forests Tropical and subtropical moist broadleaf forests Montane grasslands and shrublands Deserts and xeric shrublands Mangroves Tropical and subtropical coniferous forests Tropical and subtropical grasslands, savannahs, and shrublands Flooded grasslands and savannahs Tropical and subtropical dry broadleaf forests Temperate broadleaf and mixed forests Mediterranean forests, woodlands, and scrub Temperate grasslands, savannahs, and shrublands
+
+■ ■
+
+■ ■
+
+To cropland To pasture
+
+Palaearctic
+
+Afrotropical
+
+Indomalayan
+
+Neotropical
+
+Australasian
+
+1970
+
+1980
+
+1990
+
+2000 03
+
+0
+
+%
+
+20
+
+40
+
+60
+
+80
+
+0
+
+%
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+6 LIVING PLANET REPORT 2006
+
+LIVING PLANET
+
+1970 2003 Corncrake 1970 2003 Bell’s vireo
+
+1970 2003 Elk, moose
+
+1970 2003 Black rat snake 1970 2003 Pileated woodpecker 1970 2003 Waldrapp, northern bald ibis
+
+1970 2003 1970 2003 Alpine ibex Grey wolf
+
+1970 2003 Long-billed vulture
+
+1970 `I`iwi
+
+2003
+
+1970 2003 Mona Island lizard 1970 2003 Slender anole
+
+2003 1970 2003 1970 Hartebeest Mountain gorilla
+
+1970 2003 Javan rhinoceros
+
+2003 1970 2003 1970 Wildebeest Cape vulture
+
+1970 2003 Helmeted honeyeater
+
+1970 2003 Northern hairynosed wombat
+
+Map 2: TRENDS IN SELECTED TERRESTRIAL SPECIES POPULATIONS, 1970–2003
+Common name `I`iwi Bell’s vireo Black rat snake Pileated woodpecker Mona Island lizard Slender anole Corncrake Elk, moose Waldrapp, northern bald ibis Alpine ibex Species Vestiaria coccinea Vireo bellii Elaphe obsoleta Dryocopus pileatus Cyclura cornuta Anolis limifrons Crex crex Alces alces Geronticus eremita Capra ibex Location of population surveyed Hawaii, United States United States and Canada Hill Island, Ontario, Canada United States and Canada Mona Island, Puerto Rico Barro Colorado Island, Panama United Kingdom Lithuania Morocco Gran Paradiso National Park, Italy Common name Grey wolf Mountain gorilla Hartebeest Cape vulture Wildebeest Long-billed vulture Javan rhinoceros Helmeted honeyeater Northern hairy-nosed wombat Species Canis lupus Gorilla beringei Alcelaphus buselaphus Gyps coprotheres Connochaetes taurinus Gyps indicus Rhinoceros sondaicus Lichenostomus melanops Lasiorhinus krefftii Location of population surveyed Greece Virunga range: Democratic Republic of the Congo, Rwanda, and Uganda Uganda South Africa Ngorongoro Crater, Tanzania Northern India Java, Indonesia Australia Australia
+
+LIVING PLANET REPORT 2006 7
+
+MARINE SPECIES
+The marine environment, which covers almost 70 per cent of the Earth’s surface, includes some of the world’s most diverse and productive ecosystems, but these were adversely affected by human action over the last half of the 20th century. The marine index is split by ocean basin. The Pacific Ocean, the largest, covers more than a third of the planet’s surface. The Atlantic Ocean includes the Arctic basin. The Indian Ocean includes the coastal seas of Southeast Asia for the purposes of the index. The Southern Ocean comprises the seas around Antarctica, its northern limit defined as the line of latitude 60ºS. The marine index includes trends in 1 112 populations of 274 species between 1970 and 2003, and shows a greater than 25 per cent decline on average across the four ocean basins. Relatively stable trends are evident in the Pacific and in the Arctic/Atlantic Oceans, in comparison with dramatic declines in the Indian/Southeast Asian and Southern Oceans. Overall increases in the populations of sea birds and some mammal species in the Atlantic and Pacific Oceans since 1970, however, mask a decline in many fish species, especially those of economic importance such as cod and tuna, which are decreasing as a result of overfishing, as well as turtles and other species that are caught as by-catch. There are comparatively few data from the Southern and Indian Oceans, so those indices end in 1997 and 2000. Mangroves – saltwater-tolerant, inter-tidal forests growing along tropical shorelines – are among the most productive ecosystems on Earth and critical to the health of tropical marine ecosystems. Mangroves provide nurseries for 85 per cent of commercial fish species in the tropics and are essential in maintaining fish stocks and hence food resources. Mangroves are being degraded or destroyed at about twice the rate of tropical forests. It is estimated that more than a third of the global area of mangrove forest was lost between 1990 and 2000 (Figure 12).
+Figure 10: Arctic/Atlantic and Southern Ocean Living Planet Indices. Populations of Southern Ocean species declined by about 30 per cent between 1970 and 1998, while trends in the Arctic/Atlantic Ocean increased overall. Figure 11: Indian/Southeast Asian and Pacific Ocean Living Planet Indices. The Indian Ocean and Southeast Asian seas saw average declines of more than half between 1970 and 2000, while trends in Pacific Ocean species remained stable overall. Figure 12: Mangrove area, by region. More than a quarter of Asia’s mangrove cover was lost in the ten-year period preceding 2000. In South America, almost half was lost over the same period (Mayaux et al., 2005). Map 3: Trends in selected marine species populations. These are not necessarily indicative of general species trends in each region, but illustrative of the kinds of data used in the Living Planet Index.
+
+Fig. 10: ARCTIC/ATLANTIC AND SOUTHERN OCEAN LIVING PLANET INDICES, 1970–2003
+1.8 1.6 1.4 Index (1970=1.0)
+
+Fig. 11: INDIAN/SOUTHEAST ASIAN AND PACIFIC OCEAN LIVING PLANET INDICES, 1970–2003
+1.8 1.6 1.4 Index (1970=1.0) 1.2 1.0 0.8 0.6 0.4 0.2 0 Marine index Pacific Ocean Indian/Southeast Asian Ocean
+
+Fig. 12: MANGROVE AREA, BY REGION, 1990–2000
+South America
+
+■ ■
+
+2000 1990
+
+1.2 1.0 0.8 0.6 0.4 0.2 0 Marine index Arctic/Atlantic Oceans Southern Ocean
+
+Africa
+
+Asia
+
+1970
+
+1980
+
+1990
+
+2000 03
+
+1970
+
+1980
+
+1990
+
+2000 03
+
+0
+
+million ha
+
+2
+
+4
+
+6
+
+8
+
+8 LIVING PLANET REPORT 2006
+
+LIVING PLANET
+
+1970 2003 Blue whale 1970 2003 Arrowtooth flounder 1970 2003 Porbeagle shark 1970 2003 Swordfish 1970 2003 Black skimmer 1970 2003 Kemp’s ridley turtle
+
+1970 2003 Minke whale
+
+1970 2003 Capelin
+
+1970 2003 Polar bear
+
+1970 2003 Sea otter
+
+1970 2003 Cory’s shearwater
+
+1970 2003 Bottlenose dolphin
+
+1970 2003 Galapagos penguin
+
+1970 2003 Dugong
+
+1970 2003 Yellowfin tuna
+
+1970 2003 Loggerhead turtle
+
+1970 2003 Jackass penguin
+
+1970 2003 New Zealand snapper 1970 2003 Fin whale 1970 2003 Black-browed albatross
+
+Map 3: TRENDS IN SELECTED MARINE SPECIES POPULATIONS, 1970–2003
+Common name Arrowtooth flounder Sea otter Porbeagle shark Black skimmer Kemp’s ridley turtle Galapagos penguin Fin whale Blue whale Minke whale Capelin Species Atheresthes stomias Enhydra lutris Lamna nasus Rynchops niger Lepidochelys kempii Spheniscus mendiculus Balaenoptera physalus Balaenoptera musculus Balaenoptera acutorostrata Mallotus villosus Location of population surveyed Aleutian Islands, Bering Sea, North Pacific Washington State, United States, North Pacific Canada, North Atlantic Caribbean Sea/Gulf of Mexico Mexico, Caribbean Sea/Gulf of Mexico Galapagos, Ecuador, South Pacific Southern Ocean Iceland, North Atlantic Iceland, North Atlantic Arctic Ocean Common name Swordfish Cory’s shearwater Bottlenose dolphin Dugong Yellowfin tuna Jackass penguin Black-browed albatross Polar bear Loggerhead turtle New Zealand snapper Species Xiphias gladius Calonectris diomedea Tursiops aduncus Dugong dugon Thunnus albacares Spheniscus demersus Thalassarche melanophris Ursus maritimus Caretta caretta Pagrus auratus Location of population surveyed North Atlantic Malta, Mediterranean Sea/Black Sea United Arab Emirates, Indian Ocean Kenya, Indian Ocean Indian Ocean South Africa, South Atlantic Southern Ocean Arctic Ocean Wreck Island, Australia Hauraki Gulf/Bay of Plenty, South Pacific
+
+LIVING PLANET REPORT 2006 9
+
+F R E S H WAT E R S P E C I E S
+An estimated 45 000 vertebrate species live in or around lakes, rivers, streams, and wetlands. Their population trends are indicative of the health of the world’s freshwater ecosystems. The freshwater index (Figure 13) shows average trends in 344 species (of which 287 occur in temperate zones and 51 in tropical zones). Species populations in both declined by about 30 per cent between 1970 and 2003. There is a difference in trends between freshwater birds, which appear to have been relatively stable, and other freshwater species, which have declined on average by about 50 per cent over the same period. The main drivers are habitat destruction, overfishing, invasive species, pollution, and the disruption of river systems for water supplies. The decline in the freshwater index is less than previously, as it has been aggregated differently to bring it in line with the terrestrial index (see technical notes, page 37). It also contains a number of new species. The alteration and damming of river systems for industrial and domestic use, irrigation, and hydroelectric power have fragmented more than half of the world’s large river systems. Some 83 per cent of their total annual flow is affected – 52 per cent moderately; 31 per cent severely – with Europe’s river flow being the most regulated and Australasia’s the least (Figure 15). Worldwide, the amount of water stored in reservoirs behind dams is three to six times the quantity contained in rivers. Fragmentation and alteration of natural river flows affects the productivity of wetlands, flood plains, and deltas, disrupts the migration and dispersal of fish, and causes declines in freshwater species. Mediterranean woodlands, deserts and xeric shrublands, temperate broadleaved forests, and temperate, flooded, and montane grassland biomes all have more than 70 per cent (by catchment area) of their large river systems severely disrupted, primarily for irrigation (Figure 14). Tundra is the only biome where they are mainly unaffected.
+Figure 13: Temperate and tropical freshwater Living Planet Indices. Temperate and tropical species populations declined by around 30 per cent overall from 1970 to 2003. Figure 14: Fragmentation and flow regulation of large river systems, by biome. Percentage of the total area within catchments of 14 terrestrial biomes severely or moderately impacted by dams (Nilsson et al., 2005). See Table 6, page 37. Figure 15: Fragmentation and flow regulation of large river systems, by region. Percentage of total annual discharge severely or moderately impacted by dams (Nilsson et al., 2005). See Table 6, page 37. Map 4: Trends in selected freshwater species populations. These are not necessarily indicative of general species trends in each region, but illustrative of the kinds of data used in the Living Planet Index.
+
+Fig. 13: TEMPERATE AND TROPICAL FRESHWATER LIVING PLANET INDICES, 1970–2003
+1.8 1.6 1.4 Index (1970=1.0) 1.2 1.0 0.8 0.6 0.4 0.2 0 Freshwater index Temperate Tropical
+
+Fig. 14: FRAGMENTATION AND FLOW REGULATION OF LARGE RIVER SYSTEMS, BY BIOME
+Tundra Mangroves Tropical and subtropical moist broadleaf forests Boreal forests/taiga Tropical and subtropical coniferous forests Tropical and subtropical dry broadleaf forests Temperate coniferous forests Tropical and subtropical grasslands, savannahs, and shrublands Montane grasslands and shrublands Flooded grasslands and savannahs Temperate grasslands, savannahs, and shrublands Temperate broadleaf and mixed forests Deserts and xeric shrublands Mediterranean forests, woodlands, and scrub
+
+Fig. 15: FRAGMENTATION AND FLOW REGULATION OF LARGE RIVER SYSTEMS, BY REGION
+Australasia
+
+■ ■
+
+Strongly affected Moderately affected
+
+■ ■
+
+Strongly affected Moderately affected
+
+South America
+
+Africa
+
+Asia
+
+North and Central America
+
+Europe
+
+1970
+
+1980
+
+1990
+
+2000 03
+
+0
+
+%
+
+20
+
+40
+
+60
+
+80
+
+100
+
+0
+
+%
+
+20
+
+40
+
+60
+
+80
+
+100
+
+10 LIVING PLANET REPORT 2006
+
+LIVING PLANET
+
+1970 2003 Atlantic salmon 1970 2003 Pink salmon 1970 2003 Ornate chorus frog 1970 2003 Bittern 1970 2003 Box turtle
+
+1970 2003 Great crested grebe
+
+1970 2003 Indus blind dolphin 1970 2003 American crocodile 1970 2003 Black-faced spoonbill 1970 2003 Fish eagle 1970 2003 Pink-backed pelican
+
+1970 2003 Northern pintail
+
+1970 2003 Atitlan grebe
+
+1970 2003 Gharial
+
+1970 2003 Andean flamingo
+
+1970 2003 African bullfrog
+
+1970 2003 Western swamp tortoise 1970 2003 Estuarine crocodile 1970 2003 Northern corroboree frog
+
+Map 4: TRENDS IN SELECTED FRESHWATER SPECIES POPULATIONS, 1970–2003
+Common name Pink salmon Ornate chorus frog Box turtle Northern pintail Atitlan grebe American crocodile Andean flamingo Bittern Atlantic salmon Great crested grebe Species Oncorhynchus gorbuscha Pseudacris ornata Terrapene carolina Anas acuta Podilymbus gigas Crocodylus acutus Phoenicoparrus andinus Botaurus stellaris Salmo salar Podiceps cristatus Location of population surveyed Alaska, United States Rainbow Bay, S. Carolina, United States Maryland, United States Mexico Guatemala Lago Enriquillo, Dominican Republic Andes Mountains, South America United Kingdom Norway Sweden Common name Fish eagle Pink-backed pelican African bullfrog Indus blind dolphin Gharial Black-faced spoonbill Estuarine crocodile Western swamp tortoise Northern corroboree frog Species Haliaeetus vocifer Pelecanus rufescens Pyxicephalus adspersus Platanista minor Gavialis gangeticus Platalea minor Crocodylus porosus Pseudemydura umbrina Pseudophryne pengilleyi Location of population surveyed Uganda Uganda Midrand, South Africa Indus River, Pakistan India Hong Kong, China Australia Ellen Brook Reserve, Perth, Australia Ginini Flats, Australia
+
+LIVING PLANET REPORT 2006 11
+
+W AT E R W I T H D R A W A L S
+Fig. 16: ANNUAL WATER WITHDRAWALS PER PERSON, BY COUNTRY, 1998–2002
+5.5
+
+5.0
+
+■ ■ ■
+
+10
+
+0%
+
+Domestic use Industrial use Agricultural use Breakdown not available
+
+4.5
+
+WATER STRESS Withdrawals-to-availability ratio
+
+4.0
+
+Thousand m3 per person per year
+
+3.5
+
+● ● ● ● ●
+●
+
+More than 100% 40–100% 20–40% 5–20% Less than 5% Insufficient data
+
+3.0
+
+Actual percentage shown above each bar
+
+2.5
+6% 11 32 % %
+
+Freshwater is not included in the Ecological Footprint because the demand for and use of this resource cannot be expressed in terms of the global hectares that make up the footprint. It is nonetheless critical to both human and ecosystem health. There are around 35 million km3 of freshwater in the world, but nearly 70 per cent of this is ice, and about 30 per cent is groundwater. Less than 1 per cent of it fills the Earth’s lakes, rivers, streams, and wetlands. Each year about 110 000 km3 of water falls on land as precipitation, and after plants have used most of it, around 40 000 km3 finds its way to the sea as runoff. This runoff represents the world’s total renewable freshwater resource, on which agriculture, industry,
+
+and domestic water supply ultimately depend. Water withdrawals worldwide amount to approximately 4 000 km3 per year, equivalent to about 10 per cent of global freshwater runoff. Although freshwater is not considered a scarce resource globally, much of it is geographically inaccessible or not available throughout the year. Of the annual freshwater runoff that is readily accessible to human populations, about 54 per cent is withdrawn for domestic water supply, industrial use or, most importantly, irrigation. Freshwater resources are far from evenly distributed around the world, and many countries withdraw more than can be sustained without placing pressure on freshwater ecosystems. A widely used
+
+57
+
+49
+
+% 75 57 % 16 % 2% %
+
+2.0
+
+21
+
+4%
+
+49 5%
+
+%
+
+1.5
+
+%
+
+%
+
+%
+
+% 76
+
+76
+
+58
+
+% 16
+
+% 53
+
+%
+
+% 36
+
+7% 11
+
+11
+
+8%
+
+1% 53 3 23 % % 7%
+
+4%
+
+32
+
+42
+
+% 1%
+
+1.0
+
+28
+
+% 2%
+
+%
+
+%
+
+%
+
+4%
+
+71
+
+2%
+
+1%
+
+27
+
+17
+
+%
+
+10 % 6%
+
+1
+
+21 % 3%
+
+72
+
+22
+
+%
+
+%
+
+2%
+
+20
+
+25
+
+%
+
+%
+
+31 % 7%
+
+0. 6% 4%
+
+34
+
+9%
+
+15
+
+%
+
+%
+
+22 % 9%
+
+2%
+
+7%
+
+6%
+
+20
+
+% 2%
+
+18
+
+0.
+
+22
+
+%
+
+5% 12 % 16 % 27 % 31 % 3%
+
+26
+
+43
+
+2%
+
+12 LIVING PLANET REPORT 2006
+
+● ● KAZAKHSTAN ● AZERBAIJAN ● KYRGYZSTAN ● TAJIKISTAN ● IRAQ ● UNITED STATES OF AMERICA ● CANADA ● THAILAND ● ECUADOR ● BULGARIA ● AUSTRALIA ● SYRIA ● SUDAN ● PAKISTAN ● PORTUGAL ● IRAN ● ROMANIA ● AFGHANISTAN ● EGYPT ● ARMENIA ● URUGUAY ● VIET NAM ● MADAGASCAR ● SPAIN ● BELGIUM/LUXEMBOURG ● CHILE ● LIBYA ● UNITED ARAB EMIRATES ● ITALY ● HUNGARY ● ARGENTINA ● UKRAINE ● MEXICO ● PERU ● SAUDI ARABIA ● CUBA ● GREECE ● GEORGIA ● JAPAN ● MYANMAR ● FRANCE ● SRI LANKA ● COSTA RICA ● INDIA ● MAURITANIA ● GERMANY ● BANGLADESH ● NEW ZEALAND ● ALBANIA ● LAO PDR ● MOLDOVA, REP. ● TURKEY ● RUSSIAN FEDERATION ● MALI ● MAURITIUS ● NETHERLANDS ● NORWAY ● CHINA ● FINLAND ● POLAND ● MOROCCO ● NEPAL ● KOREA, DPR ● DOMINICAN REP. ● KOREA, REP. ● LEBANON ● INDONESIA ● MALAYSIA ● PHILIPPINES ●
+TURKMENISTAN UZBEKISTAN
+
+0
+
+6%
+
+0.5
+
+%
+
+0.
+
+indicator of water stress is the withdrawalsto-availability (wta) ratio. This measures a population’s total annual water withdrawals against the annual renewable water resource available to it: the higher the ratio, the greater the stress being placed on freshwater resources. According to this measure, withdrawals of 5–20 per cent represent mild stress, 20–40 per cent moderate stress, and above 40 per cent severe stress. Where water use, particularly for irrigation, cannot be sustained by withdrawing surface runoff from rivers, groundwater sources are tapped. Increased pumping of groundwater resources is drawing down the water table in many parts of the world, especially in the western United States of America, northern China,
+
+and many parts of South Asia, at rates in excess of a metre per year. Globally, it is estimated that 15–35 per cent of irrigation withdrawals are not sustainable.
+Figure 16: Annual water withdrawals per person, by country. More than 40 per cent, severe stress; 20–40 per cent, moderate stress; 5–20 per cent, mild stress (FAO, 2004; Shiklomanov, 1999). Figure 17: Global water withdrawals, by sector. Water use doubled between 1960 and 2000, which means that average per person water use has remained constant. Agriculture uses about 70 per cent of global water withdrawals and industry about 20 per cent (FAO, 2004; Shiklomanov, 1999).
+
+Fig. 17: GLOBAL WATER WITHDRAWALS, BY SECTOR, 1960–2003
+4.0 3.5 3.0 Thousand km3 per year 2.5 2.0 1.5 1.0 0.5 0
+
+est.
+
+LIVING PLANET
+
+■ ■ ■
+
+Domestic use Industrial use Agricultural use
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+03
+
+2%
+
+0. 7% 2%
+
+5%
+
+3%
+
+%
+
+%
+
+0. 9% 2%
+
+22
+
+16
+
+0. 6% 3%
+
+21
+
+12
+
+%
+
+%
+
+5%
+
+0. 7% 8%
+
+0 1% %
+
+5%
+
+%
+
+21 % 6%
+
+25
+
+5%
+
+57
+
+20
+
+7%
+
+%
+
+0. 2% 2%
+
+0.
+
+5%
+
+6%
+
+20
+
+8%
+
+2%
+
+9%
+
+52
+
+11
+
+0. 6% 7%
+
+6%
+
+4%
+
+2%
+
+0.
+
+5%
+
+1%
+
+2%
+
+2
+
+2% 1%
+
+1%
+
+2%
+
+3% 1%
+
+0.
+
+0.
+
+6%
+
+5%
+
+3%
+
+1% 2%
+
+5%
+
+5% 0. 2% 0. 4% 0. 5% 2%
+
+3%
+
+6%
+
+1%
+
+1%
+
+5% 0.
+
+0.
+
+5%
+
+2%
+
+2%
+
+1%
+
+0.
+
+0.
+
+0.
+
+0.
+
+0.
+
+● ● YEMEN ● BRAZIL ● SWEDEN ● ZIMBABWE ● ISRAEL ● CAMBODIA ● IRELAND ● BELARUS ● SOUTH AFRICA, REP. ● TUNISIA ● PANAMA ● AUSTRIA ● CZECH REP. ● COLOMBIA ● NICARAGUA ● TRINIDAD AND TOBAGO ● DENMARK ● SENEGAL ● EL SALVADOR ● ALGERIA ● JORDAN ● NIGER ● GUINEA ● KUWAIT ● MONGOLIA ● GUATEMALA ● BOLIVIA ● ZAMBIA ● UNITED KINGDOM ● JAMAICA ● NAMIBIA ● TANZANIA, UNITED REP. ● LATVIA ● HONDURAS ● GUINEA-BISSAU ● HAITI ● ESTONIA ● BOTSWANA ● GABON ● PARAGUAY ● MALAWI ● ETHIOPIA ● SIERRA LEONE ● LITHUANIA ● ERITREA ● NIGERIA ● BURKINA FASO ● CAMEROON ● CÔTE D’IVOIRE ● KENYA ● GHANA ● BURUNDI ● TOGO ● MOZAMBIQUE ● LIBERIA ● LESOTHO ● CHAD ● ANGOLA ● GAMBIA ● BENIN ● RWANDA ● PAPUA NEW GUINEA ● CONGO ● UGANDA ● CONGO, DEM. REP. ●
+
+0.
+
+1%
+
+0.
+
+0.
+
+0.
+
+Slovenia
+
+Slovakia
+
+Bosnia and Herzegovina
+
+Central African Rep.
+
+Macedonia, FYR
+
+Serbia and Montenegro
+
+SWITZERLAND
+
+Swaziland
+
+SOMALIA
+
+Croatia
+
+LIVING PLANET REPORT 2006 13
+
+Venezuela
+
+E EA LEG HC ODOR I C A L F O O T P R I N T
+Fig. 18: ECOLOGICAL FOOTPRINT PER PERSON, BY COUNTRY, 2003
+12
+
+11
+
+10
+
+■ ■ ■ ■ ■ ■ ■
+
+Built-up land Nuclear energy CO2 from fossil fuels Fishing ground Forest Grazing land Cropland
+
+9
+
+8 2003 global hectares per person
+
+7
+
+6
+
+The Ecological Footprint measures humanity’s demand on the biosphere in terms of the area of biologically productive land and sea required to provide the resources we use and to absorb our waste. In 2003 the global Ecological Footprint was 14.1 billion global hectares, or 2.2 global hectares per person (a global hectare is a hectare with world-average ability to produce resources and absorb wastes). The total supply of productive area, or biocapacity, in 2003 was 11.2 billion global hectares, or 1.8 global hectares per person. The footprint of a country includes all the cropland, grazing land, forest, and fishing grounds required to produce the food, fibre, and timber it consumes, to absorb the wastes emitted in generating the energy it uses, and to provide space for its infrastructure.
+
+People consume resources and ecological services from all over the world, so their footprint is the sum of these areas, wherever they may be on the planet. Humanity’s footprint first grew larger than global biocapacity in the 1980s; this overshoot has been increasing every year since, with demand exceeding supply by about 25 per cent in 2003. This means that it took approximately a year and three months for the Earth to produce the ecological resources we used in that year. Separating the Ecological Footprint into its individual components demonstrates how each one contributes to humanity’s overall demand on the planet. Figure 19 tracks these components in constant 2003 global hectares, which adjust for annual changes in the
+
+5
+
+4
+
+3
+
+2
+
+1
+
+WORLD
+
+VENEZUELA
+
+AZERBAIJAN
+
+BELGIUM/LUXEMBOURG
+
+UNITED KINGDOM
+
+GERMANY
+
+SLOVENIA
+
+BULGARIA
+
+AUSTRALIA
+
+ARGENTINA
+
+MAURITIUS
+
+LEBANON
+
+TRINIDAD AND TOBAGO
+
+SERBIA AND MONTENEGRO
+
+DENMARK
+
+LITHUANIA
+
+NETHERLANDS
+
+BOSNIA AND HERZEGOVINA
+
+JAMAICA
+
+SWEDEN
+
+ESTONIA
+
+ISRAEL
+
+FRANCE
+
+UKRAINE
+
+AUSTRIA
+
+POLAND
+
+MEXICO
+
+JORDAN
+
+GREECE
+
+TURKEY
+
+SYRIA
+
+CHILE
+
+IRAN
+
+CANADA
+
+SWITZERLAND
+
+BELARUS
+
+FINLAND
+
+SAUDI ARABIA
+
+MONGOLIA
+
+ROMANIA
+
+IRELAND
+
+MACEDONIA, FYR
+
+NEW ZEALAND
+
+PORTUGAL
+
+KUWAIT
+
+HUNGARY
+
+SLOVAKIA
+
+MALAYSIA
+
+BRAZIL
+
+URUGUAY
+
+JAPAN
+
+PAPUA NEW GUINEA
+
+PANAMA
+
+UNITED ARAB EMIRATES
+
+RUSSIAN FEDERATION
+
+TURKMENISTAN
+
+KAZAKHSTAN
+
+UZBEKISTAN
+
+CROATIA
+
+COSTA RICA
+
+NORWAY
+
+LATVIA
+
+CHINA
+
+SPAIN
+
+LIBYA
+
+0
+UNITED STATES OF AMERICA
+
+CZECH REP.
+
+KOREA, REP.
+
+SOUTH AFRICA, REP.
+
+PARAGUAY
+
+14 LIVING PLANET REPORT 2006
+
+DOMINICAN REP.
+
+ITALY
+
+productivity of an average hectare. This makes it possible to compare absolute levels of demand over time. The CO2 footprint, from the use of fossil fuels, was the fastestgrowing component, increasing more than ninefold from 1961 to 2003. How is it possible for an economy to continue operating in overshoot? Over time, the Earth builds up ecological assets, like forests and fisheries. These accumulated stocks can, for a limited period, be harvested faster than they regenerate. CO2 can also be emitted into the atmosphere faster than it is removed, accumulating over time. For three decades now we have been in overshoot, drawing down these assets and increasing the amount of CO2 in the air. We cannot remain in overshoot much longer
+
+without depleting the planet’s biological resources and interfering with its long-term ability to renew them.
+Figure 18: The Ecological Footprint per person, by country. This includes all countries with populations greater than 1 million for which complete data are available. Figure 19: Ecological Footprint by component. The footprint is shown in constant 2003 global hectares. In both diagrams, and throughout this report, hydropower is included in the builtup land footprint and fuelwood within the forest footprint.
+
+Fig. 19: ECOLOGICAL FOOTPRINT BY COMPONENT, 1961–2003
+14
+
+12
+Billion 2003 global hectares
+
+■ ■ ■ ■ ■ ■ ■
+
+Built-up land Nuclear energy CO2 from fossil fuels Fishing ground Forest Grazing land Cropland
+
+10
+
+ECOLOGICAL FOOTPRINT
+
+8
+
+6
+
+4
+
+2
+
+0
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+03
+
+2003 world average biocapacity per person: 1.8 global hectares, ignoring the needs of wild species
+
+MOZAMBIQUE
+
+ALGERIA
+
+GABON
+
+SUDAN
+
+ZIMBABWE
+
+ARMENIA
+
+VIET NAM
+
+ECUADOR
+
+PHILIPPINES
+
+ETHIOPIA
+
+CÔTE D'IVOIRE
+
+INDONESIA
+
+GUINEA-BISSAU
+
+SIERRA LEONE
+
+MADAGASCAR
+
+BURKINA FASO
+
+BANGLADESH
+
+HONDURAS
+
+KOREA, DPR
+
+SRI LANKA
+
+SENEGAL
+
+GEORGIA
+
+LESOTHO
+
+CAMEROON
+
+NICARAGUA
+
+BOTSWANA
+
+CAMBODIA
+
+COLOMBIA
+
+MOROCCO
+
+THAILAND
+
+BURUNDI
+
+SWAZILAND
+
+KYRGYZSTAN
+
+MAURITANIA
+
+MYANMAR
+
+SOMALIA
+
+YEMEN
+
+LIBERIA
+
+GAMBIA
+
+ZAMBIA
+
+EGYPT
+
+ANGOLA
+
+ERITREA
+
+CONGO
+
+LAO PDR
+
+ALBANIA
+
+BOLIVIA
+
+NIGER
+
+TOGO
+
+PERU
+
+CUBA
+
+CHAD
+
+TUNISIA
+
+GHANA
+
+UGANDA
+
+NIGERIA
+
+NAMIBIA
+
+GUINEA
+
+BENIN
+
+INDIA
+
+HAITI
+
+IRAQ
+
+MALI
+
+RWANDA
+
+MALAWI
+
+KENYA
+
+NEPAL
+
+CENTRAL AFRICAN REP.
+
+TANZANIA, UNITED REP.
+
+LIVING PLANET REPORT 2006 15
+
+CONGO, DEM. REP.
+
+MOLDOVA, REP.
+
+AFGHANISTAN
+
+EL SALVADOR
+
+GUATEMALA
+
+TAJIKISTAN
+
+PAKISTAN
+
+WORLD FOOTPRINT
+
+Map 5: FOOTPRINTS ACROSS THE WORLD, 2003
+Total national footprints as a proportion of the global footprint are indicated by country size. National per capita footprints are indicated by colour.
+More than 5.4 global hectares per person More than 5.4 global hectares per person 3.6–5.4 global hectares per person 3.6–5.4 global hectares per person 1.8–3.6 global hectares per person 1.8–3.6 global hectares per person 0.9–1.8 global hectares per person 0.9–1.8 global hectares per person Less than 0.9 global hectares per person Less than 0.9 global hectares per person Insufficient data Insufficient data
+
+A country’s Ecological Footprint is determined by its population, the amount consumed by its average resident, and the resource intensity used in providing the goods and services consumed. It includes the area required to meet people’s consumption from cropland (food, animal feed, fibre, and oil); grassland and pasture (grazing of animals for meat, hides, wool,
+16 LIVING PLANET REPORT 2006
+
+and milk); fishing grounds (fish and seafood); and forest (wood, wood fibre, pulp, and fuelwood). It also estimates the area required to absorb the CO2 released when fossil fuels are burned, less the amount taken up by the oceans. The footprint of nuclear power, about 4 per cent of the global footprint, is included by estimating the footprint for the equivalent
+
+amount of energy from fossil fuels. The area used for a country’s infrastructure, including hydropower, is included as the built-up land footprint component. A country’s biocapacity is a function of the number and type of biologically productive hectares within its borders, and their average yields. More intensive management can boost yields, but if
+
+additional resources are used this also increases the footprint. In Map 5, each country’s size represents its share of the global Ecological Footprint. The colour of each country indicates the per capita footprint of its citizens. Countries with ecological deficits use more biocapacity than they control within their own territories. Ecological creditor
+
+ECOLOGICAL FOOTPRINT
+
+Map 6: ECOLOGICAL DEBTOR AND CREDITOR COUNTRIES, 2003
+National Ecological Footprint relative to nationally available biocapacity.
+Ecodebt Footprint more than 50% larger than biocapacity Footprint 0–50% larger than biocapacity Ecocredit Biocapacity 0–50% larger than footprint Biocapacity more than 50% larger than footprint Insufficient data
+
+countries have footprints smaller than their own biocapacity. Map 6 shows which countries are ecological debtors and which are ecological creditors, with the colour indicating footprint relative to biocapacity. Countries running ecological deficits can maintain their resource consumption in several ways. They can use their own
+
+ecological assets faster than they regenerate each year – for example, depleting existing forest stocks rather than just harvesting the amount grown each year; they can import resources from other countries; or they can generate more wastes, such as CO2, than can be absorbed by the ecosystems within their own borders.
+
+Ecological creditors are endowed with ecological reserves, but this does not necessarily mean that all their assets are well managed and not subject to overharvesting or degradation. With continuing global overshoot, debtor and creditor countries alike will realize the significance of ecological assets for both economic competitiveness
+
+and national security, and the value of curbing their footprints and maintaining their biocapacity. As national ecological deficits continue to increase, the predominant geopolitical line may shift from the current economic division between developed and developing countries, to fall between ecological debtors and ecological creditors.
+LIVING PLANET REPORT 2006 17
+
+THE FOOTPRINT BY REGION AND INCOME GROUP
+A region’s demand on the biosphere is equal to its population times its per capita footprint. In Figure 20 the height of each bar is in proportion to a region’s average footprint per person, the width to its population, and the area to the region’s total Ecological Footprint. A comparison of each region’s footprint with its biocapacity shows whether that region has an ecological reserve or is running a deficit. Even with its considerable biocapacity, North America has the largest per person deficit, with the average person using 3.7 global hectares more than the region has available. The European Union (EU) is next: with a per person deficit of 2.6 global hectares, the region is using over twice its own biocapacity. At the other extreme is Latin America: with ecological reserves of 3.4 global hectares per capita, the average person’s footprint in the region is only about a third of the biocapacity available in the region per person. There is growing recognition that ecological deficits have serious implications for regions and nations. A 2003 Global Business Network report warned that: As global and local carrying capacities are reduced, tensions could mount around the world... Nations with the resources to do so may build virtual fortresses around their countries, preserving resources for themselves. Less fortunate nations… may initiate struggles for access to food, clean water, or energy. Unlikely alliances could be formed as defense priorities shift and the goal is resources for survival rather than religion, ideology, or national honor... (Schwartz and Randall, 2003). In June 1992 in Rio de Janeiro, the United Nations Conference on Environment and Development reaffirmed the importance of ensuring healthy and productive lives for all, while not exceeding nature’s limits. In the 11 years after Rio, between 1992 and 2003, measured in constant global hectares, the average per person footprint in low- and middle-income countries changed little, while the average per person footprint in highincome countries increased by 18 per cent. Over the last 40 years, the average footprint in low-income countries hovered just below 0.8 global hectares per person. The energy footprint shows the largest per person disparity between high- and low-income countries. This is in part because people can eat only a finite amount of food, while energy consumption is limited primarily by consumers’ ability to pay.
+Figure 20: Ecological Footprint and biocapacity by region. The difference between a region’s footprint (solid bars) and its biocapacity (dotted line) is its ecological reserve (+) or deficit (-). Figure 21: Footprint by national average per person income. High-income countries’ average per capita footprint more than doubled between 1961 and 2003. (See footnote, page 34, for income groups.)
+
+Fig. 20: ECOLOGICAL FOOTPRINT AND BIOCAPACITY BY REGION, 2003
+10
+
+Fig. 21: FOOTPRINT BY NATIONAL AVERAGE PER PERSON INCOME, 1961–2003
+7
+
+8 2003 global hectares per person
+
+Europe Non-EU Middle East and Central Asia
+
+■ ■
+
+Asia-Pacific Africa
+
+2003 global hectares per person
+
+6
+
+–3.71 +0.82
+
+■ ■ ■ ■
++3.42
+
+North America Europe EU
+
+■
+
+Latin America and the Caribbean
+
+6 High-income countries 5
+
+4
+
+4
+
+Biocapacity available within region
+
+3
+Note: Dotted lines reflect estimates due to dissolution of the USSR.
+
+–2.64
+
+Middle-income countries
+
+2
+
+2
+–1.20 +0.24 –0.60
+
+1 847
+
+Low-income countries
+
+0
+
+326
+
+454
+
+349 270
+
+535
+
+3 489 Population (millions)
+
+0
+
+1960
+
+1970
+
+1980
+
+1990
+
+2000
+
+03
+
+18 LIVING PLANET REPORT 2006
+
+THE FOOTPRINT AND HUMAN DEVELOPMENT
+Sustainable development is a commitment to “improving the quality of human life while living within the carrying capacity of supporting ecosystems” (IUCN et al., 1991). Countries’ progress towards sustainable development can be assessed using the United Nations Development Programme’s (UNDP) Human Development Index (HDI) as an indicator of well-being, and the footprint as a measure of demand on the biosphere. The HDI is calculated from life expectancy, literacy and education, and per capita GDP. UNDP considers an HDI value of more than 0.8 to be “high human development”. Meanwhile, a footprint lower than 1.8 global hectares per person, the average biocapacity available per person on the planet, could denote sustainability at the global level. Successful sustainable development requires that the world, on average, meets at a minimum these two criteria, with countries moving into the blue quadrant shown in Figure 22. As world population grows, less biocapacity is available per person and the quadrant’s height shrinks. In 2003, Asia-Pacific and Africa were using less than world average per person biocapacity, while the EU and North America had crossed the threshold for high human development. No region, nor the world as a whole, met both criteria for sustainable development. Cuba alone did, based on the data it reports to the United Nations. Changes in footprint and HDI from 1975 to 2003 are illustrated here for some nations. During this period, wealthy nations such as the United States of America significantly increased their resource use while increasing their quality of life. This did not hold for poorer nations, notably China or India, where significant increases in HDI were achieved while their per person footprints remained below global per person biocapacity. Comparing a country’s average per person footprint with global average biocapacity does not presuppose equal sharing of resources. Rather it indicates which nations’ consumption patterns, if extended worldwide, would continue global overshoot, and which would not. The footprint and the HDI need supplementing by other ecological and socioeconomic measures – freshwater scarcity and civic engagement, for example – to more fully define sustainable development.
+Fig. 22: HUMAN DEVELOPMENT AND ECOLOGICAL FOOTPRINTS, 2003
+12
+
+11
+
+Exceeds biosphere’s average capacity per person, high development Threshold for high human development
+
+10
+
+ECOLOGICAL FOOTPRINT
+
+9
+
+Ecological Footprint (2003 global hectares per person)
+
+8
+
+Australia
+
+United States of America
+
+7
+
+6
+
+5
+
+4
+
+Hungary Exceeds biosphere’s average capacity per person, low development
+South Africa, Rep. 3
+
+Italy
+Korea, Rep. 2
+
+World average biocapacity available per person, ignoring the needs of wild species
+Brazil
+
+Within biosphere’s average capacity per person, low development
+
+India
+
+China
+
+Meets minimum criteria for sustainability
+
+1
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+North America Europe EU Europe Non-EU Latin America and the Caribbean
+
+Middle East and Central Asia Asia-Pacific Africa
+
+0.5 Human Development Index
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1.0
+
+0
+
+Country population (coloured by region): More than 1 billion 100 million– 1 billion 30 million– 100 million 10 million– 30 million 5 million – 10 million less than 5 million
+
+Historical trends for named selected countries (2003 dot coloured by region and sized by population): 1975 1980 1985 1990 1995 2000 2003
+
+LIVING PLANET REPORT 2006 19
+
+SCENARIOS
+If we continue on our current trajectory, even optimistic United Nations projections with moderate increases in population, food and fibre consumption, and CO2 emissions suggest that by 2050 humanity will demand resources at double the rate at which the Earth can generate them. This degree of overshoot risks not only the loss of biodiversity, but also damage to ecosystems and their ability to provide the resources and services on which humanity depends. The alternative is to eliminate overshoot. While increasing ecosystem productivity may help, reducing humanity’s global footprint will be essential (Figure 23).
+Costing sustainability
+
+The sooner overshoot ends, the lower the
+
+risk of serious ecosystem disruption and its associated costs. Significant financial outlays are required for moving out of overshoot, but society will see substantial returns on these investments. To facilitate the flow of the necessary capital, several barriers must be recognized and overcome. These include the cash-flow problem inherent in needing investment now to avoid future costs; tight budgets being used for immediate crises, which divert attention from more systemic challenges; and insufficient returns to initial investors. If overshoot is to end by a selected target date, economic analyses are needed to determine the percentage of world GDP that will have to be invested in reducing humanity’s footprint and increasing
+
+biocapacity. Should it be 2 per cent of world GDP, or 10 per cent? Long-term investment will be required in many areas, including education, technology, conservation, urban and family planning, and resource certification systems, along with the development of new business models and financial markets. In the past, prolonged conditions of local overshoot have reduced resource availability and led to crashes in local economies (Diamond, 2005). If we are to avoid this pattern on a global scale, the relevant question may not be what it would cost to eliminate overshoot, but what it would cost not to. Five factors determine the extent of global overshoot or, for nations, their ecological deficit. Three of these factors
+
+shape the Ecological Footprint, or demand on biocapacity: population size, the average consumption per person in that population, and the average footprint intensity per unit of consumption. 1. Population. Increase in population can be slowed and eventually reversed by supporting families in choosing to have fewer children. Offering women access to better education, economic opportunities, and health care are three proven approaches to achieving this. 2. Consumption of goods and services per person. The potential for reducing consumption depends in part on an individual’s economic situation. While people living at or below subsistence may
+
+Fig. 23: ENDING GLOBAL OVERSHOOT
+24
+
+20 Billion 2003 global hectares
+
+1961–2003 Ecological Footprint Biocapacity Overshoot
+
+16
+
+12
+
+Potential end of overshoot
+
+8
+
+2003–2100 Optimistic biocapacity increase Rapidly reduced footprint
+
+4
+
+0
+
+1960
+
+1980
+
+2000
+
+2020
+
+2040
+
+2060
+
+2080
+
+2100
+
+20 LIVING PLANET REPORT 2006
+
+need to increase their consumption to move out of poverty, more affluent people can reduce consumption and still improve their quality of life. 3. Footprint intensity, the amount of resources used in the production of goods and services, can be significantly reduced. This takes many forms, from energy efficiency in manufacturing and in the home, through minimizing waste and increasing recycling and reuse, to fuel-efficient cars and a reduction in the distance many goods are transported. Business and industry do react to government policies that promote resource efficiency and technical innovation – where such policies are clear and long term – as well as to consumer pressure.
+
+Two other factors determine biocapacity, or supply: the amount of biologically productive area available, and the productivity or yield of that area. 4. Bioproductive area can be extended: degraded lands can be reclaimed through careful management. Terracing has had historical success, and irrigation, too, can make marginal lands more productive, though the gains may not persist. Above all, good land management must ensure that bioproductive areas do not diminish, being lost, for example, to urbanization, salinization, or desertification. 5. Bioproductivity per hectare depends both on the type of ecosystem and the way
+
+it is managed. Agricultural technologies can boost productivity, but can also diminish biodiversity. Energy intensive agriculture and heavy reliance on fertilizer may increase yields, but at the cost of a larger footprint associated with increased inputs, and may so impoverish soil that yields ultimately begin to fall. Biocapacity can be preserved by protecting soil from erosion and other forms of degradation by safeguarding river basins, wetlands, and watersheds to secure freshwater supplies, and maintaining healthy forests and fisheries. Preventing or mitigating the impacts of climate change can also help maintain yields, as can eliminating the use of toxic chemicals that may degrade ecosystems.
+
+How much overshoot should shrink, how the reductions are to be shared, and by when they are to be achieved are choices that have to be made by society. Footprint analysis helps to measure the consequences of choosing a particular path. Three scenarios are explored in the pages that follow: a moderate business-asusual scenario, based on United Nations projections; a slow-shift scenario, leading to the elimination of overshoot by the end of the century, with some biocapacity allowed for wild species as a buffer to slow biodiversity loss; and a rapid-reduction scenario, in which overshoot is ended by 2050, with a significant buffer to aid the restoration of wild species populations and their habitats.
+
+Fig. 24: FOOTPRINT AND BIOCAPACITY FACTORS THAT DETERMINE OVERSHOOT
+
+SCENARIOS
+
+1.8 gha per person (2003 global biocapacity)
+
+2.2 gha per person (2003 global footprint)
+
+Gap between
+
+Area
+
+x
+
+Bioproductivity
+
+=
+
+Biocapacity (SUPPLY)
+
+supply and demand: OVERSHOOT
+
+Population
+
+x
+
+Consumption per person
+
+x
+
+Footprint intensity
+
+=
+
+Ecological Footprint (DEMAND)
+
+LIVING PLANET REPORT 2006 21
+
+BUSINESS AS USUAL
+The business-as-usual scenario looks at the consequences if several moderate United Nations projections are combined. The increase in the footprint is driven by modest rates of growth in both population and demand for biocapacity. Biocapacity is initially assumed to continue increasing at the same rate that yields have risen over the past 40 years. Later, as continued overshoot impacts productive ecosystems, these gains are assumed to reverse. By 2050, in this scenario, the total Ecological Footprints of cropland and CO2 increase by 60 per cent, the demand for grazing land and fishing grounds by 85 per cent, and the use of forests by 110 per cent. Assuming moderate population growth, this means the average person’s footprint would increase from 2.2 global hectares in 2003 to 2.6 global hectares by mid-century. Through continuous overshoot, with its footprint each year exceeding the planet’s biocapacity, humanity is accruing an ecological deficit. This debt accumulates as the sum of all the annual deficits. Thus by 2050 under the business-as-usual scenario, the debt would equal an amount corresponding to 34 years of the planet’s entire biological productivity – and the years of overshoot would still be far from over. This level of debt can be put into context by comparing it to the time it takes for a healthy forest to reach maturity: about 50 years. So a mature forest contains 50 years’ worth of productivity which could, in theory, be harvested before standing stocks are totally exhausted. In practice, however, if overharvesting prevents the forest from maintaining its healthy and mature status, ecosystem degradation and collapse could result long before forest stocks have been totally used up. Most other productive ecosystems – cropland, grazing land, fisheries – have considerably lower standing stocks than forests, and could therefore tolerate less ecological debt accumulation before becoming depleted. Ecological debt is therefore one measure of risk, namely that ecological resources and services will not be available in the future to meet humanity’s demands. Unlike financial capital, one type of which can easily be exchanged for another of matching monetary value, ecological assets are not readily interchangeable. The overuse of one ecological asset, such as fisheries, cannot always be offset by decreasing demand on another, such as forests. Moreover, these asset types do not exist independently: cropland is often expanded at the expense of forest, making fewer trees available to provide wood, paper, and fuel, or to absorb CO2. If fisheries collapse, more pressure may be put on cropland to feed humans and domestic animals. Scenarios that assume full substitutability between types of ecological assets will therefore underestimate the severity of overshoot.
+
+Fig. 25: BUSINESS-AS-USUAL SCENARIO AND ECOLOGICAL DEBT
+24 Biocapacity is assumed to fall to the productivity level of 1961 or below if overshoot continues to increase. This decline might accelerate as ecological debt grows, and these productivity losses may become irreversible.
+
+20 Billion 2003 global hectares
+
+1961–2003 Ecological Footprint Biocapacity
+
+16
+
+Accumulated ecological debt
+
+12
+
+8 2003–2100, moderate business as usual 4 Ecological Footprint (to 2050) Biocapacity
+
+0
+
+1960
+
+1980
+
+2000
+
+2020
+
+2040
+
+2060
+
+2080
+
+2100
+
+22 LIVING PLANET REPORT 2006
+
+SLOW SHIFT
+The slow-shift scenario shows the results of a concerted effort to gradually bring humanity out of overshoot by 2100, and establish a modest biocapacity buffer to slow biodiversity loss. To achieve this, global CO2 emissions will have to be cut by 50 per cent by the end of the century. The harvest of wild fish needs to be reduced by 50 per cent in order to bring total wild catch down to a potentially sustainable level. Demand on cropland and grazing land is assumed, in this scenario, to increase at half the rate of population increase, in part due to a lower percentage of meat in the average person’s diet. In contrast, consumption of forest products grows by 50 per cent in order to compensate for decreased use of fossil-based fuels, chemicals, and other materials. Compared with 2003, these combined changes result in humanity’s total Ecological Footprint being 15 per cent smaller in 2100 than in 2003. If biocapacity gains can be sustained, resulting in a 20 per cent increase by 2100, and population growth remains moderate, the average person’s Ecological Footprint would fall from 2.2 global hectares to around 1.5 global hectares. Overshoot would end about two decades before the close of the century, by which time about 10 per cent of the planet’s biological productivity would have been allocated for the use of wild species.
+Energy for the future
+
+The largest component of the 2003 Ecological Footprint is the demand placed on the biosphere by emissions of CO2 from burning
+
+fossil fuels. Many geologists expect that peak production of oil may occur globally within the next two to three decades. Yet large reserves of coal, oil sands, and other more expensive carbon fuels exist which, without stringent controls, could lead to an emissions increase through the coming century. What are the possibilities for reducing dependence on fossil fuels? A recent analysis suggests that a combination of seven major shifts, including a 25 per cent reduction in emissions from buildings, an increase in fuel economy in 2 billion cars from an average of 8 to 4 litres per 100 kilometres, a 50-fold increase in wind power, and a 700-fold increase in solar power would be necessary just to keep emissions in 2050 equal to their level today (Pacala and Socolow, 2004). These
+
+shifts, however, would not stabilize the CO2 concentration in the atmosphere – just maintain the current rate of increase. Considerably stronger measures will be necessary to achieve the 50 per cent reduction included in this scenario. The challenge is to increase energy supply whilst reducing CO2 emissions without shifting the burden on to other parts of the biosphere. All energy sources, be they fossil fuels or renewables, have an Ecological Footprint. Changing the fuel mix can shift the burden from one part of the biosphere to another. The main forms of renewable energy in use today – hydropower, wind power, and biomass – all reduce CO2 emissions when substituted for fossil fuels, but increase demand on land.
+
+Fig. 26: SLOW-SHIFT SCENARIO AND ECOLOGICAL DEBT
+24
+
+SCENARIOS
+
+20 Billion 2003 global hectares
+
+1961–2003 Ecological Footprint Biocapacity Accumulated biocapacity buffer
+
+16 Accumulated ecological debt 12
+
+8 2003–2100, slow shift 4 Ecological Footprint Biocapacity
+
+0
+
+1960
+
+1980
+
+2000
+
+2020
+
+2040
+
+2060
+
+2080
+
+2100
+
+LIVING PLANET REPORT 2006 23
+
+RAPID REDUCTION
+The rapid-reduction scenario depicts an aggressive effort to move humanity out of overshoot by 2050. By mid-century, the accumulated ecological debt would equal less than eight years of the Earth’s biological productivity. The scenario also allows for 30 per cent of biocapacity to be used by wild species by 2100: according to some ecologists, however, this is still not enough to stem biodiversity loss (Wilson, 2002). This scenario assumes a reduction in CO2 emissions of 50 per cent by 2050 and 70 per cent by 2100. The absolute consumption of cropland and grazing land rises only 15 per cent by 2100. Under median population projections, this requires a 23 per cent decrease in the per person cropland and grazing land footprints. That is achievable without decreasing calorific intake or the nutritional value of food consumed by reducing the proportion of global crop used for animal feed. It also assumes an optimistic growth in biocapacity – nearly 30 per cent by 2100 – brought about by increases in cropland, fisheries, and forest yields through improved technology and management. The rapid-reduction scenario results in humanity’s footprint being 40 per cent smaller in 2100 than in 2003. It requires the greatest initial economic investment, but in minimizing ecological debt the fastest, it carries the lowest ecological risk.
+Biodiversity and human demand
+
+While significant effort will be required to
+
+bring human demand within the biosphere’s productive capacity, securing biodiversity may require reducing pressure even further in order to leave a portion of the Earth’s productivity for the use of wild species. Animals compete with people for food and habitat. Plants can be crowded out by widespread cultivation of a limited set of domesticated species and by plantation forestry. Increasing biocapacity – by expanding the productive area or boosting yields, for example through irrigation – can play an important role in bringing humanity out of overshoot. However, these increases may also have costs – energy intensive farming methods can add to the carbon footprint; expansion of grazing areas into forest can
+
+endanger wild plant and animal species; irrigation can lead to salinization or groundwater depletion, and the use of pesticides and fertilizers can negatively impact wildlife far downstream or downwind from where they are applied. These biocapacity increases must therefore be carefully managed if they are to help reduce both overshoot and the threat to biodiversity.
+
+Fig. 27: RAPID-REDUCTION SCENARIO AND ECOLOGICAL DEBT
+24
+
+20 Billion 2003 global hectares
+
+1961–2003 Ecological Footprint Biocapacity Accumulated ecological debt
+
+16
+
+12
+
+Accumulated biocapacity buffer
+
+8 2003–2100, rapid reduction 4 Ecological Footprint Biocapacity
+
+0
+
+1960
+
+1980
+
+2000
+
+2020
+
+2040
+
+2060
+
+2080
+
+2100
+
+24 LIVING PLANET REPORT 2006
+
+SHRINK AND SHARE
+Eliminating overshoot means closing the gap between humanity’s Ecological Footprint and the planet’s biocapacity. If the global community agrees in principle, decisions are then needed on how much to shrink its footprint, and how this reduction in aggregate human demand is to be shared between individuals and populations. Possible allocation strategies could include an absolute allotment of footprint shares, or an initial distribution of rights or permits to consume, which could then be traded between individuals, nations, or regions. Any acceptable global strategy will be influenced by ethical and economic as well as ecological considerations. The allocation strategies discussed here illustrate how the current regional distribution could change, based either on the relative proportion of current biocapacity or world population in each region. Allocations could be fixed, or varied in proportion to a region’s changing percentage of either factor. Targeted reductions for regional footprints might be set proportional to current baselines (Figure 28), in a similar way to the framework adopted by the Kyoto Protocol for greenhouse gases. Some might argue that this rewards regions with historically high levels of consumption and population, while penalizing those that have already begun to reduce their total demand on ecosystems. A second option might see each region being allocated a share of the global footprint in proportion to its own biocapacity (Figure 29). Regions could augment their biocapacity through trade with regions that have biocapacity reserves. This strategy could be modified to address the very large discrepancies in available biocapacity that currently exist between regions and nations. The global footprint could be shared on an equal per capita basis (Figure 30), with mechanisms established to enable nations and regions to trade their initial excess allocations. Similar to a proposal for sharing rights to greenhouse gas emissions (Meyer, 2001), such a strategy would in one sense be strictly egalitarian. But this approach, which is probably politically unrealistic, rewards countries with growing populations, ignores historical circumstance, and disregards varying needs in different parts of the world. Negotiating, selecting, and combining these or other allocation schemes will require unprecedented global cooperation if the shrinking of humanity’s footprint is to be achieved. Developing the logic behind frameworks for reducing human demand is straightforward when compared to the challenge of implementing the process. In considering the costs and complexity of meeting this challenge, the global community may want to take into account not only how it will afford to undertake such a project, but also the ecological and human welfare consequences of failing to do so.
+
+Fig. 28: ECOLOGICAL FOOTPRINT BY CURRENT REGIONAL USE
+North America 22% Europe EU 16%
+
+Fig. 29: GLOBAL BIOCAPACITY BY REGION
+
+Fig. 30: GLOBAL POPULATION BY REGION
+
+SCENARIOS
+
+North America 17%
+
+Europe EU 9% Europe Non-EU 11%
+
+North America 5% Latin America and the Caribbean 9% Africa 13%
+
+Europe EU 7% Europe Non-EU 4% Middle East and Central Asia 6%
+
+Europe Non-EU 7% Latin America and the Caribbean 8% Middle East and Central Asia 3%
+
+Middle East and Central Asia 6%
+
+Latin America and the Caribbean 26%
+
+Africa 7%
+
+Asia-Pacific 24%
+
+Asia-Pacific 34%
+
+Africa 10%
+
+Asia-Pacific 56%
+
+LIVING PLANET REPORT 2006 25
+
+T R A N S I T I O N T O A S U S TA I N A B L E S O C I E T Y
+Focus on “slow things” first
+
+Time is of the essence. Moderate United Nations projections for the growth of the world population and consumption show humanity using double the bioproductivity of planet Earth by 2050. Reaching this level of consumption may be impossible, however, as the natural capital being used to enable this overshoot may well be depleted before the mid-century mark. Efforts to stem this rapid escalation of overshoot and avoid ecosystem collapse must take into account the slow response times of human populations and infrastructure. Even after birth rates fall below replacement levels, populations continue to expand for many years. Life expectancy has more than doubled in the
+
+20th century alone – a child born today will, on average, consume resources for the next 65 years. Human-made infrastructure, too, can last many decades. Figure 31 compares typical lifespans for some human and physical assets with the timeframe for the growth of overshoot in a future business-as-usual scenario based on the United Nations projections. Together, the people born and the infrastructure built today will shape resource consumption for much of the rest of the century. The assets we create can be futurefriendly, or not. Transport and urban infrastructures become traps if they can only operate on large footprints. In contrast, future-friendly infrastructure – cities designed as resource efficient, with carbon-
+
+neutral buildings and pedestrian and publictransport oriented systems – can support a high quality of life with a small footprint. If, as is now predicted, the global population grows to 9 billion, and if we want to leave a minimal buffer for the preservation of some biodiversity, we need to find ways for the average person to live well on less than half the current global average footprint. The longer infrastructure is designed to last, the more critical it is to ensure that we are not building a destructive legacy that will undermine our social and physical wellbeing. Cities, nations, and regions might consider how economic competitiveness will be impacted if economic activity is hampered by infrastructure that cannot operate without large resource demands.
+
+Accurate and relevant information
+
+If we do not measure, we cannot effectively manage. Without financial accounting, businesses would operate in the dark, risking bankruptcy. Without resource accounting, ecological deficits and overshoot go unnoticed and are likely to persist. By the time the effects of overshoot become apparent, it may be too late to change course and avoid ecological bankruptcy. The collapse of fisheries off the east coast of Canada and the severe effects of deforestation in Haiti are two unfortunate examples. Resource accounting and reporting are essential to combating climate change, the preservation of fisheries stocks, and international agreements for sharing water
+
+Billion 2003 global hectares
+
+Figure 31: Moderate United Nations projections suggest that humanity’s footprint will grow to double the Earth’s capacity within five decades. The lifespan of infrastructure put in place today to a large extent determines resource consumption for decades to come, and can lock humanity into this ecologically risky scenario.
+
+Fig. 31: LIFESPANS OF PEOPLE, ASSETS, AND INFRASTRUCTURE
+24 Car (US average: 9 years) Nuclear-powered power station (US/Europe: 40 years) Highway (20–50 years) 16 Bridge (30–75 years) 12 Coal-powered power station (30–75 years) Human (national averages: 32–82 years) 8 Commercial building design (50–100 years) 4 Railway, home, and dam (50–150 years) 0
+
+20
+
+1960
+
+1980
+
+2000
+
+2020
+
+2040
+
+2060
+
+2080
+
+2100
+
+26 LIVING PLANET REPORT 2006
+
+rights. These and other measures designed to protect ecological assets help prevent and mitigate environmental crises and their socioeconomic consequences. They can be used to establish baselines, set targets, and monitor success or failure of sustainability strategies, as shown in Figure 32. The managerial usefulness of accounting measures like the Living Planet Index and the Ecological Footprint is attested to by their recent adoption as indicators for the 2010 targets of the Convention on Biological Diversity. Complemented by measures that track other key aspects of the biosphere and human well-being, they help provide the full set of information needed to keep us on target as we invent the path to a sustainable future.
+
+Driving sustainability through innovation
+
+Which strategies will succeed? Effective sustainability strategies invite participation and stimulate human ingenuity. Such strategies evoke images of an attractive future and work to build consensus. These are the common features of successful pioneering urban designs such as Curitiba in Brazil, Gaviotas in Colombia, and BedZED in the United Kingdom. Innovative approaches to meeting human needs are called for if we are to move beyond the belief that greater well-being necessarily entails more consumption, especially in societies where basic needs are already being met. Systems thinking plays a key role: it helps to identify synergies and ensure that proposed
+
+solutions bring about an overall footprint reduction, rather than simply shifting demand from one ecosystem to another. Experts from many disciplines have important roles to play in the transition to a sustainable society. Social scientists can study institutional arrangements to determine how to effectively facilitate and move forward the necessary global dialogue and decision-making process. Engineers, architects, and urban planners can contribute knowledge on ways to transform human infrastructure and the built environment so that they enable a high quality of life while keeping ecological demand within the available resource budget. Research and planning into ways to appropriately decelerate and
+
+eventually reverse continuing population growth will also play a key role. Ecologists, biologists, farmers, and resource managers can find ways to increase the Earth’s biocapacity without putting further pressure on biodiversity, while avoiding technologies that risk significant negative consequences in the future. The development of low-impact energy sources will play an important role, as will a shift to sustainable agricultural and food production and distribution systems. Economists in particular are needed to estimate how much of our global financial, human, and ecological resource base will be required to shift humanity’s current trajectory on to a path that will remain within the biological capacity of the planet.
+
+Fig. 32: CATALYSING THE TRANSITION TO SUSTAINABILITY
+Assess situation. Determine extent of human overshoot by measuring human demand on and availability of biocapacity. Monitor progress. Evaluate implementation and compare overshoot reductions with set targets. Explore options. Develop scenarios for ending overshoot. Evaluate each scenario’s ecological and economic risks. Determine investment needs, and ways to share costs and benefits.
+
+Figure 32: Catalysing the transition to sustainability depends on continuous feedback and improvement.
+
+SCENARIOS
+
+Ending overshoot
+
+Implement strategy. Allocate necessary resources and designate authority for implementation.
+
+Choose strategy. Engage in public process that helps choose most attractive scenario. Invite participation and build public will for implementation. Legislate targets and timetables.
+
+LIVING PLANET REPORT 2006 27
+
+TA B L E S
+Table 2: THE ECOLOGICAL FOOTPRINT AND BIOCAPACITY, 2003
+Ecological Footprint (global hectares per person, in 2003 gha) Total Ecological Footprint
+2.23 6.4 1.9 0.8 1.1 1.6 1.0 0.8 1.6 1.0 0.7 0.8 0.9 1.0 0.6 0.6 0.7 1.4 0.7 0.8 1.4 1.4 1.0 0.9 0.7 0.8 0.8 0.7 3.4 0.7 0.6 0.8 1.3 1.9 0.9 0.6 1.1 1.1 1.2 0.7 1.2
+
+Population Country/Region
+WORLD High-income countries Middle-income countries Low-income countries AFRICA Algeria Angola Benin Botswana Burkina Faso Burundi Cameroon Central African Rep. Chad Congo Congo, Dem. Rep. Côte d’Ivoire Egypt Eritrea Ethiopia Gabon Gambia Ghana Guinea Guinea-Bissau Kenya Lesotho Liberia Libya Madagascar Malawi Mali Mauritania Mauritius Morocco Mozambique Namibia Niger Nigeria Rwanda Senegal
+(millions)
+
+Cropland
+0.49 0.80 0.47 0.34 0.42 0.47 0.44 0.57 0.30 0.58 0.31 0.39 0.34 0.49 0.25 0.17 0.33 0.51 0.34 0.28 0.47 0.67 0.45 0.37 0.32 0.23 0.32 0.24 0.54 0.27 0.32 0.40 0.36 0.44 0.54 0.28 0.36 0.75 0.64 0.38 0.48
+
+Grazing land
+0.14 0.29 0.17 0.04 0.09 0.10 0.09 0.02 0.36 0.13 0.03 0.10 0.29 0.22 0.03 0.01 0.06 0.01 0.09 0.16 0.05 0.07 0.02 0.07 0.09 0.20 0.21 0.01 0.17 0.11 0.02 0.23 0.31 0.07 0.00 0.03 0.06 0.11 0.05 0.04 0.18
+
+Forest: timber, pulp, and paper
+0.17 0.71 0.11 0.02 0.05 0.05 0.06 0.04 0.06 0.06 0.03 0.02 0.02 0.06 0.01 0.03 0.04 0.04 0.00 0.03 0.35 0.06 0.03 0.05 0.07 0.04 0.00 0.00 0.04 0.01 0.03 0.02 0.00 0.14 0.04 0.02 0.00 0.03 0.05 0.04 0.07
+
+Forest: fuelwood
+0.06 0.02 0.05 0.08 0.13 0.05 0.05 0.00 0.07 0.09 0.24 0.12 0.10 0.15 0.06 0.26 0.10 0.05 0.06 0.26 0.16 0.09 0.20 0.27 0.06 0.13 0.23 0.32 0.02 0.12 0.08 0.08 0.11 0.00 0.00 0.18 0.00 0.14 0.10 0.12 0.10
+
+Fishing ground
+0.15 0.33 0.15 0.04 0.05 0.02 0.13 0.05 0.04 0.01 0.01 0.06 0.02 0.05 0.13 0.03 0.05 0.11 0.05 0.00 0.29 0.20 0.17 0.06 0.02 0.03 0.00 0.04 0.08 0.08 0.02 0.04 0.10 0.28 0.06 0.05 0.26 0.00 0.05 0.00 0.15
+
+CO2 from fossil fuels
+1.06 3.58 0.85 0.21 0.26 0.85 0.18 0.09 0.66 0.06 0.02 0.08 0.03 0.00 0.09 0.02 0.11 0.51 0.13 0.05 0.00 0.26 0.04 0.06 0.06 0.15 0.01 0.01 2.53 0.07 0.04 0.01 0.32 0.77 0.23 0.03 0.34 0.05 0.22 0.03 0.13
+
+Nuclear
+0.08 0.46 0.03 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+
+Built-up land1
+0.08 0.25 0.07 0.05 0.05 0.04 0.05 0.05 0.10 0.06 0.04 0.06 0.07 0.07 0.05 0.05 0.07 0.12 0.04 0.04 0.06 0.03 0.05 0.06 0.04 0.04 0.02 0.06 0.04 0.06 0.04 0.06 0.07 0.17 0.00 0.04 0.12 0.03 0.05 0.04 0.04
+
+Water withdrawals per person
+(’000 m3/year)
+2
+
+6 301.5 955.6 3 011.7 2 303.1 846.8 31.8 13.6 6.7 1.8 13.0 6.8 16.0 3.9 8.6 3.7 52.8 16.6 71.9 4.1 70.7 1.3 1.4 20.9 8.5 1.5 32.0 1.8 3.4 5.6 17.4 12.1 13.0 2.9 1.2 30.6 18.9 2.0 12.0 124.0 8.4 10.1
+
+618 957 552 550 256 194 27 20 110 63 44 63 – 28 13 7 57 969 75 81 92 22 48 181 121 50 28 34 784 884 85 519 606 504 419 34 153 189 66 18 225
+
+28 LIVING PLANET REPORT 2006
+
+Biocapacity (global hectares per person, in 2003 gha) Total biocapacity3
+1.78 3.3 2.1 0.7 1.3 0.7 3.4 0.9 4.5 1.0 0.6 1.3 3.7 2.5 7.8 1.5 2.0 0.5 0.5 0.5 19.2 0.8 1.3 2.8 2.9 0.7 1.1 3.1 1.0 2.9 0.5 1.3 5.8 1.2 0.8 2.1 4.4 1.5 0.9 0.5 0.9
+
+Cropland
+0.53 1.10 0.50 0.31 0.37 0.29 0.24 0.64 0.30 0.59 0.28 0.59 0.61 0.48 0.20 0.16 0.74 0.30 0.09 0.23 0.47 0.33 0.49 0.28 0.37 0.20 0.14 0.20 0.34 0.25 0.27 0.43 0.17 0.20 0.40 0.21 0.60 0.80 0.53 0.31 0.33
+
+Grazing land
+0.27 0.19 0.31 0.17 0.51 0.35 2.35 0.06 3.04 0.23 0.21 0.14 0.71 1.81 3.88 0.36 0.74 0.00 0.30 0.16 4.80 0.15 0.34 1.10 0.43 0.35 0.91 0.83 0.27 1.16 0.11 0.76 4.15 0.00 0.00 1.39 1.98 0.67 0.23 0.09 0.26
+
+Forest
+0.78 1.48 1.05 0.12 0.27 0.00 0.29 0.09 1.11 0.11 0.06 0.43 2.26 0.13 3.52 0.90 0.40 0.00 0.00 0.11 12.16 0.07 0.35 0.97 0.56 0.04 0.00 1.75 0.02 1.23 0.03 0.03 0.00 0.01 0.11 0.40 0.00 0.04 0.09 0.08 0.09
+
+Fishing ground
+0.14 0.31 0.15 0.05 0.08 0.01 0.44 0.04 0.00 0.00 0.01 0.07 0.00 0.05 0.15 0.02 0.03 0.06 0.08 0.00 1.69 0.25 0.07 0.35 1.49 0.03 0.00 0.27 0.31 0.21 0.02 0.04 1.37 0.82 0.27 0.03 1.74 0.01 0.03 0.00 0.14
+
+Ecological reserve or deficit (-)
+(gha/person)
+
+Footprint change per person (%)
+1975–2003
+4, 5
+
+Biocapacity change per person (%)
+1975–2003
+4, 5
+
+Human Development Index, 2003 6
+0.74 0.91 0.77 0.59 – 0.72 0.45 0.43 0.57 0.32 0.38 0.50 0.36 0.34 0.51 0.39 0.42 0.66 0.44 0.37 0.64 0.47 0.52 0.47 0.35 0.47 0.50 – 0.80 0.50 0.40 0.75 0.33 0.48 0.63 0.38 0.63 0.28 0.45 0.45 0.46
+
+Change in HDI (%)
+1975–2003
+6
+
+Water withdrawals
+(% of total 2 resources)
+
+Country/Region
+WORLD
+
+-0.45 -3.12 0.18 -0.09 0.24 -0.9 2.4 0.1 3.0 0.0 -0.1 0.4 2.8 1.5 7.2 0.9 1.2 -0.9 -0.2 -0.3 17.8 -0.5 0.3 1.8 2.2 -0.2 0.3 2.4 -2.4 2.2 -0.1 0.5 4.5 -0.7 -0.1 1.4 3.3 0.4 -0.2 -0.1 -0.3
+
+14 40 14 8 -2 51 35 -7 70 19 -28 -16 -5 6 -34 -19 -28 49 -17 -5 6 64 1 -13 -17 -5 -16 -20 13 -19 -33 -13 31 80 4 -3 26 -17 4 -19 -19
+
+-25 -14 -11 -48 -42 -45 -51 -1 -51 1 -44 -46 -38 -45 -54 -52 -43 1 -53 -51 -50 -53 -36 -45 -52 -50 -34 -50 -43 -49 -39 -39 -44 -16 -31 -38 -48 -43 -32 -32 -56
+
+– – – – – 43 – 42 12 25 33 19 35 27 13 -7 3 50 – – – 65 18 – 36 3 8 – – 24 3 – 45 40 47 – – 29 42 32 47
+
+10 10 5 10 4 52 0 0 2 6 2 0 – 1 0 0 1 117 5 5 0 0 2 1 1 5 2 0 711 4 6 7 15 22 43 0 2 6 3 2 6
+
+High-income countries Middle-income countries Low-income countries AFRICA Algeria Angola Benin Botswana Burkina Faso Burundi Cameroon Central African Rep. Chad Congo Congo, Dem. Rep. Côte d’Ivoire Egypt Eritrea Ethiopia Gabon Gambia Ghana Guinea Guinea-Bissau Kenya Lesotho Liberia Libya Madagascar Malawi Mali Mauritania Mauritius Morocco Mozambique Namibia Niger Nigeria Rwanda Senegal
+
+DATA AND TABLES
+
+LIVING PLANET REPORT 2006 29
+
+Ecological Footprint (global hectares per person, in 2003 gha) Population Country/Region
+Sierra Leone Somalia South Africa, Rep. Sudan Swaziland Tanzania, United Rep. Togo Tunisia Uganda Zambia Zimbabwe MIDDLE EAST AND CENTRAL ASIA Afghanistan Armenia Azerbaijan Georgia Iran Iraq Israel Jordan Kazakhstan Kuwait Kyrgyzstan Lebanon Saudi Arabia Syria Tajikistan Turkey Turkmenistan United Arab Emirates Uzbekistan Yemen ASIA-PACIFIC Australia Bangladesh Cambodia China India Indonesia Japan Korea, DPR Korea, Rep. Lao PDR
+(millions)
+
+Total Ecological Footprint
+0.7 0.4 2.3 1.0 1.1 0.7 0.9 1.5 1.1 0.6 0.9 2.2 0.1 1.1 1.7 0.8 2.4 0.9 4.6 1.8 4.0 7.3 1.3 2.9 4.6 1.7 0.6 2.1 3.5 11.9 1.8 0.8 1.3 6.6 0.5 0.7 1.6 0.8 1.1 4.4 1.4 4.1 0.9
+
+Cropland
+0.29 0.01 0.38 0.44 0.42 0.28 0.41 0.61 0.53 0.19 0.28 0.49 0.01 0.44 0.44 0.44 0.52 0.10 0.88 0.49 0.82 0.42 0.50 0.68 0.56 0.54 0.26 0.70 0.74 1.27 0.30 0.26 0.37 1.17 0.25 0.24 0.40 0.34 0.34 0.47 0.37 0.46 0.32
+
+Grazing land
+0.03 0.18 0.23 0.23 0.25 0.11 0.04 0.04 0.05 0.07 0.13 0.13 0.04 0.19 0.09 0.23 0.13 0.02 0.12 0.07 0.30 0.05 0.34 0.07 0.18 0.14 0.08 0.13 0.23 0.12 0.19 0.12 0.07 0.87 0.00 0.10 0.12 0.00 0.05 0.09 0.00 0.06 0.13
+
+Forest: timber, pulp, and paper
+0.02 0.01 0.12 0.05 0.05 0.04 0.03 0.08 0.09 0.05 0.05 0.07 0.05 0.02 0.05 0.00 0.04 0.00 0.29 0.08 0.05 0.12 0.02 0.18 0.11 0.05 0.01 0.15 0.01 0.39 0.02 0.01 0.07 0.53 0.00 0.01 0.09 0.02 0.05 0.37 0.05 0.35 0.01
+
+Forest: fuelwood
+0.22 0.21 0.05 0.10 0.10 0.12 0.23 0.04 0.28 0.13 0.13 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.00 0.00 0.00 0.00 0.04 0.03 0.04 0.14 0.03 0.06 0.07 0.00 0.05 0.01 0.21
+
+Fishing ground
+0.08 0.00 0.05 0.01 0.03 0.04 0.04 0.11 0.04 0.04 0.01 0.07 0.00 0.01 0.00 0.00 0.08 0.00 0.37 0.20 0.02 0.19 0.00 0.08 0.15 0.03 0.00 0.06 0.01 0.97 0.00 0.09 0.15 0.28 0.07 0.14 0.17 0.04 0.23 0.52 0.09 0.63 0.08
+
+CO2 from fossil fuels
+0.04 0.00 1.35 0.11 0.23 0.05 0.08 0.65 0.05 0.09 0.22 1.35 0.01 0.39 1.09 0.07 1.52 0.75 2.88 0.82 2.72 6.38 0.29 1.85 3.43 0.90 0.22 0.93 2.39 9.06 1.25 0.31 0.57 3.41 0.09 0.06 0.75 0.26 0.26 2.45 0.84 1.96 0.05
+
+Nuclear
+0.00 0.00 0.06 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.00 0.01 0.00 0.00 0.38 0.00 0.52 0.00
+
+Built-up land1
+0.05 0.00 0.05 0.07 0.06 0.07 0.04 0.01 0.05 0.05 0.03 0.07 0.00 0.04 0.07 0.04 0.09 0.00 0.07 0.09 0.05 0.18 0.10 0.05 0.20 0.07 0.06 0.08 0.09 0.07 0.07 0.05 0.06 0.28 0.05 0.04 0.07 0.04 0.06 0.07 0.05 0.05 0.10
+
+Water withdrawals per person
+(‘000 m3/year)
+2
+
+5.0 9.9 45.0 33.6 1.1 37.0 4.9 9.8 25.8 10.8 12.9 346.8 23.9 3.1 8.4 5.1 68.9 25.2 6.4 5.5 15.4 2.5 5.1 3.7 24.2 17.8 6.2 71.3 4.9 3.0 26.1 20.0 3 489.4 19.7 146.7 14.1 1 311.7 1 065.5 219.9 127.7 22.7 47.7 5.7
+
+80 347 279 1 135 – 143 35 271 12 163 328 1 147 1 014 960 2 079 697 1 071 1 742 325 190 2 263 180 1 989 384 736 1 148 1 931 534 5 142 783 2 270 343 583 1 224 552 295 484 615 381 694 400 392 543
+
+30 LIVING PLANET REPORT 2006
+
+Biocapacity (global hectares per person, in 2003 gha) Total biocapacity3
+1.1 0.7 2.0 1.8 1.1 1.3 0.8 0.8 0.8 3.4 0.8 1.0 0.3 0.6 1.2 1.2 0.8 0.0 0.4 0.3 4.1 0.3 1.4 0.3 1.0 0.8 0.5 1.4 3.6 0.8 0.8 0.4 0.7 12.4 0.3 0.9 0.8 0.4 1.0 0.7 0.7 0.5 1.3
+
+Cropland
+0.17 0.00 0.53 0.53 0.25 0.22 0.50 0.56 0.47 0.41 0.19 0.46 0.00 0.27 0.44 0.26 0.49 0.00 0.23 0.14 1.21 0.03 0.52 0.21 0.45 0.59 0.31 0.77 0.72 0.14 0.43 0.11 0.34 4.26 0.19 0.32 0.34 0.29 0.36 0.13 0.24 0.13 0.33
+
+Grazing land
+0.46 0.63 0.73 1.07 0.74 0.85 0.18 0.00 0.22 1.99 0.52 0.27 0.27 0.20 0.25 0.33 0.13 0.03 0.01 0.02 2.19 0.01 0.74 0.00 0.15 0.13 0.16 0.12 2.18 0.00 0.23 0.11 0.08 1.83 0.00 0.12 0.12 0.00 0.07 0.00 0.00 0.00 0.21
+
+Forest
+0.10 0.02 0.52 0.10 0.00 0.11 0.05 0.02 0.06 0.95 0.03 0.11 0.04 0.09 0.13 0.58 0.01 0.00 0.04 0.00 0.30 0.00 0.01 0.00 0.00 0.00 0.01 0.38 0.02 0.00 0.00 0.00 0.17 3.34 0.00 0.18 0.16 0.02 0.26 0.41 0.29 0.08 0.64
+
+Fishing ground
+0.29 0.07 0.21 0.01 0.00 0.04 0.01 0.18 0.04 0.03 0.01 0.08 0.00 0.00 0.34 0.01 0.09 0.00 0.03 0.00 0.34 0.09 0.00 0.01 0.14 0.00 0.00 0.02 0.54 0.62 0.04 0.12 0.11 2.73 0.06 0.21 0.09 0.03 0.27 0.13 0.09 0.27 0.07
+
+Ecological reserve or deficit (-)
+(gha/person)
+
+Footprint change per person (%)
+1975–2003
+4, 5
+
+Biocapacity change per person (%)
+1975–2003
+4, 5
+
+Human Development Index, 2003 6
+0.30 – 0.66 0.51 0.50 0.42 0.51 0.75 0.51 0.39 0.50 – – 0.76 0.73 0.73 0.74 – 0.92 0.75 0.76 0.84 0.70 0.76 0.77 0.72 0.65 0.75 0.74 0.85 0.70 0.49 – 0.96 0.52 0.57 0.76 0.60 0.70 0.94 – 0.90 0.55
+
+Change in HDI (%)
+1975–2003
+6
+
+Water withdrawals
+(% of total 2 resources)
+
+Country/Region
+Sierra Leone Somalia South Africa, Rep. Sudan Swaziland Tanzania, United Rep. Togo Tunisia Uganda Zambia Zimbabwe MIDDLE EAST AND CENTRAL ASIA Afghanistan Armenia Azerbaijan Georgia Iran Iraq Israel Jordan Kazakhstan Kuwait Kyrgyzstan Lebanon Saudi Arabia Syria Tajikistan Turkey Turkmenistan United Arab Emirates Uzbekistan Yemen ASIA-PACIFIC Australia Bangladesh Cambodia China India Indonesia Japan Korea, DPR Korea, Rep. Lao PDR
+
+0.4 0.3 -0.3 0.8 -0.1 0.6 -0.1 -0.8 -0.2 2.8 -0.1 -1.2 0.2 -0.5 -0.5 0.5 -1.6 -0.8 -4.2 -1.5 0.1 -7.0 0.1 -2.6 -3.7 -0.9 -0.1 -0.7 0.1 -11.0 -1.1 -0.5 -0.6 5.9 -0.2 0.1 -0.9 -0.4 0.0 -3.6 -0.8 -3.5 0.4
+
+-26 -38 -13 -6 -35 -20 -4 38 -27 -30 -12 -19 -45 -76 -62 -83 62 30 35 77 -14 44 -73 141 203 32 -86 10 -24 205 -60 20 38 -7 -1 -7 82 16 36 30 -19 143 1
+
+-39 -54 -23 -44 -46 -51 -56 -36 -50 -49 -54 20 -32 -78 -56 -55 -35 -51 -45 19 48 -28 -50 -2 -22 -36 -80 -39 29 -77 -72 -60 -18 -28 -20 0 -3 -23 -20 -16 -30 -35 -24
+
+– – 0 47 -6 – 21 47 – -2 -7 – – – – – 30 – 15 – – 11 – – 28 34 – 28 – 26 – – – 13 51 – 44 46 49 10 – 27 –
+
+0 22 25 58 – 5 1 57 0 2 21 46 36 28 57 6 53 57 123 115 32 2 200 49 31 722 76 75 18 100 1 533 116 162 13 5 7 1 22 34 3 21 12 27 1
+
+DATA AND TABLES
+
+LIVING PLANET REPORT 2006 31
+
+Ecological Footprint (global hectares per person, in 2003 gha) Population Country/Region
+Malaysia Mongolia Myanmar Nepal New Zealand Pakistan Papua New Guinea Philippines Sri Lanka Thailand Viet Nam LATIN AMERICA AND THE CARIBBEAN Argentina Bolivia Brazil Chile Colombia Costa Rica Cuba Dominican Rep. Ecuador El Salvador Guatemala Haiti Honduras Jamaica Mexico Nicaragua Panama Paraguay Peru Trinidad and Tobago Uruguay Venezuela NORTH AMERICA Canada United States of America EUROPE (EU) Austria Belgium/Luxembourg Czech Rep. Denmark
+(millions)
+
+Total Ecological Footprint
+2.2 3.1 0.9 0.7 5.9 0.6 2.4 1.1 1.0 1.4 0.9 2.0 2.3 1.3 2.1 2.3 1.3 2.0 1.5 1.6 1.5 1.4 1.3 0.6 1.3 1.7 2.6 1.2 1.9 1.6 0.9 3.1 1.9 2.2 9.4 7.6 9.6 4.8 4.9 5.6 4.9 5.8
+
+Cropland
+0.28 0.25 0.50 0.33 0.68 0.27 0.99 0.33 0.29 0.30 0.32 0.51 0.60 0.38 0.55 0.48 0.32 0.43 0.62 0.37 0.29 0.38 0.34 0.32 0.30 0.42 0.69 0.40 0.44 0.60 0.39 0.42 0.43 0.35 1.00 1.14 0.98 0.80 0.79 0.91 0.87 0.99
+
+Grazing land
+0.06 1.72 0.02 0.06 1.01 0.00 0.05 0.03 0.03 0.02 0.01 0.41 0.59 0.43 0.60 0.30 0.31 0.25 0.11 0.19 0.34 0.12 0.11 0.05 0.17 0.07 0.34 0.11 0.29 0.38 0.16 0.07 0.86 0.34 0.46 0.40 0.46 0.21 0.17 0.17 0.15 0.19
+
+Forest: timber, pulp, and paper
+0.21 0.12 0.02 0.04 1.30 0.02 0.00 0.04 0.02 0.05 0.05 0.17 0.12 0.05 0.29 0.51 0.05 0.35 0.06 0.07 0.08 0.11 0.04 0.02 0.06 0.16 0.12 0.01 0.04 0.32 0.04 0.18 0.05 0.04 1.20 1.14 1.21 0.48 0.85 0.32 0.53 0.90
+
+Forest: fuelwood
+0.03 0.01 0.15 0.10 0.00 0.03 0.19 0.03 0.06 0.06 0.05 0.10 0.02 0.05 0.15 0.16 0.05 0.17 0.03 0.01 0.08 0.13 0.25 0.05 0.25 0.04 0.07 0.22 0.08 0.20 0.05 0.01 0.09 0.03 0.02 0.02 0.03 0.02 0.08 0.01 0.02 0.04
+
+Fishing ground
+0.58 0.00 0.09 0.01 1.19 0.02 0.00 0.35 0.28 0.24 0.09 0.09 0.08 0.01 0.06 0.15 0.05 0.05 0.05 0.34 0.09 0.14 0.08 0.01 0.01 0.59 0.08 0.09 0.15 0.02 0.12 0.38 0.15 0.18 0.22 0.15 0.23 0.27 0.13 0.24 0.17 0.21
+
+CO2 from fossil fuels
+1.01 0.93 0.04 0.09 1.60 0.21 1.02 0.22 0.27 0.64 0.28 0.59 0.69 0.34 0.37 0.60 0.42 0.64 0.62 0.57 0.55 0.46 0.40 0.08 0.41 0.41 1.18 0.29 0.83 0.01 0.00 2.08 0.22 1.15 5.50 4.08 5.66 2.45 2.82 2.75 2.56 3.17
+
+Nuclear
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.01 0.04 0.00 0.02 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.02 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.55 0.50 0.56 0.44 0.00 0.88 0.48 0.00
+
+Built-up land1
+0.09 0.05 0.08 0.07 0.16 0.05 0.11 0.05 0.05 0.06 0.08 0.09 0.11 0.08 0.10 0.14 0.09 0.11 0.05 0.05 0.06 0.04 0.06 0.02 0.07 0.04 0.06 0.07 0.06 0.09 0.10 0.00 0.12 0.09 0.44 0.18 0.47 0.16 0.11 0.34 0.13 0.25
+
+Water withdrawals per person
+(‘000 m3/year)
+2
+
+24.4 2.6 49.5 25.2 3.9 153.6 5.7 80.0 19.1 62.8 81.4 535.2 38.4 8.8 178.5 15.8 44.2 4.2 11.3 8.7 13.0 6.5 12.3 8.3 6.9 2.7 103.5 5.5 3.1 5.9 27.2 1.3 3.4 25.7 325.6 31.5 294.0 454.4 8.1 10.8 10.2 5.4
+
+376 172 680 414 549 1 130 13 363 667 1 400 889 482 769 166 336 804 246 655 728 393 1 326 200 167 120 127 156 767 244 268 85 752 239 929 – 1 630 1 470 1 647 551 260 836 252 237
+
+32 LIVING PLANET REPORT 2006
+
+Biocapacity (global hectares per person, in 2003 gha) Total biocapacity3
+3.7 11.8 1.3 0.5 14.9 0.3 2.1 0.6 0.4 1.0 0.8 5.4 5.9 15.0 9.9 5.4 3.6 1.5 0.9 0.8 2.2 0.6 1.3 0.3 1.8 0.5 1.7 3.5 2.5 5.6 3.8 0.4 8.0 2.4 5.7 14.5 4.7 2.2 3.4 1.2 2.6 3.5
+
+Cropland
+0.87 0.30 0.57 0.27 3.34 0.24 0.29 0.28 0.21 0.57 0.40 0.70 2.28 0.59 0.86 0.51 0.24 0.41 0.52 0.30 0.33 0.26 0.36 0.14 0.34 0.19 0.50 0.62 0.30 1.24 0.33 0.13 1.01 0.25 1.87 3.37 1.71 0.82 0.66 0.40 0.92 2.02
+
+Grazing land
+0.02 11.04 0.01 0.05 4.40 0.00 0.05 0.02 0.02 0.01 0.01 0.96 1.91 2.89 1.19 0.49 1.42 0.69 0.10 0.25 0.40 0.14 0.30 0.04 0.28 0.04 0.30 1.02 0.57 3.59 0.55 0.01 5.66 0.73 0.28 0.26 0.28 0.08 0.10 0.04 0.02 0.01
+
+Forest
+2.32 0.45 0.46 0.08 6.59 0.02 0.72 0.11 0.04 0.23 0.14 3.46 1.02 11.48 7.70 2.51 1.83 0.24 0.15 0.20 1.15 0.09 0.53 0.03 1.01 0.11 0.58 1.74 1.50 0.64 2.45 0.04 0.71 1.28 2.68 9.70 1.93 1.02 2.59 0.41 1.53 0.45
+
+Fishing ground
+0.42 0.00 0.20 0.01 0.45 0.03 0.91 0.12 0.05 0.13 0.16 0.21 0.53 0.00 0.09 1.73 0.01 0.04 0.04 0.03 0.30 0.02 0.01 0.03 0.06 0.09 0.24 0.09 0.10 0.02 0.39 0.24 0.52 0.04 0.43 1.08 0.36 0.12 0.00 0.01 0.01 0.80
+
+Ecological reserve or deficit (-)
+(gha/person)
+
+Footprint change per person (%)
+1975–2003
+4, 5
+
+Biocapacity change per person (%)
+1975–2003
+4, 5
+
+Human Development Index, 2003 6
+0.80 0.70 0.58 0.53 0.93 0.53 0.52 0.76 0.75 0.78 0.70 – 0.86 0.69 0.79 0.85 0.79 0.84 0.82 0.75 0.76 0.72 0.66 0.48 0.67 0.74 0.81 0.69 0.80 0.76 0.76 0.80 0.84 0.77 – 0.95 0.94 0.92 0.94 0.95 0.87 0.94
+
+Change in HDI (%)
+1975–2003
+6
+
+Water withdrawals
+(% of total 2 resources)
+
+Country/Region
+Malaysia Mongolia Myanmar Nepal New Zealand Pakistan Papua New Guinea Philippines Sri Lanka Thailand Viet Nam LATIN AMERICA AND THE CARIBBEAN Argentina Bolivia Brazil Chile Colombia Costa Rica Cuba Dominican Rep. Ecuador El Salvador Guatemala Haiti Honduras Jamaica Mexico Nicaragua Panama Paraguay Peru Trinidad and Tobago Uruguay Venezuela
+
+1.5 8.7 0.4 -0.2 9.0 -0.3 -0.3 -0.5 -0.6 -0.4 -0.1 3.4 3.6 13.7 7.8 3.0 2.3 -0.5 -0.7 -0.8 0.7 -0.8 0.0 -0.3 0.5 -1.3 -0.9 2.4 0.6 4.0 3.0 -2.7 6.1 0.2 -3.7 6.9 -4.8 -2.6 -1.5 -4.4 -2.3 -2.2
+
+77 -12 36 9 28 -1 88 6 43 60 40 21 -18 22 30 54 19 13 -2 60 31 73 42 -10 10 -2 50 -14 10 -3 -11 43 -30 -4 35 11 38 31 46 38 -3 26
+
+-35 -46 -6 -19 -9 -41 -41 -40 -20 -4 12 -30 -14 -37 -27 -27 -35 -25 4 -36 -36 -27 -32 -44 -49 6 -33 -47 -36 -54 -34 -24 5 -42 -21 -26 -20 0 -3 5 19 -2
+
+29 – – 78 10 45 23 16 24 27 – – 10 34 23 21 19 12 – 21 20 22 29 – 29 7 18 18 13 13 19 7 11 8 – 9 9 – 11 † – 8
+
+2 1 3 5 1 76 0 6 25 21 8 2 4 0 1 1 1 2 22 16 4 5 2 7 1 4 17 1 1 0 1 8 2 – 9 2 16 14 3 42 20 21
+
+DATA AND TABLES
+
+NORTH AMERICA Canada United States of America EUROPE (EU) Austria Belgium/Luxembourg Czech Rep. Denmark
+
+LIVING PLANET REPORT 2006 33
+
+Ecological Footprint (global hectares per person, in 2003 gha) Population Country/Region
+Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Netherlands Poland Portugal Slovakia Slovenia Spain Sweden United Kingdom EUROPE (NON-EU) Albania Belarus Bosnia and Herzegovina Bulgaria Croatia Macedonia, FYR Moldova, Rep. Norway Romania Russian Federation Serbia and Montenegro Switzerland Ukraine
+(millions)
+
+Total Ecological Footprint
+6.5 7.6 5.6 4.5 5.0 3.5 5.0 4.2 2.6 4.4 4.4 3.3 4.2 3.2 3.4 5.4 6.1 5.6 3.8 1.4 3.3 2.3 3.1 2.9 2.3 1.3 5.8 2.4 4.4 2.3 5.1 3.2
+
+Cropland
+0.83 0.83 0.80 0.73 0.95 0.78 0.70 0.71 0.87 1.01 0.58 0.93 0.73 0.62 0.44 1.13 0.87 0.68 0.74 0.50 0.91 0.49 0.75 0.69 0.54 0.52 0.86 0.86 0.76 0.61 0.52 0.72
+
+Grazing land
+0.47 0.20 0.33 0.18 0.24 0.11 0.33 0.17 0.91 0.36 0.23 0.09 0.24 0.12 0.14 0.11 0.42 0.30 0.20 0.16 0.23 0.06 0.09 0.04 0.11 0.07 0.29 0.09 0.23 0.09 0.30 0.25
+
+Forest: timber, pulp, and paper
+1.04 2.02 0.46 0.48 0.29 0.29 0.45 0.42 0.16 0.32 0.32 0.31 0.31 0.23 0.58 0.45 1.58 0.46 0.21 0.08 0.19 0.36 0.12 0.38 0.16 0.05 0.87 0.17 0.24 0.14 0.44 0.06
+
+Forest: fuelwood
+0.27 0.15 0.01 0.01 0.02 0.05 0.00 0.02 0.04 0.09 0.00 0.02 0.01 0.02 0.05 0.01 0.13 0.00 0.05 0.01 0.02 0.06 0.06 0.04 0.07 0.00 0.06 0.03 0.06 0.04 0.03 0.03
+
+Fishing ground
+0.19 0.29 0.33 0.12 0.28 0.11 0.24 0.25 0.10 0.49 0.30 0.03 0.91 0.06 0.03 0.71 0.22 0.25 0.15 0.03 0.11 0.04 0.01 0.06 0.05 0.05 1.63 0.02 0.19 0.05 0.14 0.06
+
+CO2 from fossil fuels
+3.54 3.07 2.02 2.45 3.17 1.79 3.12 2.52 0.45 1.00 2.78 1.83 1.96 1.39 2.10 2.58 1.06 3.21 2.11 0.58 1.77 1.27 1.45 1.67 1.31 0.55 1.98 1.05 2.64 1.29 2.77 1.66
+
+Nuclear
+0.00 0.93 1.50 0.41 0.00 0.24 0.00 0.00 0.00 1.02 0.05 0.00 0.00 0.66 0.00 0.31 1.63 0.31 0.22 0.00 0.00 0.00 0.50 0.00 0.00 0.00 0.00 0.05 0.22 0.00 0.79 0.36
+
+Built-up land1
+0.13 0.14 0.17 0.17 0.05 0.12 0.12 0.07 0.06 0.16 0.13 0.07 0.04 0.13 0.07 0.05 0.17 0.38 0.07 0.07 0.08 0.06 0.13 0.07 0.08 0.04 0.15 0.10 0.06 0.06 0.16 0.05
+
+Water withdrawals per person
+(‘000 m3/year)
+2
+
+1.3 5.2 60.1 82.5 11.0 9.9 4.0 57.4 2.3 3.4 16.1 38.6 10.1 5.4 2.0 41.1 8.9 59.5 272.2 3.2 9.9 4.2 7.9 4.4 2.1 4.3 4.5 22.3 143.2 10.5 7.2 48.5
+
+118 476 668 571 708 770 289 772 129 78 494 419 1 121 – – 870 334 161 583 544 281 – 1 318 – – 541 485 1 035 532 – 358 767
+
+NOTES World: Total population includes countries not listed in table. Table includes all countries with populations greater than 1 million, except Bhutan, Oman, and Singapore, for which insufficient data were available to calculate Ecological Footprint and biocapacity figures. High-income countries: Australia, Austria, Belgium/Luxembourg, Canada, Denmark, Finland, France, Germany, Greece, Ireland, Israel, Italy, Japan,
+
+Korea, Rep., Kuwait, Netherlands, New Zealand, Norway, Portugal, Saudi Arabia, Slovenia, Spain, Sweden, Switzerland, United Arab Emirates, United Kingdom, United States of America. Middle-income countries: Albania, Algeria, Angola, Argentina, Armenia, Azerbaijan, Belarus, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Bulgaria, Chile, China, Colombia, Costa Rica, Croatia, Cuba, Czech Rep., Dominican Rep., Ecuador, Egypt, El Salvador, Estonia, Gabon, Georgia, Guatemala, Honduras, Hungary, Indonesia, Iran, Iraq, Jamaica, Jordan, Kazakhstan, Latvia, Lebanon, Libya, Lithuania, Macedonia, FYR, Malaysia,
+
+Mauritius, Mexico, Morocco, Namibia, Panama, Paraguay, Peru, Philippines, Poland, Romania, Russian Federation (and USSR in 1975), Serbia and Montenegro, Slovakia, South Africa, Rep., Sri Lanka, Swaziland, Syria, Thailand, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Ukraine, Uruguay, Venezuela. Low-income countries: Afghanistan, Bangladesh, Benin, Burkina Faso, Burundi, Cambodia, Cameroon, Central African Rep., Chad, Congo, Congo, Dem. Rep., Côte d’Ivoire, Eritrea, Ethiopia, Gambia, Ghana, Guinea, Guinea-Bissau, Haiti, India, Kenya, Korea, DPR, Kyrgyzstan, Lao PDR,
+
+34 LIVING PLANET REPORT 2006
+
+Biocapacity (global hectares per person, in 2003 gha) Total biocapacity3
+5.7 12.0 3.0 1.7 1.4 2.0 4.8 1.0 6.6 4.2 0.8 1.8 1.6 2.8 2.8 1.7 9.6 1.6 4.6 0.9 3.2 1.7 2.1 2.6 0.9 0.8 6.8 2.3 6.9 0.8 1.5 1.7
+
+Cropland
+1.06 1.04 1.42 0.66 0.90 0.96 1.45 0.51 2.06 1.80 0.32 0.84 0.36 0.68 0.29 1.07 1.11 0.54 0.98 0.42 0.93 0.34 0.79 0.64 0.52 0.69 0.57 0.72 1.15 0.61 0.29 1.03
+
+Grazing land
+0.09 0.00 0.14 0.06 0.01 0.07 0.96 0.01 0.20 0.15 0.05 0.08 0.06 0.04 0.06 0.04 0.04 0.15 0.25 0.12 0.32 0.26 0.04 0.34 0.24 0.07 0.03 0.01 0.37 0.09 0.17 0.13
+
+Forest
+4.23 10.68 1.17 0.83 0.26 0.79 0.67 0.37 4.21 2.10 0.11 0.85 1.06 1.90 2.41 0.55 8.15 0.19 3.02 0.24 1.91 1.07 1.12 1.26 0.07 0.01 4.03 1.41 4.91 0.00 0.92 0.47
+
+Fishing ground
+0.21 0.15 0.10 0.03 0.24 0.01 1.59 0.05 0.09 0.02 0.17 0.01 0.08 0.00 0.00 0.04 0.12 0.36 0.26 0.05 0.00 0.00 0.04 0.28 0.00 0.00 2.00 0.03 0.40 0.00 0.00 0.05
+
+Ecological reserve or deficit (-)
+(gha/person)
+
+Footprint change per person (%)
+1975–2003
+4, 5
+
+Biocapacity change per person (%)
+1975–2003
+4, 5
+
+Human Development Index, 2003 6
+0.85 0.94 0.94 0.93 0.91 0.86 0.95 0.93 0.84 0.85 0.94 0.86 0.90 0.85 0.90 0.93 0.95 0.94 0.79 0.78 0.79 0.79 0.81 0.84 0.80 0.67 0.96 0.77 0.80 – 0.95 0.77
+
+Change in HDI (%)
+1975–2003
+6
+
+Water withdrawals
+(% of total 2 resources)
+
+Country/Region
+Estonia Finland France Germany Greece Hungary Ireland Italy Latvia Lithuania Netherlands Poland Portugal Slovakia Slovenia Spain Sweden United Kingdom EUROPE (NON-EU) Albania Belarus Bosnia and Herzegovina Bulgaria Croatia Macedonia, FYR Moldova, Rep. Norway Romania Russian Federation Serbia and Montenegro Switzerland Ukraine
+
+-0.7 4.4 -2.6 -2.8 -3.6 -1.5 -0.2 -3.1 4.0 -0.2 -3.6 -1.4 -2.6 -0.5 -0.6 -3.6 3.5 -4.0 0.8 -0.5 -0.1 -0.6 -1.0 -0.3 -1.4 -0.5 0.9 -0.1 2.5 -1.5 -3.6 -1.5
+
+41 57 51 6 101 -5 46 60 -44 -3 28 -24 73 -36 40 97 16 33 -11 0 -28 -4 -18 21 -5 -72 37 -20 -4 -6 39 -30
+
+108 -4 -1 2 -21 -22 -10 -15 141 54 0 -20 -3 26 96 -4 -2 6 -12 -18 18 19 -21 79 -38 -71 -3 -8 150 -48 -9 -37
+
+– 12 10 – 9 11 17 11 – – 9 – 15 – – 11 10 11 – – – – – – – – 11 – – – 8 –
+
+1 2 20 31 10 7 2 23 1 1 9 26 16 – – 32 2 6 3 4 5 – 49 – – 20 1 11 2 – 5 27
+
+\
+
+Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Moldova, Rep., Mongolia, Mozambique, Myanmar, Nepal, Nicaragua, Niger, Nigeria, Pakistan, Papua New Guinea, Rwanda, Senegal, Sierra Leone, Somalia, Sudan, Tajikistan, Tanzania, United Rep., Togo, Uganda, Uzbekistan, Viet Nam, Yemen, Zambia, Zimbabwe. 1. Built-up land includes hydropower. 2. Water withdrawals and resource estimates from FAO, 2004 and Shiklomanov, 1999.
+
+3. Biocapacity includes built-up land (see column under Ecological Footprint).
+
+6. UNDP HDI Statistics, http://hdr.undp.org/statistics/ (August 2006).
+
+DATA AND TABLES
+
+† Increases over 1975 for Belgium and Luxembourg are respectively 12 and 4. Changes from 1975 are calculated based on constant 2003 global
+
+13 per cent. – = insufficient data.
+
+hectares.
+5. For countries that were formerly part of Ethiopia PDR, the Soviet
+
+Union, former Yugoslavia, or Czechoslovakia, 2003 per capita footprints and biocapacity are compared with the per capita footprint and biocapacity of the former unified country.
+
+0 = less than 0.5; 0.0 = less than 0.05; 0.00 = less than 0.005. Totals may not add up due to rounding.
+
+LIVING PLANET REPORT 2006 35
+
+Table 3: THE LIVING PLANET THROUGH TIME, 1961–2003
+Ecological Footprint (billion 2003 global hectares) Global population
+(billion, 2003)
+
+Total Ecological Footprint
+4.5 5.4 6.9 8.0 9.3 10.1 11.5 12.1 13.2 14.1
+
+Total Biocapacity Cropland
+1.70 1.79 1.98 1.97 2.16 2.42 2.65 2.76 2.96 3.07
+
+Grazing land
+0.36 0.41 0.44 0.49 0.50 0.55 0.65 0.77 0.85 0.91
+
+Forest
+1.13 1.15 1.19 1.19 1.30 1.37 1.49 1.36 1.44 1.43
+
+Fishing ground
+0.42 0.49 0.63 0.66 0.67 0.76 0.80 0.88 0.93 0.93
+
+CO2 from fossil fuels
+0.74 1.41 2.49 3.41 4.24 4.44 5.15 5.50 6.10 6.71
+
+Nuclear
+0.00 0.00 0.01 0.06 0.12 0.26 0.37 0.44 0.52 0.53
+
+Built-up land
+0.15 0.16 0.19 0.22 0.26 0.32 0.37 0.40 0.46 0.48
+
+(billion 2003 gha)
+
+Living Planet Index
+
+Living Planet Indices Terrestrial Marine Freshwater
+
+1961 1965 1970 1975 1980 1985 1990 1995 2000 2003
+
+3.08 3.33 3.69 4.07 4.43 4.83 5.26 5.67 6.07 6.30
+
+9.0 9.2 9.5 9.7 9.9 10.4 10.7 10.8 11.1 11.2
+
+1.00 1.03 0.99 0.95 0.90 0.85 0.71 0.71
+
+1.00 1.00 0.97 0.86 0.83 0.82 0.71 0.69
+
+1.00 1.06 0.95 0.93 0.92 0.82 0.78 0.73
+
+1.00 1.03 1.07 1.07 0.96 0.82 0.65 0.72
+
+Moderate business-as-usual scenario 2025 7.8 19 2050 8.9 23 Slow-shift scenario 2025 2050 2075 2100
+
+3.8 4.9
+
+1.3 1.7
+
+2.0 3.0
+
+1.3 1.7
+
+9.3 10.8
+
+0.6 0.6
+
+0.5 0.6
+
+12 11
+
+7.8 8.9 9.3 9.5
+
+16 16 14 12
+
+3.6 3.7 3.8 3.8
+
+1.1 1.1 1.1 1.1
+
+1.9 2.0 2.1 2.2
+
+1.0 0.8 0.6 0.5
+
+7.6 6.8 4.6 3.4
+
+0.7 0.6 0.7 0.7
+
+0.6 0.6 0.6 0.6
+
+12 13 13 13
+
+Rapid-reduction scenario 2025 7.8 2050 8.9 2075 9.3 2100 9.5
+
+14 12 11 10
+
+3.6 3.4 3.3 3.5
+
+1.1 1.0 1.0 1.1
+
+2.0 2.0 2.1 2.2
+
+0.8 0.7 0.5 0.5
+
+5.0 3.4 2.7 2.0
+
+0.6 0.6 0.6 0.5
+
+0.6 0.5 0.5 0.5
+
+12 13 14 14
+
+Notes: Totals may not add up due to rounding. All time trends reported in constant 2003 global hectares. For more information about scenario projections, see pages 20–25.
+
+Table 4: NUMBERS OF SPECIES CONTRIBUTING TO THE TERRESTRIAL, MARINE, AND FRESHWATER LIVING PLANET INDICES WITHIN EACH VERTEBRATE CLASS
+Terrestrial Marine Freshwater Total
+Mammals 171 48 11 230 Birds 513 112 153 778 Reptiles 11 7 17 35 Amphibians Fish Total 695 274 344 1 313
+
+69 69
+
+107 94 201
+
+Table 5: TRENDS IN THE LIVING PLANET INDICES BETWEEN 1970 AND 2003, WITH 95 PER CENT CONFIDENCE LIMITS
+Living Planet Index -29 -16 -40 Terrestrial Living Planet Indices All species Temperate Tropical -31 7 -55 -14 22 -34 -44 -7 -70 All species -27 6 -42 Marine Living Planet Indices 1 Arctic/Atlantic Southern Pacific 15 -31 2 55 19 77 -14 -61 -43 Indian -59 -22 -82
+2
+
+Per cent change in index Upper confidence limit Lower confidence limit
+
+Freshwater Living Planet Indices All species Temperate Tropical -28 -31 -26 -1 1 26 -48 -53 -57
+
+1. 1970–1997; 2. 1970–2000
+
+36 LIVING PLANET REPORT 2006
+
+LIVING PLANET INDEX: TECHNICAL NOTES
+Data collection The species population data used to calculate the index are gathered from a variety of sources published in scientific journals, NGO literature, or on the worldwide web. Any data used in constructing the index has to be a time series of either population size or a proxy of population size. Some data are total population estimates such as counts of an entire species; others are density measures, for example the number of birds per kilometre of transect; some are biomass or stock estimates, particularly for commercial fish species; and others are proxies of population size, such as the number of nests of marine turtle species on various nesting beaches. All population time series have at least two data points, and most have more than two, collected by methods that are comparable across years, so that it is possible to determine a trend. A population estimate taken at one point in time would not be used with a second estimate from Calculation of the indices Before calculating the Living Planet Index, species were first divided according to whether their principal habitat is terrestrial, marine, or freshwater and then, because many more population data are available from temperate regions of the world than tropical (whereas species richness is higher in the tropics), terrestrial and freshwater species populations were divided into temperate and tropical, and marine species populations were divided according to the ocean basin they inhabit: Atlantic/Arctic, Pacific, Indian, or Southern. If another survey of the same population at another point in time, unless it was clear that the second was meant to be comparable with the first. Plants and invertebrates were excluded, as few population time series data were available. It is assumed that trends in vertebrate populations are indicative of overall trends in global biodiversity. the Living Planet Index data were not grouped in this way, then the index would be dominated by temperate terrestrial species, and unrepresentative of global biodiversity. An index was calculated for each of the sets, representing the average change of all species populations within that group. The Terrestrial Living Planet Index was then calculated as the geometric mean of the temperate and tropical terrestrial indices, likewise for the Freshwater Living Planet Index. The Marine Living Planet Index was calculated as the geometric mean of the four ocean indices. The terrestrial index includes 695 species of mammals, birds, and reptiles found in forest, grassland, savannah, desert, or tundra ecosystems worldwide. The freshwater index comprises 344 species of mammals, birds, reptiles, amphibians, and fish living in rivers, lakes, or wetland ecosystems. The marine index includes 274 species of mammals, birds, reptiles, and fish from the world’s oceans, Figure 33: Hierarchy of indices within the Living Planet Index. Each population carries equal weight within each species; each species carries equal weight within tropical and temperate realms or within each ocean basin; temperate and tropical realms or ocean basins, carry equal weight within each system; each system carries equal weight within the overall Living Planet Index. seas, and coastal ecosystems. The Living Planet Index is the geometric mean of the terrestrial, marine, and freshwater indices. The hierarchy of indices in shown in Figure 33. Confidence intervals for the Living Planet Index were obtained by a bootstrap method and shown in Table 5. A detailed description of the Living Planet Index calculations can be found in Loh et al., 2005.
+
+Fig. 33: HIERARCHY OF INDICES WITHIN THE LIVING PLANET INDEX
+LIVING PLANET INDEX
+
+Table 6: CLASSIFICATION OF FRAGMENTATION AND FLOW REGULATION IN LARGE RIVER SYSTEMS (Figures 14 and 15, page 10)
+Per cent of Major Minor main channel tributary tributary free flowing dams dams only 100 No Yes 100 Yes No 75–100 No No 75–100 No Yes 75–100 Yes No 50–75 No No 50–75 No Yes 50–75 Yes No 25–50 No No 25–50 No Yes 25–50 Yes No <25 U: unaffected; M: moderately affected; S: Flow regulation (% of total annual discharge that could be held back and released by dams) 0–1 1–2 2–5 5–10 10–15 15–20 20–25 25–30 >30 U U M M M M M M M U M M M M M M M M M M M M M M M M S M M M M M M M S S M M M M M M S S S M M M M M M S S S M M M M M S S S S M M M M S S S S S M M M M S S S S S M M M S S S S S S S S S S S S S S S S S S S S S S S S severely affected (Nilsson et al., 2005)
+
+Terrestrial
+
+Freshwater
+
+Marine
+
+Temperate species
+
+Tropical species
+
+Temperate species
+
+Tropical species Indian Ocean
+
+Atlantic/ Arctic
+
+Pacific Ocean
+
+DATA AND TABLES
+
+Species 1
+
+Species 2
+
+Species 3
+
+Southern Ocean
+
+Population 1
+
+Population 2
+
+Population 3
+
+LIVING PLANET REPORT 2006 37
+
+E C O L O G I C A L F O O T P R I N T: F R E Q U E N T LY A S K E D Q U E S T I O N S
+How is the Ecological Footprint calculated? The Ecological Footprint measures the amount of biologically productive land and water area required to produce the resources an individual, population, or activity consumes and to absorb the waste they generate, given prevailing technology and resource management. This area is expressed in global hectares (gha), hectares with world-average biological productivity (1 hectare = 2.47 acres). Footprint calculations use yield factors (Table 7) to take into account national differences in biological productivity (for example, tonnes of wheat per United Kingdom or Argentinian hectare versus
+Primary cropland World 1.0 Algeria 0.6 Guatemala 1.0 Hungary 1.1 Japan 1.5 Jordan 1.0 Lao PDR 0.8 New Zealand 2.2 Zambia 0.5 Forest 1.0 0.0 1.4 2.9 1.6 0.0 0.2 2.5 0.3 Ocean Pasture fisheries 1.0 1.0 0.7 0.8 2.9 0.2 1.9 1.0 2.2 1.4 0.4 0.8 2.7 1.0 2.5 0.2 1.5 1.0
+
+persistent this is likely to be reflected in future accounts as a loss of biocapacity. Footprint accounts also do not indicate the intensity with which a biologically productive area is being used, nor do they pinpoint specific biodiversity pressures. Finally, the Ecological Footprint, as a biophysical measure, does not evaluate the essential social and economic dimensions of sustainability. How have the footprint calculations been improved since the last Living Planet Report? A formal process is in place to assure continuous improvement of the National Footprint Accounts methodology. Coordinated by Global Footprint Network, this process has been supported by the European Environment Agency and Global Footprint Network partner organizations, among others. The most significant change since the Living Planet Report 2004 has been the incorporation of a new dataset, the United Nations COMTRADE database, to track flows between nations of more than 600 products. This allows more accurate allocation of the footprint embodied in traded goods. Other revisions have improved the accuracy of cropland and forest sections of the calculations. In previous Living Planet Reports, we reported global hectares specific to each year, as both the total number of bioproductive hectares and world average productivity per hectare change annually. To simplify comparison of footprint and biocapacity results from year to year, in this report all time trends are given in constant 2003 global hectares. Similar to the use of inflation-adjusted dollars in economic statistics, the use of a fixed global hectare shows how absolute levels of
+
+consumption and bioproductivity, rather than just the ratio between them, are changing over time. Table 9 shows the conversion of global hectares of selected years into constant 2003 global hectares. How does the Ecological Footprint account for the use of fossil fuels? Fossil fuels – coal, oil, and natural gas – are extracted from the Earth’s crust rather than produced by ecosystems. When burning this fuel, CO2 is produced. In order to avoid carbon accumulation in the atmosphere, the goal of the United Nations Framework Convention on Climate Change, two options exist: human technological sequestration, such as deep well injection; or natural sequestration. Natural sequestration corresponds to the biocapacity required to absorb and store the CO2 not sequestered by humans, less the amount absorbed by the oceans. This is the footprint for CO2. Although negligible amounts of CO2 are currently sequestered through human technological processes, these technologies will lower the carbon footprint associated with burning fossil fuels as they are brought online. The sequestration rate used in Ecological Footprint calculations is based on an estimate of how much carbon the world’s forests can remove from the atmosphere and retain. One 2003 global hectare can absorb the CO2 released by burning approximately 1 450 litres of petrol per year. The CO2 footprint does not suggest that carbon sequestration is the key to resolving global warming. Rather the opposite: it shows that the biosphere does not have sufficient capacity to cope with current levels of CO2 emissions. As forests mature, their CO2 sequestration rate
+
+Table 7: YIELD FACTORS, selected countries
+
+world average) and equivalence factors (Table 8) to take into account differences in world average productivity among land types (for example, world average forest versus world average cropland). Footprint and biocapacity results for nations are calculated annually by Global Footprint Network. The continuing methodological development of these National Footprint Accounts is overseen by a formal review committee (www.footprintstandards.org/committees). A detailed methods paper and copies of sample calculation sheets can be obtained at www.footprintnetwork.org. What is included in the Ecological Footprint? What is excluded? To avoid exaggerating human demand on nature, the Ecological Footprint includes only those aspects of resource consumption and waste production for which the Earth has regenerative capacity, and where data exist that allow this demand to be expressed in terms of productive area. For example, freshwater withdrawals are not included in the footprint, although the energy used to pump or treat them is. Ecological Footprint accounts provide snapshots of past resource demand and availability. They do not predict the future. Thus, while the footprint does not estimate future losses caused by present degradation of ecosystems, if
+
+Table 8: EQUIVALENCE FACTORS, 2003
+Primary cropland Marginal cropland Forest Permanent pasture Marine Inland water Built-up land gha/ha 2.21 1.79 1.34 0.49 0.36 0.36 2.21
+
+Table 9: CONVERSION FACTORS
+1961 1965 1970 1975 1980 1985 1990 1995 2000 2003 2003 gha/gha 0.86 0.86 0.89 0.90 0.92 0.95 0.97 0.97 0.99 1.00
+
+38 LIVING PLANET REPORT 2006
+
+approaches zero, and they may even become net emitters of carbon. How does the Ecological Footprint account for nuclear energy? The demand on biocapacity associated with the use of nuclear power is difficult to quantify, in part because many of its impacts are not addressed by the research question underlying the footprint. For lack of conclusive data, the footprint of nuclear electricity is assumed to be the same as the footprint of the equivalent amount of electricity from fossil fuels. Global Footprint Network and its partners are working to refine this assumption. Currently, the footprint of nuclear electricity represents less than 4 per cent of the total global Ecological Footprint. How is international trade taken into account? The National Footprint Accounts calculate each country’s net consumption by adding its imports to its production and subtracting its exports. This means that the resources used for producing a car that is manufactured in Japan, but sold and used in India, will contribute to the Indian, not the Japanese, consumption footprint. The resulting national footprints can be distorted, since the resources used and waste generated in making products for export are not fully documented. This affects the footprints of countries whose trade-flows are large relative to their overall economies. These misallocations, however, do not affect the total global Ecological Footprint. Does the Ecological Footprint take other species into account? The Ecological Footprint describes human demand
+
+on nature. Currently, there are 1.8 global hectares of biocapacity available per person on Earth, less if some of this biological productivity is allocated for consumption by wild species. The value society places on biodiversity will determine how much productivity is reserved as a buffer. Efforts to increase biocapacity, such as monocropping and the application of pesticides, may also increase pressure on biodiversity; this can increase the size of the buffer required to achieve the same conservation results. Does the Ecological Footprint say what is a “fair” or “equitable” use of resources? The footprint documents what has happened in the past. It quantifies the ecological resources used by an individual or a population, but it cannot prescribe what they should be using. Resource allocation is a policy issue, based on societal beliefs about what is or is not equitable. Thus, while footprint accounting can determine the average biocapacity that is available per person, it cannot stipulate how that biocapacity should be shared between individuals or nations. However, it does provide a context for such discussions. Does the Ecological Footprint matter if the supply of renewable resources can be increased and advances in technology can slow the depletion of non-renewable resources? The Ecological Footprint measures the current state of resource use and waste generation. It asks: in a given year, did human demands on ecosystems exceed the ability of ecosystems to meet those demands? Footprint analysis reflects both increases in the productivity of renewable
+
+resources (for example, if the productivity of cropland is increased, then the footprint of 1 tonne of wheat will decrease) and technological innovation (for example, if the paper industry doubles the overall efficiency of paper production, the footprint per tonne of paper will be cut by half). Ecological Footprint accounts capture these changes as they occur and can determine the extent to which these innovations have succeeded in bringing human demand within the capacity of the planet’s ecosystems. If there is a sufficient increase in ecological supply and reduction in human demand due to technological advances or other factors, footprint accounts will show this as the elimination of global overshoot. Does the Ecological Footprint ignore the role of population growth as a driver in humanity’s increasing consumption? The total Ecological Footprint of a nation or of humanity as a whole is a function of the number of people consuming, the average amount of goods and services an average person consumes, and the resource intensity of these goods and services. Since footprint accounting is historical, it does not predict how any of these factors will change in the future. However, if population grows or declines (or any of the other factors change), this will be reflected in future footprint accounts. Footprint accounts can also show how resource consumption is distributed among regions. For example, the total footprint of the Asia-Pacific region, with its large population but low per person footprint, can be directly compared to that of North America, with its much smaller population but much larger per person footprint.
+
+How do I calculate the Ecological Footprint of a city or region? While the calculations for global and national Ecological Footprints have been standardized within the National Footprint Accounts, there are a variety of ways used to calculate the footprint of a city or region. The family of “processbased” approaches use production recipes and supplementary statistics to allocate the national per capita footprint to consumption categories (such as for food, shelter, mobility, goods, and services). Regional or municipal average per capita footprints are calculated by scaling these national results up or down based on differences between national and local consumption patterns. The family of input-output approaches use monetary, physical, or hybrid input-output tables for allocating overall demand to consumption categories. There is growing recognition of the need to standardize sub-national footprint application methods in order to increase their comparability across studies and over time. In response to this need, methods and approaches for calculating the footprint of cities and regions are currently being aligned through the global Ecological Footprint Standards initiative. For more information on current footprint standards and ongoing standardization debates, see www.footprintstandards.org.
+
+DATA AND TABLES
+
+For additional information about footprint methodology, data sources, assumptions, and definitions please visit: www.footprintnetwork.org/2006technotes
+
+LIVING PLANET REPORT 2006 39
+
+REFERENCES AND FURTHER READING
+Boutaud, A., 2002. Développement durable: quelques vérités embarrassantes. Economie et Humanisme 363: 4–6. Diamond, J., 2005. Collapse: How Societies Choose to Fail or Succeed. Viking Penguin, New York. FAO, 2004. AQUASTAT Online Database. FAO, Rome. www.fao.org/ag/agl/aglw/aquastat/dbase/ index.stm. Flannery, T., 2005. The Weather Makers: The History & Future Impact of Climate Change. Text Publishing, Melbourne, Australia. Pacala, S. and Socolow, R., 2004. Stabilization IUCN/UNEP/WWF, 1991. Caring for the Earth: A Strategy for Sustainable Living. Gland, Switzerland. Kitzes, J., Wackernagel, M., Loh, J., Peller, A., Goldfinger, S., Cheng, D., and Tea, K., 2006. “Shrink and Share: Humanity’s Present and Future Ecological Footprint”. Accepted for special publication of the Philosophical Transactions of the Royal Society. Schwartz, P. and Randall, D., 2003. An Abrupt Loh, J., Green, R.E., Ricketts, T., Lamoreux, J., Jenkins, M., Kapos, V., and Randers, J., 2005. The Living Planet Index: using species population time series to track trends in biodiversity. Phil. Trans. R. Soc. B. 360: 289–295. Mayaux, P., Holmgren, P., Achard, F., Eva, H., Stibig, H.J., and Branthomme, A., 2005. Tropical forest cover change in the 1990s and options for future monitoring. Phil. Trans. R. Soc. B. 360: 373–384. Meyer, A., 2001. Contraction & Convergence: The Global Solution to Climate Change. Shiklomanov, I.A. (ed.), 1999. World Water Resources and their Use. State Hydrological Institute, St. Petersburg and UNESCO, Paris. webworld.unesco.org/water/ihp/db/shiklomanov. Climate Change Scenario and Its Implications for United States National Security. Global Business Network, Oakland, CA. www.gbn.com/Article DisplayServlet.srv?aid=26231 (accessed July 2006). Secretariat of the Convention on Biological Diversity, 2006. Global Biodiversity Outlook 2. Montreal. Revenga, C., Campbell, I., Abell, R., de Villiers, P., and Bryer, M., 2005. Prospects for monitoring freshwater ecosystems toward the 2010 targets. Phil. Trans. R. Soc. B. 360: 397–413. Additional references can be found at: www.footprintnetwork.org/2006references Wilson, E.O., 2002. The Future of Life. A. Knopf, New York. wedges: solving the climate problem for the next 50 years with current technologies. Science 305: 968–972. Nilsson, C., Reidy, C.A., Dynesius, M., and Revenga, C., 2005. Fragmentation and flow regulation of the world’s large river systems. Science 308: 405–408. Wackernagel, M., Schulz, B., Deumling, D., Callejas Linares, A., Jenkins, M., Kapos, V., Monfreda, C., Loh, J., Myers, N., Norgaard, R., and Randers, J., 2002. Tracking the ecological overshoot of the human economy. Proc. Natl. Acad. Sci. USA 99(14): 9266–9271. Millennium Ecosystem Assessment, 2005. Ecosystems and Human Well-being: Biodiversity Synthesis. World Resources Institute, Washington, DC. Wackernagel, M., Monfreda, C., Moran, D., Wermer, P., Goldfinger, S., Deumling, D., and Murray, M., 2005. National Footprint and Biocapacity Accounts 2005: The Underlying Calculation Method. Global Footprint Network, Oakland, CA. www.footprintnetwork.org. Schumacher Briefings #5 and Global Commons Institute. Green Books, UK. www.schumacher.org. uk/schumacher_b5_climate_change.htm (accessed July 2006). Socolow, R., Hotinski, R., Greenblatt, J., and Pacala, S., 2004. Solving the climate problem: technologies available to curb CO2 emissions. Environment 46(10): 8–19. www.princeton.edu/~cmi.
+
+40 LIVING PLANET REPORT 2006
+
+ACKNOWLEDGEMENTS
+UNEP World Conservation Monitoring Centre (UNEPWCMC): The Living Planet Index was originally developed by WWF in collaboration with UNEP-WCMC, the biodiversity assessment and policy implementation arm of the United Nations Environment Programme. UNEP-WCMC collected much of the data for the index in the first few years of the project. www.unep-wcmc.org European Bird Census Council (EBCC): Population trend data on 77 species of European birds were provided for use in the LPI by the Pan-European Common Bird Monitoring (PECBM) scheme, an EBCC/BirdLife International initiative to deliver policyrelevant biodiversity indicators for Europe. www.ebcc.info Worldmapper: The cartogram on page 16 was provided by Worldmapper, a joint project between the Social and Spatial Inequalities research group at the University of Sheffield (UK) and Mark Newman at the University of Michigan (USA). The resultant maps cover issues such as the environment, health, trade, education, and employment. Maps, posters, and data are available free of charge at www.worldmapper.org. Data on terrestrial habitat loss and the map of terrestrial biomes on page 5 were kindly provided by John Morrison and Nasser Olwero of the Conservation Science Programme, WWF-US, and data on river fragmentation and flow regulation were kindly provided by Catherine A. Reidy, Landscape Ecology Group, Umea University, Sweden, and Carmen Revenga, Conservation Strategies Group, The Nature Conservancy. The authors would like to thank the following people for their helpful comments: Gianfranco Bologna, Stuart Bond, Susan Brown, Kim Carstensen, Tom Crompton, Arlin Hackman, Lara Hansen, Miguel Jorge, Jennifer Morgan, Richard Mott, Simon Pepper, Jamie Pittock, Duncan Pollard, Jorgen Randers, Robert Rangeley, Geoffroy de Schutter. Much of the background research for this report would not have been possible without the generous support of The Dudley Foundation, the Flora Family Foundation, The Lawrence Foundation, The Max and Anna Levinson Foundation, The San Francisco Foundation, the Soup Community, the Richard and Rhoda Goldman Fund, the Roy A. Hunt Foundation, The Lewis Foundation, Grant Abert, Frank and Margrit Balmer, Gerald O. Barney, Max and Rosemarie Burkhard-Schindler, Urs and Barbara Burckhardt, the estate of Lucius Burckhardt, Leslie Christian, Anthony D. Cortese, Sharon Ede, Eric Frothingham, Margaret Haley, Alfred Hoffmann, Laura Loescher, Tamas Makray, Charles McNeill, Ruth and Hans-Edi Moppert, Kaspar Müller, Lutz Peters, David and Sandra Ramet, William G. Reed, Peter Schiess, Daniela Schlettwein, Peter Seidel, Dana-Lee Smirin, Dieter Steiner, Dale and Dianne Thiel, Lynne and Bill Twist, Caroline Wackernagel, Hans and Johanna Wackernagel, Isabelle Wackernagel, Marie-Christine Wackernagel, Oliver and Bea Wackernagel, Yoshihiko Wada, Tom and Mary Welte, as well as Nadya Bodansky, John Crittenden, Katherine Loo, and Gary Moore from Cooley Godward LLP. We would particularly like to acknowledge Global Footprint Network’s 70 partner organizations, its 25 Science and Policy Advisors, and the Global Footprint Network National Accounts Committee for their guidance, contributions, and commitment to robust National Footprint Accounts.
+
+WWF WORLDWIDE NETWORK
+Australia Austria Belgium Bhutan Bolivia Brazil Canada Caucasus (Georgia) Central Africa (Cameroon) Central America (Costa Rica) China Colombia Danube-Carpathian (Austria) Denmark Eastern Africa (Kenya) Finland France Germany Greater Mekong (Viet Nam) Greece Guianas (Suriname) Hong Kong Hungary India Indonesia Italy Japan Madagascar Malaysia Mediterranean (Italy) Mexico Mongolia Nepal Netherlands New Zealand Norway Pakistan Peru Philippines Poland Russia Singapore South Africa Southern Africa (Zimbabwe) South Pacific (Fiji) Spain Sweden Switzerland Tanzania Turkey United Kingdom United States Western Africa (Ghana, Senegal) European Policy (Belgium) Macroeconomics For Sustainable Development (USA) WWF ASSOCIATES Fundación Vida Silvestre (Argentina) Fundación Natura (Ecuador) Pasaules Dabas Fonds (Latvia) Nigerian Conservation Foundation (Nigeria) Fudena (Venezuela)
+
+Published in October 2006 by WWF–World Wide Fund For Nature (formerly World Wildlife Fund), Gland, Switzerland. Any reproduction in full or in part of this publication must mention the title and credit the above-mentioned publisher as the copyright owner. © text and graphics: 2006 WWF All rights reserved ISBN: 2-88085-272-2
+
+The material and the geographical designations in this report do not imply the expression of any opinion whatsoever on the part of WWF concerning the legal status of any country, territory, or area, or concerning the delimitation of its frontiers or boundaries. A BANSON Production 17f Sturton Street Cambridge CB1 2QG, UK Diagrams: David Burles Layout: John-Paul Shirreffs
+
+Printed in Switzerland by Ropress on Aconda Verd Silk FSC, 40% recycled fibre and 60% virgin wood fibre, at least 50% of which is certified in accordance with the rules of FSC, using vegetable-oilbased inks.
+
+© 1986 Panda symbol WWF-World Wide Fund For Nature ® “WWF” and “living planet” are WWF Registered Trademarks 10.06 (20M) Cover photo: NASA/NOAA/USGS
+
+WWF’s mission is to stop the degradation of the planet’s natural environment and to build a future in which humans live in harmony with nature, by: - conserving the world’s biological diversity - ensuring that the use of renewable natural resources is sustainable - promoting the reduction of pollution and wasteful consumption.
+
+WWF International Avenue du Mont-Blanc CH-1196 Gland Switzerland Tel: +41 22 364 9111 Fax: +41 22 364 8836 www.panda.org/livingplanet
+
+

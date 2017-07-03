@@ -1,0 +1,356 @@
+3
+
+Preface
+The concept behind payments (or other rewards) for environmental services1 is to provide incentives and benefits to the people who utilise environmentally valuable ecosystems2, and in return they agree to utilise these ecosystems in ways that protect or enhance environmental services for the benefit of the wider population. For the provision of such services, individuals or communities can be directly rewarded. Another way to express the concept behind Payment for Environmental Service (PES) is that those who provide ecosystem services should be compensated or rewarded for doing so, and those who use the services should pay for their provision. The term ecosystem services rather than environmental services is used in the Vietnam context because environmental services were being used for ‘brown’ issues such as pollution. The term ecosystem services is utilized in the Biodiversity Law and the new policy framework by the Ministry of Agriculture and Rural Development (MARD). Over the last 10 years, the PES concept and its application have gained increasing attention, not only amongst environmentalists and scientists, but also policy makers across Southeast Asia. Significant achievements have recently been witnessed in Payment for Environmental Services (PES) and Rewarding the Upland Poor for the Environmental Services they provide (RUPES) programs in Vietnam. This is a direct result of the interest of the Vietnamese Government (particularly the Forest Science Institute of Vietnam - FSIV) as well as the Ministry of Natural Resources and Environment (MONRE) and a considerable contribution from international RUPES partnerships over the last five years, including: Winrock International; World Agroforestry Centre (ICRAF); Centre for International Forestry Research (CIFOR); World Wildlife Fund for nature (WWF); and The World Conservation Union (IUCN).
+
+Some examples of these successes are:
+
+Ministry of Natural Resources and Environment (MONRE), see Section 3.1; mechanism in an attempt to answer the question ‘What percentage of the payments from electricity users should flow back to upstream people?’. This has been done by the Ministry of Planning and Investment (MPI) with support from the Asian Development Bank (ADB) and the pilot case study is presented in Section 3.2. There is still a lack of legislation relating to PES for watershed protection and landscape beauty in Vietnam. Recently, the government office of Vietnam required the Ministry of Agriculture and Rural Development (MARD) to prepare policies related to PES for the forestry sector. To implement such policies nationwide, MARD is piloting a payment for ecosystem services mechanism in Son La and Lam Dong provinces from 2008 to 2009. The focus of these pilot studies is to develop sustainable financing mechanisms for ecosystem services. Case studies on this direction are presented in Sections 3.3-3.5. To date, there is no common platform for understanding PES in Vietnam. To meet the increasing need to coordinate
+
+1. Both terms ‘environmental services’ and ‘ecosystem services’ are used globally. Both are commonly defined in four services: (i) Watershed function; (ii) Biodiversity protection; (iii) Landscape beauty; and (iv) Carbon sequestration. 2. Ecosystem services are the benefits people obtain from ecosystems, as described by the Millennium Ecosystem Assessment in 2003, and include provision functions (supply of goods) and regulating + cultural + supportive functions (or environmental services). Ecosystem Services – the provision of natural resources and healthy functioning ecological systems that produce environmentally and economically valuable goods and services (Conservation Finance Guide, 2002).
+
+4
+
+and disseminate our PES work, ICRAF Vietnam led a partnership of international and national partners, including WWF, IUCN, CIFOR and FSIV in preparing this PES booklet. It has been published in both English and Vietnamese to reach out to Vietnam’s policy makers as well as a wider group of stakeholders. This is the second PES booklet published in Vietnamese within the scope of the regional project, Rewarding Upland Poor for Environmental Services that they Provide (RUPES) 3. This PES booklet is designed as a basic guide to understanding the concept of PES in the Vietnamese context. Five case studies from ongoing PES projects in Vietnam, as well as lessons from the RUPES project in Southeast Asia, are presented to highlight the concepts. The booklet is aimed at a general audience, including people who have not previously encountered PES and/or who are unclear on how PES operates.
+Photo 1: Terraced fields. Picture provided by ICRAF Vietnam.
+
+The co-authors Hanoi, Vietnam 31st January 2008
+
+3. The first booklet titled RUPES: An innovative strategy to reward Asia’s upland poor for preserving and improving our environment was published in Vietnamese in 2005 by ICRAF Vietnam.
+
+5
+
+Contributors
+Hoang Minh Ha
+World Agroforestry Center (ICRAF) Vietnam Programme Apartment 302, 17T5 Trung Hoa – Nhan Chinh, Cau Giay, Hanoi, Vietnam Email: hoangminhha58@gmail.com Te: 84 4 2930830 Tel & Fax: 84 4 2510830
+
+Katherine Warner
+The World Conservation Union (IUCN) Vietnam Country Office, Villa 44/4, Van Bao, Ba Dinh, Hanoi, Vietnam Email : kadi@iucn.org.vn Tel: 84 4 7261575-6 ext. 313 Fax : 84 4 7261561
+
+Vu Tan Phuong
+Research Centre for Forest Ecology and Environment (RCFEE), Forest Science Institute of Vietnam (FSIV) Tu Liem, Hanoi, Vietnam Email: phuong.vt@rcfee.org.vn Tel: 84 4 755 0801 Fax: 84 4 838 9434
+
+Beria Leimona
+World Agroforestry Centre (ICRAF) South East Asia Regional Programme Jl. CIFOR, Situgede, Sindang Barang, Bogor - 16680 PO. Box 161, Bogor 16001, Indonesia Email : L.beria@cgiar.org Tel: 62 251 625415 Fax: 62 251 625416
+
+Dang Thuy Nga
+World Wildlife Fund for nature (WWF) WWF Greater Mekong - Vietnam Country Programme 39 Xuan Dieu Street, Tay Ho District, Hanoi, Vietnam Email: nga.dangthuy@wwfgreatermekong.org Tel: 84 4 7193049 ext.155 Fax: 84 4 7193048
+
+Bernard O' Callaghan
+The World Conservation Union (IUCN) Vietnam Country Office Villa 44/4, Van Bao, Ba Dinh, Hanoi, Vietnam. bernard@iucn.org.vn Tel: 84 4 7261575-6 ext. 136 Fax: 84 4 7261561
+
+Meine van Noordwijk
+World Agroforestry Centre (ICRAF) South East Asia Regional Programme Jl. CIFOR, Situgede, Sindang Barang, Bogor - 16680 PO. Box 161, Bogor 16001, Indonesia Email: m.van-noordwijk@cgiar.org Tel: 62 251 625415 Fax: 62 251 625416
+
+Richard McNally
+World Wildlife Fund for nature (WWF) WWF Greater Mekong - Vietnam Country Programme 39 Xuan Dieu Street, Tay Ho District, Hanoi, Vietnam Email: Richard.mcnally@wwfgreatermekong.org Tel: 84 4 7193049 ext.153 Fax: 84 4 7193048
+
+Pham Thu Thuy
+World Agroforestry Center (ICRAF) Vietnam Programme Apartment 302, 17T5 Trung Hoa – Nhan Chinh, Cau Giay, Hanoi, Vietnam Email: brissiesugar@gmail.com Tel & Fax: 84 4 2510830
+
+6
+
+Abrreviations
+ADB BMNP CDM CERs CIFOR CO2 DANIDA DoF EcoS ENV ES FSIV FPD GHG GOV HHs ICRAF IFAD IUCN JICA MARD MONRE MOI MPA MPI NHPs PPC PHPs PES SNV RCFEE RUPES UNESCO UNFCCC VFU VND WTP WWF Asian Development Bank Bach Ma National Park Clean Development Mechanism Certified Emission Reductions Centre for International Forestry Research Carbon dioxide Danish International Development Agency Department of Forestry Ecosystem Services Electricity of Vietnam Environmental Services Forest Science Institute of Vietnam Forest Protection Department Green House Gases Government Households World Agroforestry Centre (International Centre for Research in Agroforestry) International Fund for Agricultural Development The World Conservation Union Japan International Cooperation Agency Ministry of Agriculture and Rural Development Ministry of Natural Resources and Environment Ministry of Industry Marine Protected Areas Ministry of Planning and Investment National Hydropower Plants Provincial People’s Committees Provincial Hydropower Plants Payment for Environmental Services Netherlands Development Organization Research Centre for Forest Ecology and Environment Rewarding the Upland Poor for the Environmental Service they provide United Nations Educational, Scientific and Cultural Organization United Nations Framework Convention on Climate Change Vietnam Forestry University Vietnam Dong Willingness to pay World Wildlife Fund for nature
+
+7
+
+Contents
+Preface.................................................................................................................................................................2 Contributors......................................................................................................................................................4 Abrreviations....................................................................................................................................................5 Acknowledgements.......................................................................................................................................8 1. Pes terminology.......................................................................................................................................10 2. Lessons learnt from the RUPES project...........................................................................................12 3. Payment for environmental services and its potential and examples in Vietnam.....16 3.1. Chapter 1. Integrating payments for ecosystem services into Vietnam’s policies and programmes..................................................................................................................................17 3.2. Chapter 2. Creating incentives for Tri An watershed protection.................................20 3.2. Chapter 3. Sustainable financing for landscape beauty in Bach Ma National Park.. ....................................................................................................................................................................24 3.4. Chapter 4. Building payment mechanisms for carbon sequestration in forestry: a pilot project in Cao Phong district of Hoa Binh province, Vietnam................................26 3.5. Chapter 5: Local revenue sharing: Nha Trang Bay Marine Protected Area, Vietnam...................................................................................................................................................28 4. Synthesis and Recommendations.....................................................................................................30 References.......................................................................................................................................................32
+
+8
+
+Citation
+Hoang Minh Ha, Meine Van Noordwijk , Pham Thu Thuy. 2008. Payment for environmental services: Experiences and lessons in Vietnam. Hanoi, Vietnam. World Agroforestry Centre (ICRAF). 33 p.
+
+Copyright
+World Agroforestry Centre, ICRAF Vietnam
+
+Layout by
+Nguyen Le Duy Tikah Atikah Mai Hoang Yen Phung Viet Hiep
+
+Design company
+Dee Creative., JSC
+
+9
+
+Acknowledgements
+The editors are grateful to the World Agroforestry Centre (ICRAF) Southeast Asia (ICRAF SEA) and the Centre for International Forestry Research (CIFOR) for contributing towards the cost of publishing this booklet. We also wish to thank the co-authors at the Research Centre for Forest Ecology and Environment (RCFEE) of the Forest Science Institute of Vietnam (FSIV) and the Ministry of Agriculture and Rural Development (MARD), World Wildlife Fund for nature (WWF) - Greater Mekong - Vietnam country programme and The World Conservation Union (IUCN) Vietnam country office, all of whom contributed to the preparation of this booklet. We also gratefully acknowledge the Information Flow Unit at ICRAF-SEA for their support in designing the booklet. We would like to thank Dr. Terry Sunderland at CIFOR for his contribution towards reviewing the booklet. Finally, our sincere thanks also go to Ms Kate Langford for English editing, Msc. Nguyen Chien Cuong and Ms Nguyen Thi Thu Huong for translating from English to Vietnamese and editing the Vietnamese version.
+
+Section 1 is on PES terminology in the Vietnamese context by Dr Katherine Warner, IUCN Vietnam.
+
+Section 2 is a synthesis of lessons learnt from the RUPES
+project in Southeast Asia. It was compiled by Dr Meine van Noordwijk and Ms Beria Leimona .
+
+Section 3 presents the approach and findings of the PES
+Vietnam case studies. The chapters were drafted by the following authors:
+
+3.1. Chapter 1. Integrating payments for ecosystem services into Vietnam’s policies and programmes, by Dr Katherine Warner, IUCN Vietnam. 3.2. Chapter 2. Case study: Creating incentives for Tri An watershed protection by Ms Dang Thuy Nga and Mr. Richard McNally, WWF Greater Mekong - Vietnam country programme. 3.3. Chapter 3. Case study: Sustainable financing for landscape beauty in Bach Ma National Park, by Ms Dang Thuy Nga, WWF Greater Mekong - Vietnam country programme. 3.4. Chapter 4. Building payment mechanisms for carbon sequestration in forestry: a pilot project in Cao Phong district of Hoa Binh province, Vietnam, by Mr Vu Tan Phuong, Research Centre for Forest Ecology and Environment (RCFEE). Section 4. Synthesis of all case studies and recommendations by Ms Hoang Minh Ha and Ms Pham Thu Thuy, ICRAF Vietnam.
+
+Photo 2: Child in the field. Picture provided by ICRAF Vietnam.
+
+10
+
+11
+
+1. PES terminology
+The commonly used definition of PES 5:
+A voluntary agreement to enter into a legally binding contract under which one or more buyers purchase a well-defined ecosystem service6 by providing a financial or other incentive to one or more sellers who undertakes to carry out a particular land use on a continuous basis, which will generate the agreed upon ecosystem service. This definition combines what a payment is with what the payment is for, and alludes to mechanisms. A better approach would be to first say what it is, who is involved, and then to provide explanation of the how.
+
+The key concepts for the how are:
+
+specified land use.
+
+The key concepts for the what are:
+
+providing ecosystem services; and (e.g. cash, in-kind assistance, exemption from taxes, tenure security).
+
+The key concepts for the who are:
+tem goods and services by managing the ecosystem; and of receiving the ecosystem goods and services.
+
+5. Wunder (2005, p. 9) provided a narrow definition of payment for environmental services as “a voluntary transaction where a well-defined environmental service (or a land use likely to secure that service) is being bought by a (minimum one) buyer from a (minimum one) seller, if and only if the environmental service provider secures the environmental service provision”. 6. ‘Ecosystem services’ as commonly understood include both goods (provisioning services) and environmental services (see footnote 2 in preface).
+
+12
+
+13
+
+2. Lessons learnt from the RUPES project
+Since 2002, the International Fund for Agricultural Development (IFAD) has provided support to the RUPES project that developed mechanisms for Rewarding Upland Poor for Environmental Services that they provide through six action research sites: Sumberjaya, Bungo and Singkarak in Indonesia; Bakun and Kalahan in the Philippines; Kulekhani in Nepal; and 12 learning sites across Asia. The goal of RUPES was to develop new mechanisms for enhanced livelihood and resource security of poor upland communities in Asia, to be achieved through creating the basis for systems to reward the poor for the environmental services they provide for the global and national communities.
+
+Lessons learnt from RUPES can be categorized into five components: 1. Understanding rewards for environmental services
+to reduce poverty;
+
+2. Creating policy and institutional options for
+enabled ES reward schemes at local, national and international levels; 3. Connecting ES providers and buyers in testing RES schemes; 4. Providing criteria and indicators of efficient and fair RES schemes; and 5. Building partnerships and networking.
+
+Photo 3: Vietnam countryside. Picture provided by ICRAF Vietnam.
+
+14
+
+Understanding rewards for environmental services to reduce poverty
+Reward mechanisms can address several dimensions of rural poverty. This finding is significant given that rural poverty in Asia is linked to neglect and misunderstanding of environmental services. Enhancing security of land tenure, reducing the fear of eviction or takeover by outsiders, allowing investment in land resources, and increasing asset value (Box 1) is one of the identified pathways to reducing poverty through environmental services. Box 1. Conditional tenure as rewards for watershed functions to reduce poverty RUPES found that the most substantive and significant poverty reduction occurred where the project used ‘conditional tenure’ solutions in watershed protection areas. Past enforcement of government rules, including evicting migrant/settlers, was based on erroneous interpretations of hydrology, where only forests could provide regular water flows. Research that demonstrated mosaics of upland agroforestry and rice fields in the valleys could in fact provide for lowland water needs, cleared the way for ‘negotiation support systems’ that helped local government officials and upland communities reach agreements. These agreements, with an initial five-year time frame for ‘conditionality’ and a 25-year contract possible in the event of a positive evaluation, are a form of reward for environmental services, in as far as they specify the environmental standards to be used in the evaluation (complementing compliance with institutional and administrative standards). In the Sumberjaya action research site, RUPES helped to scale up from the first five community forest agreements (Hutan Kemasyarakatan or HKM), to the current setting where 70 per cent of the forest edge is covered by agreements. To date, all signs indicate the agreements are a success for all parties involved. The RUPES project significantly reduced the transaction costs for further agreements, through simplified administrative procedures and building capacity in the local forest service. The criteria used to evaluate the HKM agreements after the first five years
+
+are the basis for new national standards of good practice, providing substantial impact potential . While the conditional tenure instruments are appropriate in settings with a recent history of migration, the situation of indigenous upland people requires recognition of ancestral domain rights and authority. In the Philippines, this recognition has provided a basis for self respect and economic independence. However, the agreements refer to maintaining forests and/or water flows, and the bargaining power to obtain payments for watershed services may be less than initially expected. Respect for maintaining environmental quality (often in contrast to governmentmanaged areas) is however, an important, if less tangible, dimension for indigenous mountain people. Source: http://www.worldagroforestry.org/sea/Networks/ RUPES/download/SiteProfiles/RUPES-Sumberjaya_FINAL.pdf.
+
+Creating policy and institutional options for enabled ES reward schemes at local, national and international levels
+For systematic transfers of rewards to upland communities to occur, constraints inhibiting such transfers must be identified and addressed. These constraints include a lack of political will or institutional capacity, lack of a supportive legal framework and financial resources, and even limited community interest and commitment. RUPES is also examining institutional constraints, such as conflicting and competing government agency jurisdiction over the regulation of upland environmental services provided by the people living there. In Indonesia and the Philippines, RUPES has facilitated the establishment of two independent national networks that contribute to official decisions on ES issues. The impact of this national and provincial policy dialogue at the site level has been noticeable. For example, the RUPES conceptual scheme has helped local stakeholders to evolve from a ‘command and control’ and ‘top down’ approach to environmental management, moving instead towards a situation where environmental justice, rights and equitable upstream-downstream relations are being discussed.
+
+15
+
+Connecting ES providers and buyers in testing RES schemes
+RUPES worked to provide clarity on what environmental services (ES) are, to whom they are beneficial, where they originate, and how. RUPES gained many learning experiences through its action research activities. In the case of watershed functions, reward schemes have the highest current potential in the absence of active climate change related funding at the global level. A further lesson from RUPES is that rather than starting from scratch with completely new arrangements, incremental improvements, in the degree to which royalty sharing and reward systems are realistic, conditional, voluntary and pro-poor, will improve the chances of success. In Nepal7, the Philippines8 and Indonesia9, the rules evolved over time for allocating royalties paid to the local government by hydropower enterprises in programs that started with large foreign assistance and loan investment. With a lack of clarity on how the funds should be spent, RUPES sought to ensure their use was more realistic, more conditional and more pro-poor (see Providing criteria and indicators of efficient and fair RES schemes below). Evidence of effectiveness may, in the long-term, contribute to a sense that such payments can be made voluntarily on the basis of a real business case for the hydropower company. The experience of RUPES has shown that long-term relationships are needed with appropriate levels of conditionality. The existence of voluntary buyers willing to engage in long-term, conditional relationships with rural communities is still limited. The least mobile enterprises and sectors, such as hydropower generators and urban water supply facilities, are the most inclined to engage in long-term relationships with their upland neighbours because there is limited choice of business partners in these situations. Moreover, relationships between these enterprises and communities often evolve out of a period of conflict, showing that upland communities also have good bar-
+
+gaining power. Therefore, schemes involving rewards for environmental services can be used to formalise a more constructive form of shared responsibility for livelihoods and sustainable economic gain. The implementation of a reward for environmental services scheme involves conservation contracts between ES providers and ES beneficiaries. ES providers agree to manage an ecosystem according to a set of agreements, and receive rewards (in-kind or cash) conditional on compliance with the contract. Box 2 shows the process of endorsing a conservation contract with a community and its contractual elements. In developing a contractual agreement, the community should become the main actors and actively provide input into the contract. In addition, similar perceptions in understanding the contract should be built between stakeholders. This can be followed up by training to ensure farmers have sufficient capacity to carry out the requirements of the contract.
+
+7. http://www.worldagroforestry.org/sea/Networks/RUPES/download/SiteProfiles/RUPES-Kulekhani-FINAL.pdf. 8. http://www.worldagroforestry.org/sea/Networks/RUPES/download/SiteProfiles/RUPES-Bakhun-FINAL.pdf. 9. http://www.worldagroforestry.org/sea/Networks/RUPES/download/SiteProfiles/RUPES-Singkarak-FINAL.pdf.
+
+16
+
+Box 2. Conservation contract The RUPES team facilitated an endorsement of land and water conservation contracts among private coffee farmers in Sumberjaya watershed, Lampung in Indonesia. Contract components were designed based on focus group discussions with coffee farmers in the target villages. The discussions gathered information on farmer preferences for soil conservation techniques and estimates of required labour investments. The contracts specified the following Soil conservation activities Sediment pits: 300 per hectare, standard dimensions: 100x150x40cm evenly distributed; Ridging: 50 percent of plot; Vegetation strips: surrounding pits and ridging; Maintaining all land conservation structures above for a year. Payment schedule Fifty percent at inception; 50 percent after one year, contingent on performance. Duration and monitoring One year with monitoring every three months; termination if 50% of contracted activities not completed by the mid-term monitoring date. Cancellation or non-compliance results in: Ineligibility for second payment installation; Friction and conflict among community members; and Indication of possible corruption. In the event of a natural disaster that cannot be foreseen, the contract will be terminated. The period of the contract is one year. The activity would be monitored and evaluated every three months by local forestry service extension workers accompanied by ICRAF staff. The contract would be paid in two instalments; 50% after signing the contract and 50% at the end of the contract, after one year as suggested in the focus group
+
+discussions. The second instalment of the payment would be withheld if they farmers broke the contract and performed poorly. In addition, a series of cross visits and field training sessions were conducted as capacity building efforts to ensure uniform understanding of the techniques. Source: Leimona et al (2007).10
+
+Providing criteria and indicators of efficient and fair RES schemes
+RUPES has a list of criteria and indicators for realistic, conditional, voluntary and pro-poor rewards11. Follow-up activities should include further testing of these criteria, development of site-specific indicators, and expanding national capacity to act as intermediaries and brokers in cost-effective ways. Realistic: the RES schemes should relate to real impacts on tangible environmental services of importance to at least some stakeholders; Conditional: agreements between ES buyers and sellers include conditions for the rewards which relate to the actual achievement of goals and standards; Voluntary: the RES agreements are not fully imposed, but leave space for innovations and investigation into increased efficiency through voluntary agreements in the space between ‘willingness to pay’ and ‘willingness to accept’; Pro-poor: the RES schemes involve all stakeholders in the landscape, avoid increased inequity or actively enhance equity on a gender and/or wealth basis.
+
+Building partnerships and networking
+The success of RUPES is in a large part due to the involvement of its international networks. There are interesting new options for multi-scale solutions where local governments derive income from international markets, such as involvement in newly designed carbon markets that secure local environmental benefits and reduce poverty.
+
+10. Leimona B, Jack BK, Pasha R, Suyanto S. 2007. Actual experiment of direct incentive scheme through auction for environmental service provision in watershed management. EEPSEA 3rd Report. 11. Van Noordwijk M, Leimona B, Emerton L, Tomich TP, Velarde SJ, Kallesoe M, Sekher M and Swallow BM. 2007. Criteria and indicators for environmental service compensation and reward mechanisms: realistic, voluntary, conditional and pro-poor. ICRAF Working Paper no 37:61 p.
+
+17
+
+3. Payment for environmental services and its potential and examples in vietnam
+Five PES case studies are presented in this section, introducing the approach and first findings of ongoing projects led by WWF, IUNC and RCFEE in Vietnam.
+
+18
+
+3.1. Chapter 1. Integrating payments for ecosystem services into Vietnam’s policies and programmes12
+As noted earlier, payments for ecosystem services (PES) is a relatively new concept globally, and in Vietnam. Although there are differences in interpretation and understanding among experts in Vietnam about the definition of the terms ‘payments’ and ‘ecosystem services’, it is possible to implement PES in Vietnam provided the concept is clearly understood by policy makers and implementers and clearly explained to the general public in a language they can understand. If payments for ecosystem services are understood as paying for the services that the environment provides, this is consistent with Article 130 of the Law on Environment Protection 2005 which that implements the polluter/user pays principle. That is, those who benefit from ecosystem services must pay for those services and those who damage the environment must pay compensation for the damage.
+Photo 4: Madagui, Da Hoai district, Lam Dong province. Picture provided by Tran Minh Phuong, IUCN Vietnam.
+
+Potential parties to enter into agreements are defined. It is important that all parties to agreements for payments for ecosystem services have the legal capacity (right) to enter into contracts and to own, manage, and receive benefits from the use of natural resources. Under Vietnam’s Civil Code 2005, individuals and organizations can legally enter into contracts. Communities, however, have limited rights to enter into contracts and other civil legal relationships. As commonly understood in Vietnam, a community is an entity smaller than a commune, which is the smallest administrative unit of government. The Law on Forest Protection and Development 2004 defines a ‘village population community’ as all households and individuals living in the same village, hamlet or equivalent unit. The Civil Code provides for community ownership of common assets (Article 220), stipulates the categories of legal entities recognised under Vietnam law, and specifies four conditions which must be met for a legal entity to enter into civil legal relationships (Article 84). These conditions are: being legally established; having an organizational structure; having assets independent of those of other organizations and individuals, and being responsible for those assets; and being able to participate in legal relations independently and in their own name.
+
+What does the current legal framework allow?
+For PES approaches to be successfully designed and implemented, they need to be supported by institutions, legal frameworks, and policies that define the ecosystem services, sellers or providers (who have the right to utilize and benefit), buyers or fee payers, and financial mechanisms (including the fees and taxes that generate funds for payments). In Vietnam, while there are significant gaps, much of what is needed is already in place. Ecosystem services are defined. National law, including the Law on Water Resources 1998, the Land Law 2003, the Law on Forest Protection and Development 2004, and the Law on Environmental Protection 2005, recognizes certain elements of the services provided by ecosystems: biodiversity protection; landscape beauty; watershed protection; and carbon sequestration.
+
+12. This chapter is based on Review of Laws, Policies and Economic Instruments Related to Payment for Ecosystem Services in Viet Nam by Nguyen The Chinh, Vu Thu Hanh, Patricia Moore and Lucy Emerton which was produced under the Asia Regional Biodiversity Conservation Programme, being carried out by IUCN in collaboration with Winrock International, with funding from the United States Agency for International Development (USAID).
+
+19
+
+Because communities do not meet all of these conditions, they cannot be parties to a civil legal relationship. Rights in the resources, services and benefits are defined. While a number of laws recognize the rights of land users to resources and the benefits from these resources, the Land Law 2003 and the Law on Forest Protection and Development 2004 are of special importance. In these laws, there is recognition of the rights of all land users to manage the lands assigned or leased to them and the laws specify their responsibilities, including: community land use right certificates; assigning natural production forest land and plantation forest land to individuals and households; lease of land by individuals and households for agricultural production, forestry etc.; and the assigning or leasing of production, plantation and plantation forests to commercial enterprises. The Law on Forest Protection and Development 2004 also guarantees communities’ rights to manage the forest land assigned to them and to use the forest products for domestic and public purposes. These rights to benefit from the management and use of resources are allowed under Land Law 2003, which guarantees that land use rights holders may enjoy the yields of their labour and their other investments in land. The current legal framework allows for a range of price and market-based mechanisms. Three key documents (Decision No. 256/2003.QD.TTg, Politburo Resolution No.41/NQ-TW; Decree 175-CP, 1994) directly encourage and endorse the use of economic instruments to support environmental conservation. These documents emphasize that application of economic instruments in environmental protection is a good solution which corresponds to the development of a market economy. However, the instruments need to
+
+ensure polluters as well as beneficiaries from the environment pay for ecosystem services, and that environmental agencies are able to use fees and charges as a mechanism for generating revenue for environmental management. In relation to PES, of special relevance are taxes such as the Natural Resource Tax13 and the Water Resource Tax14, the supply and quality of which depend on good environmental quality or ecosystem services. Although the Law on Forest Protection and Development 2004 allows for prices to be set for forest goods and services, it currently only refers to forest products. In principle, this provision could be taken to include the pricing of, and fees and charges from, payments for ecosystem services. Under these current provisions, it is only the State that can set rates, fees and charges, and all income is treated as budgetary revenue belonging to the State; at the central, provincial or local level. Therefore, there is a degree of ambiguity as to whether communities, individuals or companies can retain ecosystem payment charges. Households, individuals and other users may benefit however, from the sale of specified ecosystem products derived from land the State has allocated to them. Critical gaps. One of the most critical gaps to be resolved is the question of whether payments for ecosystem services are to be considered as based on direct taxes, fees or charges, or whether they can be based on market prices for a product or services. system products that have a market value and that rights holders may sell, based on their market value, then they can be implemented under existing law; fees or taxes, then additional provisions must be added to
+
+13. This tax specifies tax rates to be paid by users of ecosystem services (for example, water and natural forest products). 14. This specifies tax rates to be paid by users of water.
+
+20
+
+existing laws, decisions and circulars to allow providers, other than government agencies, to retain revenues from them. A second critical gap is the legal status of communities since an agreement for ecosystem services may require that individuals and households enter into joint agreements, or that entire communities participate in agreements on PES in order to create a land or forest area that is large enough to provide the particular ecosystem services required. In addition, legal and economic instruments are lacking for PES in the regulatory framework for the protection of biodiversity, watershed protection and carbon sequestration.
+
+Summary: In Vietnam, a number of the economic and financial instruments that are needed to implement payments for ecosystems services are already in place. While the additional measures which need to be implemented to fully enable PES are relatively few, each is important and necessary.
+
+21
+
+3.2. Chapter 2. Creating incentives for Tri An watershed protection
+Background and issues
+The Dong Nai River originates in Lang Biang Plateau of Lam Dong province (southern Truong Son). After the Da Nhim and Da Dang rivers converge, the Dong Nai River runs into Dong Nai province where it merges with La Nga River into the Tri An reservoir of the Tri An hydropower plant. The Dong Nai river basin covers eleven provinces and includes the cities of Ho Chi Minh City and Bien Hoa, with a total basin area of 38,600km2 and a river length of 437km. The quality of the water in the river is deteriorating, particularly in the lower Dong Nai, due to a myriad of factors, including: runoff from agriculture, industrial and domestic wastewater; contamination from fish farms; and a build-up of sedimentation as a result of the removal of forests. The area and sources of pollution in the Lower Dong Nai River and Tri An reservoir are shown in the map below. Under a two year project funded by the Danish International Development Agency (DANIDA), WWF and partners aim to address water pollution in the Tri An reservoir and the lower Dong Nai River. WWF will partner with the Department of Agriculture and Rural Development (DARD) and work closely with other government agencies, in particular the Department of Natural Resources and the Environment (DONRE) as well as the private sector. The lower Dong Nai is a major source of water for the three provinces of Ho Chi Minh City, Dong Nai and Binh Duong (see map showing location of water supply companies). With pollution deteriorating the lower Dong Nai, the cost of water treatment has been increasing. It is in the interests of the water supply companies to keep the water clean.
+
+Figure 1: Map of the area and sources of pollution in the Lower Dong Nai River and Tri An reservoir.
+
+22
+
+How will the fund be secured?
+The project will attempt to establish payment schemes between the water supply companies and those groups polluting the river upstream, above intake points. A payment scheme is expected to be established in 2008 -2009. The first step is to carry out a general pollution and hydrology analysis to identify where the pollution is coming from and the costs to the water supply companies. Once these links have been identified, the project will work with polluters to improve their practices and set up a payment scheme, funded by the beneficiaries.
+
+How will the fund be used?
+Depending on the findings of the study, the funds will be used to support and encourage local communities to change their land use practices (for example, in agriculture, forestry and aquaculture) to more sustainable practices that will improve water quality. A proportion of the funds may also go to Vinh Cuu Nature Reserve and the Tan Phu protection forest management board to maintain and support forest protection and restoration activities surrounding Tri An reservoir.
+
+How will the scheme be monitored?
+A management board will be established to oversee potential payments. Board members would include representatives from the provincial Department of Agriculture and Rural Development, Vinh Cuu Nature Reserve, local communities, and the water supply companies. Water quality will be monitored regularly in different places along the lower Dong Nai by a third party, for example a research institution. The board will be responsible for setting up a technical team to monitor the maintenance of watershed services.
+
+Recommendations and further study
+Photo 5: Bien Hoa Water Supply Company. Picture provided by WWF.
+
+The pollution and hydrology study which will identify linkages between upstream land use and downstream water quality, and the costs for maintaining high water quality, will be finalized in the first half of 2008. This study will also include a general assessment of upstream communities’ different land use practices and make recommendations for improvements to these. Sustainable land use practices will be introduced to local communities and forest management units in 2009. In the interim, contracts will be drawn-up and legal support obtained from the local government to ensure the enforcement of payments.
+
+23
+
+PPC: Provincial People’s Committees PHPs: Provincial Hydropower Plants NHPs: National Hydropower Plants
+
+ENV: Electricity Vietnam HHs: Households GOV: Government MOI: Ministry of Industry
+
+Figure 2: Proposed scheme for PES in Dong Nai river.
+
+Messages from the case study
+Showing the costs and benefits of watershed protection is a key requirement to persuade buyers to become involved. Government enforcement is needed in addition to the voluntary involvement of buyers and sellers. Seed funding may be needed for initial changes in land use practices. PES schemes are more likely to be successful when the benefits to buyers are clear. Contracts are necessary for any payment between buyers and sellers.
+
+24
+
+25
+
+3.2. Chapter 3. Sustainable financing for landscape beauty in Bach Ma National Park
+Location: Thua Thien Hue province Improving entrance fee collection According to Decision 149/1999/QD-BTC issued by the Ministry of Finance on 30th November 1999, current entrance fees for Bach Ma National Park are VND 10,000 and 5,000/person/visit for adults and children respectively, and VND 2,000 for entry to the buffer zone. An assessment of the willingness to pay (WTP) among tourists visiting Bach Ma National Park was undertaken in May 2007 by Hue FPD and WWF Vietnam. It found that entrance fees should be differentiated among visitors: about VND 39,000 for international visitors and about VND 34,000 for domestic visitors. This would generate revenue of an estimated VND 293.33 million, nearly three times the current annual revenue from entrance fees. Payments for water extraction and watershed protection A regionally recognised brand of drinking water uses Bach Ma to extract its water resource and has been operating in the core zone since 2005. There is potential to capture economic rent from this company to contribute to park
+
+Background and issues
+Bach Ma National Park is situated in Central Vietnam, 40km southeast of the old imperial city of Hue. In 2007, the Ministry of Agriculture and Rural Development (MARD) approved extension of the park area from 22,031ha to 37,499ha, of which 32,157.8ha is upland forested area in the watershed of the Perfume River. It is estimated this increased park area will require at least 135 staff and that the park will have a financial shortfall of almost VND 4.9 billion per year. A study was carried out in 2007 to identify opportunities for a sustainable financing model that would assist the park in protecting its forest resources.
+
+Figure 3: Map of Bach Ma National Park.
+
+26
+
+ceived and managed directly by the park for activities to improve tourism services, including proposed new activities for tourists; and compensation from beneficiaries of watershed services will be used for biodiversity protection as well as reinvested in sustainable agriculture and better management practices in the buffer zone of the park (Supporting sustainable development in the buffer zone is one of the park’s duties).
+Photo 6: Overview of Bach Ma National Park. Picture provided by WWF.
+
+How will the scheme be monitored?
+management. In each cubic metre of clean water, there could be an amount taxed, called an environmental fee, which is used to protect the watershed area. If the firm is allocated a fair profit margin of 35% then the economic rent that the BMNP could claim is valued at VND 183.6 million or 15% of the sales value. The water company could collect this fee and transfer it directly to land owners who conserve the watershed upstream. Such a fee should be exempt from tax. The study also found that a number of other companies and individuals downstream benefited from the watershed protection services provided by the national park, and that they would be willing to pay for these services. Further study is required to establish such payment mechanisms. Conservation trust fund contractual agreements with beneficiaries; The establishment of a conservation trust fund is one suggested mechanism for capitalising on the willingness to pay for biodiversity protection among tourists visiting Hue city. The survey showed that although tourists visit Hue and not the surrounding area, they are willing to contribute towards the conservation of Bach Ma National Park, with 80% of interviewed tourists agreeing to the concept. A conservation awareness program in cooperation with the tourist industry could be linked to conservation of the Perfume River which is an integral feature of Hue, and has itself been nominated for UNESCO World Heritage status by Vietnamese authorities. the various payment schemes. Similar to the previous case study, a management board needs to be established to manage payments. Board members should include representatives from BMNP, the provincial Department of Agriculture and Rural Development, and local communities. Board members will keep track of payments from buyers and to sellers. The quality of tourism services and management practices in the buffer zone of the park will be monitored regularly by a third party.
+
+Recommendations and further study
+ment of payments; unsustainable watershed management to water quality;
+
+Messages from the case study
+The national park needs to devolve greater responsibility in order to raise revenue for nature conservation. This revenue must be linked to conservation needs; Improving tourist services is necessary to increase the number of visitors; The entrance fee system should be diversified for different groups of tourists.
+
+How will the money be used?
+Compensation will go directly to, and be managed by, Bach Ma National Park. Establishment and testing of the scheme will be undertaken in phase II of the project. Initial suggestions for managing the money are:
+27
+
+3.4. Chapter 4. Building payment mechanisms for carbon sequestration in forestry: a pilot project in Cao Phong district of Hoa Binh province, Vietnam
+Background and issues
+To reverse climate change15 , the United Nations Framework Convention on Climate Change (UNFCCC) was established to provide a framework for reducing greenhouse gases (GHG), stabilizing GHG in the atmosphere and preventing their dangerous impacts on the climate. The Kyoto Protocol was developed by the UNFCCC and approved in Kyoto, Japan in December 1997. Joining the efforts to reduce GHG in the atmosphere, particularly carbon dioxide, a small scale reforestation project for carbon sequestration is being undertaken by the Department of Forestry (DoF), Vietnam Forestry University (VFU), Research Centre for Forest Ecology and Environment (RCFEE) and Japan International Cooperation Agency (JICA). The project covers an area of about 350ha and is located in Xuan Phong and Bac Phong communes of Cao Phong district, Hoa Binh province. The project is aiming at environmental protection and poverty reduction by improving local income through forest products and carbon benefits.
+
+How will the fund be secured?
+The project benefits will not only concentrate on forest products such as timber and firewood, but also on carbon benefits. This is a new environmental goods which can be traded in the world market through the Clean Development Mechanism (CDM)16. The identified buyers are the domestic paper company for timber and the international market for carbon credits. The total amount of carbon credits that can be obtained during the life of the project is estimated at 60,000 – 80,000 CERs17 in 20 years. During the preparation phase, project developers consulted with industrial companies in Hanoi interested in funding projects for environmental protection and poverty alleviation. The project has finally been agreed to and all project activities will be funded by Honda Vietnam. The funds are considered to be initial funding for project operation. The continuation and maintenance of the project will be partially funded from the sale of timber and carbon credits. The project participants are local farmers, representing about 300 households. The farmers will benefit from timber and the sale of carbon credits. In addition, the local government authorities will play an important role in implementing the project.
+
+Photo 7: Cultivation. Picture provided by ICRAF Vietnam.
+
+15. The cause of climate change is recognized as the vast increase in the concentration of greenhouse gases (GHG), particularly CO2 gas in the atmosphere. During the last 100 years, the earth’s temperature has increased by 0.74OC and it is predicted to increase by 3OC during the 21st century if adequate measures are not taken by countries to reduce GHG. The most serious impact of climate change is global warming which causes melting of ice in the North Pole and subsequent rises in sea water level as well as negative changes in the climate such as the increased appearance of typhoons and cyclones Source: UNFCCC, 2007. Fact sheet: Climate change science. www.unfccc.int/press/2794.php. 16. Clean Development Mechanism (CDM) is one of three mechanisms under the Kyoto Protocol that is of practical significance to developing countries, including Vietnam. There are two CDM schemes: one is CDM for GHG reduction and the other is CDM for GHG absorption by sequestration through afforestation/reforestation. Source: United Nations Framework Convention on Climate Change (UNFCCC). 1997. Http://unfccc.int/resource/docs/convkp/kpeng.dpf. 17. CERs = Certified Emission Reductions, quantified by tone of carbon dioxide (CO2).
+
+28
+
+How will the money be used?
+The funds provided by Honda Vietnam will be given directly to project participants for planting 350ha of Acacia forests, promoting the effective use of crop residues, establishing 30 ha of fodder crops for improved cattle grazing, developing biogas, and for technical assistance through extension activities. To ensure continuation of the project in a sustainable way, the funding needs to be maintained. Future funds will be derived from the sale of timber and carbon credits. To manage this fund, a mass-organization called the Farmer Association is taking the lead. Benefit sharing mechanisms between project participants and the Farmer Association will be set up. Twenty percent of project benefits from the sale of timber and carbon credits will go directly to the fund. The Farmer Association will re-invest these funds in forest establishment through rotation, technical assistance, monitoring, and carbon trading procedures.
+
+Recommendations and further study
+Although forestry development is one measure to reduce carbon dioxide and thereby contributes to the mitigation of global climate change, the requirements and procedures for CDM forestry project development and approval are complicated. Therefore, the use of alternative mechanisms for carbon trading in forestry projects is recommended to attract funding. In this way, forestry development projects can be integrated with environmental protection through carbon trading benefits. Voluntary payment mechanisms is another option to obtain funding from the industry sector. However, to make carbon benefits tradable requires government support through policy, capacity building, and particularly through raising awareness of climate change.
+
+Messages from the case study
+The development of carbon forestry projects using the CDM mechanism is a complicated and costly process; Integrating forestry development projects with carbon benefits using voluntary payment mechanisms will be more successful; Support from the government is important with regards to project development, capacity building and technical assistance; Clear benefit sharing systems and the involvement of local communities and farmers are key to successful project implementation.
+
+How will the scheme be monitored?
+A project design document, which has been developed for 20 years of operation, will form the basis for monitoring. This document will be submitted to designated national authorities and the United Nations for approval in terms of CDM procedures for issuing carbon credits. The Farmer Association will be the main agency managing and monitoring the project. In addition, the technical team, which includes VFU and RCFEE as well as JICA, is committed to providing technical assistance for forest management, carbon accounting and reporting to the United Nations on the issuance of carbon credits as well as CER trading on the world market.
+
+29
+
+3.5. Chapter 5: Local revenue sharing: Nha Trang Bay Marine Protected Area, Vietnam
+Background and issues
+This chapter will review implementation of a revenue generation scheme for the Nha Trang Bay, including the sources of funds and amounts generated, and models established for future operation of the fund. Nha Trang Bay Marine Protected Area (MPA) was established in 2001. It has a total area of around 13,000 hectares and contains coral reef, sea grass and mangrove habitats. The area is recognized as one of the most important places in Vietnam for its diversity of corals: over 350 species occur in the bay.
+Figure 4. Number of tourists per year.
+
+Nha Trang Bay MPA was established with the objectives: (i) to protect and manage marine biodiversity; and (ii) to provide incentives and benefits to local communities and demonstrate co-management regimes. Nha Trang Bay is also very important for tourism, both nationally and internationally. In 2001, around 240,000 tourists visited Nha Trang Bay, taking part in activities ranging from sightseeing on boats through to snorkelling and diving. The number of tourists has grown on an annual basis and in 2006 reached around 400,000 (see Figure 4). Protected area financing is an important component of protected area operation. Sustainable financing can provide additional support for managing protected areas. An area such as Nha Trang Bay, with high tourist numbers and a range of features, has the ability to generate substantial revenue. Thus, in 2002-2005 discussions were held with a range of private and public sector agencies to develop a payment system for users of Nha Trang Bay. It is anticipated that a proportion of the funds generated by a user fee system in Nha Trang Bay could be allocated to support local community development. This would ensure local people obtain benefits from the protection and management of Nha Trang Bay.
+
+A model process for how the flow of funds could reach six local communities within Nha Trang Bay was developed, based on the use of a Village Development Fund (VDF). It was anticipated that through this mechanism, a percentage (10-15%) of the income generated could be returned to local communities. From the Hon Mun MPA Pilot Project, the VDF was allocated an amount of USD 2,000 for each of the six villages; a total of USD 12,000. These funds were used by each village to undertake specific development activities, while also contributing to environmental improvement. Villages were fully involved in the planning, development and implementation of each activity. Some examples of the activities funded include: restoration of a market; development of a waste management system; construction of a road and walking path for school children; and the development of a village learning centre.
+
+How will the fund be secured?
+In 2002 charges were introduced towards the sustainable financing of Nha Trang Bay MPA. These were: 0.30) for all tourists on boats in Nha Trang Bay; and divers within Nha Trang Bay MPA and VND 10,000 / person (USD 0.60) for all tourists visiting the strictly protected areas of Nha Trang Bay.
+
+30
+
+In 2006 a total of USD 150,000 was collected. Of this amount, USD 115,000 was allocated to the Nha Trang Bay MPA Authority. The remaining funds were retained by the provincial treasury. The Department of Finance within the province has indicated that ‘in principle’ they have no objection to providing funds back to the local communities, however a number of issues remain to be clarified. If an amount of 10% were allocated to the Village Development Fund, this would have amounted to USD 15,000. If 15% was allocated, then this would have amounted to USD 22,500.
+
+Nha Trang Bay MPA is able to generate income, this does not mean that all marine protected areas will be able to generate the same level of revenue. The establishment of an MPA system for Vietnam will require funding from the national government as well as revenue generation at each particular site.
+
+Recommendations and further study
+Issues in allocating funds to local communities There is a need to identify the key elements required to promote Village Development Funds. This requires linkages between the Nha Trang Bay MPA Authority, the relevant commune authorities, and the Khanh Hoa PPC; Duplication of the existing budget needs to be avoided; Additionally of revenue must be assured; Clear mechanisms are required to provide communitywide benefits in resource allocation. Other issues In addition, it was proposed that a proportion of these funds be allocated to support local communities to a level of 10-15% of the total income. However, the mechanism for this allocation of funds by the province is yet to be finalized. It is anticipated that this system will be implemented from early 2008.
+
+How will the money be used?
+The funds are to be remitted to Khanh Hoa province to support the operation of Nha Trang Bay MPA. They are also being used to support the province to undertake other environmental management activities that will make a positive contribution to Nha Trang Bay.
+
+protected area, however funds only contribute to one site within the national system; wise only ‘pearls’18 are funded; those of the national system.
+
+How will the scheme be monitored?
+The revenue generated by the various user fees in Nha Trang Bay is being managed by the Khanh Hoa People’s Committee. Effective regimes are in place for monitoring the collection of these funds. Substantial income is being recorded and monitored. Allocations are yet to be made to support Village Development Funds of local communities within Nha Trang Bay. It is therefore important to continue to work together with Khanh Hoa People’s Committee to establish a formal mechanism for the allocation of funds. Additionally, if funds can be allocated to support local village initiatives for communities within Nha Trang Bay, it is important that these funds are seen as additional allocation to the villages and do not result in a reduction of basic funding for the villages. Finally, one important consideration is that although
+
+Messages from the case study
+
+introducing user fees for the provision of services; authorities to maintain the environment; allocation of funds to local communities.
+
+18. Nha Trang Bay and its island are considered the ‘pearls’ of Vietnam.
+
+31
+
+4. Synthesis and Recommendations
+Vietnam is already using some of the economic and financial instruments that are needed to implement payments for ecosystem services. In all of the presented PES cases, the issue is not one of a lack of financial resources, but the lack of a supportive legal framework, including (Section 3.1): The lack of legal status of communities entering into agreements; If payments for ecosystems services are treated as charges, fees or taxes, then additional provisions must be added to existing laws, decisions and circulars to allow providers, other than government agencies, to retain revenues from them; and The lack of legal and economic instruments for PES in the regulatory framework for the protection of biodiversity, watershed protection, and carbon sequestration. The environmental services (ES) and ES buyers and sellers are well defined in all Vietnam PES cases. However, the following PES dimensions are still at the planning stage in all cases: (1) How the ES buyer and seller enter into agreements voluntarily within the existing framework of rules and regulations; (2) Conditionality of payments and service delivery, with conditionality expressed in the level of the service, the condition of the land cover, the activities of the seller and/or the community-scale management of the resources; (3) The duration and contractual form of the relationship; (4) The degree to which agreements refer to specific cause-effect relationships linked to the continuation of the service(s) (such as avoided degradation) and/or restoration; (5) The form of payment, such as freely usable financial capital, investment in public services, or trust funds for specified activities; and (6) The level of payment in relation to the opportunity costs for the seller and the costs of alternative provision of the service to the buyer.
+
+There are however, many lessons that have been learnt from the case studies:
+For watershed function Demonstrating the costs and benefits from watershed protection is a key requirement to persuade buyers to become involved; Enforcement from government is needed in addition to voluntary contracts between buyers and sellers; Initial funding is needed to enable changes in land use practices. For landscape beauty Substantial funds can be generated through tourism by introducing user fees for the provision of services (Nha Trang case). The entrance fee system should be diversified for different groups of tourists (Bach Ma case); Funds generated are being provided to management authorities to maintain the environment. Challenges still exist in identifying a clear mechanism for the allocation of funds to local communities (Nha Trang case); National parks characterised by considerable landscape beauty can reach sustainable financing through having reasonable expenditure and increasing their income from tourism, including community-based tourism (Bach Ma case). For carbon sequestration Forestry development projects can be integrated with carbon benefits using voluntary payment mechanisms; Support from the government is important in regards to project development, capacity building, and technical assistance; Clear benefit sharing arrangements and the involvement of local communities and local farmers are key to successful project implementation.
+
+32
+
+Unfortunately there is no case study relating to biodiversity protection presented in this booklet. In addition, there is no available case in Vietnam to show the degree to which underprivileged (by wealth or gender) stakeholders are affected and included by PES; that is, the degree to which the mechanism can be considered to be pro-poor. Lessons learnt from RUPES projects show the importance of: (i) conditional tenure as rewards for watershed functions to reduce poverty; and (ii) creating policy and institutional options for enabled ES reward schemes at local, national and international levels. It is expected that in three years time, there will be more lessons learnt on the planned PES dimensions (1)-(6) outlined above. The following concrete activities are recommended. 1. Supporting the Vietnamese Government in the further development of a supportive legal framework for PES; 2. Undertaking studies to identify linkages between upstream land use and water quality downstream, and the costs for maintaining high quality water; 3. Creating mechanisms to enforce payments through taxes and water price reforms; 4. Soliciting the involvement of local communities to sign contracts with beneficiaries; 5. Securing support from local government for payment schemes, especially in obtaining clear mechanisms to provide community-wide benefits from resource allocation; 6. Balancing the need for local benefits with the needs
+
+of the national system; 7. Using alternative mechanisms for carbon trading in forestry projects is recommended to attract funding. In this way, forestry development projects can be integrated with environmental protection through carbon trading benefits. Voluntary payment mechanisms may be another option for securing funding from the industry sector; 8. Making carbon benefits tradable, which requires government support through policy, capacity building, and in particular, raising awareness regarding climate change; 9. Developing a case study on RUPES, where reward mechanisms can address rural poverty dimensions. Such a model could include: (i) enhancing security of land tenure; (ii) promoting a stronger local voice in development decisions; (iii) payments for labour to protect environmental services at a rate at least equal to the opportunity cost of that labour being employed in other potentially degrading activities such as logging; (iv) increasing access to investment funds such as microcredit for potentially profitable activities; and (v) promoting entrepreneurship in selling environmental services as a commodity, such as eco-labelling.
+
+33
+
+References
+Conservation Finance Guide.2002. Ecosystem Services Available at: http://www.conservationfinance.org. Leimona B, Jack BK, Pasha R, Suyanto S. 2007. Actual experiment of direct incentive scheme through auction for environmental service provision in watershed management. EEPSEA 3rd Report. M. Huang and S.K. Upadhyahya. 2007. Watershed -based Payment for Environmental Services in Asia. Winrock International, submitted to Virginia Polytechnic Institute and State University. Agreement EPP-A-00-06-00004-00. Global Assessment of Best Practices for Ecosystem Services Programs. Nguyen The Chinh, Vu Thu Hanh, Patricia Moore and Lucy Emerton. 2006. Review of Laws, Policies and Economic Instruments Related to Payment for Ecosystem Services in Viet Nam, Asia Regional Biodiversity Conservation Programme, being carried out by IUCN in collaboration with Winrock International, with funding from the United States Agency for International Development (USAID). United Nations Framework Convention on Climate Change. 2007. Fact sheet: Climate change science. Available at: www.unfccc.int/press/2794.php. United Nations. 2003. Millennium Ecosystem Assessment: Ecosystems and Human Well-being -- A framework for assessment. Available at: http://www.wri.org/publication/ millennium-ecosystem-assessment-ecosystems-and-human-well-being-framework-assessmen#. United Nations Framework Convention on Climate Change. 1997. Available at : http://unfccc.int/resource/ docs/convkp/kpeng.dpf. Van Noordwijk M, Leimona B, Emerton L, Tomich TP, Velarde SJ, Kallesoe M, Sekher M and Swallow BM. 2007. Criteria and indicators for environmental service compensation and reward mechanisms: realistic, voluntary, conditional and pro-poor. ICRAF Working Paper no 37:61 p. Wunder, S., Bui, D.T, Ibarra, E., 2005. Payment is good, control is better – Why payments for forest environmental services in Vietnam have so far remained incipient. www.cifor.cgiar.org/pes/publications/pdf_files/BWunder0601.pdf. World Agroforestry Centre. 2007. RUPES in Bakhun Available at: http://www.worldagroforestry.org/sea/Networks/ RUPES/download/SiteProfiles/RUPES-Bakhun-FINAL.pdf. World Agroforestry Centre. 2007. RUPES in Kulekhani Available at: http://www.worldagroforestry.org/sea/Networks/RUPES/download/SiteProfiles/RUPES-KulekhaniFINAL.pdf. World Agroforestry Centre. 2007. RUPES in Singkarak Available at : http://www.worldagroforestry.org/sea/ Networks/RUPES/download/SiteProfiles/RUPES-SingkarakFINAL.pdf. World Agroforestry Centre. 2007. RUPES in Sumberjaya. Available at: http://www.worldagroforestry.org/sea/Networks/RUPES/download/SiteProfiles/RUPES-Sumberjaya_ FINAL.pdf.
+
+34
+
+Published by
+Vietnam News Agency Publishing House
+
+Publishing manager
+Vu Quoc Khanh
+
+Publishing editors
+Phuong Lam Giang Nguyen Tran Nguyen Tran Ngoc Thuong
+
+VIETNAM NEWS AGENCY PUBLISHING HOUSE Printed 500 copies, size 21cm x 29.7cm. Publishment license number: 175-2008/CXB/28/02-03/ThT. 4th, March, 2008. Completed and copyright deposite in April/2008.
+
+vna
+
+VNA PUBLISHING HOUSE
+
+
