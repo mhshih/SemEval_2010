@@ -1,7 +1,7 @@
 from collections import defaultdict
 import re
 
-def read_cwn_lemma_synsets(xml='cwn_16.xml'):
+def read_lemma_synsets(xml='cwn_16.xml'):
     d=defaultdict(list) #d[lemma]=synset_id
     string=open(xml).read()
     for m in re.finditer('<Lemma writtenForm="(.*?)".*?synset="(.*?)"',string,re.DOTALL):
@@ -10,7 +10,7 @@ def read_cwn_lemma_synsets(xml='cwn_16.xml'):
         d[lemma].append(synset_id)
     return d
 
-def read_cwn_synset_gloss(xml='cwn_16.xml'):
+def read_synset_gloss(xml='cwn_16.xml'):
     d=dict() #d[synset_id]=definition_gloss
     string=open(xml).read()
     for m in re.finditer('<Synset id="(.*?)".*?</Synset>',string,re.DOTALL):
@@ -20,7 +20,7 @@ def read_cwn_synset_gloss(xml='cwn_16.xml'):
     return d
 
 if __name__=='__main__':
-#   for synset_id,definition_gloss in read_cwn_synset_gloss('../../cwn_16.xml').items():
+#   for synset_id,definition_gloss in read_synset_gloss('../../cwn_16.xml').items():
 #       print(synset_id,definition_gloss)
-    for lemma,synset_ids in read_cwn_lemma_synsets('cwn_16.xml').items():
+    for lemma,synset_ids in read_lemma_synsets('cwn_16.xml').items():
         print('\n'.join(synset_ids))
