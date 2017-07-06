@@ -39,18 +39,22 @@ def read_tagged_sents(xml='ChineseAW.test.xml',keyfile='ChineseAW.test.key'):#,c
     return tagged_sents
 
 from cwn_16 import read_synset_gloss,read_lemma_synsets
-from cwn_fun import cwn_id_to_example_cont
+from cwn_fun import read_cwnid2example
 
-sentence_boundary_mapping={ord('）'):')'}#,ord('.'):'‧'} Already skipped sentence initial . 
+sentence_boundary_mapping={ord('。'):'，',ord('？'):'?',ord('）'):')',ord('.'):'‧'} #Already skipped sentence initial . 
 
 if __name__=='__main__':
     keyword='有'#增加'為
     cwnfile='cwn_16.xml'
     synset_gloss=read_synset_gloss(cwnfile)
     lemma_synsets=read_lemma_synsets(cwnfile)
+    cwnid2example=read_cwnid2example()
+    cwn_ids=list()
     for tagged_sent in read_tagged_sents(xml='../ChineseAW.test.xml',keyfile='../../../test-keys/ChineseAW.test.key'):
-        if tagged_sent[0].word in ['。','？','1','2','3','4','5','6']:continue #Skip 。,？ or number only sentences.
-#       print(' '.join([word for word,synset in tagged_sent])+'。')
+        if tagged_sent[0].word in ['。','？']:#,'1','2','3','4','5','6']:continue #Skip 。,？ or number only sentences.
+#           print(tagged_sent[0].word)
+            continue
+#       else:print(' '.join([TG.word.translate(sentence_boundary_mapping) for TG in tagged_sent])+'。')
         for TG in tagged_sent:
             if TG.word=='.':continue #Skip sentence initial .
 #           if word in sentence_boundary_mapping:print(sentence_boundary_mapping[word],end=' ')
@@ -58,17 +62,30 @@ if __name__=='__main__':
 #           if word=='。':print(word)
             if TG.synset_id:# and TG.word==keyword:
                 gloss=synset_gloss[TG.synset_id]
-                cwn_id=re.match('zho-16-(\d{8})-[nv]',TG.synset_id)
-                example_cont=''
-                if cwn_id:example_cont=cwn_id_to_example_cont(cwn_id=cwn_id.group(1))
-                if example_cont:example_cont=example_cont[0].strip()
-                else:example_cont=''
-#               print(TG.word.translate(sentence_boundary_mapping),TG.synset_id,TG.head_id,example_cont,end='\n')
-                print(TG.word,example_cont,end='\t')
-                if example_cont:example_cont=''.join(re.match('(.*?)<(%s)>(.*)' % TG.word,example_cont).groups()) #Remove < >.
-                print(TG.word,example_cont)
-#               print(TG.synset_id[-1])
-#               print(word,synset_id,gloss)
+#               example_cont=''
+#               if cwn_id:example_cont=cwn_id_to_example_cont(cwn_id=cwn_id)#.group(1))
+#               if example_cont:example_cont=example_cont[0].strip()
+#               else:example_cont=''
+#               print(TG.word) #1,204 head word tokens (398 types)to disambiguate.
+                for synset in lemma_synsets[TG.word]:#cwn_id)#example_cont,end='\t')
+#                   print(synset) #2,308 synset_id types (zho-16-03010901-n~zho-16-10011102-n).
+                    cwn_id=re.match('zho-16-(\d{8})-[nvrsa]',synset).group(1)
+#                   print(cwn_id) #2,308 cwn_id types (03010901-n~10011102-n).
+#                   if synset==TG.synset_id:print(synset) #All 1,204 tagged synset_ids in cwn_dirty.sqlite!
+#                   if cwn_id in cwnid2example:print(cwnid2example[cwn_id]) #1,608 []
+                    if cwn_id not in cwn_ids:cwn_ids.append(cwn_id)
+    for cwn_id in cwn_ids:
+#       print(cwn_id)#2,308 cwn_id types.
+        if cwn_id in cwnid2example: #1,814 example_cont types, including two [""].
+            if cwnid2example[cwn_id]!=[""]: #1,812 example_cont types.
+                example_cont=cwnid2example[cwn_id][0].replace('\n','').strip()
+#               print(example_cont) #1,812 example_cont tokens; 1,811 types.
+                example_cont=example_cont.replace('<','').replace('>','') #1,812 example_cont tokens; 1,804 types.
+                print(example_cont[:-1].translate(sentence_boundary_mapping)+example_cont[-1].translate({ord('﹖'):'？'}))
+
+                    
+#               if example_cont:example_cont=''.join(re.match('(.*?)<(%s)>(.*)' % TG.word,example_cont).groups()) #Remove < >.
+#               print(TG.word,example_cont)
 #               for synset in lemma_synsets[word]:print('',synset,synset_gloss[synset],sep='\t')
 #           else:print()
 #       print('。')
