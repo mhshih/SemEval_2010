@@ -15,7 +15,7 @@ def cwn_id_to_example_cont(cwn_id='03000101'): #return example_cont or None
     return cursor.fetchone()#[0]
 
 from collections import defaultdict
-def read_cwnid2example():
+def read_cwnid2examples():
     cwnid2example=defaultdict(list)
     cursor.execute('select cwn_id,example_cont from cwn_example')
     for cwn_id,example_cont in cursor.fetchall():
@@ -25,7 +25,7 @@ def read_cwnid2example():
 
 if __name__=='__main__':
 
-    for cwn_id,example_conts in read_cwnid2example().items():
+    for cwn_id,example_conts in read_cwnid2examples().items():
 #       print(cwn_id) #32,322 cwn_id types.
         for example_cont in example_conts:
 #           print(cwn_id,[example_cont]) #91,785 example_cont tokens (91,775 uniq + 10 duplicated).
